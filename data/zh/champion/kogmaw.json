@@ -1,0 +1,491 @@
+{
+    "id": "kogmaw",
+    "name": "克格莫",
+    "title": "深渊巨口",
+    "locale": "zh_cn",
+    "champion": {
+        "type": "champion",
+        "release-date": "2010-06-24T00:00:00.000Z",
+        "name": "克格莫",
+        "title": "深渊巨口",
+        "section-title": "克格莫",
+        "slug": "kogmaw",
+        "associated-faction": "",
+        "associated-faction-slug": "void",
+        "image": {
+            "title": "kogmaw-splash",
+            "subtitle": "",
+            "description": "",
+            "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/bltaee2891bd2416f03-KogMaw_0.jpg",
+            "encoding": "image/jpeg",
+            "width": 1215,
+            "height": 717,
+            "x": 887,
+            "y": 487,
+            "featured-champions": []
+        },
+        "background": {
+            "title": "kogmaw-splash",
+            "subtitle": "",
+            "description": "",
+            "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/bltaee2891bd2416f03-KogMaw_0.jpg",
+            "encoding": "image/jpeg",
+            "width": 1215,
+            "height": 717,
+            "x": 887,
+            "y": 487,
+            "featured-champions": []
+        },
+        "url": "/zh_cn/champion/kogmaw",
+        "video": null,
+        "races": [],
+        "roles": [
+            {
+                "name": "射手",
+                "slug": "marksman"
+            },
+            {
+                "name": "法师",
+                "slug": "mage"
+            }
+        ],
+        "role": [
+            {
+                "name": "射手",
+                "slug": "marksman"
+            },
+            {
+                "name": "法师",
+                "slug": "mage"
+            }
+        ],
+        "game-info-url": "https://lol.qq.com/web201310/info-defail.shtml?id=KogMaw",
+        "biography": {
+            "full": "<p>当虚空先知玛尔扎哈在艾卡西亚重生时，充满凶意的呼唤就占据了他的心智，从此指引着他的方向。呼唤的声音在他的内心烙下了恐怖的意志，虽然玛尔扎哈不再把这种呼唤当作一种折磨，但他再也无法阻止脑海里不断盘旋的回音。现在驻留在符文之地的邪恶声音唤起了一头令人厌恶的野兽，它从容地跨入了一个无法理解的世界，也撕开了不同时空之间的裂痕。在艾卡西亚鬼灵频现的废墟中，克格莫来到了瓦洛兰大陆，表现出令人不安的好奇心。那引领他通往符文之地的闪光挑逗着他，催促他走向玛尔扎哈。闪光也引导它去适应新的环境，并征服沿途遇到的一切恐惧。</p><p>符文之地迷人的色彩和香气让克格莫沉醉，它用自己唯一熟知的方法探索着这个奇怪世界里的各种蔬果：吞噬。最初它只是随意尝试恰巧遇到的动物花草，但在穿越炎热的风暴平原时，它遇到了一群游牧民。仿佛不受物理规则约束一般，克格莫张开巨口吞食了所有游牧民以及他们携带的货物，其体积和重量是克格莫的许多倍。受害者在他们生命结束之前努力想弄明白这个怪物口中滴下的腐蚀酸液是来自何方，但这些思绪也在张嘴闭口的瞬间失去了意义。即使在结束了这样的饕餮盛宴之后，克格莫仍然无法获得丝毫满足感。它对毁灭的渴求驱使着它不断靠近玛尔扎哈，而他们相聚之时会发生什么则无人能晓。</p>",
+            "short": "从艾卡西亚废墟深处的腐败裂口中，克格莫喷着进食后的胀气走入了符文之地，它是一只好奇的生物，然而身上散发着腐烂的恶臭，血盆大口里淌着腐蚀性的粘液。这只特别的虚空生物需要用牙齿和口水去理解周围的事物。虽然克格莫并非本性邪恶，但它的天真无知同样很危险，因为它的无知往往预示着一场疯狂的暴食——并不是为了填饱肚子，而是为了满足它无尽的好奇。",
+            "quote": "“如果那只是饥饿，我不愿看到愤怒。”",
+            "quote-author": "泰达米尔"
+        },
+        "headerImage": null
+    },
+    "related-champions": [
+        {
+            "type": "champion",
+            "release-date": "2010-06-01T00:00:00.000Z",
+            "name": "玛尔扎哈",
+            "title": "虚空先知",
+            "section-title": "玛尔扎哈",
+            "slug": "malzahar",
+            "associated-faction": "",
+            "associated-faction-slug": "void",
+            "image": {
+                "title": "malzahar-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/bltce9a57d8c8420d0d-Malzahar_0.jpg",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 851,
+                "y": 0,
+                "featured-champions": []
+            },
+            "background": {
+                "title": "malzahar-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/bltce9a57d8c8420d0d-Malzahar_0.jpg",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 851,
+                "y": 0,
+                "featured-champions": []
+            },
+            "url": "/zh_cn/champion/malzahar",
+            "video": null,
+            "races": [],
+            "roles": [
+                {
+                    "name": "法师",
+                    "slug": "mage"
+                },
+                {
+                    "name": "刺客",
+                    "slug": "assassin"
+                }
+            ],
+            "role": [
+                {
+                    "name": "法师",
+                    "slug": "mage"
+                },
+                {
+                    "name": "刺客",
+                    "slug": "assassin"
+                }
+            ],
+            "game-info-url": "https://lol.qq.com/web201310/info-defail.shtml?id=Malzahar",
+            "biography": {
+                "full": "<p>在恕瑞玛烈日的照耀下，总是会出现那些天生拥有预见未来的能力的人。作为一位年迈杂货小贩的独生子，玛尔扎哈发现自己天赋的时候，父母已经身患绝症。年幼的男孩失魂落魄，在阿玛克拉的街道上自行谋生。他在贫民区为人占卜，换几个零钱或几片面包。<br><br>随着占卜越来越准确，他的名声也开始响亮起来。他利用自己的第二视野预测骆驼骑手的婚娶对象，或者集市上赌博游戏中的飞刀落点。很快，来光顾他的人的穿着就从沾满灰泥的草鞋，变成了镶有珠宝的拖鞋。<br><br>然而即使这样，玛尔扎哈始终都看不清他自己的命运。他的未来被掩盖了。<br><br>他的成功越来越让他看清真相，他观察到了财富分配的不均，目睹了那些对自己生活不满的人用恶意和暴力你争我抢。在他眼中，人类注定会陷入永无止境的痛苦轮回，而且通常都是自作自受，即使是再有希望的预言也无法打破这种诅咒。玛尔扎哈很快就感到一种空虚，最后舍弃了自己所有身外之物，离开了阿玛克拉，一了百了。<br><br>随后的几年中，他在这片土地上游荡着，足迹遍及小塞沙漠无路可寻的荒地，以及古恕瑞玛的废墟。离群索居的生活终于让他得以静心凝神地冥想。他预见到的不仅是人类究竟能够麻木不仁到何种地步，也看到了这世界堕落腐败的极致。狂热的幻象开始侵扰他清醒时的视线，同时他还听到异界的低语讲述着战争、冲突、还有无尽的苦难。<br><br>他越走越远，直到沙子变成了盐粒，他不知道自己已经来到了艾卡西亚，来到这座沦陷于远古战争的城市。在那里他凝视着崎岖深渊的深处，打开了自己摇摆不定的思绪，不顾一切地渴望开悟。<br><br>然后虚空回应了他。<br><br>换做是其他故事，到这里就已经结束了，但是玛尔扎哈却奇迹般地活了下来。深渊之下的某种存在轻抚着这位支离破碎的先知的灵魂，一刹那，奇异且不可知的能量灌满了他的思维。<br><br>一个孤零零的人影最后走出了艾卡西亚，但他已不再是单纯的人类，而是某种更强大的东西。玛尔扎哈在深渊中看到了他所见过的一切尘世苦难的终结。他意识到自己之所以始终看不到自己的未来，是因为这个幻象才是他真正的召唤：要让这个世界早日进入注定的湮灭。他必须回到人群中，告诉世人，神圣的虚无将会欣然接纳所有人，无论相信还是否认，一视同仁。他将成为这伟大救赎的先驱。<br><br>在沙漠深处的游牧部落中，他找到了自己第一批信徒。在人们惊异的目光下，他使用虚空赐予自己的新能力裂开了大地，召唤出梦魇般的生物，怪叫着带走任何胆敢否认他的人。不出几个月，商队就开始带着奇怪的传闻四处奔波，传闻中人们欣然将自己作为活祭品献给无形的力量，还说强大的地震撕开了恕瑞玛的基岩，形成了绵延数里的断层。<br><br>从那以后卡玛尔扎哈的传说在短短几年内就传到了最北方的港口。“先知”的追随者们数量大增，据说附近的定居者纷纷感受到凶煞的幻象攫取自己的心脏，恐惧之中猜疑疯长——即使是最偏远的荒原上最坚强的村民，如今也会献上家畜作为牲礼，用以满足地下的虚灵。<br><br>他们不知道的是，这样做只是在帮助玛尔扎哈一步步迎来世界的末日。</p>",
+                "short": "玛尔扎哈是一名狂热的先知，将自己的全部奉献给一切生命的大一统。他坚信，近来新出现的虚空就是符文之地的救赎。在恕瑞玛的沙漠荒原上，他曾一度追随着脑海中的窃窃私语，一路来到古艾卡西亚。在这片废墟中，他窥见了虚空深处的黑暗核心，被赋予了新的力量和目标。玛尔扎哈现在视自己为迷途羔羊的牧人，将其他人带进畜栏，或是放出藏身地下的虚灵生物。",
+                "quote": "“我们亘古不变。我们要求牺牲。”",
+                "quote-author": "玛尔扎哈"
+            },
+            "headerImage": null
+        },
+        {
+            "type": "champion",
+            "release-date": "2012-09-27T00:00:00.000Z",
+            "name": "卡兹克",
+            "title": "虚空掠夺者",
+            "section-title": "卡兹克",
+            "slug": "khazix",
+            "associated-faction": "",
+            "associated-faction-slug": "void",
+            "image": {
+                "title": "khazix-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt619b602796c258c4-Khazix_0.jpg",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 983,
+                "y": 231,
+                "featured-champions": []
+            },
+            "background": {
+                "title": "khazix-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt619b602796c258c4-Khazix_0.jpg",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 983,
+                "y": 231,
+                "featured-champions": []
+            },
+            "url": "/zh_cn/champion/khazix",
+            "video": {
+                "title": "khazix-splashvideo-webm",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blta12c28e47273ac3d-khazix-splashvideo.webm",
+                "encoding": "video/webm",
+                "width": 1280,
+                "height": 720,
+                "x": 983,
+                "y": 231,
+                "featured-champions": []
+            },
+            "races": [],
+            "roles": [
+                {
+                    "name": "刺客",
+                    "slug": "assassin"
+                },
+                {
+                    "name": "战士",
+                    "slug": "fighter"
+                }
+            ],
+            "role": [
+                {
+                    "name": "刺客",
+                    "slug": "assassin"
+                },
+                {
+                    "name": "战士",
+                    "slug": "fighter"
+                }
+            ],
+            "game-info-url": "https://lol.qq.com/web201310/info-defail.shtml?id=Khazix",
+            "biography": {
+                "full": "一头来自虚空、名为卡兹克的恶毒掠食者渗入了瓦洛兰，准备吞噬这块大陆上最有潜力的生物们。每次猎杀后，他都会吸收掉猎物的力量，让自己进化得更加强大。卡兹克最渴望征服和吞噬的对象是雷恩加尔，一只与他实力在伯仲之间的野兽。<br><br>当卡兹克刚刚穿越到这个世界时，他非常地脆弱和饥饿。他最先遇到的一批动物实在是太弱小了，难以为他的快速进化提供给养。于是，卡兹克将他的目光转移到他所能找到的最为危险的生物上，即便冒着生命危险，也要满足进化所需的给养。每次击杀都让他大快朵颐，焕然一新，变成更强更快的掠食者。很快，卡兹克便开始用无止境的掠食欲来追杀他的猎物，并相信他已经无人能挡。一天，当他正在享用新鲜的猎物时，不幸被黄雀在后了。从遮蔽物后扑出来一只带着獠牙和铁器的生物，猛地将他按在地上。它当着他的面咆哮，又撕又抓，而卡兹克第一次感到他的血喷洒了出来。伴随着愤怒的狂啸，他划破了这头畜生的一只眼睛作为还击。他们从日落战到日出。最后，奄奄一息的他们才不情愿地分开。在他的伤口愈合后，卡兹克开始为吞噬掉这个实力堪比与虚空生物的猎物的想法所煎熬。他重新开始用加倍精力来研究这强大的猎物。终有一日，卡兹克会将雷恩加尔大卸八块，好好品尝。<br><br>",
+                "short": "虚空在成长，虚空在不断适应。在众多虚空生物中，没有哪种比卡兹克更能体现这一特性。进化的动力让这种恐怖不断变异，本能地求生并弑杀强者。只要它遇到了障碍，就会进化出新的、更有效的方法反制并杀掉猎物。卡兹克最初只是个愚钝的野兽，然而它的智力和它的形态一样获得了发展。现在，这只生物会提前计划狩猎行动，甚至懂得在猎物心中制造最真实的恐惧。",
+                "quote": "“杀掉。吃掉。吸收掉。”",
+                "quote-author": "卡兹克"
+            },
+            "headerImage": null
+        },
+        {
+            "type": "champion",
+            "release-date": "2009-06-26T00:00:00.000Z",
+            "name": "科加斯",
+            "title": "虚空恐惧",
+            "section-title": "科加斯",
+            "slug": "chogath",
+            "associated-faction": "",
+            "associated-faction-slug": "void",
+            "image": {
+                "title": "chogath-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt458d2b6e6331cc3b-Chogath_0.jpg",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 714,
+                "y": 198,
+                "featured-champions": []
+            },
+            "background": {
+                "title": "chogath-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt458d2b6e6331cc3b-Chogath_0.jpg",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 714,
+                "y": 198,
+                "featured-champions": []
+            },
+            "url": "/zh_cn/champion/chogath",
+            "video": null,
+            "races": [],
+            "roles": [
+                {
+                    "name": "坦克",
+                    "slug": "tank"
+                },
+                {
+                    "name": "法师",
+                    "slug": "mage"
+                }
+            ],
+            "role": [
+                {
+                    "name": "坦克",
+                    "slug": "tank"
+                },
+                {
+                    "name": "法师",
+                    "slug": "mage"
+                }
+            ],
+            "game-info-url": "https://lol.qq.com/web201310/info-defail.shtml?id=Chogath",
+            "biography": {
+                "full": "<p>在各位面和各世界间，存在着这么一个地方。有人说它是外来世界，有人则称之为未知空间。事实上，了解的人都知道这个地方叫做虚空世界。虽然名为虚空世界，但这里并非一片荒芜。这里生活着无法形容的生物，笼罩着人类无法想象的恐惧。科加斯就是虚空世界的产物之一，他本性邪恶，提起他的名字都令人毛骨悚然。他的同伴们试图挖通维度边墙，进入符文之地。那里是他们的天堂，可以尽情享受无上的恐惧。他们名为虚空来客，来自古代的可怕生物，所以历史并没有记载。据说，虚空来客曾经在其他世界指挥大量无法形容的生物组成军队，他们曾被强大的魔法驱逐出符文之地，而这种魔法现已不复存在。</p><p>如果这个传说是真的，那么以下的传说也同样属实。据说有一天，虚空来客将会回归。现在，暗物质在艾卡西亚涌动。科加斯，一只充满仇恨又暴力的异星野兽，让很多人陷入到恐惧中，除了最顽强的人可以不受恐惧。科加斯以掠夺为生，吞下食物之后，他的体型也越来越庞大。更糟糕的是，他很聪明，也许非常聪明，暗示着虚空中的惊骇之物都是有知觉的。",
+                "short": "自从科加斯出现在符文之地烈日照射之下的那一刻起，它就被永不餍足的饥饿所驱使。虚空吞噬一切生命的欲望完美地体现在科加斯的身上，它复杂的生物构造能够迅速将物质转化为身体的成长，不仅会增加肌肉的质量和密度，还能让外壳变得有如钻石般坚硬。当单纯的体型增长已经不能满足它时，这只虚空生物就会将多余的物质形成锋利的骨刺吐出体外，刺穿猎物，为稍后的盛宴进行准备。",
+                "quote": "“你的灵魂将用来喂养虚空。”",
+                "quote-author": "科加斯"
+            },
+            "headerImage": null
+        },
+        {
+            "type": "champion",
+            "release-date": "2014-02-27T00:00:00.000Z",
+            "name": "维克兹",
+            "title": "虚空之眼",
+            "section-title": "维克兹",
+            "slug": "velkoz",
+            "associated-faction": "",
+            "associated-faction-slug": "void",
+            "image": {
+                "title": "velkoz-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt3c72620cdc5d8b98-Velkoz_0.jpg",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 759,
+                "y": 227,
+                "featured-champions": []
+            },
+            "background": {
+                "title": "velkoz-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt3c72620cdc5d8b98-Velkoz_0.jpg",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 759,
+                "y": 227,
+                "featured-champions": []
+            },
+            "url": "/zh_cn/champion/velkoz",
+            "video": {
+                "title": "velkoz-splashvideo-webm",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/bltd2fc0805e5e17ed2-velkoz-splashvideo.webm",
+                "encoding": "video/webm",
+                "width": 1280,
+                "height": 720,
+                "x": 759,
+                "y": 227,
+                "featured-champions": []
+            },
+            "races": [],
+            "roles": [
+                {
+                    "name": "法师",
+                    "slug": "mage"
+                }
+            ],
+            "role": [
+                {
+                    "name": "法师",
+                    "slug": "mage"
+                }
+            ],
+            "game-info-url": "http://gameinfo.na.leagueoflegends.com/en/game-info/champions/velkoz",
+            "biography": {
+                "full": "<p>要想真正理解维克兹这种恐怖实体，就必须首先了解监视者，以及它们如何变得无法看见凡人的领域。</p><p>在这个物质的位面以外，某种程度上的<i>下面</i>，存在着一个不可获知的深渊。这里是虚空的领域，无论是平凡还是不朽的生物，都无法行走于此。探究这个地方是如何、以及为何出现是没有意义的——只需要知道它的确存在就够了。虚空无始无终。虚空吞噬一切。</p><p>在那个地方，在寒冷黑暗的无穷之中，一切都是平等和空白的。在不存在时间的永世之中，只有纯粹的现实。这里也是和平的，但不知和平在这里是否还有意义。</p><p>然后，有什么东西变了。并不是在虚空领域，而是在别的地方。有了存在，有了……<i>东西</i>，填充了原来的虚无，而仅仅是这微小的存在，也摩擦到了漆黑中漂浮着的庞大、冰冷、无形的灵体。在此之前，它们甚至都没有获得完全的自我意识，而现在它们则意识到自己无法容忍另一个地方的出现；无法容忍异域中善变的强大造物。</p><p>那些灵体开始监视。它们仔细地观察。</p><p>很快，监视者们发现自己也受到了同样的观察。那些渺小的凡人心智触碰到了它们，虽然这些都只不过是转瞬即逝的微弱光点飘落在深渊的边缘，然而在凡人之中，监视者们看到了一个机会，可以侵入物质领域，消灭它，抚平那虚空彼端令它们不可忍受的真实的律动。</p><p>它们之中最勇莽的个体率先撕开了帷幕，冲到了上方，但却因为深渊与线性物质世界之间的剧烈转换而迷失方向。刹那间，它们有了<i>时间</i>，有了<i>热</i>，有了<i>痛苦</i>……</p><p>然后只剩下了寒冷。那个通路被关闭了，数十个监视者被困在了两个领域之间的阈限夹缝，凝滞在交界转换的瞬间。</p><p>那些留在虚空中的，全都退缩了。它们无法理解发生了什么，但它们知道自己遭到了背叛。</p><p>于是，它们开始适应变化。</p><p>监视者们伸向了物质领域，它们使用构成那个世界的原始物质，塑造、腐化、注入意识。这些构造就是最初的虚空物，将成为他们主人的耳目，被派往物质存在的噩梦中，监视、监听、学习。</p><p>在它们之中，有一个最为突出。他可能是活到现在的最古老的虚空物，当然也是在深渊之外存在时间最久的一个，无数个不走运的人遭遇了他，给他取了无数个不同的名字。在艾卡西亚释放虚空投入战争之前的几千年前，恕瑞玛的原始生物就已经开始惧怕<i>维克兹</i>，他从地下世界爬上来，偷走了智者的梦境。虽然他的名字无法准确翻译成现代的语言，但大致上等同于“通过分解从而理解。”</p><p>对知识永不餍足的渴望，指引维克兹纵横于世界各处，从最高的山峰到最黑的深谷。狡黠诡诈而又手段高超的维克兹安静的监视着无数文明的崛起、僵化和衰落，花费数百年时间搜查大洋底层的秘密，甚至还曾占卜天庭之上星宿的移动。</p><p>它将所有这些知识都带回到符文之地物质基底的大裂口中——以便让监视者们知道他所知道的——如果有任何凡人挡在他面前，都将遭到他绝无犹豫的毁灭。</p><i>因为虚空无始无终，虚空将吞噬我们全部。</p>",
+                "short": "<p>不知道维克兹是否是第一个出现在符文之地上的虚空物，但显然没有哪个能拥有他那样的残忍而又精明的感知。它的同类会吞食或污染自己身边的一切，而它则想要仔细观察并研究物质领域——以及栖息在这里的那些陌生而又好战的东西——寻找着一切可以被虚空利用的弱点。但维克兹绝不止是被动的观察者，对于任何威胁，它都会还以致命的电浆，或者瓦解其在世界中的基本构成。</p>",
+                "quote": "“只有通过毁灭才能揭示真理。”",
+                "quote-author": ""
+            },
+            "headerImage": null
+        }
+    ],
+    "explore-champions": [
+        {
+            "type": "champion",
+            "release-date": "2016-08-10T00:00:00.000Z",
+            "name": "克烈",
+            "title": "暴怒骑士",
+            "section-title": "克烈",
+            "slug": "kled",
+            "associated-faction": "",
+            "associated-faction-slug": "noxus",
+            "image": {
+                "title": "kled-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt413da705852a68d3-Kled_0.jpg",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 1102,
+                "y": 4,
+                "featured-champions": []
+            },
+            "background": {
+                "title": "kled-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt413da705852a68d3-Kled_0.jpg",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 1102,
+                "y": 4,
+                "featured-champions": []
+            },
+            "url": "/zh_cn/champion/kled",
+            "video": {
+                "title": "kled-splashvideo-webm",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt4349d66d1b124f23-kled-splashvideo.webm",
+                "encoding": "video/webm",
+                "width": 1280,
+                "height": 720,
+                "x": 1102,
+                "y": 4,
+                "featured-champions": []
+            },
+            "races": [],
+            "roles": [
+                {
+                    "name": "战士",
+                    "slug": "fighter"
+                },
+                {
+                    "name": "坦克",
+                    "slug": "tank"
+                }
+            ],
+            "role": [
+                {
+                    "name": "战士",
+                    "slug": "fighter"
+                },
+                {
+                    "name": "坦克",
+                    "slug": "tank"
+                }
+            ],
+            "game-info-url": "https://lol.qq.com/web201310/info-defail.shtml?id=Kled",
+            "biography": {
+                "full": "<p>家喻户晓的民间英雄克烈留下过许多传奇事迹，最早的可追溯到诺克萨斯初建的时日，甚至可能还要更早。他是寻常士兵们尊奉的偶像，而这也让那些指挥官越来越担心——因为战群中有些人宣称自己<i>真的</i>曾与他并肩作战。</p><p>诸如“伟大轻骑兵大捷”、“高阶少将元帅中士回归”以及“山中提督”之类的夸张故事不胜枚举，言外之意，克烈曾参与过帝国发动的每一场战役，获得了军中的每一份头衔，而且从来没有却步于任何一次战斗。虽然故事里的细节往往光怪陆离而且前后矛盾，但主旨是毋庸置疑的：只要克烈骑着胆小的斯嘎尔冲进战场，他的战斗便是为了保住所拥有的一切……或是抢走他想要的一切。</p><p>事实上，这位暴怒骑士来自于完全不同的另一片土地——班德尔城。作为一名约德尔人，他在符文战争过后的动乱中把家安在了骄傲的诺克希部族，之后再未曾回头。</p><p>历史记载中关于克烈的最早记录是在“第一次德鲁涅之战”。在那片灰蒙蒙的荒山野岭中，扎瓦亚恩将军带领的战群遭到敌对野蛮人的追击。之前的两场战败导致士气低落，补给车队也被遗弃在行军路上，而他们离最近的前哨还有一周的脚程。扎瓦亚恩身披着光鲜亮丽的铠甲，他更担心自己回去以后的颜面而不是手下士兵的甘苦，于是下令组成防守环阵，给他争取一些思考的时间。</p><p>随后，清晨的阳光洒落在战场上，遥远的山峰上显出了克烈神秘的身影，骑着一头沙漠龙蜴。他的武器锈迹斑斑，盔甲破旧，衣衫褴褛——但鄙夷和怒火正从他唯一一只完好的眼珠中汹涌而出。</p><p>他对野蛮人部落吼出最后通牒，要求他们离开他的地盘，否则就是自取灭亡。然而，他并没有等待回答，就直接猛踢了斯嘎尔一脚，高声厉叫着发起了冲锋。诺克萨斯战群的士兵们早已走投无路、困顿空乏，还对他们的将领怀恨在心，此等声势浩大的举动燃起了他们的怒火。士兵们跟在克烈身后，随他杀入敌阵。</p><p>后来发生的是北方台地上最血腥的肉搏战之一。最初的反击势头遭到了野蛮人从高处射下的箭雨打压，龙蜴坐骑甩下了主人独自遁逃，但即便如此，克烈也依然奋勇作战。他似乎永远都处于战斗的中心，在血肉横飞中左劈右砍、拳打脚踢。敌人的尸体在克烈周围堆了起来，他的衣服也浸透了鲜血。他口中叫嚷着狂妄的挑战和刺耳的辱骂。显然，这位伟大的战士宁可战死也不肯后退一步。</p><p>懦弱可传染，勇猛亦然。原本那些诺克萨斯人可能早已丢盔弃甲、自顾逃命，但现在他们却战意勃发，誓死不屈。</p><p>就连克烈的龙蜴坐骑也回来了，它撞进了那群野蛮人的后防线，怒吼着、撕剥着，冲进人堆里解救自己的主人。重新跨上坐骑的克烈变成了真正的死亡旋风，然后就轮到野蛮人溃败逃亡了。</p><p>虽然那天存活下来的诺克萨斯士兵实在太少，很难称得上是一场胜利，但德鲁涅却因此进入了势均力敌的对峙态势，坚持等到不朽堡垒收到战报并派出增援。战争的车轮碾过了又一个十年，直到最后野蛮人的领袖提出议和——他们成为了诺克萨斯的力量，而德鲁涅也成为了战略据点，在后来几百年间的北疆达拉莫平原上发挥作用。</p><p>扎瓦亚恩将军的尸体，还有他的上等铠甲，始终没有找到。</p><p>渐渐地，帝国内的无数个战群都有了克烈的故事。这些故事大同小异，据说他会随着军团铁蹄所至，为自己抢夺着每一份战利品。千真万确，在他们路过的地方经常可以找到充满幽默感的指示牌，宣称每一片土地为<i>“克烈所有”</i>。</p>",
+                "short": "无畏而且狂暴的约德尔人克烈是诺克萨斯意志的化身。很多军士都说，克烈参与了有史以来帝国战群发动的每一场征战，获得了军中的每一份头衔，而且从来没有却步于任何一次战斗。虽然传闻总是不可全信，但至少有一件事毋庸置疑：只要克烈骑着胆小的斯嘎尔冲进战场，他的战斗便是为了保住所拥有的一切……或是抢走他想要的一切。",
+                "quote": "“正常人都会跑掉……但我不会跑！”",
+                "quote-author": "克烈"
+            },
+            "headerImage": null
+        },
+        {
+            "type": "champion",
+            "release-date": "2011-04-26T00:00:00.000Z",
+            "name": "兰博",
+            "title": "机械公敌",
+            "section-title": "兰博",
+            "slug": "rumble",
+            "associated-faction": "",
+            "associated-faction-slug": "bandle-city",
+            "image": {
+                "title": "rumble-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt8c4561912c5cb524-Rumble_0.jpg",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 968,
+                "y": 6,
+                "featured-champions": []
+            },
+            "background": {
+                "title": "rumble-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt8c4561912c5cb524-Rumble_0.jpg",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 968,
+                "y": 6,
+                "featured-champions": []
+            },
+            "url": "/zh_cn/champion/rumble",
+            "video": null,
+            "races": [],
+            "roles": [
+                {
+                    "name": "战士",
+                    "slug": "fighter"
+                },
+                {
+                    "name": "法师",
+                    "slug": "mage"
+                }
+            ],
+            "role": [
+                {
+                    "name": "战士",
+                    "slug": "fighter"
+                },
+                {
+                    "name": "法师",
+                    "slug": "mage"
+                }
+            ],
+            "game-info-url": "https://lol.qq.com/web201310/info-defail.shtml?id=Rumble",
+            "biography": {
+                "full": "<p>虽然出生在身材矮小的约德尔家族，但兰博矮小的身材却无比刺眼，因此在成长过程中他经常被欺负。为了生存，他必须比同龄人更好斗，更机智。这也产生了他锱铢必较的坏脾气，不管谁得罪了他，他都有仇必报。久而久之，他变得孤独，没有朋友，但他丝毫不介意。他喜欢修理东西，喜欢和各类小工具待在一起。他经常在废品堆里翻找东西。</p><p>这时的兰博已展现出机械师的天赋。他的老师推荐他到位于皮特沃夫的约德尔科学与进步学院进修，或许在那里他能成为黑默丁格的得意门生。但兰博拒绝了，他觉得黑默丁格和他的同事都是“叛徒”，他们将约德尔的先进技术卖给人类，人类也就只是拍拍他们的头表示赞赏，约德尔人依旧是人类茶余饭后的笑话。</p><p>当一群从约德尔学院毕业的人类前往班德尔城，参观他们导师出生长大的地方时，兰博忍不住想和他们来次面对面的交谈。他只想看清楚人类的真面目，经过4个小时的谈话后，他鼻青脸肿、头破血流地回到家并语出惊人地说，对于像黑默丁格这样“精明”的约德尔人们而言，自己有多丢人。</p><p>第二天早上，兰博二话不说就离开了班德尔城，并且消失了好几个月。当他回来时，他乘着一个叮当作响的机器回来。他开着机器在市中心游行前进，并在惊慌失措的人群中宣布他将向世界展示约德尔科技的真正实力。</p>",
+                "short": "兰博是一个有脾气的约德尔青年发明家。他仅用自己的双手和一堆废铁，就造出了一架巨大的机甲，上面还搭载了电击鱼叉和燃烧火箭弹等超常规武器。虽然其他人可能对他的垃圾场发明嗤之以鼻，但兰博根本不在乎——毕竟，喷出铄金之火的枪口，在他自己手里。",
+                "quote": "“呃，看来我要花很久很久才能把你的脸从我的战斗机甲上擦掉了！”",
+                "quote-author": "兰博"
+            },
+            "headerImage": null
+        }
+    ],
+    "modules": []
+}

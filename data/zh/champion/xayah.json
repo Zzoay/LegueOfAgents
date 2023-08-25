@@ -1,0 +1,705 @@
+{
+    "id": "xayah",
+    "name": "霞",
+    "title": "逆羽",
+    "locale": "zh_cn",
+    "champion": {
+        "type": "champion",
+        "release-date": "2017-04-11T19:43:26.000Z",
+        "name": "霞",
+        "title": "逆羽",
+        "section-title": "霞",
+        "slug": "xayah",
+        "associated-faction": "",
+        "associated-faction-slug": "ionia",
+        "image": {
+            "title": "xayah-splash",
+            "subtitle": "",
+            "description": "",
+            "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt64407be80c57da40-xayah-splash.jpg",
+            "encoding": "image/jpeg",
+            "width": 2792,
+            "height": 1080,
+            "x": 1857,
+            "y": 256,
+            "featured-champions": []
+        },
+        "background": {
+            "title": "xayah-splash",
+            "subtitle": "",
+            "description": "",
+            "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt64407be80c57da40-xayah-splash.jpg",
+            "encoding": "image/jpeg",
+            "width": 2792,
+            "height": 1080,
+            "x": 1857,
+            "y": 256,
+            "featured-champions": []
+        },
+        "url": "/zh_cn/champion/xayah",
+        "video": null,
+        "races": [
+            {
+                "name": "瓦斯塔亚",
+                "slug": "vastaya"
+            }
+        ],
+        "roles": [
+            {
+                "name": "射手",
+                "slug": "marksman"
+            },
+            {
+                "name": "坦克",
+                "slug": "tank"
+            }
+        ],
+        "role": [
+            {
+                "name": "射手",
+                "slug": "marksman"
+            },
+            {
+                "name": "坦克",
+                "slug": "tank"
+            }
+        ],
+        "game-info-url": "https://lol.qq.com/act/a20170331rakanxayah/index.htm?e_code=313826&atm_cl=ad&atm_pos=16605&idata_id=126255",
+        "biography": {
+            "full": "<p>小时候，霞极爱听父亲吟唱古代瓦斯塔亚英雄们的古老民谣。萦绕耳畔的悠扬旋律会将她带回久远的从前。那个时候，葵林岛上的魔法自由奔放，赋予洛特兰部族无穷的力量。</p>\n\n<p>然而世世代代的人类都在不断进犯，蚕食着瓦斯塔亚自古以来居住的土地，打破他们的原始精萃。许多部族都开始衰退，他们与初生之土的精神连接渐渐被切断，也因此失去了活力。他们不得不与对立的凡人进行谈判交涉。</p>\n\n<p>霞无奈地看到，她们的<i>犹罗阿</i>使节与凡人们商定的条约总是很快就被打破，次次如此。最令她担忧的是，人类发现了巨型石阵“琨珑”的奥秘，利用它们控制住了艾欧尼亚的自然魔法，从而保护他们不断扩张的聚集地。</p>\n\n<p>虽然霞和其他志同道合的族人呼吁反击，但洛特兰族却自我封闭起来，逃避凡人的世界，固守自己所剩无几的土地。但这样也还是无法换来保护，最后他们被赶出了自己的家园。</p>\n\n<p>洛特兰变成了漂泊的游牧民族。霞变成了自由的战士。</p>\n\n<p>她并非独自一人。艾欧尼亚各地纷纷出现了瓦斯塔亚的反叛，他们要对凡人复仇。和平谈判的机会早已荡然无存。霞决定把自己夺命的羽毛用在战斗中，释放这片土地的野生魔法。</p>\n\n<p>她在严密把守的城堡要塞之中来去翻飞，所过之处留下一连串的尸体，并因此得来“紫鸦”的诨名。她对这项事业的赤诚无与伦比，她所关心的只有下一个任务，以及解放同胞的下一阶段行动。虽然她珍爱叛军中的战友，但通常都独来独往，因为她相信自己比任何人都更优秀。</p>\n\n<p>但后来她遇到了那个将改变她一生的瓦斯塔亚。</p>\n\n<p>一次，她前往翁库沃的一座偏远山镇找寻一件失窃的古物，在那里看到了一群嘈杂的人类。人群前方的舞台上站着一个羽翼浮夸、艳如烈焰的表演者，唱着瓦斯塔亚古老的歌谣，歌声悠扬令人沉醉。歌曲将尽，他又使出几个让人眼花缭乱的俗套花招，人群欢声雷动，反复高呼他的名字：“洛！洛！洛！”</p>\n\n<p>他夸张地鞠了一躬。霞不以为意，觉得他只是个丑角。虽然他同为洛特兰的族人，但这个洛只不过是个愚蠢的<i>穆鞑袴。</i></p>\n\n<p>霞决心不再理睬他，继续完成自己的任务……不过她也不能否认，多亏了洛干扰了当地人的注意力，她的任务轻松了不少。</p>\n\n<p>还没等霞逃进野外，洛先找了上来。他先是进行了一番赞美，想要迷住她却徒劳无果，然后这名没头没脑的瓦斯塔亚询问了洛特兰部族的消息。当她告诉他部族已经失去了家园，他的羽翼暗淡了，他的震怒令她感到意外。或许这个洛比她想象的更复杂。</p>\n\n<p>当她对他讲述自己的真正事业，他请求加入她的行列。别的不行，他制造干扰的本领还是有的，于是霞同意了。</p>\n\n<p>他们的旅途开始了，对她来说洛是一个可用之才，就是有点烦人。这个喜欢卖弄的战舞舞者能够在敌军之中轻松闪转腾挪，制造混乱，然后让霞轻易将他们击倒。不得不说，这种作战风格<i>几乎</i>弥补了他那记不住霞的精密计划的臭记性。</p>\n\n<p>洛也在其他方面帮助了霞。她心直口快、说话带刺；而他则富有洞见和感染力。原本她只能诉诸暴力的问题，他却能用魅力和说辞解决。她觉得他有一种不可思议的能力，能察言观色，判断一个人是否值得信任。有时候她会质疑洛对凡人的同情心，但她却从不怀疑他对反叛大业的忠诚。</p>\n\n<p>最后，霞意识到自己对洛的感情变了。他自由不羁的精神和做派有一种说不出的明快，让她越来越着迷。时间久了，她已经习惯他的陪伴，而且尽管一开始她耻于承认，但茫茫天地不再如从前一般无望而孤单。他们变得密不可分。</p>\n\n<p>在随后的多年间，他们两个成为了令人闻风丧胆的瓦斯塔亚英雄，关于他们的事迹开始在四面八方流传。诺克萨斯侵略战争结束后，艾欧尼亚人已经变得更有侵略性和危险性，尤其是纳沃利地区的人，还有四处结仇的“影流”。虽然如此，但变局也让霞和洛得以召集数不尽的瓦斯塔亚加入他们的行列，他们的反叛梦想即将结出果实。</p>\n\n<p>他们将一起奋战，夺回初生之土，让所有瓦斯塔亚部族再次繁荣。</p>",
+            "short": "身为瓦斯塔亚的志士，霞要掀起一场革命来拯救她的族群。她身法敏捷又慧心独具，凭借锋芒逼人的羽刃，扫除任何异己。霞与她的灵魂伴侣洛并肩作战，共同守护他们日渐衰落的部族，同时韬光养晦，希望终有一天能率领全族重夺昔日荣光。",
+            "quote": "“你知道羽毛能有多锋利么？”",
+            "quote-author": "霞"
+        },
+        "headerImage": null
+    },
+    "related-champions": [
+        {
+            "type": "champion",
+            "release-date": "2017-04-11T19:43:26.000Z",
+            "name": "洛",
+            "title": "幻翎",
+            "section-title": "洛",
+            "slug": "rakan",
+            "associated-faction": "",
+            "associated-faction-slug": "ionia",
+            "image": {
+                "title": "rakan-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/bltf675f7e15a5650c9-rakan-splash.jpg",
+                "encoding": "image/jpeg",
+                "width": 2792,
+                "height": 1080,
+                "x": 1047,
+                "y": 108,
+                "featured-champions": []
+            },
+            "background": {
+                "title": "rakan-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/bltf675f7e15a5650c9-rakan-splash.jpg",
+                "encoding": "image/jpeg",
+                "width": 2792,
+                "height": 1080,
+                "x": 1047,
+                "y": 108,
+                "featured-champions": []
+            },
+            "url": "/zh_cn/champion/rakan",
+            "video": null,
+            "races": [
+                {
+                    "name": "瓦斯塔亚",
+                    "slug": "vastaya"
+                }
+            ],
+            "roles": [
+                {
+                    "name": "辅助",
+                    "slug": "support"
+                },
+                {
+                    "name": "坦克",
+                    "slug": "tank"
+                }
+            ],
+            "role": [
+                {
+                    "name": "辅助",
+                    "slug": "support"
+                },
+                {
+                    "name": "坦克",
+                    "slug": "tank"
+                }
+            ],
+            "game-info-url": "https://lol.qq.com/act/a20170331rakanxayah/index.htm?e_code=313826&atm_cl=ad&atm_pos=16605&idata_id=126255",
+            "biography": {
+                "full": "<p>瓦斯塔亚的洛特兰部族曾经生活在艾欧尼亚东侧岛屿“葵林”。在那片深山老林的古老、神秘边境上，汲取魔法就像呼吸空气一样自然，而且时间也几乎不存在意义。对这些人兽杂合的生物来说，凡人居住的土地都是残酷的沙漠，没有丝毫的魔法滋润。然而几百年来，沙漠越来越大，不断侵蚀着瓦斯塔亚的领地。</p>\n\n<p>洛出生在部族衰落的时期，但他从未放弃过希望。</p>\n\n<p>洛和他的同辈们一样，都看着人类的聚落不断扩张，将艾欧尼亚狂野混乱的魔法蓄积起来，用于保障他们自己的安全。许多部族都派出使节，与人类进行商谈，制定条约，保护瓦斯塔亚繁衍生息所需的魔法能量。然而，他们做出的承诺被一次又一次地打破。</p>\n\n<p>不再抱有幻想的瓦斯塔亚开始变得越来越孤立，守在仅存的土地上寸土不让。但年轻的洛呼吁另一种不同的道路。这位战舞舞者相信，只要凡人认识到野生魔法的美，就会同意放开束缚，他还夸下海口，要用自己的力量让他们看到。为此，他被同族蔑称为<i>穆鞑袴</i>——同情人类的通敌者。</p>\n\n<p>洛离开了洛特兰部族，决心把他们族人的歌声传遍艾欧尼亚。他是讨人欢心的浪客，任何酒肆和节庆祭典都欢迎他的表演。但多年后他认识到，自己对凡人来说充其量也就是个表演者——无论他跳多少舞唱多少歌，无论他俘获了多少观众，也只是给醉酒狂欢的人提供娱乐而已。</p>\n\n<p>洛开始变得不安，他发现自己没了目标……直到他在翁库沃的丰收祭典上遇见了霞，一个洛特兰的同族。</p>\n\n<p>看着人群中的她，洛唱起了一支老歌，用光鲜的翎羽迷住了整座小镇。虽然过去曾有无数人类和瓦斯塔亚女子为他倾心，然而面前这个紫鸦却似乎不为所动——尽管也不是毫无兴趣。</p>\n\n<p>她已经看到了他，却没有尾随追赶？这是个难以解答的迷。</p>\n\n<p>洛被勾起了兴趣，这位战舞舞者接近了霞，并向她询问自己部族的运势如何。当她告诉他洛特兰部族已经失去了最后一片土地时，洛发出了愤怒的嚎哭。这个举动似乎终于让霞刮目相看了，她安慰他说，还有一线希望：她正在参与到一项更伟大的事业当中，某种反叛，目的是要夺回瓦斯塔亚所失去的一切。不只是为了洛特兰，也是为了所有部族。</p>\n\n<p>洛如醍醐灌顶。他面前摆着一个拯救族人的机会，一个他愿意为之献身的大业。她请求加入霞的行列，她同意了——前提是他不要成为累赘。</p>\n\n<p>后来霞很快就看到，洛的舞蹈在战场上和在舞台上一样厉害。他自称为洛特兰史上最伟大的战舞舞者，而这一点无人能反驳。他的盛大登场和缭乱杂耍让敌人眼花心迷，让霞能够用锋利的羽刃将敌人击倒。无论是多么危险的处境，他们都能和谐默契地共同应对。</p>\n\n<p>在他们的旅途中，洛迷上了霞的处世方式。她似乎总是准备充分、处乱不惊、专心致志……而他则总是心不在焉、和蔼友善、嬉皮笑脸。虽然洛总是忘记他们精心制定的计划，但却能通过察言观色做出弥补，用魅力与洞察劝服旁人。两位瓦斯塔亚大相径庭，然而彼此的优缺点却又弥合互补，实现了许多丰功伟绩。</p>\n\n<p>很快，洛就再也离不开霞，显然她也对他怀着同样的感情。这对乱世鸳鸯在一场酒楼斗殴中彼此誓定终身。</p>\n\n<p>然而他们也不是在所有事上都观点一致。在她眼中，世界黑白分明，凡人永远都是敌人；而他则拥有更多同情，并且相信有一些凡人并非不可救药。虽然他们之间存在种种差异，但是洛十分确信，他和霞的爱能够载着他们闯过前路的风暴。</p>\n\n<p>通过霞，洛找到了自己的目标。在伴侣的唯一驱策之下，霞的圣战也成为了洛的圣战，他们将一起为瓦斯塔亚夺回初生之土。</p>",
+                "short": "风流潇洒，魅力无穷，同时也令人难以捉摸的洛，是一位臭名远扬的瓦斯塔亚捣蛋鬼，也是洛特兰部落有史以来最为出色的战舞舞者。在艾欧尼亚高地居民的眼中，“洛”这个名字等同于热闹非凡的节日庆典、热火朝天的狂欢聚会和即兴乱奏的音乐。不过这个精力充沛的江湖艺人早已放弃了旧日的生活，全心全意投入爱人的事业——逆羽，霞的大义。他们一起，为艾欧尼亚的野生魔法谋求自由，让瓦斯塔亚重获与生俱来的权利。",
+                "quote": "“自由为伍，佳人为伴，还有值得献身的道义。”",
+                "quote-author": "洛"
+            },
+            "headerImage": null
+        },
+        {
+            "type": "champion",
+            "release-date": "2012-11-13T00:00:00.000Z",
+            "name": "劫",
+            "title": "影流之主",
+            "section-title": "劫",
+            "slug": "zed",
+            "associated-faction": "",
+            "associated-faction-slug": "ionia",
+            "image": {
+                "title": "zed-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt78255e660a53aa1d-Zed_0.jpg",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 925,
+                "y": 22,
+                "featured-champions": []
+            },
+            "background": {
+                "title": "zed-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt78255e660a53aa1d-Zed_0.jpg",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 925,
+                "y": 22,
+                "featured-champions": []
+            },
+            "url": "/zh_cn/champion/zed",
+            "video": {
+                "title": "zed-splashvideo-webm",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt57c05535f45ac06e-zed-splashvideo.webm",
+                "encoding": "video/webm",
+                "width": 1280,
+                "height": 720,
+                "x": 925,
+                "y": 22,
+                "featured-champions": []
+            },
+            "races": [],
+            "roles": [
+                {
+                    "name": "刺客",
+                    "slug": "assassin"
+                },
+                {
+                    "name": "战士",
+                    "slug": "fighter"
+                }
+            ],
+            "role": [
+                {
+                    "name": "刺客",
+                    "slug": "assassin"
+                },
+                {
+                    "name": "战士",
+                    "slug": "fighter"
+                }
+            ],
+            "game-info-url": "https://lol.qq.com/web201310/info-defail.shtml?id=Zed",
+            "biography": {
+                "full": "<p>艾欧尼亚的和谐面纱之下掩盖着那些被丢下的人。对于劫来说，他的故事要从那个坐在家门口冰冷石阶上的小男孩说起，他的家是均衡教派。</p><p>均衡教派的宗师苦说亲自收留了劫，他在古老的庙墙内找到了自己的容身之处。劫尽心竭力地领悟均衡的精神教旨，很快就在战斗和学习两方面超出同辈一大截。即便如此，他还是感到自己在另一个人面前只能甘拜下风——宗师的儿子，慎。虽然劫在每一门技艺上都追求完美，焕发出巨大的热情，但他却缺少慎身上的情绪平衡。虽然存在差异，但两名学徒依然情同手足。</p><p>后来，他们与师父一起出门远行，追查恶名昭彰的“金魔”。他们终于成功抓获这个令人谈之色变的“怪物”时，却发现他只不过是个名叫卡达·烬的普通人。年轻的劫走上前，双手高举刀刃，但苦说大师制止了他，并命令他们把烬押进监狱。</p><p>回到庙堂后，不满情绪开始在劫的心中绽放，他也开始在学习上力不从心。烬制造的惨不忍睹的谋杀现场反复萦绕在他脑海中，与此同时艾欧尼亚和诺克萨斯帝国武装之间愈演愈烈的紧张气氛也加速了他的幻想破灭。那个时候，慎已经开始学会父亲的冷漠无私，而劫却不肯让均衡的崇高理念阻碍他惩奸除恶。</p><p>他深入庙宇隐藏的墓穴中，在那里他发现了一个精致的黑匣。虽然他知道这是在触犯禁忌，只有教派的宗师才能打开这个黑匣，但他还是向黑匣内部窥视。</p><p>黑影包裹住劫的脑海，向他灌输对弱者的蔑视，助长他内心的苦楚，并向他暗示着一种古老的黑暗魔法。</p><p>回到庙堂的光明中后，他与宗师苦说正面相对。劫要求均衡教派动用一切力量打击诺克萨斯侵略者。苦说拒绝了，于是劫离开了那个将他养大的教派。</p><p>不再受到均衡教条的束缚的劫，召集了一批追随他的战士共同抵抗诺克萨斯。任何威胁到他家园的生灵，或者在守卫艾欧尼亚的岗位上玩忽职守的人，全都会陷入残忍的影杀阵——甚至包括那些结盟立场摇摆不定的本土瓦斯塔亚。劫鼓动他的追随者们抛弃顾虑投身战争，但很快他就意识到，自己能力的成长永远都赶不上野心的膨胀，除非得到那个黑匣。</p><p>他集结了所有新信徒，回到了均衡教派的庙堂，苦说出门迎接。这位长者将他的武器放在劫的脚边，恳求他曾经的徒弟能够抛弃暗影，回归均衡之道。</p><p>少顷，劫重新出现在庙前的石阶上。一只手握着黑匣，另一只手上则是刚刚沾满鲜血的剑刃。</p><p>均衡教众惊呆得不知所措，像兽群一样慌不择路，被劫的手下肆意屠戮。随后他霸占了庙堂，并在此成立了自己的影流，开始以黑影之道训练他的信徒。他们将黑暗的刺青刻入肌肤血肉，并学习如何伴着氤氲倒影中的自己共同战斗。</p><p>劫利用了与诺克萨斯之间的战事，以及战争给艾欧尼亚人带来的痛苦。在刚刚发生过大屠杀的衣浦河畔，他遇到了诺克萨斯童兵凯隐，手中只挥舞着一把农用镰刀。劫看到这个男孩是一件待开刃的武器，就把他收为亲授弟子。在这个年轻的信徒身上，他看到了与自己旗鼓相当的纯粹的目标动力。在凯隐身上，劫看到了影流的未来。</p><p>虽然劫并没有与慎和均衡教派残部进行和解，但战争过后，四散在各省份的均衡教众与影流之间达成了脆弱的停战共识。劫知道，自己做过的事早已覆水难收。</p><p>最近几年来，初生之土的平衡显然已经被打乱，可能永远都无法复原。对劫来说，精神的和谐无足轻重——他将不择手段地确保艾欧尼亚的胜利。<br></p>",
+                "short": "<p>彻底抛弃了仁慈与怜悯的劫，是影流教派的领袖。他创立影流的目标是将艾欧尼亚的魔法和传统武术用于实战，驱逐诺克萨斯侵略者。在战争中，绝望指引他开启了神秘的暗影形态。这是一种恶灵魔法，虽然强大，但同时非常危险且有腐化之力。劫已经完全掌握了这种禁忌之术，用它摧毁自己眼中的威胁，维护自己的国家，以及自己的教派。</p>",
+                "quote": "<i>“均衡是愚者的主人。”</i>",
+                "quote-author": "劫"
+            },
+            "headerImage": null
+        }
+    ],
+    "explore-champions": [
+        {
+            "type": "champion",
+            "release-date": "2012-05-08T00:00:00.000Z",
+            "name": "韦鲁斯",
+            "title": "惩戒之箭",
+            "section-title": "韦鲁斯",
+            "slug": "varus",
+            "associated-faction": "",
+            "associated-faction-slug": "ionia",
+            "image": {
+                "title": "varus-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blta3a77808520e8966-varus-splash.jpg",
+                "encoding": "image/jpeg",
+                "width": 1920,
+                "height": 1133,
+                "x": 1034,
+                "y": 0,
+                "featured-champions": []
+            },
+            "background": {
+                "title": "varus-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blta3a77808520e8966-varus-splash.jpg",
+                "encoding": "image/jpeg",
+                "width": 1920,
+                "height": 1133,
+                "x": 1034,
+                "y": 0,
+                "featured-champions": []
+            },
+            "url": "/zh_cn/champion/varus",
+            "video": null,
+            "races": [
+                {
+                    "name": "暗裔",
+                    "slug": "darkin"
+                }
+            ],
+            "roles": [
+                {
+                    "name": "射手",
+                    "slug": "marksman"
+                },
+                {
+                    "name": "法师",
+                    "slug": "mage"
+                }
+            ],
+            "role": [
+                {
+                    "name": "射手",
+                    "slug": "marksman"
+                },
+                {
+                    "name": "法师",
+                    "slug": "mage"
+                }
+            ],
+            "game-info-url": "https://lol.qq.com/web201310/info-defail.shtml?id=Varus",
+            "biography": {
+                "full": "<p>无论后来他变成了什么样子，韦鲁斯都曾是忠诚与荣誉的楷模。身为古恕瑞玛帝国的熟练弓手，他被指派守护东部地区的一座神庙，而他将此看作至高无上的职责。</p><p>在艾卡西亚战争初期，韦鲁斯的家乡虽然与那片诅咒之地相距甚远，却依然遭到了袭击。其他守卫纷纷离岗前去防守周边的村镇，但韦鲁斯却一个人留在了神庙里。每一支射出的箭矢都伴随着他痛彻心扉的怒吼——因为他选择坚守誓言，而没有返乡保护自己的家人。</p><p>飞升之团的使者们找到他时，只见他跪在遍地的敌人尸体之间肃穆地冥想。据说，他冰冷的凝视就连天神战士也会感到不安。尽管如此，为了表彰他可贵的奉献，他们邀请韦鲁斯加入飞升者的行列。</p><p>作为伟大的飞升者之一，他满心的念头却只是为了向艾卡西亚和虚空寻仇。似乎韦鲁斯并没有理解恕瑞玛最终赢下了那场战争，几百年后也并不完全清楚帝国是如何陷落的，他的心智变得无比地扭曲。一桩桩接连不断的暴行，让他成为了一个孤僻、冷血的杀手。堕落的同胞们将他一次次地送进战场。</p><p>而他们的名字在当今世界令人闻之丧胆。</p><p>暗裔。</p><p>他们一边内斗，一边毁灭任何胆敢与之为敌的人。韦鲁斯手中的水晶长弓专门用于刺杀敌军的长官和英雄，让暗裔更加轻松地剿灭凡人的军团。</p><p>最后，一位披着黄金铠甲的瓦洛兰武后麾下的瓦斯塔亚追月者以及人类法师团将韦鲁斯逼到了绝境。他们将他封印在了那把长弓之中，任凭他如困兽一般嚎哭不止。彼时，暗裔的腐化力量已经为人所知，但这位武后在战争的最后阶段还是决定亲自使用这把致命的武器，她为了伟大的胜利而毅然牺牲了自己。</p><p>之后过了数月，武后带着韦鲁斯来到了初生之土——后来人们称之为艾欧尼亚。此时，弓上的力量已经让她变得可怖不堪，她最后的命令就是让随行者将她活埋在一口无光的井底，深藏在俯瞰着帕拉斯的高山庙宇中。</p><p>韦鲁斯被艾欧尼亚的自然魔力和神庙守卫的仪轨牢牢禁锢着。</p><p>长弓深藏了数百年，无人知晓，无人触及，已被遗忘。直到诺克萨斯人入侵了初生之土。两位怪兽猎人，瓦尔茂和灵犀之侣凯伊，在帕拉斯神庙与第一批登陆的侵略者作战。虽然他们勇气可嘉，也击退了来犯的敌人，但凯伊也受到了致命伤。悲痛万分的瓦尔茂把他背进神庙，希望井中的禁忌魔力能够挽救凯伊的生命。</p><p>但这座神庙只会带来诅咒。两人都被释放出来的暗裔之力侵蚀了。他们的身体分崩离析，然后相互缠结成一具新的躯壳。这具躯壳正好可以将韦鲁斯从禁锢中解脱。从井中爬出的是一个完形生物，苍白而非人般地优美，一部分是人类，一部分是暗裔。经过上千年的等待，韦鲁斯重生了。</p><p>即便如此，在这具不完美的躯壳里，人类和暗裔的精魂此起彼伏，每一方都能短暂地占据上风，然后又被对方压过。韦鲁斯只想让两个凡人的灵魂永远地沉默，然后为他的同胞们报仇。同时，凯伊和瓦尔茂奋力地抵抗着韦鲁斯的恶意，希望彼此间的眷恋能够最终征服暗裔的仇恨。</p><p>到底他们能与韦鲁斯抗衡多久，没人能够确定。但是如果这个酷虐又自大的杀手完全掌控了这具身体，他就会想办法与自己的同胞重聚，再将符文之地化作遍布灰烬的荒原。</p>",
+                "short": "<p>韦鲁斯是一名来自远古的暗裔。身为一名冷血的杀手，他最爱的就是用箭矢折磨敌人。先让他们失心发疯，再了结他们的性命。韦鲁斯虽然在暗裔大战结束后便遭囚禁，但却在几百年后成功逃脱，寄宿于两位艾欧尼亚猎人再造的血肉之躯中。这二人无意之间释放了韦鲁斯，从此便背上了那把蕴含着韦鲁斯精魄的长弓。如今的韦鲁斯寻找着那些囚禁他的人，急欲施行报复，但体内的两个灵魂却在阻挠他的每一步行动。</p>",
+                "quote": "“你们没有把我们彻底毁灭，这个失误带来了你们的末日。”",
+                "quote-author": "韦鲁斯"
+            },
+            "headerImage": null
+        },
+        {
+            "type": "champion",
+            "release-date": "2011-03-15T00:00:00.000Z",
+            "name": "魔腾",
+            "title": "永恒梦魇",
+            "section-title": "魔腾",
+            "slug": "nocturne",
+            "associated-faction": "",
+            "associated-faction-slug": "unaffiliated",
+            "image": {
+                "title": "nocturne-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/bltd965a4717b06eef3-Nocturne_0.jpg",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 870,
+                "y": 208,
+                "featured-champions": []
+            },
+            "background": {
+                "title": "nocturne-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/bltd965a4717b06eef3-Nocturne_0.jpg",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 870,
+                "y": 208,
+                "featured-champions": []
+            },
+            "url": "/zh_cn/champion/nocturne",
+            "video": null,
+            "races": [],
+            "roles": [
+                {
+                    "name": "刺客",
+                    "slug": "assassin"
+                },
+                {
+                    "name": "战士",
+                    "slug": "fighter"
+                }
+            ],
+            "role": [
+                {
+                    "name": "刺客",
+                    "slug": "assassin"
+                },
+                {
+                    "name": "战士",
+                    "slug": "fighter"
+                }
+            ],
+            "game-info-url": "https://lol.qq.com/web201310/info-defail.shtml?id=Nocturne",
+            "biography": {
+                "full": "<p>虽说一切魔法都可能充满危险和无常，但有一些魔法形式或类别即使是那些最高超的法师和巫师都对其敬而远之，这可不是没道理的。几百年来，“暗影魔法”始终都是整个符文之地上的禁忌，因为所有人都害怕那曾一度肆虐于世的恐怖再度被它唤醒。</p><p>那些恐怖之物当中的最甚者，是有名字的，它的名字是魔腾。</p><p>在符文战争末期，由魔法战士组成的秘密团体为了各自的胜利不择手段，寻找任何可能打压对手的方式。虽然现存的记录没有记载他们的名字，但他们是第一批抛弃自己血肉并进入灵魂领域的人，人们只知道他们互相追猎，他们的猎场不仅在战场上，而且也在他们自己潜意识的思想与情绪塑造的领域中。没有了物质现实法则的束缚，他们战斗的方式让大多数凡人的头脑无法理解，他们甚至能够塑造出虚幻缥缈的刺客执行命令。暗影法师似乎非常擅长这种事——所以有一段时间，他们主宰了灵魂领域，将其送进薄暮。</p><p>各地各处的凡人思绪都受到了这黑暗的沾染。它吸干他们的斗志，侵扰他们的梦境，让无名的恐惧日日夜夜咬住他们不放，甚至导致一些人对自己的同胞犯下骇人听闻的恐怖罪行。</p><p>没人能说清楚，究竟是这些苦难从无到有地造就了魔腾，还是某个低级的刺客构造体受到它的腐化变成了某种更加自我、更加夺命的存在，但无论是哪种情况，都让这个新生的暗影生物具备了非物质的形体和不可捉摸的恐怖。魔腾不理解任何友善、荣誉或高尚——它是恐惧的实体化身，不需要那些自我约束和控制。</p><p>这个恶魔般的生物在灵魂领域嚎叫着，扑向了那些离经叛道的愚蠢法师，那些曾经给予它生命的人，它不顾一切地鞭笞，希望能够终结自己的苦难。它始终忍受着痛苦，而这种痛苦让它残酷，但它很快就喜欢上了凡人恐惧的味道。在它的领域，时间几乎没有意义，但魔腾会尽可能延长每一次追逐，细细品味猎物的剧痛，然后再顷刻间切断他们的最后一线生命。很快，已经没人敢再进入魔腾的领域了。</p><p>如果这个恶魔没有在帷幕的另一侧采取行动，符文战争会不会有另外的结果？很难说，但到了后来，所剩无几的关于暗影魔法的传说被人藏匿了起来，使用这种魔法也被许多地方的人等同于死亡判决。</p><p>灵魂领域成为了牢笼，只有寥寥无几的闯入者维持着这个领域，而魔腾也变得饥肠辘辘。只有一样东西的味道接近它曾品尝过的恐惧大餐，那就是当凡人的思绪在睡梦中不知不觉地飘过虚无。魔法的波流划分着两个领域间的界限，在这里平和的梦境很容易就会变成梦魇——而随着这股魔法流，魔腾找到了让自己进入梦醒后的凡尘世界的方式。</p><p>如今的魔腾作为一种幽魂存在，双眼燃烧着冷光，已然成为了符文之地上许多人最原始恐惧的凶恶倒影。从熙熙攘攘的城市到荒凉的平原，从最伟大的国王到最卑贱的农民，只要是有缺点的灵魂，就会吸引这个恶魔，继而被它扭曲为凡间的恐惧，以及永恒的黑暗。</p>",
+                "short": "<p>将一切有知觉的脑海中萦绕的噩梦提取出来，进而融合成一个恶魔般的实体，这就是被人称为魔腾的存在，它已成为一种纯粹邪恶的原始力量。它的外形捉摸不定，一团无面的黑影中睁着一双冰冷的眼睛，身体两侧是一对形状恐怖的刀刃。魔腾摆脱了精神领域的束缚，一次又一次地进入梦醒后的凡尘世界，寻觅那些在真正的黑暗中疯长的恐惧，作为自己的食粮。</p>",
+                "quote": "黑暗正在迫近……",
+                "quote-author": "魔腾"
+            },
+            "headerImage": null
+        }
+    ],
+    "modules": [
+        {
+            "slug": "duo-cinematic",
+            "type": "featured-video",
+            "section-title": "",
+            "featured-image": {
+                "title": "duo-cinematic-cover",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt3865b071477dc79b-duo-cinematic-cover.jpg",
+                "encoding": "image/jpeg",
+                "width": 1275,
+                "height": 544,
+                "x": 716,
+                "y": 432,
+                "featured-champions": []
+            },
+            "title": "霞与洛：万法复苏",
+            "subtitle": "",
+            "description": "复苏艾欧尼亚的狂野魔法并非易事，因为在暗影中潜伏着一个杀气腾腾的敌人。",
+            "uri": "https://v.qq.com/x/cover/3bv0uljb8wd2wru/f0393f75jyc.html",
+            "video": {
+                "type": "video",
+                "title": "",
+                "subtitle": "",
+                "description": [],
+                "uri": "https://v.qq.com/x/cover/3bv0uljb8wd2wru/f0393f75jyc.html",
+                "width": "",
+                "height": "",
+                "x": "",
+                "y": "",
+                "featured-champions": []
+            },
+            "blackout": null,
+            "release-date": "2017-04-13T15:00:00.000Z",
+            "video-type": "cinematic",
+            "featured-champions": [
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                },
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                }
+            ],
+            "related-champions": [
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                },
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                }
+            ]
+        },
+        {
+            "slug": "游刃有余影",
+            "type": "story-preview",
+            "title": "游刃有余影",
+            "subtitle": "作者：Odin Austin Shafer",
+            "description": "霞向前跳进树叶的遮蔽中，躲避庙墙上发射的枪火。人类管这种武器叫做“喀舒利来复枪”。这是夺命的兵器，而且镇上的卫兵显然也都是经过训练的战士。不过他们已经来不及了——来不及打中她，也来不及阻止她派出的部族战士。现在她的手下应该已经爬到了古庙的位置，抵达了那群人类要守护的东西：一座琨珑。<br><br>",
+            "story-slug": "piece-of-shadow-cake",
+            "featured-image": {
+                "title": "piece-of-shadow-cake-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt3211ca4e25bb443c-piece-of-shadow-cake-splash.jpg",
+                "encoding": "image/jpeg",
+                "width": 1920,
+                "height": 1080,
+                "x": 501,
+                "y": 419,
+                "featured-champions": []
+            },
+            "background": {
+                "title": "piece-of-shadow-cake-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt3211ca4e25bb443c-piece-of-shadow-cake-splash.jpg",
+                "encoding": "image/jpeg",
+                "width": 1920,
+                "height": 1080,
+                "x": 501,
+                "y": 419,
+                "featured-champions": []
+            },
+            "release-date": "2020-07-07T15:00:00.000Z",
+            "featured-champions": [
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                },
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                }
+            ],
+            "minutes-to-read": 5,
+            "url": "/zh_cn/story/piece-of-shadow-cake"
+        },
+        {
+            "slug": "艾都华·桑唐基罗的瓦斯塔亚田园调查手记",
+            "type": "story-preview",
+            "title": "艾都华·桑唐基罗的瓦斯塔亚田园调查手记",
+            "subtitle": null,
+            "description": "杂合的人类血脉？古老的灵力魔法？在我微不足道的探索过程中撞到了更伟大的问题……这次一定能成就一套非凡的丛书。一套冠军畅销书。<br><br>‘’艾都华桑唐基罗，皮尔特沃夫绅士，艾欧尼亚的探明者，艾欧尼亚荒野之中奇异瓦斯塔亚人的发现者。‘’我已经能听到他们给第一版出的宣传口号了。<br><br>",
+            "story-slug": "vastaya-field-journal",
+            "featured-image": {
+                "title": "vastaya-journal-long",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/bltc3da01bfcac91a39-vastaya-journal-long.jpg",
+                "encoding": "image/jpeg",
+                "width": 1124,
+                "height": 322,
+                "x": 718,
+                "y": 133,
+                "featured-champions": []
+            },
+            "background": {
+                "title": "vastaya-journal-long",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/bltc3da01bfcac91a39-vastaya-journal-long.jpg",
+                "encoding": "image/jpeg",
+                "width": 1124,
+                "height": 322,
+                "x": 718,
+                "y": 133,
+                "featured-champions": []
+            },
+            "release-date": "2017-04-04T15:00:00.000Z",
+            "featured-champions": [
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                }
+            ],
+            "minutes-to-read": 5,
+            "url": "/zh_cn/story/vastaya-field-journal"
+        },
+        {
+            "slug": "Nothing Rhymes with Tubebow",
+            "type": "story-preview",
+            "title": "Nothing Rhymes with Tubebow",
+            "subtitle": "by Odin Austin Shafer",
+            "description": "“Two paths lead to the monastery fortress from the villages below it,” Xayah begins. <br><br>",
+            "story-slug": "rakan-color-story",
+            "featured-image": {
+                "title": "rakan-scene3-final",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt7a4d225c740a403d-rakan-scene3-final.jpg",
+                "encoding": "image/jpeg",
+                "width": 1550,
+                "height": 731,
+                "x": 718,
+                "y": 158,
+                "featured-champions": []
+            },
+            "background": {
+                "title": "rakan-scene3-final",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt7a4d225c740a403d-rakan-scene3-final.jpg",
+                "encoding": "image/jpeg",
+                "width": 1550,
+                "height": 731,
+                "x": 718,
+                "y": 158,
+                "featured-champions": []
+            },
+            "release-date": "2017-04-10T15:00:00.000Z",
+            "featured-champions": [
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                }
+            ],
+            "minutes-to-read": 5,
+            "url": "/en/story/rakan-color-story"
+        },
+        {
+            "slug": "Puboe Prison Break",
+            "type": "story-preview",
+            "title": "Puboe Prison Break",
+            "subtitle": "by Matt Dunn",
+            "description": "Rakan is the worst.<br><br>",
+            "story-slug": "xayah-color-story",
+            "featured-image": {
+                "title": "xayah-scene3-final",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/bltb0f5f4241269ec26-xayah-scene3-final.jpg",
+                "encoding": "image/jpeg",
+                "width": 1000,
+                "height": 471,
+                "x": 303,
+                "y": 40,
+                "featured-champions": []
+            },
+            "background": {
+                "title": "xayah-scene3-final",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/bltb0f5f4241269ec26-xayah-scene3-final.jpg",
+                "encoding": "image/jpeg",
+                "width": 1000,
+                "height": 471,
+                "x": 303,
+                "y": 40,
+                "featured-champions": []
+            },
+            "release-date": "2017-04-10T15:00:00.000Z",
+            "featured-champions": [
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                }
+            ],
+            "minutes-to-read": 5,
+            "url": "/en/story/xayah-color-story"
+        },
+        {
+            "slug": "xayah-image-gallery",
+            "type": "image-gallery",
+            "section-title": "",
+            "isFanArt": false,
+            "fan-art-url": "",
+            "featured-image": "",
+            "title": "",
+            "subtitle": "",
+            "assets": [
+                {
+                    "subtitle": "",
+                    "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt259d9b9267585770-xayah-concept.jpg",
+                    "encoding": "image/jpeg",
+                    "width": 1920,
+                    "height": 1018,
+                    "x": 829,
+                    "y": 458,
+                    "featured-champions": []
+                },
+                {
+                    "subtitle": "",
+                    "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blta553647f3bc561bb-xayah-final.jpg",
+                    "encoding": "image/jpeg",
+                    "width": 549,
+                    "height": 1080,
+                    "x": 292,
+                    "y": 145,
+                    "featured-champions": []
+                },
+                {
+                    "subtitle": "",
+                    "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/bltac65c9a4638e6163-duo-reveal-1.jpg",
+                    "encoding": "image/jpeg",
+                    "width": 1080,
+                    "height": 1080,
+                    "x": 564,
+                    "y": 477,
+                    "featured-champions": []
+                },
+                {
+                    "subtitle": "",
+                    "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt2265cb0dd367c078-duo-reveal-2.jpg",
+                    "encoding": "image/jpeg",
+                    "width": 1080,
+                    "height": 1080,
+                    "x": 520,
+                    "y": 170,
+                    "featured-champions": []
+                },
+                {
+                    "subtitle": "",
+                    "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt319e449c3ed59435-duo-group-concept.jpg",
+                    "encoding": "image/jpeg",
+                    "width": 1052,
+                    "height": 1080,
+                    "x": 371,
+                    "y": 81,
+                    "featured-champions": []
+                }
+            ],
+            "featured-champions": [
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                }
+            ]
+        }
+    ]
+}

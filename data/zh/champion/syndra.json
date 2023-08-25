@@ -1,0 +1,570 @@
+{
+    "id": "syndra",
+    "name": "辛德拉",
+    "title": "暗黑元首",
+    "locale": "zh_cn",
+    "champion": {
+        "type": "champion",
+        "release-date": "2012-09-13T00:00:00.000Z",
+        "name": "辛德拉",
+        "title": "暗黑元首",
+        "section-title": "辛德拉",
+        "slug": "syndra",
+        "associated-faction": "",
+        "associated-faction-slug": "ionia",
+        "image": {
+            "title": "syndra-splash",
+            "subtitle": "",
+            "description": "",
+            "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt025e70eaad333d81-Syndra_0.jpg",
+            "encoding": "image/jpeg",
+            "width": 1215,
+            "height": 717,
+            "x": 1022,
+            "y": 69,
+            "featured-champions": []
+        },
+        "background": {
+            "title": "syndra-splash",
+            "subtitle": "",
+            "description": "",
+            "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt025e70eaad333d81-Syndra_0.jpg",
+            "encoding": "image/jpeg",
+            "width": 1215,
+            "height": 717,
+            "x": 1022,
+            "y": 69,
+            "featured-champions": []
+        },
+        "url": "/zh_cn/champion/syndra",
+        "video": {
+            "title": "syndra-splashvideo-webm",
+            "subtitle": "",
+            "description": "",
+            "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/bltab0cfd35a8ee93d4-syndra-splashvideo.webm",
+            "encoding": "video/webm",
+            "width": 1280,
+            "height": 720,
+            "x": 1022,
+            "y": 69,
+            "featured-champions": []
+        },
+        "races": [],
+        "roles": [
+            {
+                "name": "法师",
+                "slug": "mage"
+            },
+            {
+                "name": "辅助",
+                "slug": "support"
+            }
+        ],
+        "role": [
+            {
+                "name": "法师",
+                "slug": "mage"
+            },
+            {
+                "name": "辅助",
+                "slug": "support"
+            }
+        ],
+        "game-info-url": "https://lol.qq.com/web201310/info-defail.shtml?id=Syndra",
+        "biography": {
+            "full": "<p>出生于纳沃利省的顽童辛德拉一直是个爱走神的孩子。她经常出神地凝望池塘中的影蚀，或者观察糖壳虫排队上墙。而每当她扔下做到一半的家务，就会因为不够专心而遭到母亲的责骂。甚至就连家里的牛奶酸败或者遭遇其他小意外，也都会怪在辛德拉的头上。</p><p>她的哥哥艾瓦德总爱挖苦她。辛德拉经常会逃到自己最喜欢的秘密基地——被村里人奉为圣树的那棵灵柳下面。她会对那颗灵柳说上好几小时悄悄话，倾诉带给她慰藉。但就在一个温暖的午后，艾瓦德和他的伙伴们尾随浑然不知的辛德拉，对她天真的眼泪发出窃笑。她羞愧愤怒的同时努力着想要对他们的侮辱不予理睬，而就在这时，一个孩子朝她的脑袋扔了一大块泥巴。</p><p>辛德拉再也无法抑制自己的情绪。她全部的愤怒都从她体内喷薄而出，化成闪亮的黑暗法球，每一颗都载着她沉甸甸的痛楚。</p><p>休眠的力量在这一刻觉醒了。它闪耀着狂暴的力量，一颗颗负能量珍珠似的法球从她周围抽取精神魔力，吸干了灵柳的生命精粹。艾瓦德和他的伙伴们惊恐地后退，那棵古树的枝干扭曲变形，树皮枯萎成焦黑色。</p><p>没有了灵柳，村民们开始担心他们与艾欧尼亚之魂之间的连接已被切断，而辛德拉一家是众矢之的。于是他们不得不搬到新的地方，并时刻忌惮着她的魔法。</p><p>经过几个月的旅途，他们来到了海边，遇到了一位隐居的祭司，柯尼根。他说起了他在斐洛岛上的家，许多想要学习控制自己狂野魔法的人都会前去寻求他的点拨指导。辛德拉的家人别无选择——或许这位老师能够避免他们的失败。于是年轻的辛德拉爬上一座悬崖边的神庙，伴着漆黑古老的砖石，默默守望着大海。虽然她怀念自己以前的生活，但她还是努力吸收着老师的智慧，全力投入对自己情绪的掌控。</p><p>然而让辛德拉越来气馁的是，多年来的修行不但没有让她学会掌控力量，反而让她的魔法变得衰弱。而柯尼根每天早晨都把自己关起来，独自冥想，也不再教她任何新东西，于是她直截了当地质问老师。他疲惫地咧开嘴，坦诚地告诉她，她的阴郁能量日积月累，已经远远超出他作为导师的能力，他是在有意消解她的力量，从而换来她的安全。</p><p>她感到自己受到了前所未有的背叛。柯尼根想要让她冷静下来，但结果却火上浇油……在那一瞬，他的冥想失焦了。</p><p>神庙的根基剧烈震颤，那天的晨光格外惨败。辛德拉从地面上站起来，心中激荡着沮丧。她从空中攫取黑暗法球，用它们<i>洞穿</i>导师的身体，强迫他在死前感受她全部的苦涩和暴怒。</p><p>顶盖不复再，碎石如雨下，花园圣所被尘土埋葬。辛德拉将她的力量发泄到神庙的废墟上，整个斐洛都能感受到一阵阵冲击波，这座岛的原始魔法也被汲取殆尽。</p><p>从未有如此多的阴郁能量集中到一个地方，甚至需要艾欧尼亚之魂本尊鼓起力量与其抗衡。辛德拉脚下的大地基岩裂开了大口，将她拖入地底深处。粗壮的根须将她束缚在一池活水中，压制她的力量，让她陷入魔法的长眠。</p><p>辛德拉的梦境似乎持续了永世。这世界几乎已经忘记她曾存在过。</p><p>诺克萨斯帝国带来的战争使艾欧尼亚人产生了分裂，辛德拉终于被那些曾经守护斐洛的人唤醒了。有些人要杀她，而另一些人则希望她能够一起对抗诺克萨斯，然而她的混沌之力扑向了所有人。她拒绝成为别人博弈中的棋子。她冲破了自己的地下监牢，撕裂了岛屿之上建造的堡垒高墙，一座高耸的尖塔拔地而起直冲云霄，载着她远远离去。</p><p>她不要再被控制。永远不。</p>",
+            "short": "<p>辛德拉是一位令人胆寒的艾欧尼亚魔法师，操纵着难以置信的力量。她在孩童时期就表现出了粗暴而狂野的魔法天赋，让村庄的长老们深感不安。她被送去外地学习如何控制自己，但她最终发现自己所谓的导师其实是在抑制自己的能力。辛德拉将遭遇背叛和伤痛的感觉化为黑暗的能量法球，她发誓要消灭一切想要控制她的人。</p>",
+            "quote": "<i>我的潜能无穷无尽。休想压住我。</i>",
+            "quote-author": "辛德拉"
+        },
+        "headerImage": null
+    },
+    "related-champions": [
+        {
+            "type": "champion",
+            "release-date": "2010-11-16T00:00:00.000Z",
+            "name": "艾瑞莉娅",
+            "title": "刀锋舞者",
+            "section-title": "艾瑞莉娅",
+            "slug": "irelia",
+            "associated-faction": "",
+            "associated-faction-slug": "ionia",
+            "image": {
+                "title": "irelia-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt5093ac3980fc83a1-Classic_Irelia_Splash.jpg",
+                "encoding": "image/jpeg",
+                "width": 1920,
+                "height": 1071,
+                "x": 964,
+                "y": 124,
+                "featured-champions": []
+            },
+            "background": {
+                "title": "irelia-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt5093ac3980fc83a1-Classic_Irelia_Splash.jpg",
+                "encoding": "image/jpeg",
+                "width": 1920,
+                "height": 1071,
+                "x": 964,
+                "y": 124,
+                "featured-champions": []
+            },
+            "url": "/zh_cn/champion/irelia",
+            "video": {
+                "title": "irelia-splashvideo-webm",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt32d1d1f93ab09206-irelia-splashvideo.webm",
+                "encoding": "video/webm",
+                "width": 1920,
+                "height": 1071,
+                "x": 964,
+                "y": 124,
+                "featured-champions": []
+            },
+            "races": [],
+            "roles": [
+                {
+                    "name": "战士",
+                    "slug": "fighter"
+                },
+                {
+                    "name": "刺客",
+                    "slug": "assassin"
+                }
+            ],
+            "role": [
+                {
+                    "name": "战士",
+                    "slug": "fighter"
+                },
+                {
+                    "name": "刺客",
+                    "slug": "assassin"
+                }
+            ],
+            "game-info-url": "https://lol.qq.com/web201310/info-defail.shtml?id=Irelia",
+            "biography": {
+                "full": "<p>赞家的艾瑞莉娅还是个小姑娘的时候就被人体动态中的优雅与美感深深地吸引了。在奶奶的悉心指导下，她开始修习家乡的传统绸舞。虽然她不太确定艾欧尼亚的万灵与之有何神秘的联系，但她对舞蹈的热爱却毋庸置疑。为了舞艺的精进，她离开家前去纳沃利的普雷西典向艾欧尼亚最负盛名的舞者们学习。</p><p>艾欧尼亚人天性和平，希冀与人和谐相处，但是有人在海岸边看到了侵略者的身影。普雷西典因而陷入了恐慌。艾瑞莉娅回到自家村庄，却发现家乡已经沦陷。从诺克萨斯远渡重洋而来的士兵，头戴钢盔，手执长矛，用矛柄推搡着手无寸铁的平民走过街道。诺克萨斯的海军上将杜廓尔还征用了赞家的宅院作为舰队军官们的驻地。</p><p>艾瑞莉娅的兄弟们，还有父亲里托都曾经反抗过。而如今全家人都躺在了花园里无名的坟茔中。</p><p>悲痛无比的艾瑞莉娅看到杜廓尔的手下正在搬运她家中的器物，其中有一个硕大的金属徽记，正是赞家的家徽。艾瑞莉娅疾奔过去，想从诺克萨斯人手中抢回来。杜廓尔却把她拖倒在地，让士兵们用一把铁锤砸碎了家徽，然后命令他们给这个不知天高地厚的孩子挖一个新坟。</p><p>他们围上来时，艾瑞莉娅扭过头，看着地上碎裂的赞家徽记。在她灵魂深处，一股奇怪的韵律开始搏动。金属的碎片开始震颤翻飞，似乎有意识般动了起来。艾瑞莉娅再一次感受到了古老舞仪中那充满祥和的愉悦……</p><p>她伸臂一挥，碎片如刀刃般呼啸而起，干脆地切过两名诺克萨斯士兵的身体。杜廓尔和他的军官纷纷惊退，艾瑞莉娅趁势拢起徽记的碎片，逃出了村子。</p><p>在寂静的森林中，艾瑞莉娅一边痛悼着家人，一边回想起奶奶的教导。她突然意识到自己所学到的可不仅仅是舞蹈，而是某种更伟大的事物充满力量的显现。</p><p>诺克萨斯的占领行为动摇了初生之土脆弱的和平。据说就连教派领袖卡尔玛都被迫动用魔法回击了侵略者，不过现在她的追随者们全部退回了长存之殿，并决定不再宽宥任何暴力。在纳沃利，各种意见开始趋向一致，一股反抗的力量业已形成，发誓拼死也要让艾欧尼亚重获自由。艾瑞莉娅也加入了他们的队伍。在林间的营地，她会为大家跳起自己最爱的舞蹈，为的是留住几分故乡日渐消散的礼俗。</p><p>当她回到普雷西典的时候，艾瑞莉娅刚满十四岁。反抗军并入了当地的民兵团体，誓死守护寺庙和神圣的园地。</p><p>但诺克萨斯人非常清楚这个地方的价值。狡猾的将军杰里柯·斯维因早就拿下了普雷西典，并俘获了守军作为人质，打算引诱前来支援的部队深入陷阱。</p><p>这就是艾瑞莉娅挺身而出直面命运的一刻。她不再约束自己，古老刃舞的力量喷涌而出，翩然而澎湃，眨眼间便击倒了斯维因的十几个人，引起一阵慌乱。俘虏们与她并肩作战，直到将军本人也成了她的手下败将——艾瑞莉娅将他的断臂举过头顶，这一幕就是战争的转折点。</p><p>这场胜利，也被称为纳沃利的挺立，让所有艾欧尼亚人都知道了艾瑞莉娅的名字。他们把她看作是抵抗力量的领袖。她勉为其难，带领着日益壮大的反抗军浴血奋战了近三年时间，直到她终于在答禄湾把战败的杜廓尔逼到了绝境，亲手完成了她渴望已久的复仇。</p><p>虽然这场战争已经结束多年，艾欧尼亚却已经不复往日。初生之土四分五裂，互相敌对，战争的惨烈程度不下于诺克萨斯入侵时期。许多人仍然指望艾瑞莉娅可以解决这种局面。也许他们对这份力量求之不得，但艾瑞莉娅依旧惴惴不安。</p><p>在她心底，仍然渴望单纯的起舞。</p>",
+                "short": "诺克萨斯对艾欧尼亚的占领催生了许多英雄，但没有谁像纳沃利的艾瑞莉娅一般令人意外。她将家乡的古老舞艺化为战技，以精心修习的优雅身姿操控着致命的刀丛。在她证明了自己的战斗实力后，被众人推举为反抗军的领袖和首脑，为了守卫家园而奋斗至今。",
+                "quote": "我的起舞曾经只为自己。现在，我将这翩然献给初生之土。",
+                "quote-author": "艾瑞莉娅"
+            },
+            "headerImage": null
+        },
+        {
+            "type": "champion",
+            "release-date": "2011-02-01T00:00:00.000Z",
+            "name": "卡尔玛",
+            "title": "天启者",
+            "section-title": "卡尔玛",
+            "slug": "karma",
+            "associated-faction": "",
+            "associated-faction-slug": "ionia",
+            "image": {
+                "title": "karma-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt59efc8ca56191daa-Karma_0.jpg",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 1021,
+                "y": 11,
+                "featured-champions": []
+            },
+            "background": {
+                "title": "karma-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt59efc8ca56191daa-Karma_0.jpg",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 1021,
+                "y": 11,
+                "featured-champions": []
+            },
+            "url": "/zh_cn/champion/karma",
+            "video": null,
+            "races": [],
+            "roles": [
+                {
+                    "name": "法师",
+                    "slug": "mage"
+                },
+                {
+                    "name": "辅助",
+                    "slug": "support"
+                }
+            ],
+            "role": [
+                {
+                    "name": "法师",
+                    "slug": "mage"
+                },
+                {
+                    "name": "辅助",
+                    "slug": "support"
+                }
+            ],
+            "game-info-url": "https://lol.qq.com/web201310/info-defail.shtml?id=Karma",
+            "biography": {
+                "full": "<p>卡尔玛是一个古老艾欧尼亚人的灵魂在现世的化身，作为精神领域的灯塔，引领一代代后人。最近一次她的化身是一个名叫达尔哈的十二岁小女孩。她的童年在尚赞北方的高地度过，坚强而独立，一直都梦想着村落外面的生活。</p><p>但达尔哈开始断断续续看到一些奇怪的幻象。这些景象很奇特——感觉像是曾经的回忆，但女孩可以肯定自己从未亲身经历过这些事。起初尚可自欺欺人，但这些幻象越来越严重，以至于达尔哈觉得自己正在渐渐发疯。</p><p>就在她以为自己一辈子都要在疗养屋里度过的时候，一群僧人造访了她的村落。他们来自一个叫做长存之殿的地方，那里的圣师卡尔玛几个月前刚刚仙逝。僧侣们正在寻找那位老人的下一个转世化身，并相信就在这个村子中。他们对遇到的每一个人都进行了一系列核验，但最后只能两手空空悻悻而归。</p><p>就在他们路过疗养屋时，达尔哈从病床上一跃而起，冲出来拦住了他们。她向他们哭诉自己看到的幻象，还说她脑海中的呢喃就是这群僧人们的声音。</p><p>他们立刻就认出了迹象。这就是他们的卡尔玛。过去生生世世的景象涌入了新的载体。</p><p>那一瞬间永远改变了达尔哈的一生。她向自己所认识的一切道别，然后前往长存之殿接受僧侣们的授业。随后的年岁里，他们教会她如何与自己古代的灵魂沟通，女孩发现自己的声音被淹没于数千个前世化身的声音中，每个声音都呼吁着远古的智慧。卡尔玛始终都倡导和平与和谐，教诲人们恶行自有恶报，毋需理睬。</p><p>但即便在她已经<i>成为</i>卡尔玛以后，达尔哈还是不免对这些原则提出质疑。一些追随者对此疑惑不解。她既然已经承纳了初生之土最神圣的灵体，“艾欧尼亚之魂”，那为何还会对这些不言自明的哲理提出异议？</p><p>果不其然，当诺克萨斯入侵艾欧尼亚时，这些信念遭遇了真正的考验。随着诺克萨斯不断向内陆进犯，成千上万人命丧铁蹄之下，卡尔玛不得不面对战争的惨烈现实。她可以感受到自己灵魂中埋藏的无边破坏潜力不断膨胀着，同时开始自问，置之不用的力量有何意义？</p><p>曾经的那些声音敦促她留在长存之殿，留下来慰藉人们，放任争端自行消退。可是，还有一个更深刻的事实让她不得不采取行动。</p><p>这个念头让卡尔玛痛苦不已，直到她无法继续承受。她在一艘诺克萨斯战舰上与一位指挥官正面对峙，释放出神圣的怒火。但这不是拿捏得当的、仅针对一人的攻击——她让整支战舰上的船员在一次心跳之间全军覆没。</p><p>虽然艾欧尼亚人为这次表面上的胜利欢呼喜悦，但僧侣们认为她已铸成大错。她打扰了这片土地精神领域的和谐，让之前历任卡尔玛蒙羞，还玷污了她自己的不朽灵魂，甚至也牵连了她追随者们的灵魂。他们全都规劝她不要再继续制造伤害，即使他们心知肚明这可能意味着一辈子的独处、冥想和忏悔。</p><p>卡尔玛抬起一只手，所有人都安静了。虽然她依然可以听到脑海中的那些声音，但真正引导她的是她心中的艾欧尼亚之魂……甚至初生之土本身也激起自我保护的意志。她不知道自己被选中是不是因为拥有勇气和意志的力量，但她知道的是，有的时候和谐是需要为之付出巨大代价的。他们的世界在改变，而真正的智慧不是拒绝改变，而是接受事实。</p><p>虽然与诺克萨斯的战争如今早已结束，但艾欧尼亚中还有许多人变得愿意使用暴力快意恩仇，甚至对自己的左邻右舍也下得狠手。卡尔玛决心竭尽所能引导他们采取更加开明的方式——有可能的话就引向和平，有必要之时就采取行动。</p>",
+                "short": "<p>要说哪位英雄能代表艾欧尼亚的精神传统，没有谁比卡尔玛更合适。她是一个古代灵魂在当代的化身，经历过无数次转世，每次获得新生都会继承以前的全部记忆，同时也被赐予常人无法理解的力量。她在最近一次遭遇危难之时倾尽全力引领他的人民，但她知道，要获得和平与和谐，就必须付出重大代价——既是对她自己，也是对她深爱的土地。</p>",
+                "quote": "我会和艾欧尼亚一起改变",
+                "quote-author": "卡尔玛"
+            },
+            "headerImage": null
+        }
+    ],
+    "explore-champions": [
+        {
+            "type": "champion",
+            "release-date": "2009-09-02T00:00:00.000Z",
+            "name": "迦娜",
+            "title": "风暴之怒",
+            "section-title": "迦娜",
+            "slug": "janna",
+            "associated-faction": "",
+            "associated-faction-slug": "zaun",
+            "image": {
+                "title": "janna-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt59b4d88baa20e44b-Janna_0.jpg",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 1113,
+                "y": 148,
+                "featured-champions": []
+            },
+            "background": {
+                "title": "janna-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt59b4d88baa20e44b-Janna_0.jpg",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 1113,
+                "y": 148,
+                "featured-champions": []
+            },
+            "url": "/zh_cn/champion/janna",
+            "video": null,
+            "races": [],
+            "roles": [
+                {
+                    "name": "辅助",
+                    "slug": "support"
+                },
+                {
+                    "name": "法师",
+                    "slug": "mage"
+                }
+            ],
+            "role": [
+                {
+                    "name": "辅助",
+                    "slug": "support"
+                },
+                {
+                    "name": "法师",
+                    "slug": "mage"
+                }
+            ],
+            "game-info-url": "https://lol.qq.com/web201310/info-defail.shtml?id=Janna",
+            "biography": {
+                "full": "<p>从很古老的时代开始，就有人向风祈祷。其中既有盼望好天气的水手，也有祈求变革的受压迫者，总之有许多凡人都将自己的希望寄托在符文之地上呼啸而过的烈风湍流中。</p><p>令人感到惊讶的是，有的时候风似乎会回应他们。航海家们有时会看到一只天蓝色的青鸟出现，随之而来的就是一阵强风吹满风帆。还有人发誓他们在一场风暴到来之前听到了一声哨音，就像是在为他们预警。随着这些神奇的预兆口口相传，那只青鸟的出现也愈发频繁。有人发誓他们看到了这只鸟变成了一个姑娘。她长着长长的尖耳朵，长发飘逸，据说这位神秘的圣女飘浮在水面上，手中的法杖轻轻挥动，就能为风指引方向。</p><p>虔诚之人称呼这个风之精灵为<i>迦恩-阿蕾姆</i>，古恕瑞玛语中“守护者”的意思，因为她似乎总是在最危难的时刻出现。随着时间流逝，她的名字被简化成了迦娜。</p><p>迦娜的名字传遍了恕瑞玛大陆的海岸，欧什拉•瓦祖安的居民是最热忱的信徒。他们仰仗着风平浪静的海面为城市的港口带来贸易商船。为了感谢迦娜的仁爱，他们竖起了一座座雕像和神龛。即使是在恕瑞玛帝国吞并这座城市以后，这种信仰的表现也依然延续……只是好景不长。</p><p>皇帝颁布法令，禁止崇拜“虚假神像”，于是迦娜的雕像纷纷被推倒。然而即便越来越多的人开始崇拜飞升的天神战士，还是有许多人在暗中悄悄对迦娜祈祷，毕竟，天神战士能保护船只不遭遇风暴吗？这些人经常会佩戴青鸟图案的护身符——更小巧、更隐蔽的象征，致敬着迦娜。</p><p>在政策与对策的较量中，迦娜一直都在帮助那些有求于她的弱者。在一个充满变革的地方，她始终都不曾离开。那些爱好历史的人大多会认同一个十分反讽的洞见：“变革之风”是世间唯一<i>不变</i>的东西。</p><p>帝国陨落以后，曾经葱郁的土地变成了沙漠，残存于世的飞升者制造着战争和混乱——然而迦娜却始终在动荡和纷争中庇佑着这座城市，只是它的名字已经简化成了祖安。</p><p>几百年来，迦娜见证着祖安的野心不断壮大。虽然这座城市依然是繁荣的贸易港，但这里的居民却有更远大的抱负。他们梦想着在脚下这道地峡上凿出一条运河，在瓦洛兰和恕瑞玛两块大陆之间打通海路。这座城市倾注了巨大的人力、财力和时间进行建造。迦娜收到的祈祷变少了，因为凡人们的梦想全都集中在凡人自己的机关设计之中。</p><p>谁知，运河的开凿让很大一部分的祖安城变得不稳定。在那灾变的那一天，皮尔特河边的一整片城区都下沉到了西侧海平面以下，数千人突然之间陷入汹涌的海潮中，垂死挣扎。</p><p>当这些不幸的灵魂面临死亡时，他们祈求天降拯救。他们喊出了记忆中最古老的的守护者的名字：</p><p>迦娜。</p><p>虽然这些凡人如今大难临头才想起她，但迦娜毫不犹豫地伸出了援手。一阵飓风席卷城市，她化为实体。超乎想象的气墙阻挡了汹涌的洪流，让人们逃出被淹没的家园。猛烈的狂风冲破了失火处的浓烟。虽然她拯救了许多人，但那一天依然有数千人殒命，不过，所有幸存者都见证了迦娜的仁爱。这座城市的人们再也不会忘记他们的救命恩人。</p><p>现如今，虽然皮尔特沃夫拔地而起、祖安摸爬滚打，但迦娜的信众无论在哪都佩戴者青鸟的护符，对风毕恭毕敬。纵然世事无常，但迦娜却永远都坚定地站在卑微低贱、逆来顺受的一方。祖安人都知道，无论他们要对抗祖安灰霾的毒雾、炼金男爵的暴行还是其他任何威胁，迦娜都不会抛弃他们。</p>",
+                "short": "作为悠久而神秘的风之精灵，如今的迦娜保护着祖安的穷苦百姓。虽然她最常现身的形式是柔和的轻风或猛烈的龙卷，但她也能化成仙女般的实体，安慰困境中的人们。万古以来，迦娜见证了文明的兴衰起落。自始至终，她都是一座屹立不倒的灯塔信标，让绝望之人看到希望。",
+                "quote": "“不要畏惧变革之风——它永远都会助你前行。”",
+                "quote-author": "迦娜"
+            },
+            "headerImage": null
+        },
+        {
+            "type": "champion",
+            "release-date": "2013-10-10T00:00:00.000Z",
+            "name": "金克丝",
+            "title": "暴走萝莉",
+            "section-title": "金克丝",
+            "slug": "jinx",
+            "associated-faction": "",
+            "associated-faction-slug": "zaun",
+            "image": {
+                "title": "jinx-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt107f004fd12ef551-Jinx_0.jpg",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 901,
+                "y": 82,
+                "featured-champions": []
+            },
+            "background": {
+                "title": "jinx-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt107f004fd12ef551-Jinx_0.jpg",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 901,
+                "y": 82,
+                "featured-champions": []
+            },
+            "url": "/zh_cn/champion/jinx",
+            "video": {
+                "title": "jinx-splashvideo-webm",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt5f5448c0a40a7b77-jinx-splashvideo.webm",
+                "encoding": "video/webm",
+                "width": 1280,
+                "height": 720,
+                "x": 901,
+                "y": 82,
+                "featured-champions": []
+            },
+            "races": [],
+            "roles": [
+                {
+                    "name": "射手",
+                    "slug": "marksman"
+                }
+            ],
+            "role": [
+                {
+                    "name": "射手",
+                    "slug": "marksman"
+                }
+            ],
+            "game-info-url": "https://lol.qq.com/web201310/info-defail.shtml?id=Jinx",
+            "biography": {
+                "full": "<p>虽然大多数人眼中的金克丝只是个疯子，还操着一大堆危险的武器，但少数人还记得她曾经是个<em>相对来说</em>没什么坏心的祖安女孩，一个异想天开、从不合群的修补匠。没人知道发生了什么事，把那个可爱的小女孩变成了一个放浪形骸、毁天灭地的疯子。但当金克丝在皮尔特沃夫爆炸登场的时候，她制造混乱的独特天赋立刻就成为了街头巷尾的奇谈。</p>\n<p>金克丝的昭彰恶名最初来自一些对皮城市民的匿名“恶作剧”。她尤其喜欢捉弄那些与富商家族有联系的人。恶作剧的种类下至无伤大雅，上至危险犯法。她曾在进化日当天，从梅伯爵的动物园里放出了一堆异域走兽，把大街小巷堵得水泄不通。她还曾连续好几个星期骚扰皮城的正常贸易，因为她在城中大大小小的桥上摆出了一排排可爱又要命的嚼火者手雷。还有一次，她甚至把城里所有的路牌都搬弄了一遍，重新立在莫名其妙的地方。</p>\n<p>虽然这个惹事精的捣蛋目标似乎十分随机，而且捣蛋的动机也单纯是制造混乱，但她的所作所为总是能让城市中井然有序的忙碌戛然而止。</p>\n<p>守卫们想当然地认为，来自地下城市的炼金黑帮应该负责。看到自己的风头给别人抢了，金克丝可不服气。所以从那以后，她每一次都会在犯罪现场众目睽睽之下主动亮相。于是很快就开始有许多传闻都提到一个来历不明的青发祖安女孩，随身带着炼金炸药、鲨鱼嘴火箭炮和机关枪。尽管如此，执法部门还是将这些目击报告当成无稽之谈。毕竟，一个下层街巷里的混混，哪有本事搞到此等杀伤力的武器呢？</p>\n<p>金克丝的连环爆破似乎永不停歇，而守卫们抓捕嫌犯的努力却每每化作泡影。她开始在自己留下的废墟现场画上一些生动的涂鸦和挑衅的文字，指名道姓地向一个人喊话——皮城警长对抗罪案的新搭档，执法官蔚。</p>\n<p>金克丝的名声越来越大，祖安人也分成了两派，一派说她是个英雄，因为她只跟高高在上的皮城佬过不去，而另一边则说她是个危险的疯子，她做的事正在让两座城市之间的紧张气氛不断升级。</p>\n<p>经过数月间愈演愈烈的暴行，金克丝公布了她当时最宏大的计划。她用自己标志性的亮粉色字迹，在皮城最安全的黄道地库的外墙上乱涂乱画，除了一幅<em>非常</em>不严肃的漫画版执法官蔚，还详细说明了对地库内部众多隔仓的抢劫意图。</p>\n<p>日子一天天临近，皮城和祖安都弥漫着一股躁动的期待。很多人怀疑即使是金克丝，也不敢冒着铁定被逮捕的风险来抛头露面。</p>\n<p>抢劫的日子来了，蔚、凯特琳和其他守卫在金库外布下了天罗地网。但金克丝早在好几天前，就藏在一个巨大的硬币箱里，被神不知鬼不觉地送进去了。当蔚听到建筑内部爆发出一片嘈杂时，她立刻就意识到守卫们又被耍了。她突入库门，随后发生的交战让黄道地库变成了冒烟的废墟，而那个开心的捣蛋鬼金克丝早已不知所踪。</p>\n<p>金克丝直到今天仍然逍遥法外，始终都是皮尔特沃夫的肉中刺。她的手法引来了许多炼金混混模仿作案；她的事迹催生了好几部讽刺剧，公开讥讽守卫的无能；她的涂鸦甚至还让两座城市中诞生了一些模棱两可的新俚语——不过目前为止还没人敢当面管执法官蔚叫做“<em>粉嫩嫩</em>。”</p>\n<p>无论是金克丝的最终目标，还是她表露无余的对于蔚的执迷，都始终无人猜透，但有一件事可以肯定：她的犯罪行径将无休无止，而且无法无天。</p>",
+                "short": "神经狂躁、冲动任性、劣迹斑斑……金克丝出身自祖安，生来就爱不计后果地大搞破坏。她就是一座人形自走军火库，所经之处必定会留下夺目的火光和震耳的爆炸。金克丝最讨厌无聊，所以不管她去到哪里，混乱和骚动就会如期而至，这就是她留下的“到此一游”。",
+                "quote": "“暴走的炸药就是女孩子最好的伙伴！”",
+                "quote-author": "金克丝"
+            },
+            "bioImage": null,
+            "headerImage": null
+        }
+    ],
+    "modules": [
+        {
+            "slug": "幻梦池",
+            "type": "story-preview",
+            "title": "幻梦池",
+            "subtitle": "作者：Anthony Reynolds",
+            "description": "<i>逐渐昏暗下来的森林美不胜收，不过女孩无心观赏，跺着脚走在蜿蜒曲折的小路上。</i>",
+            "story-slug": "the-dreaming-pool",
+            "featured-image": {
+                "title": "the-dreaming-pool-bg-image",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/bltefd612ff5cfb6634-the-dreaming-pool-bg-image.jpg",
+                "encoding": "image/jpeg",
+                "width": 1920,
+                "height": 1080,
+                "x": 1275,
+                "y": 473,
+                "featured-champions": []
+            },
+            "background": {
+                "title": "the-dreaming-pool-bg-image",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/bltefd612ff5cfb6634-the-dreaming-pool-bg-image.jpg",
+                "encoding": "image/jpeg",
+                "width": 1920,
+                "height": 1080,
+                "x": 1275,
+                "y": 473,
+                "featured-champions": []
+            },
+            "release-date": "2018-06-30T15:00:00.000Z",
+            "featured-champions": [
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                }
+            ],
+            "minutes-to-read": 5,
+            "url": "/zh_cn/story/the-dreaming-pool"
+        },
+        {
+            "slug": "syndra-image-gallery",
+            "type": "image-gallery",
+            "section-title": "",
+            "isFanArt": false,
+            "fan-art-url": "",
+            "featured-image": "",
+            "title": "",
+            "subtitle": "",
+            "assets": [
+                {
+                    "title": "辛德拉设计变更",
+                    "subtitle": "",
+                    "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blte52e5ac0037746cb-syndra_design.jpg",
+                    "encoding": "image/jpeg",
+                    "width": 1920,
+                    "height": 769,
+                    "x": 630,
+                    "y": 59,
+                    "featured-champions": []
+                },
+                {
+                    "title": "辛德拉终版彩色版",
+                    "subtitle": "",
+                    "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt1cf64f07a9f3d36e-syndra_final.jpg",
+                    "encoding": "image/jpeg",
+                    "width": 1596,
+                    "height": 1080,
+                    "x": 869,
+                    "y": 135,
+                    "featured-champions": []
+                }
+            ],
+            "featured-champions": [
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                }
+            ]
+        },
+        {
+            "slug": "syndra-artspotlight",
+            "type": "featured-video",
+            "section-title": "",
+            "featured-image": {
+                "title": "featuredvideocover-syndra-artspotlight",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt5804c28b0a11fd0d-syndra-artspotlight.png",
+                "encoding": "image/jpeg",
+                "width": 1814,
+                "height": 1070,
+                "x": 948,
+                "y": 499,
+                "featured-champions": []
+            },
+            "title": "辛德拉美术作品介绍",
+            "subtitle": "",
+            "description": "暗黑元首辛德拉壮丽战斗快速回顾。",
+            "uri": "https://v.qq.com/x/page/i0363lizfhf.html",
+            "video": {
+                "type": "video",
+                "title": "",
+                "subtitle": "",
+                "description": [],
+                "uri": "https://v.qq.com/x/page/i0363lizfhf.html",
+                "width": "",
+                "height": "",
+                "x": "",
+                "y": "",
+                "featured-champions": []
+            },
+            "blackout": null,
+            "release-date": "2012-09-10T15:00:00.000Z",
+            "video-type": "art-spotlight",
+            "featured-champions": [
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                }
+            ],
+            "related-champions": [
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                }
+            ]
+        },
+        {
+            "slug": "syndra-login",
+            "type": "featured-video",
+            "section-title": "",
+            "featured-image": {
+                "title": "syndra-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt025e70eaad333d81-Syndra_0.jpg",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 1022,
+                "y": 69,
+                "featured-champions": []
+            },
+            "title": "暗黑元首辛德拉登录界面",
+            "subtitle": "",
+            "description": "",
+            "uri": "https://v.qq.com/x/page/b0363mqukhr.html",
+            "video": {
+                "type": "video",
+                "title": "",
+                "subtitle": "",
+                "description": [],
+                "uri": "https://v.qq.com/x/page/b0363mqukhr.html",
+                "width": "",
+                "height": "",
+                "x": "",
+                "y": "",
+                "featured-champions": []
+            },
+            "blackout": null,
+            "release-date": "2012-09-13T15:00:00.000Z",
+            "video-type": "champ-login-music",
+            "featured-champions": [
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                }
+            ],
+            "related-champions": [
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                }
+            ]
+        }
+    ]
+}

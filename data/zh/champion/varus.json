@@ -1,0 +1,569 @@
+{
+    "id": "varus",
+    "name": "韦鲁斯",
+    "title": "惩戒之箭",
+    "locale": "zh_cn",
+    "champion": {
+        "type": "champion",
+        "release-date": "2012-05-08T00:00:00.000Z",
+        "name": "韦鲁斯",
+        "title": "惩戒之箭",
+        "section-title": "韦鲁斯",
+        "slug": "varus",
+        "associated-faction": "",
+        "associated-faction-slug": "ionia",
+        "image": {
+            "title": "varus-splash",
+            "subtitle": "",
+            "description": "",
+            "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blta3a77808520e8966-varus-splash.jpg",
+            "encoding": "image/jpeg",
+            "width": 1920,
+            "height": 1133,
+            "x": 1034,
+            "y": 0,
+            "featured-champions": []
+        },
+        "background": {
+            "title": "varus-splash",
+            "subtitle": "",
+            "description": "",
+            "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blta3a77808520e8966-varus-splash.jpg",
+            "encoding": "image/jpeg",
+            "width": 1920,
+            "height": 1133,
+            "x": 1034,
+            "y": 0,
+            "featured-champions": []
+        },
+        "url": "/zh_cn/champion/varus",
+        "video": null,
+        "races": [
+            {
+                "name": "暗裔",
+                "slug": "darkin"
+            }
+        ],
+        "roles": [
+            {
+                "name": "射手",
+                "slug": "marksman"
+            },
+            {
+                "name": "法师",
+                "slug": "mage"
+            }
+        ],
+        "role": [
+            {
+                "name": "射手",
+                "slug": "marksman"
+            },
+            {
+                "name": "法师",
+                "slug": "mage"
+            }
+        ],
+        "game-info-url": "https://lol.qq.com/web201310/info-defail.shtml?id=Varus",
+        "biography": {
+            "full": "<p>无论后来他变成了什么样子，韦鲁斯都曾是忠诚与荣誉的楷模。身为古恕瑞玛帝国的熟练弓手，他被指派守护东部地区的一座神庙，而他将此看作至高无上的职责。</p><p>在艾卡西亚战争初期，韦鲁斯的家乡虽然与那片诅咒之地相距甚远，却依然遭到了袭击。其他守卫纷纷离岗前去防守周边的村镇，但韦鲁斯却一个人留在了神庙里。每一支射出的箭矢都伴随着他痛彻心扉的怒吼——因为他选择坚守誓言，而没有返乡保护自己的家人。</p><p>飞升之团的使者们找到他时，只见他跪在遍地的敌人尸体之间肃穆地冥想。据说，他冰冷的凝视就连天神战士也会感到不安。尽管如此，为了表彰他可贵的奉献，他们邀请韦鲁斯加入飞升者的行列。</p><p>作为伟大的飞升者之一，他满心的念头却只是为了向艾卡西亚和虚空寻仇。似乎韦鲁斯并没有理解恕瑞玛最终赢下了那场战争，几百年后也并不完全清楚帝国是如何陷落的，他的心智变得无比地扭曲。一桩桩接连不断的暴行，让他成为了一个孤僻、冷血的杀手。堕落的同胞们将他一次次地送进战场。</p><p>而他们的名字在当今世界令人闻之丧胆。</p><p>暗裔。</p><p>他们一边内斗，一边毁灭任何胆敢与之为敌的人。韦鲁斯手中的水晶长弓专门用于刺杀敌军的长官和英雄，让暗裔更加轻松地剿灭凡人的军团。</p><p>最后，一位披着黄金铠甲的瓦洛兰武后麾下的瓦斯塔亚追月者以及人类法师团将韦鲁斯逼到了绝境。他们将他封印在了那把长弓之中，任凭他如困兽一般嚎哭不止。彼时，暗裔的腐化力量已经为人所知，但这位武后在战争的最后阶段还是决定亲自使用这把致命的武器，她为了伟大的胜利而毅然牺牲了自己。</p><p>之后过了数月，武后带着韦鲁斯来到了初生之土——后来人们称之为艾欧尼亚。此时，弓上的力量已经让她变得可怖不堪，她最后的命令就是让随行者将她活埋在一口无光的井底，深藏在俯瞰着帕拉斯的高山庙宇中。</p><p>韦鲁斯被艾欧尼亚的自然魔力和神庙守卫的仪轨牢牢禁锢着。</p><p>长弓深藏了数百年，无人知晓，无人触及，已被遗忘。直到诺克萨斯人入侵了初生之土。两位怪兽猎人，瓦尔茂和灵犀之侣凯伊，在帕拉斯神庙与第一批登陆的侵略者作战。虽然他们勇气可嘉，也击退了来犯的敌人，但凯伊也受到了致命伤。悲痛万分的瓦尔茂把他背进神庙，希望井中的禁忌魔力能够挽救凯伊的生命。</p><p>但这座神庙只会带来诅咒。两人都被释放出来的暗裔之力侵蚀了。他们的身体分崩离析，然后相互缠结成一具新的躯壳。这具躯壳正好可以将韦鲁斯从禁锢中解脱。从井中爬出的是一个完形生物，苍白而非人般地优美，一部分是人类，一部分是暗裔。经过上千年的等待，韦鲁斯重生了。</p><p>即便如此，在这具不完美的躯壳里，人类和暗裔的精魂此起彼伏，每一方都能短暂地占据上风，然后又被对方压过。韦鲁斯只想让两个凡人的灵魂永远地沉默，然后为他的同胞们报仇。同时，凯伊和瓦尔茂奋力地抵抗着韦鲁斯的恶意，希望彼此间的眷恋能够最终征服暗裔的仇恨。</p><p>到底他们能与韦鲁斯抗衡多久，没人能够确定。但是如果这个酷虐又自大的杀手完全掌控了这具身体，他就会想办法与自己的同胞重聚，再将符文之地化作遍布灰烬的荒原。</p>",
+            "short": "<p>韦鲁斯是一名来自远古的暗裔。身为一名冷血的杀手，他最爱的就是用箭矢折磨敌人。先让他们失心发疯，再了结他们的性命。韦鲁斯虽然在暗裔大战结束后便遭囚禁，但却在几百年后成功逃脱，寄宿于两位艾欧尼亚猎人再造的血肉之躯中。这二人无意之间释放了韦鲁斯，从此便背上了那把蕴含着韦鲁斯精魄的长弓。如今的韦鲁斯寻找着那些囚禁他的人，急欲施行报复，但体内的两个灵魂却在阻挠他的每一步行动。</p>",
+            "quote": "“你们没有把我们彻底毁灭，这个失误带来了你们的末日。”",
+            "quote-author": "韦鲁斯"
+        },
+        "headerImage": null
+    },
+    "related-champions": [
+        {
+            "type": "champion",
+            "release-date": "2013-06-13T19:43:26.000Z",
+            "name": "亚托克斯",
+            "title": "暗裔剑魔",
+            "section-title": "亚托克斯",
+            "slug": "aatrox",
+            "associated-faction": "",
+            "associated-faction-slug": "unaffiliated",
+            "image": {
+                "title": "aatrox-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blta877c35110144de9-aatrox-splash.jpg",
+                "encoding": "image/jpeg",
+                "width": 1920,
+                "height": 1080,
+                "x": 1351,
+                "y": 346,
+                "featured-champions": []
+            },
+            "background": {
+                "title": "aatrox-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blta877c35110144de9-aatrox-splash.jpg",
+                "encoding": "image/jpeg",
+                "width": 1920,
+                "height": 1080,
+                "x": 1351,
+                "y": 346,
+                "featured-champions": []
+            },
+            "url": "/zh_cn/champion/aatrox",
+            "video": {
+                "title": "aatrox-splashvideo-webm",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt70c132451a5e61fc-aatrox-splashvideo.webm",
+                "encoding": "video/webm",
+                "width": 1920,
+                "height": 1071,
+                "x": 1351,
+                "y": 346,
+                "featured-champions": []
+            },
+            "races": [
+                {
+                    "name": "暗裔",
+                    "slug": "darkin"
+                }
+            ],
+            "roles": [
+                {
+                    "name": "战士",
+                    "slug": "fighter"
+                },
+                {
+                    "name": "坦克",
+                    "slug": "tank"
+                }
+            ],
+            "role": [
+                {
+                    "name": "战士",
+                    "slug": "fighter"
+                },
+                {
+                    "name": "坦克",
+                    "slug": "tank"
+                }
+            ],
+            "game-info-url": "https://lol.qq.com/web201310/info-defail.shtml?id=Aatrox",
+            "biography": {
+                "full": "<p>许多传说都曾提到过暗裔魔剑，有的描述他是天神，也有的说他是恶魔。但很少有人知道他的真名，以及他是如何败落的。</p><p>上古时代，远在黄沙吞噬帝国之前，一位伟大的恕瑞玛英雄被带到了太阳圆盘面前，成为一个如今无人记得的星间信念的化身。当他被重塑为飞升者之后，他的双翼彷如黎明时分的金光，盔甲闪亮，如同深空巨帷背后引人遥望的星座。</p><p>亚托克斯就是他的真名。他在每一场高贵的战斗中都冲锋在前。他真诚待人、领兵有方，其他天神战士总是聚在他的麾下，身后则跟随着一万名恕瑞玛的凡人士兵。当飞升武后瑟塔卡因为艾卡西亚的叛乱而寻求他的帮助时，亚托克斯毫不犹豫地应允了。</p><p>但是，没人能预料到当地的叛军后来竟然释放出了如此恐怖的力量。虚空转瞬间反客为主，吞噬了艾卡西亚，之后便开始毁灭一切所遭遇的生灵。</p><p>经过多年苦战，亚托克斯和他的同胞终于遏制住了虚空狂乱的扩张，并将最大的裂口烧熔封铸了起来。但是，活下来的飞升者——他们自称为太阳血脉，却被他们的敌人永远地改变了。虽然恕瑞玛得胜了，但他们全都失去了一些东西……高贵的亚托克斯也不例外。</p><p>时光流逝，恕瑞玛也陨落了。正如所有帝国的命运。</p><p>没有了誓死守卫的王权，虚空的威胁也不再迫切，亚托克斯和太阳血脉开始互相争斗，最终演变成了一场战争，毁灭了他们的世界。侥幸逃脱的凡人给了他们一个新的名字，也是一个蔑称：暗裔。</p><p>正如虚空的侵袭一样，因为担忧堕落的飞升者们也会危及符文之地的生存，巨神族便出手干涉了。据说，暮光星灵传授给了凡人禁锢暗裔的手段，而新近重生的战争星灵联合起了大军对抗他们。亚托克斯和他的军队何曾畏惧，早已蓄势待发。但是，等到他发觉自己中计的时候已经太晚了。一股比上千颗死去的恒星更强大的引力将他拖入了他手中随他出征无数次的巨剑，把他不朽的精魂永远地锁闭在内。</p><p>这把武器是一座监狱，将他的意识封禁在密不透风的永恒黑暗里，甚至剥夺了他自我了断的能力。他与这地狱般的桎梏拉扯了数百年，直到某个愚蠢透顶的无名氏再次抓起这把巨剑。亚托克斯把握住机会，强行将意志注入到宿主体内，并模仿自己原本的形象重塑了宿主的躯体，同时也夺去了宿主的生命。此后数年间，亚托克斯侵占了许多宿主——无论男女，只要是生机勃勃，或是刚毅非凡。虽然他所掌握的魔法不算精深，但他却能在转瞬间便夺取凡人的身体。而且在战斗中，他发觉死去的人也能为他所用，把自己变得更加健硕强壮。</p><p>亚托克斯在大地上巡游，不停地竭力寻找能够让他重回飞升之身的办法，但这把剑身上的谜团最终也无法解开，并且他也意识到自己永远也不能获得自由。强夺而来并残忍重塑的血肉愈发地像是一种嘲弄，嘲弄着他曾经的荣光——而那也不过是另一个比巨剑稍微大一些的牢笼罢了。绝望与羞愧在他心中滋长。他曾经所代表的神力，和他所有的记忆统统都被抹去了。</p><p>不公的命运令他出离地愤怒了。而他最终想到的办法，完全是一个囚犯刻骨的绝望。如果他不能摧毁这把剑，也不能解脱自己，那他就拥抱湮灭好了。</p><p>现在，亚托克斯怀抱着这无情的决心，沿途散布战争和死亡。他心中只剩下一个盲目的期望：如果他可以把一切造物都拖进一场最终的末日之战——一切都会因此毁灭——那么也许他和这把剑也会永远地不复存在。</p>",
+                "short": "<p>亚托克斯曾是恕瑞玛抗击虚空时的伟大战士。但是，他和他的同胞却有可能变成符文之地更大的威胁。最终，他们败给了凡人的狡诈巫术，自身的精魂被锁在了武器之内。数百年的监禁之后，亚托克斯头一个挣脱出来，腐蚀并转化那些胆敢染指的蠢人。现在，他将夺来的血肉模仿着自己曾经的形象粗暴地重塑，渴望着迟来许久的末世复仇。</p>",
+                "quote": "“我必须连同希望一起毁坏……”",
+                "quote-author": "亚托克斯"
+            },
+            "headerImage": null
+        },
+        {
+            "type": "champion",
+            "release-date": "2017-07-10T00:00:00.000Z",
+            "name": "凯隐",
+            "title": "影流之镰",
+            "section-title": "凯隐",
+            "slug": "kayn",
+            "associated-faction": "",
+            "associated-faction-slug": "ionia",
+            "image": {
+                "title": "kayn-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt8c19d1dbd195fa20-kayn-splash-resized.jpg",
+                "encoding": "image/jpeg",
+                "width": 1920,
+                "height": 1134,
+                "x": 975,
+                "y": 579,
+                "featured-champions": []
+            },
+            "background": {
+                "title": "kayn-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt8c19d1dbd195fa20-kayn-splash-resized.jpg",
+                "encoding": "image/jpeg",
+                "width": 1920,
+                "height": 1134,
+                "x": 975,
+                "y": 579,
+                "featured-champions": []
+            },
+            "url": "/zh_cn/champion/kayn",
+            "video": null,
+            "races": [
+                {
+                    "name": "暗裔",
+                    "slug": "darkin"
+                }
+            ],
+            "roles": [
+                {
+                    "name": "刺客",
+                    "slug": "assassin"
+                }
+            ],
+            "role": [
+                {
+                    "name": "刺客",
+                    "slug": "assassin"
+                }
+            ],
+            "game-info-url": "",
+            "biography": {
+                "full": "<p>悉达·凯隐生在诺克萨斯，幼年时便被征召入伍，编成了童兵。带领这支残酷部队的是勃朗·达克威尔治下最阴险的军官。在纳沃利的普雷西典惨败之后，这场侵略演变成了持久的消耗战。艾欧尼亚人的怜悯成了可被利用得弱点——他们的战士会在看似无辜的人面前犹豫不决。所以勉强扛得动刀剑的凯隐参战的第一天就基本相当于他的死期。</p><p>为了突袭巴鲁鄂省，诺克萨斯的部队选择在衣浦河口登陆。凯隐和其他孩子被勉强编作先头部队，面对的是为了抵抗去而复返的侵略者而混乱组织起来的地方武装。他年少的战友要么战死，要么当了逃兵，但凯隐却毫无惧色。他甩下重剑，抄起了一把镰刀，直面着震惊的艾欧尼亚人。这时，诺克萨斯的正规部队从侧翼包抄了过来。</p><p>接下来是一场让人不忍目睹的屠杀。农夫、猎人——甚至还有一些瓦斯塔亚人——全都被干脆利落地斩杀殆尽。</p><p>两天后，战事传遍了南部诸省，影流教派循风而来。影流之主劫知道这个地区毫无战略价值。这场屠杀只是一个声明：诺克萨斯绝不留情。</p><p>一道金属的闪光吸引了他的注意。一个顶多十岁的男孩躺在污泥里，对着刺客大师平举起一把残破的镰刀，血迹斑驳的指关节因用力而发白。男孩眼里蕴含着与他年龄极不相符的痛苦，却又燃烧着一个刚强的战士才有的怒火。这种顽强可不是教得会的。劫看着男孩。这个诺克萨斯的弃儿有资格成为一把武器，反过来对付送他走上死路的敌人。劫伸出手，欢迎凯隐加入了影流。</p><p>影流的信徒们往往要花上多年时间操练自己选中的一件武器，但无论什么兵器凯隐全都能熟练地掌握——对他来说，这些东西都只是工具，而他本身就是武器。他觉得盔甲只是笨重的负担，所以他将自己包裹在黑影里，出其不意，迅雷不及掩耳地刺杀敌人。那些侥幸逃脱的人，四处传说着防不胜防的刺杀，恐惧也随之蔓延。</p><p>凯隐声名鹊起，他的自负也日增月涨。他真心相信总有一天，他的力量甚至会超越劫。</p><p>这份自负让凯隐迎来了自己的最终考验：寻找一把最近于诺克萨斯出土的暗裔武器，保护疲弱的艾欧尼亚守军不被残害。他毫不犹豫地接受了，完全没有想过为什么要选他去执行这个任务。实际上，换作别人就想要毁掉这把名为拉亚斯特的活体巨镰，但凯隐却据为了己有。</p><p>他的手指一碰到镰刀，腐化就开始将二者束缚在一起，命中注定地缠斗下去。拉亚斯特为了一个完美的宿主等待了许久，只为与暗裔的同族重聚，将世上的生灵一举剿灭，但凯隐不会轻易地被占据。他志得意满地回到了艾欧尼亚，相信劫将会保荐他为影流教派的新领袖。</p>",
+                "short": "<p>悉达·凯隐是暗影魔法的天纵之才，他战斗的意义，是为了实现自己真正的命运——为了有朝一日能够率领影流教派，开创艾欧尼亚霸业的新世代。凯隐挥舞着活体暗裔武器拉亚斯特，毫不在意它给自己身体和思想带来的腐化。这样后果只可能有两种：要么凯隐驯服这把武器屈从自己的意志；要么，这恶毒的刀刃将他彻底吞噬，为符文之地的毁灭铺平道路。</p>",
+                "quote": "“孩童已死，杀手永存。”",
+                "quote-author": "凯隐"
+            },
+            "headerImage": null
+        }
+    ],
+    "explore-champions": [
+        {
+            "type": "champion",
+            "release-date": "2011-03-15T00:00:00.000Z",
+            "name": "魔腾",
+            "title": "永恒梦魇",
+            "section-title": "魔腾",
+            "slug": "nocturne",
+            "associated-faction": "",
+            "associated-faction-slug": "unaffiliated",
+            "image": {
+                "title": "nocturne-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/bltd965a4717b06eef3-Nocturne_0.jpg",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 870,
+                "y": 208,
+                "featured-champions": []
+            },
+            "background": {
+                "title": "nocturne-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/bltd965a4717b06eef3-Nocturne_0.jpg",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 870,
+                "y": 208,
+                "featured-champions": []
+            },
+            "url": "/zh_cn/champion/nocturne",
+            "video": null,
+            "races": [],
+            "roles": [
+                {
+                    "name": "刺客",
+                    "slug": "assassin"
+                },
+                {
+                    "name": "战士",
+                    "slug": "fighter"
+                }
+            ],
+            "role": [
+                {
+                    "name": "刺客",
+                    "slug": "assassin"
+                },
+                {
+                    "name": "战士",
+                    "slug": "fighter"
+                }
+            ],
+            "game-info-url": "https://lol.qq.com/web201310/info-defail.shtml?id=Nocturne",
+            "biography": {
+                "full": "<p>虽说一切魔法都可能充满危险和无常，但有一些魔法形式或类别即使是那些最高超的法师和巫师都对其敬而远之，这可不是没道理的。几百年来，“暗影魔法”始终都是整个符文之地上的禁忌，因为所有人都害怕那曾一度肆虐于世的恐怖再度被它唤醒。</p><p>那些恐怖之物当中的最甚者，是有名字的，它的名字是魔腾。</p><p>在符文战争末期，由魔法战士组成的秘密团体为了各自的胜利不择手段，寻找任何可能打压对手的方式。虽然现存的记录没有记载他们的名字，但他们是第一批抛弃自己血肉并进入灵魂领域的人，人们只知道他们互相追猎，他们的猎场不仅在战场上，而且也在他们自己潜意识的思想与情绪塑造的领域中。没有了物质现实法则的束缚，他们战斗的方式让大多数凡人的头脑无法理解，他们甚至能够塑造出虚幻缥缈的刺客执行命令。暗影法师似乎非常擅长这种事——所以有一段时间，他们主宰了灵魂领域，将其送进薄暮。</p><p>各地各处的凡人思绪都受到了这黑暗的沾染。它吸干他们的斗志，侵扰他们的梦境，让无名的恐惧日日夜夜咬住他们不放，甚至导致一些人对自己的同胞犯下骇人听闻的恐怖罪行。</p><p>没人能说清楚，究竟是这些苦难从无到有地造就了魔腾，还是某个低级的刺客构造体受到它的腐化变成了某种更加自我、更加夺命的存在，但无论是哪种情况，都让这个新生的暗影生物具备了非物质的形体和不可捉摸的恐怖。魔腾不理解任何友善、荣誉或高尚——它是恐惧的实体化身，不需要那些自我约束和控制。</p><p>这个恶魔般的生物在灵魂领域嚎叫着，扑向了那些离经叛道的愚蠢法师，那些曾经给予它生命的人，它不顾一切地鞭笞，希望能够终结自己的苦难。它始终忍受着痛苦，而这种痛苦让它残酷，但它很快就喜欢上了凡人恐惧的味道。在它的领域，时间几乎没有意义，但魔腾会尽可能延长每一次追逐，细细品味猎物的剧痛，然后再顷刻间切断他们的最后一线生命。很快，已经没人敢再进入魔腾的领域了。</p><p>如果这个恶魔没有在帷幕的另一侧采取行动，符文战争会不会有另外的结果？很难说，但到了后来，所剩无几的关于暗影魔法的传说被人藏匿了起来，使用这种魔法也被许多地方的人等同于死亡判决。</p><p>灵魂领域成为了牢笼，只有寥寥无几的闯入者维持着这个领域，而魔腾也变得饥肠辘辘。只有一样东西的味道接近它曾品尝过的恐惧大餐，那就是当凡人的思绪在睡梦中不知不觉地飘过虚无。魔法的波流划分着两个领域间的界限，在这里平和的梦境很容易就会变成梦魇——而随着这股魔法流，魔腾找到了让自己进入梦醒后的凡尘世界的方式。</p><p>如今的魔腾作为一种幽魂存在，双眼燃烧着冷光，已然成为了符文之地上许多人最原始恐惧的凶恶倒影。从熙熙攘攘的城市到荒凉的平原，从最伟大的国王到最卑贱的农民，只要是有缺点的灵魂，就会吸引这个恶魔，继而被它扭曲为凡间的恐惧，以及永恒的黑暗。</p>",
+                "short": "<p>将一切有知觉的脑海中萦绕的噩梦提取出来，进而融合成一个恶魔般的实体，这就是被人称为魔腾的存在，它已成为一种纯粹邪恶的原始力量。它的外形捉摸不定，一团无面的黑影中睁着一双冰冷的眼睛，身体两侧是一对形状恐怖的刀刃。魔腾摆脱了精神领域的束缚，一次又一次地进入梦醒后的凡尘世界，寻觅那些在真正的黑暗中疯长的恐惧，作为自己的食粮。</p>",
+                "quote": "黑暗正在迫近……",
+                "quote-author": "魔腾"
+            },
+            "headerImage": null
+        },
+        {
+            "type": "champion",
+            "release-date": "2009-10-10T00:00:00.000Z",
+            "name": "黑默丁格",
+            "title": "大发明家",
+            "section-title": "黑默丁格",
+            "slug": "heimerdinger",
+            "associated-faction": "",
+            "associated-faction-slug": "piltover",
+            "image": {
+                "title": "heimerdinger-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt5003985a072cb830-Heimerdinger_0.jpg",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 973,
+                "y": 248,
+                "featured-champions": []
+            },
+            "background": {
+                "title": "heimerdinger-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt5003985a072cb830-Heimerdinger_0.jpg",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 973,
+                "y": 248,
+                "featured-champions": []
+            },
+            "url": "/zh_cn/champion/heimerdinger",
+            "video": null,
+            "races": [],
+            "roles": [
+                {
+                    "name": "法师",
+                    "slug": "mage"
+                },
+                {
+                    "name": "辅助",
+                    "slug": "support"
+                }
+            ],
+            "role": [
+                {
+                    "name": "法师",
+                    "slug": "mage"
+                },
+                {
+                    "name": "辅助",
+                    "slug": "support"
+                }
+            ],
+            "game-info-url": "https://lol.qq.com/web201310/info-defail.shtml?id=Heimerdinger",
+            "biography": {
+                "full": "<p>塞西尔·B·黑默丁格教授是一个才华横溢但古怪反常的约德尔科学家。他被称赞为皮尔特沃夫前所未见的最具革新意识和受人尊敬的发明家之一。他不间断地工作，达到了神经痴迷的程度。他着迷于那些困扰了他的同辈们长达几十年的奥秘中，并且喜欢解答宇宙中最费解的难题。尽管他的理论经常会看起来晦涩难懂，但他相信知识应该得到分享，并且致力于教导那些渴望获得知识的人们。</p>",
+                "short": "塞西尔·B·黑默丁格教授是一个才华横溢但古怪反常的约德尔科学家。他被称赞为皮尔特沃夫前所未见的最具革新意识和受人尊敬的发明家之一。他不间断地工作，孜孜不倦地尝试解答宇宙中最费解的难题，达到了神经痴迷的程度。尽管他的理论经常会看起来晦涩难懂，但他也曾制造出许多发明，堪称皮尔特沃夫最为惊奇，当然也同样危险的机械，他也在不断改进自己的发明，让它们更加高效。",
+                "quote": "“你是说，不可能？胡说八道。等我让你看看我的计算！”",
+                "quote-author": "黑默丁格"
+            },
+            "headerImage": null
+        }
+    ],
+    "modules": [
+        {
+            "slug": "varus-issue-1",
+            "type": "link-out",
+            "section-title": "",
+            "title": "韦鲁斯：灵犀",
+            "description": "<p>艾欧尼亚，魔法充盈，万物平衡，光辉遍洒。</p><p>但却从来都不是一片平静的土地。</p><p>正是因为存在着企图打破平衡的生物，也就有人拼死作战，守护秩序。他们是怪物的猎人，守护之箭。</p><p>瓦尔茂和凯伊便在其中。</p><p>然而，不是所有怪物都会屈服于猎弓与钢刀。</p><p>也不是一切黑暗都会被光芒轻易驱散。</p >",
+            "url": "/zh_CN/comic/varus/issue-1",
+            "featured-image": null,
+            "subtitle": "短篇故事",
+            "background": {
+                "title": "varus-issue-1",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt52280dbbf412bdb8-varus-issue-1.jpg",
+                "encoding": "image/jpeg",
+                "width": 1920,
+                "height": 2967,
+                "x": 1009,
+                "y": 902,
+                "featured-champions": []
+            },
+            "cta": "",
+            "blackout": null,
+            "isFanArt": false,
+            "isComic": true
+        },
+        {
+            "slug": "varus-issue-2",
+            "type": "link-out",
+            "section-title": "",
+            "title": "韦鲁斯：血仇",
+            "description": "<p>瓦尔茂迫切地想要拯救他的手足凯伊，绝望之下，他屈服于一个远古的暗裔幽灵的脚下。</p><p>它没有食言，不仅挽回了凯伊的生命…...还将其据为己有。</p><p>瓦尔茂，凯伊和暗裔，三者交融成新的存在。一个诞生自怒火、仇恨与死亡的生物。</p ><p>韦鲁斯。</p >",
+            "url": "/zh_CN/comic/varus/issue-2",
+            "featured-image": null,
+            "subtitle": "短篇故事",
+            "background": {
+                "title": "varus-issue-2",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt5fd9ff301ec88ba6-varus-issue-2.jpg",
+                "encoding": "image/jpeg",
+                "width": 1920,
+                "height": 1088,
+                "x": 1608,
+                "y": 325,
+                "featured-champions": []
+            },
+            "cta": "",
+            "blackout": null,
+            "isFanArt": false,
+            "isComic": true
+        },
+        {
+            "slug": "varus-music-video",
+            "type": "featured-video",
+            "section-title": "",
+            "featured-image": {
+                "title": "varus-music-video-image",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/bltc769f69d26ae2e01-varus-music-video-image.jpg",
+                "encoding": "image/jpeg",
+                "width": 1920,
+                "height": 1080,
+                "x": 1412,
+                "y": 410,
+                "featured-champions": []
+            },
+            "title": "As We Fall",
+            "subtitle": "",
+            "description": "",
+            "uri": "https://www.youtube.com/watch?v=vzNcSvKCOyA&feature=youtu.be",
+            "video": {
+                "type": "video",
+                "title": "",
+                "subtitle": "",
+                "description": [],
+                "uri": "https://www.youtube.com/watch?v=vzNcSvKCOyA&feature=youtu.be",
+                "width": "",
+                "height": "",
+                "x": "",
+                "y": "",
+                "featured-champions": []
+            },
+            "blackout": null,
+            "release-date": "2017-11-30T16:00:00.000Z",
+            "video-type": "music-video",
+            "featured-champions": [
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                }
+            ],
+            "related-champions": [
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                }
+            ]
+        },
+        {
+            "slug": "暗裔",
+            "type": "story-preview",
+            "title": "暗裔",
+            "subtitle": "作者：Graham McNeill",
+            "description": "韦鲁斯沿着一条沙漠中的河流前行。河水砂砾悬浊，但是可以饮用。虽然他为自己的长弓所织就的躯体健壮俊美、矫捷迅猛，但也伴随着肉身的弱点——它会饥饿，也会干渴。<br><br>",
+            "story-slug": "varus-color-story",
+            "featured-image": {
+                "title": "varus-colortext-bg",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt3615c73325e948a1-varus-colortext-bg.jpg",
+                "encoding": "image/jpeg",
+                "width": 720,
+                "height": 1080,
+                "x": 357,
+                "y": 188,
+                "featured-champions": []
+            },
+            "background": {
+                "title": "varus-colortext-bg",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt3615c73325e948a1-varus-colortext-bg.jpg",
+                "encoding": "image/jpeg",
+                "width": 720,
+                "height": 1080,
+                "x": 357,
+                "y": 188,
+                "featured-champions": []
+            },
+            "release-date": "2017-11-30T16:00:00.000Z",
+            "featured-champions": [
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                }
+            ],
+            "minutes-to-read": 5,
+            "url": "/zh_cn/story/varus-color-story"
+        },
+        {
+            "slug": "varus-login",
+            "type": "featured-video",
+            "section-title": "",
+            "featured-image": {
+                "title": "varus-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blta3a77808520e8966-varus-splash.jpg",
+                "encoding": "image/jpeg",
+                "width": 1920,
+                "height": 1133,
+                "x": 1034,
+                "y": 0,
+                "featured-champions": []
+            },
+            "title": "惩戒之箭韦鲁斯登录界面",
+            "subtitle": "",
+            "description": "",
+            "uri": "https://v.qq.com/x/page/o03630s4y4c.html",
+            "video": {
+                "type": "video",
+                "title": "",
+                "subtitle": "",
+                "description": [],
+                "uri": "https://v.qq.com/x/page/o03630s4y4c.html",
+                "width": "",
+                "height": "",
+                "x": "",
+                "y": "",
+                "featured-champions": []
+            },
+            "blackout": null,
+            "release-date": "2012-05-08T15:00:00.000Z",
+            "video-type": "champ-login-music",
+            "featured-champions": [
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                }
+            ],
+            "related-champions": [
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                }
+            ]
+        }
+    ]
+}

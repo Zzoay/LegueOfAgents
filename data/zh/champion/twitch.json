@@ -1,0 +1,385 @@
+{
+    "id": "twitch",
+    "name": "图奇",
+    "title": "瘟疫之源",
+    "locale": "zh_cn",
+    "champion": {
+        "type": "champion",
+        "release-date": "2009-05-01T00:00:00.000Z",
+        "name": "图奇",
+        "title": "瘟疫之源",
+        "section-title": "图奇",
+        "slug": "twitch",
+        "associated-faction": "",
+        "associated-faction-slug": "zaun",
+        "image": {
+            "title": "twitch-splash",
+            "subtitle": "",
+            "description": "",
+            "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt6d95f66073acbe03-Twitch_0.jpg",
+            "encoding": "image/jpeg",
+            "width": 1215,
+            "height": 717,
+            "x": 760,
+            "y": 197,
+            "featured-champions": []
+        },
+        "background": {
+            "title": "twitch-splash",
+            "subtitle": "",
+            "description": "",
+            "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt6d95f66073acbe03-Twitch_0.jpg",
+            "encoding": "image/jpeg",
+            "width": 1215,
+            "height": 717,
+            "x": 760,
+            "y": 197,
+            "featured-champions": []
+        },
+        "url": "/zh_cn/champion/twitch",
+        "video": null,
+        "races": [],
+        "roles": [
+            {
+                "name": "射手",
+                "slug": "marksman"
+            },
+            {
+                "name": "刺客",
+                "slug": "assassin"
+            }
+        ],
+        "role": [
+            {
+                "name": "射手",
+                "slug": "marksman"
+            },
+            {
+                "name": "刺客",
+                "slug": "assassin"
+            }
+        ],
+        "game-info-url": "https://lol.qq.com/web201310/info-defail.shtml?id=Twitch",
+        "biography": {
+            "full": "<p>生为瘟疫鼠、身为污秽鉴赏家的图奇是一只偏执且已经变异的老鼠。他直立行走并且探查着祖安的残渣，以获取那些只有他才知道真正价值的宝藏。用一把以化学为动力的十字弓作为武器的图奇丝毫不怕弄脏他的爪子，并在他的污秽王国建起一座废料王座，同时也在无止境地密谋着人类的衰败。</p>",
+            "short": "虽然出身只是一只瘟疫老鼠，但图奇却靠热情成为了一位污秽的鉴赏家，他可不介意弄脏自己的爪子。他使用一把炼金动力十字弩瞄准皮城人的镀金心脏，发誓要让这些生活在上层都市的人们知道他们真实的自我究竟有多么肮脏。他总是鬼鬼祟祟蹑手蹑脚，不是在地沟区翻来翻去，就是在别的地方深挖人类的垃圾堆，寻找被丢弃的宝藏……或者是一块发霉的三明治。",
+            "quote": "“他们把这个扔掉了？但它这么闪闪发亮！”",
+            "quote-author": "图奇"
+        },
+        "headerImage": null
+    },
+    "related-champions": [
+        {
+            "type": "champion",
+            "release-date": "2013-03-29T00:00:00.000Z",
+            "name": "扎克",
+            "title": "生化魔人",
+            "section-title": "扎克",
+            "slug": "zac",
+            "associated-faction": "",
+            "associated-faction-slug": "zaun",
+            "image": {
+                "title": "zac-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt88c6a720fb19e73e-Zac_0.jpg",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 924,
+                "y": 432,
+                "featured-champions": []
+            },
+            "background": {
+                "title": "zac-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt88c6a720fb19e73e-Zac_0.jpg",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 924,
+                "y": 432,
+                "featured-champions": []
+            },
+            "url": "/zh_cn/champion/zac",
+            "video": {
+                "title": "zac-splashvideo-webm",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt94b9810bc9a3cf25-zac-splashvideo.webm",
+                "encoding": "video/webm",
+                "width": 1280,
+                "height": 720,
+                "x": 924,
+                "y": 432,
+                "featured-champions": []
+            },
+            "races": [],
+            "roles": [
+                {
+                    "name": "坦克",
+                    "slug": "tank"
+                },
+                {
+                    "name": "战士",
+                    "slug": "fighter"
+                }
+            ],
+            "role": [
+                {
+                    "name": "坦克",
+                    "slug": "tank"
+                },
+                {
+                    "name": "战士",
+                    "slug": "fighter"
+                }
+            ],
+            "game-info-url": "http://gameinfo.na.leagueoflegends.com/en/game-info/champions/zac",
+            "biography": {
+                "full": "<p>一滩泄漏的毒液，顺着炼金科技设施的裂缝流进了祖安的地沟区，在深处一个与世隔绝的坑洞里积成了一洼。出身虽然如此低微，但扎克却从一团蒙昧的黏液长成了一个有思想的实体，栖息在城里的管道中，偶尔露面，帮助那些无助的人，或是修缮祖安的各种公共设施。</p><p>最先发现扎克的是一群祖安的小孩儿。他们当时正在地沟里的水坑边打水漂玩，却发现有些石头被扔了回来。于是这个“返物池”就在祖安地沟居民中传开了，最后引来了一个炼金科技阴谋集团的注意。这群炼金技工不顾当地居民的反对，抽出池中的液体装进桶里，带回了他们的实验室。</p><p>炼金技工们设计了各种实验，测试了负向和正向刺激的效果，他们发现水池中有一团凝胶状的物质，似乎存在着某种精神的趋向性。简单地说就是，它能模仿自己所接受的刺激类型。如果对他关爱友善，它就会回应出小孩子一般的欢喜和嬉闹，但如果对它施加痛苦和激惹，则让炼金技工们不得不牺牲大量经过义体增强的地沟拾荒人，应对后续出现的破坏性反应。</p><p>大多数炼金技工都认为这些反应只不过是单纯的神经反射，但其中有两个人并不十分确定。他们质疑这些实验的伦理道德，似乎实验的目的完全是为了制造出一个具有无比进攻性的生物。两人展开了深入的调查，发现整个项目都是由武田斋藤资助的。他是一个脾气暴戾的炼金男爵，血腥的帮派斗争让他臭名远扬。线索的指向很明显，武田想要开发出一个悍不畏死的打手，具备可变形的身体，无孔不入，而且惟命是从。他们还发现了这个项目真正的名字——祖安无定型战斗体，缩写为ZAC。</p><p>两人开始考虑如何行动，在这期间他们发现这团粘胶不仅能对刺激物做出模仿回应。他们观察到了不接受明显刺激物时的自主行为——与知觉生物极其类似。他们将这个生物简称为扎克，并且认定他展现出的行为说明他是一个有思想、有感觉的实体。他们将自己的发现汇报给了研究小组的组长，但这位四肢像麻杆一样的长官却完全无视了他们的担忧。</p><p>二人不甘心就此放弃，他们开始进行自己的隐秘行动，努力抵消其他组员给予的暴力方面的教导。他们想要让扎克明辨是非，于是让他亲身体验舍己为人和慷慨无私的善举。他们的努力换来了成效，当扎克看到那位研究员伤到自己手的时候，表现出了难过的情绪，而当他看到另一位研究员杀掉实验室里的老鼠的时候，则表现得很不安。终于，二人对其他炼金技工对扎克进行的残酷实验已经忍无可忍了。</p><p>那一天晚上，恰逢祖安的进化日缅怀活动，实验室里空无一人，他们借此机会将扎克倒进了一个废水缸推车里，把他拖到了祖安的偏远角落。他们的行动很快就暴露了，随后武田男爵手下的士兵们就开始了搜查。但祖安很大，足够让两位研究员躲过风头。他们曾经考虑过把扎克放生到野外，但扎克并不想被放生，因为他已经将这两位研究员视为自己的家人。世上只有他们两人对他好，所以他想跟着他们学习更多东西。事实上，这二人对扎克的反应无比欣慰，因为他们也很喜欢扎克，甚至将他视为自己领养的儿子。</p><p>为了躲避武田的手下，他们改换了身份和外貌，前往偏僻的地沟区定居，远离监视和刺探。扎克学着模仿他们的声音，很快就学会了将自己的胶质团块变形成为发声所需的器官。他在养父母身边生活了许多年，必要的时候就藏在地沟的水池里或者岩壁的裂缝中。扎克的“父母”为他讲述了他所生活的这个世界，告诉他世界有优美、壮丽的一面。他们带他观看日之门的明月初升，欣赏祖安交易所彩绘玻璃天蓬上的清丽彩虹，还有城市中心那熙熙攘攘、朝气蓬勃的美。他们还告诉他这个世界也有残酷、严苛的一面，扎克开始懂得有的时候人会变得恶毒、无情、充满怨念和偏见。扎克拒绝这种行为，并尽可能地帮助他的父母，用自己的技艺惠及周围的居民，同时尽量不引起不必要的注意。</p><p>他们竭尽所能医治病患、修缮机械，以及任何炼金学识能够发挥积极作用的事。那些年月是扎克最美好的回忆。他在祖安城内四处游荡，近乎永无止境的管网系统和地基岩石的裂缝是他的专属通道。虽然扎克有着独立的自我意识，但如果周围环境的刺激太过强烈时，他的感受就可能会被浸没，暂时吸收周围的主导情绪，带来或好或坏的后果。许多时候他都无法控制自己的冲动，插手帮助那些遭遇压迫和欺凌的人，对抗恃强凌弱的街头恶霸；所以祖安逐渐开始传起关于他的传闻。虽然大多数传闻都是关于他乐于助人的故事，但也有一些传闻将一些破坏性的事故归咎于扎克，比如某个工厂被毁，或者某个地沟居民区被撕开了一个大洞。</p><p>最后，这些传闻终究还是传到了武田斋藤的耳中，他派出了一批义体增强的恶棍前去收回他认为属于自己的财产。因为他的炼金技工们也一直都在尝试用容器中剩下的液体复制扎克诞生的过程，但一直都是徒劳。所以武田男爵迫切地想要找回这个生物，于是他的手下包围了扎克父母的家，发起了进攻。二人奋起反抗，他们毕竟是炼金科技研究员，怎么会没有一些用于自卫的秘密武器，但是他们的反抗没法撑到永远。最后暴徒们不顾武田男爵要求活捉的命令，杀死了他们。</p><p>当时扎克正在探索祖安城地下的岩缝，但突然感到了父母的危难，于是沿着管网火速赶回家营救。但已经太迟了。看到父母尸首的他满腔怒火，男爵的手下从未见过这阵势。扎克发出了猛烈的进攻，使出了各种拉伸、冲撞和重压的战技。他在悲怒交加的情绪中毁坏了周围数十个居民房屋，等到战斗结束的时候，那批义体增强的暴徒们一个活口都没留下。</p><p>当战斗的情绪逐渐从扎克的脑海中褪去，他看到被自己破坏的诸多家庭，因此发誓要继续将自己父母的善行坚持下去。他帮助重建了自己破坏的房屋，修缮工作结束以后，他就立刻消失在了祖安庞大的管道网中。</p><p>现在的扎克独自生活，栖息在祖安城内散布的管道和洞穴中，沐浴着城市居民的各种情绪。有的时候他感到丰富多彩，但也有的时候他感到悲伤，因为他同时吸收着这座城市的好与坏。他逐渐成为了祖安人传说中的都市传奇，一个神秘的生物，会不定时地从岩缝或者管道中钻出来。大多数时候他的出现都是为了帮助那些无助的人，但当麻烦出现的时候，当城市的情绪变得阴暗苦涩的时候，他的出现可能会让某些人不寒而栗。 </p>",
+                "short": "一滩泄漏的毒液，顺着炼金科技设施的裂缝流进了祖安的地沟区，在深处一个与世隔绝的坑洞里积成了一洼。出身虽然如此低微，但扎克却从一团蒙昧的黏液长成了一个有思想的实体，栖息在城里的管道中，偶尔露面，帮助那些无助的人，或是修缮祖安的各种公共设施。",
+                "quote": "“你心里恨得越深，之后就伤得越痛...…”",
+                "quote-author": ""
+            },
+            "headerImage": null
+        }
+    ],
+    "explore-champions": [
+        {
+            "type": "champion",
+            "release-date": "2009-04-18T00:00:00.000Z",
+            "name": "基兰",
+            "title": "时光守护者",
+            "section-title": "基兰",
+            "slug": "zilean",
+            "associated-faction": "",
+            "associated-faction-slug": "unaffiliated",
+            "image": {
+                "title": "zilean-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt5b40ae5b314cde59-Zilean_0.jpg",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 746,
+                "y": 7,
+                "featured-champions": []
+            },
+            "background": {
+                "title": "zilean-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt5b40ae5b314cde59-Zilean_0.jpg",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 746,
+                "y": 7,
+                "featured-champions": []
+            },
+            "url": "/zh_cn/champion/zilean",
+            "video": null,
+            "races": [],
+            "roles": [
+                {
+                    "name": "辅助",
+                    "slug": "support"
+                },
+                {
+                    "name": "法师",
+                    "slug": "mage"
+                }
+            ],
+            "role": [
+                {
+                    "name": "辅助",
+                    "slug": "support"
+                },
+                {
+                    "name": "法师",
+                    "slug": "mage"
+                }
+            ],
+            "game-info-url": "https://lol.qq.com/web201310/info-defail.shtml?id=Zilean",
+            "biography": {
+                "full": "<p>艾卡西亚，一片最荒芜、最邪祟的土地，曾经并非这个样子。这里曾有一个丰富多样的文明，由最后一任古法师王——仁君明主阿克扎姆统治。随着恕瑞玛帝国的疆土在这片大陆上不断扩张，他们对阿克扎姆和平共存的呼声置若罔闻，于是艾卡西亚的军队被飞升者大军的天神战士击溃。</p><p>虽然这场溃败让艾卡西亚人心服口服，但也有许多人看到了共同发展的机遇。他们接受了提案，将艾卡西亚变为恕瑞玛下属的自治辖区，并设立了一个统辖议会，由杰出的法师、哲人、立法者共同监管这次权力更迭。</p><p>经过近乎九百年的帝国统治，一个名叫基兰的年轻人加入了议会的行列。他是一名元素法师，对物理事实有着超乎常人的深刻理解，也在当时最伟大的思想指导下进行过研习——从以绪塔尔的伟大育恩，到法拉杰的御星法师，还有数不清的宗师巨匠。</p><p>在物质领域中，有一个要素几乎无人能够真正理解，而基兰则决定要去掌控它。</p><p><i>时间。</i></p><p>时间是万物皆无可逃避的一个恒定常量。即使是雄伟的天神战士也无法免除时间流逝带来的损耗……即便他们在恕瑞玛的文化中地位至尊无上。</p><p>成为执政阶层的一员以后，基兰才更加清楚艾卡西亚市民被压抑的愤怒和不满。虽然这片土地为帝国孕育出了许多英勇的领袖和革命性的思想家，但其中没有任何一人被认可拥有飞升的资格。议会一次又一次地向远在都城的皇帝上书请愿，然而对太阳圆盘的期许却一再被否决，没有任何理由。艾卡西亚付出了那么多，但却似乎永远都不会得到同等对待。</p><p>基兰自己的抵触情绪也在增长，但更让他担心的是，他的同僚之中有许多公开讨论重新独立的声音。他是彻头彻尾的爱国义士，但面对飞升者大军，任何反叛都只会导致人民的苦难。为了寻求外交的出路，他作为使节前往临近的卡里克、卡尔杜加和以绪塔尔。他一生中结交了许多盟友，他恳请他们与艾卡西亚站在一起。</p><p>但每次得到的答复都一样。他们不会公然对抗恕瑞玛。如果基兰的人民一意孤行，就只能孤军作战。</p><p>回到家的基兰惊讶地发现，议会已经决定为新一任法师王加冕。他们欣喜若狂地告诉基兰他们发现的远古禁忌之力——一份足以确保艾卡西亚胜利的强大力量。</p><p>他们向基兰说起了虚空的力量。</p><p>他看着那些理智、博学的艾卡西亚人，但在他们的眼中只看得到疯狂。基兰悲痛欲绝，他宁愿祖国的革命遭到镇压，也不愿把这邪恶的化身释放到世界上。</p><p>基兰最大的担心成了真。虚空刚被释放到战场上，立刻就吞没了试图控制它的法师们，然后艾卡西亚毁灭了。</p><p>他想要逃离都城，但一时间大地震颤，墙倒楼塌。这般恐怖之物根本不该出现在这个或那个世界上，它从地下深处迸发而出，驱赶着前方惊恐的人群。</p><p>他们被困住了。数十万无辜的人都将死去。在绝望中，基兰尽可能让更多的人躲进他的塔楼避难，然后他做到了不可能之事。</p><p>他将整座建筑从时间中移除了。</p><p>双腿瘫软、力量透支，基兰瘫坐在冰冷的地板上，看着周围一动不动的身影。虚空被停住了，但仅限于这道墙以内——在外面，艾卡西亚曾屹立的土地，已空无一物。</p><p>基兰花费了数十年，试图去理解时间和因果律的奥秘，看起来只有他一人能自由地在这个异常区内自由进行前后移动，而他也不知如何创造了这个异常区。这些人的确是被救下来了。但他就是无法弄清如何进行逆向处理，无法让他们真正活起来。他通过深度冥想和自创的复杂工具，开始卜算过去与现在连接到此刻的丝缕，逐步学会如何跟随这些丝缕一同前进或后退，不断寻找一个他已获得成功的未来……</p><p>他就是这样发现了真正的威胁：<i>一切</i>的终结。等待符文之地的大灭绝结局。</p><p>从效果上看，基兰现在已经存在于任何地点，而且无时无刻不在。即便如此，他实在是太清楚改变这个世界并催生其他预期之外的命运会带来怎样的后果——通常是自相矛盾，而且总是会更危险的命运。或许如果他能找到一种方式拯救自己的人民，那么这场巨大的灾难也就能迎刃而解了。</p><p>唯一的问题是，他在此过程中愿意做出什么牺牲？</p>",
+                "short": "作为艾卡西亚统辖议会的成员之一，基兰是一位天赋异禀的元素法师，追寻时间本质的奥秘。他曾发动力量挽救他的人民于虚空侵袭，如今的他在过去、现在、和未来之间漂泊，弯折、扭曲自己周围的时间。基兰曾踏遍时间长河，从符文之地的神秘诞生，一直到它看似不可避免的结局，寻找着任何丝缕的命运，让他有可能挽回家园的毁灭。",
+                "quote": "“人生最苦之事莫过于明知要失去，但是却还没发生。”",
+                "quote-author": "基兰"
+            },
+            "headerImage": null
+        },
+        {
+            "type": "champion",
+            "release-date": "2015-07-09T00:00:00.000Z",
+            "name": "塔姆",
+            "title": "河流之王",
+            "section-title": "塔姆",
+            "slug": "tahmkench",
+            "associated-faction": "",
+            "associated-faction-slug": "unaffiliated",
+            "image": {
+                "title": "tahmkench-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/bltcb65957e0e85d55b-TahmKench_0.jpg",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 1025,
+                "y": 338,
+                "featured-champions": []
+            },
+            "background": {
+                "title": "tahmkench-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/bltcb65957e0e85d55b-TahmKench_0.jpg",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 1025,
+                "y": 338,
+                "featured-champions": []
+            },
+            "url": "/zh_cn/champion/tahmkench",
+            "video": {
+                "title": "tahmkench-splashvideo-webm",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt5cc483102cdccab1-tahmkench-splashvideo.webm",
+                "encoding": "video/webm",
+                "width": 1280,
+                "height": 720,
+                "x": 1025,
+                "y": 338,
+                "featured-champions": []
+            },
+            "races": [],
+            "roles": [
+                {
+                    "name": "辅助",
+                    "slug": "support"
+                },
+                {
+                    "name": "坦克",
+                    "slug": "tank"
+                }
+            ],
+            "role": [
+                {
+                    "name": "辅助",
+                    "slug": "support"
+                },
+                {
+                    "name": "坦克",
+                    "slug": "tank"
+                }
+            ],
+            "game-info-url": "https://lol.qq.com/web201310/info-defail.shtml?id=TahmKench",
+            "biography": {
+                "full": "<p>瓦洛兰的水道由来已久，但是恶魔塔姆·肯奇的来历更加久远。从蟒河流域泥泞的帐篷赌档，穿过比尔吉沃特盐霜板结的赌博大厅，再到皮尔特沃夫和祖安镀金的赌桌上——任何一个对旁人的财富投去垂涎目光的人都会知道，与河流之王相遇后心里泛起的饥渴是什么样的滋味。</p><p>关于这家伙最早的传说来自于一群在蟒河流域来往的流民。他们提到过一条硕大的鱼，嘴巴又阔又深，引诱着欲壑难填的人。有个故事说的就是一个诚实著称的年轻人。虽然他生来就是做撑船人的命，但他已经看腻了贫瘠的河岸，向往着更好的生活。河流之王向他许诺，只要他撒一次小谎，就会给他一份难忘的经历。看起来是白给的好处，所以撑船人就和自己的兄弟在聊天时就说了大话。那天晚上，这个恶魔冒出来向他指了一条河汊，而他之前从来没发现过。顺着汊道，他来到了一处外地人的营地。他们端来吃喝，跟他称兄道弟。天快亮时，撑船人已经吃饱喝足，准备回家。恶魔这时又来了，许诺说要是他再撒一次谎，就有更开心的体验。他被勾起了兴趣，于是同意了这笔交易，骗了自己的雇主。河水再次分出新路，他顺流而下，度过了更为奢侈的一夜。如是再三，夜复一夜，这个曾经诚实的撑船人如今扯起谎来不费吹灰之力。</p><p>等到河道最终淌入了大海，他发觉自己孤身一人，不知所措——再没有人给他骗了。这么多次愚昧的选择，都是他咎由自取，再也找不到回家的路。</p><p>大陆上苦涩的河水将河流之王的故事传到了蓝焰岛。随着传闻越来越盛，人们给他起了个名字——塔姆·肯奇。在比尔吉沃特，有人暴富，有人赤贫。潮水起起落落，财富也随之来去。很多酒馆里的故事都会提到老塔姆，说他是个活在水里的恶魔，最嗜赌博，永不满足。于是，这个多话的家伙就变成了城里许多赌窝和犯罪之所的标志。</p><p>日之门的开启让比尔吉沃特和皮尔特沃夫便利地通商，塔姆·肯奇的故事在进化之城以及下方的祖安也越来越广为人知。孩子们知道他叫“两件大衣”，因为这条鱼实在胖得过分，所以要把两件大衣缝在一起才穿得进去。他戴着一顶自鸣得意的礼帽，一张大嘴笑起来简直比整个城市还宽。他撩动着年轻技工们的嫉妒心。据说某一次进化日的时候，他找到了皮城里一个正在纠结的发明家，给她出了个主意，保证能让一个富裕的家族注意到。他要求的回报只是一束她的头发。这个野心勃勃的女人一口应允，而且确实，她的作品给她带来了一份丰厚的合同。但一件发明可不够，两件大衣晃悠悠地又来了。这一次他要的是她全部的秀发。为了不让自己的新雇主失望，发明家又同意了——塔姆立刻一口吞下了头发。可是，女人还是做不出名扬天下的发明。恶魔再次现身，索要的代价是一个指尖。一周后，他要了一只耳朵。过了一年，女人已经没什么能给出去的了。最后，她自己唤来了两件大衣，恳求他停止这一切。</p><p>他大笑着张开了大嘴，说他会帮她一了百了地解决问题，然后立即把她整个儿吞了下去。</p><p>河流之王。大晃悠。大哈欠。两件大衣。塔姆·肯奇有很多名字，但凡是叫出过这些名字的人都明白了一个道理：无论他的花言巧语多么诱人，在他的嘴里你必将迷失。</p>",
+                "short": "塔姆在历史上有许多不同的名字，他游历于符文之地的各条水道，用大意之人的悲惨喂养自己贪得无厌的食欲。虽然他的外表可能富有古怪的魅力和得意，但他在物质领域的漫游只是为了寻找毫无戒心的猎物。他的舌头像巨大的鞭子，即使是全副武装的重甲士兵也会被他从十几步以外的距离击晕，而如果跌入了他隆隆作响的肚子里，就相当于掉进了九死一生的绝命深渊。",
+                "quote": "“世界，就是一条河流，而我，是它的国王。”",
+                "quote-author": "塔姆"
+            },
+            "headerImage": null
+        }
+    ],
+    "modules": [
+        {
+            "slug": "切莫招惹",
+            "type": "story-preview",
+            "title": "切莫招惹",
+            "subtitle": "",
+            "description": "H.I.V.E.事故报告<br><br>",
+            "story-slug": "twitch-color-story",
+            "featured-image": {
+                "title": "twitch-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt6d95f66073acbe03-Twitch_0.jpg",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 760,
+                "y": 197,
+                "featured-champions": []
+            },
+            "background": {
+                "title": "zaun-breatherstation",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt66e7ef18b830fffd-zaun-breatherstation.jpg",
+                "encoding": "image/jpeg",
+                "width": 1920,
+                "height": 1067,
+                "x": 940,
+                "y": 800,
+                "featured-champions": []
+            },
+            "release-date": "2016-12-02T16:00:00.000Z",
+            "featured-champions": [
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                }
+            ],
+            "minutes-to-read": 5,
+            "url": "/zh_cn/story/twitch-color-story"
+        },
+        {
+            "slug": "twitch-image-gallery",
+            "type": "image-gallery",
+            "section-title": "",
+            "isFanArt": false,
+            "fan-art-url": "",
+            "featured-image": "",
+            "title": "",
+            "subtitle": "",
+            "assets": [
+                {
+                    "title": "图奇黑白版",
+                    "subtitle": "",
+                    "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt5a86e8c8355973bf-twitch_black_white.jpg",
+                    "encoding": "image/jpeg",
+                    "width": 1520,
+                    "height": 1080,
+                    "x": 532,
+                    "y": 481,
+                    "featured-champions": []
+                },
+                {
+                    "title": "图奇原画概念图",
+                    "subtitle": "",
+                    "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt1913c5c082137b1a-twitch_splash_concept.jpg",
+                    "encoding": "image/jpeg",
+                    "width": 1793,
+                    "height": 1080,
+                    "x": 1150,
+                    "y": 370,
+                    "featured-champions": []
+                }
+            ],
+            "featured-champions": [
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                }
+            ]
+        }
+    ]
+}

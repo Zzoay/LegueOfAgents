@@ -1,0 +1,883 @@
+{
+    "id": "nocturne",
+    "name": "魔腾",
+    "title": "永恒梦魇",
+    "locale": "zh_cn",
+    "champion": {
+        "type": "champion",
+        "release-date": "2011-03-15T00:00:00.000Z",
+        "name": "魔腾",
+        "title": "永恒梦魇",
+        "section-title": "魔腾",
+        "slug": "nocturne",
+        "associated-faction": "",
+        "associated-faction-slug": "unaffiliated",
+        "image": {
+            "title": "nocturne-splash",
+            "subtitle": "",
+            "description": "",
+            "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/bltd965a4717b06eef3-Nocturne_0.jpg",
+            "encoding": "image/jpeg",
+            "width": 1215,
+            "height": 717,
+            "x": 870,
+            "y": 208,
+            "featured-champions": []
+        },
+        "background": {
+            "title": "nocturne-splash",
+            "subtitle": "",
+            "description": "",
+            "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/bltd965a4717b06eef3-Nocturne_0.jpg",
+            "encoding": "image/jpeg",
+            "width": 1215,
+            "height": 717,
+            "x": 870,
+            "y": 208,
+            "featured-champions": []
+        },
+        "url": "/zh_cn/champion/nocturne",
+        "video": null,
+        "races": [],
+        "roles": [
+            {
+                "name": "刺客",
+                "slug": "assassin"
+            },
+            {
+                "name": "战士",
+                "slug": "fighter"
+            }
+        ],
+        "role": [
+            {
+                "name": "刺客",
+                "slug": "assassin"
+            },
+            {
+                "name": "战士",
+                "slug": "fighter"
+            }
+        ],
+        "game-info-url": "https://lol.qq.com/web201310/info-defail.shtml?id=Nocturne",
+        "biography": {
+            "full": "<p>虽说一切魔法都可能充满危险和无常，但有一些魔法形式或类别即使是那些最高超的法师和巫师都对其敬而远之，这可不是没道理的。几百年来，“暗影魔法”始终都是整个符文之地上的禁忌，因为所有人都害怕那曾一度肆虐于世的恐怖再度被它唤醒。</p><p>那些恐怖之物当中的最甚者，是有名字的，它的名字是魔腾。</p><p>在符文战争末期，由魔法战士组成的秘密团体为了各自的胜利不择手段，寻找任何可能打压对手的方式。虽然现存的记录没有记载他们的名字，但他们是第一批抛弃自己血肉并进入灵魂领域的人，人们只知道他们互相追猎，他们的猎场不仅在战场上，而且也在他们自己潜意识的思想与情绪塑造的领域中。没有了物质现实法则的束缚，他们战斗的方式让大多数凡人的头脑无法理解，他们甚至能够塑造出虚幻缥缈的刺客执行命令。暗影法师似乎非常擅长这种事——所以有一段时间，他们主宰了灵魂领域，将其送进薄暮。</p><p>各地各处的凡人思绪都受到了这黑暗的沾染。它吸干他们的斗志，侵扰他们的梦境，让无名的恐惧日日夜夜咬住他们不放，甚至导致一些人对自己的同胞犯下骇人听闻的恐怖罪行。</p><p>没人能说清楚，究竟是这些苦难从无到有地造就了魔腾，还是某个低级的刺客构造体受到它的腐化变成了某种更加自我、更加夺命的存在，但无论是哪种情况，都让这个新生的暗影生物具备了非物质的形体和不可捉摸的恐怖。魔腾不理解任何友善、荣誉或高尚——它是恐惧的实体化身，不需要那些自我约束和控制。</p><p>这个恶魔般的生物在灵魂领域嚎叫着，扑向了那些离经叛道的愚蠢法师，那些曾经给予它生命的人，它不顾一切地鞭笞，希望能够终结自己的苦难。它始终忍受着痛苦，而这种痛苦让它残酷，但它很快就喜欢上了凡人恐惧的味道。在它的领域，时间几乎没有意义，但魔腾会尽可能延长每一次追逐，细细品味猎物的剧痛，然后再顷刻间切断他们的最后一线生命。很快，已经没人敢再进入魔腾的领域了。</p><p>如果这个恶魔没有在帷幕的另一侧采取行动，符文战争会不会有另外的结果？很难说，但到了后来，所剩无几的关于暗影魔法的传说被人藏匿了起来，使用这种魔法也被许多地方的人等同于死亡判决。</p><p>灵魂领域成为了牢笼，只有寥寥无几的闯入者维持着这个领域，而魔腾也变得饥肠辘辘。只有一样东西的味道接近它曾品尝过的恐惧大餐，那就是当凡人的思绪在睡梦中不知不觉地飘过虚无。魔法的波流划分着两个领域间的界限，在这里平和的梦境很容易就会变成梦魇——而随着这股魔法流，魔腾找到了让自己进入梦醒后的凡尘世界的方式。</p><p>如今的魔腾作为一种幽魂存在，双眼燃烧着冷光，已然成为了符文之地上许多人最原始恐惧的凶恶倒影。从熙熙攘攘的城市到荒凉的平原，从最伟大的国王到最卑贱的农民，只要是有缺点的灵魂，就会吸引这个恶魔，继而被它扭曲为凡间的恐惧，以及永恒的黑暗。</p>",
+            "short": "<p>将一切有知觉的脑海中萦绕的噩梦提取出来，进而融合成一个恶魔般的实体，这就是被人称为魔腾的存在，它已成为一种纯粹邪恶的原始力量。它的外形捉摸不定，一团无面的黑影中睁着一双冰冷的眼睛，身体两侧是一对形状恐怖的刀刃。魔腾摆脱了精神领域的束缚，一次又一次地进入梦醒后的凡尘世界，寻觅那些在真正的黑暗中疯长的恐惧，作为自己的食粮。</p>",
+            "quote": "黑暗正在迫近……",
+            "quote-author": "魔腾"
+        },
+        "headerImage": null
+    },
+    "related-champions": [
+        {
+            "type": "champion",
+            "release-date": "2009-05-01T00:00:00.000Z",
+            "name": "伊芙琳",
+            "title": "痛苦之拥",
+            "section-title": "伊芙琳",
+            "slug": "evelynn",
+            "associated-faction": "",
+            "associated-faction-slug": "unaffiliated",
+            "image": {
+                "title": "evelynn-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/bltcc9c3d044c357629-evelynn-rework-splash.jpg",
+                "encoding": "image/jpeg",
+                "width": 1920,
+                "height": 1133,
+                "x": 983,
+                "y": 132,
+                "featured-champions": []
+            },
+            "background": {
+                "title": "evelynn-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/bltcc9c3d044c357629-evelynn-rework-splash.jpg",
+                "encoding": "image/jpeg",
+                "width": 1920,
+                "height": 1133,
+                "x": 983,
+                "y": 132,
+                "featured-champions": []
+            },
+            "url": "/zh_cn/champion/evelynn",
+            "video": null,
+            "races": [],
+            "roles": [
+                {
+                    "name": "刺客",
+                    "slug": "assassin"
+                },
+                {
+                    "name": "法师",
+                    "slug": "mage"
+                }
+            ],
+            "role": [
+                {
+                    "name": "刺客",
+                    "slug": "assassin"
+                },
+                {
+                    "name": "法师",
+                    "slug": "mage"
+                }
+            ],
+            "game-info-url": "https://lol.qq.com/web201310/info-defail.shtml?id=Evelynn",
+            "biography": {
+                "full": "<p>在符文之地的黑暗裂缝中，恶魔伊芙琳一直在搜寻着下一个目标。她披着人类女性的撩人外表，勾引猎物。只要有人陷入了她的魅惑，伊芙琳就会显露出真正的形态。她会施加难以言喻的折磨，从而让自己在猎物的疼痛中获得满足。对于这个恶魔来说，这样的欢愉只是无心无邪的滥情。但是对于符文之地上的其他人，听到的则是血肉模糊的传说，提醒着人们肉欲的危险和纵欲的代价。</p><p>伊芙琳并不是天生技术高超的女猎手。她起始于无比古老的时代，是某种原生的生命，没有形态，只有最模糊的自我意识。这生于暗影的精怪只是简单蒙昧地存在着，数百年间始终麻木无觉，对任何外部刺激都毫无反应。它本可能会一直这样下去，但是这世界却因为一场纷争而天翻地覆。这场被后世称为符文战争的浩劫，将世界推入了前所未有的苦难时代。</p><p>当时，整个符文之地上的人们都在经历各种各样的磨难、痛苦和失落，于是，黑影被搅动了。它长久以来认知的虚无被痛苦世界中的躁狂和悸动所填满了。这个生物激动地颤抖了起来。</p><p>随着符文战争不断升级，这世界的磨难变得越来越惨烈，甚至让这团暗影觉得自己几乎要爆裂开来。它畅饮着符文之地的疼痛，体验到了逍遥无边的愉悦。这种感受令它甘之如饴。久而久之，它变成了某种更高级的东西。它成了一个恶魔，一个贪婪的灵体寄生虫，吞噬着最原始的人类情感。</p><p>当战争终于结束，世界的苦难也渐渐消退。这个恶魔发现自己变得越来越绝望。它所能体会的唯一乐趣，便来源于其他生物的悲苦。没有了外界的痛苦，它什么都感受不到，就像它诞生之初的状态。</p><p>如果这世界无法满足这个恶魔对于痛苦和成长的需求，那么它就只能自己制造痛苦。它需要将痛苦施加到其他活物身上，这样才能再次体验到那股狂喜。</p><p>最初，捕捉猎物对于这个恶魔来说并不简单。虽然它可以不动声色地以暗影形态进行移动，但是要想抓住一个人类，它必须显现成为某种可触碰的东西。它曾多次尝试使用自己来自暗影的血肉化成实体的身躯，但每次尝试的结果都比上一次更加狰狞，无一例外地吓跑了自己的猎物。</p><p>这个恶魔意识到自己需要一种令人类无法抗拒的形体，不仅要将他们引诱到自己的魔爪之下，而且还要满足他们自身的欲望，让他们获得极大的快乐。这样一来，他们的痛苦就会更加甜美。</p><p>它潜藏于暗影之中，开始观察自己想要捕食的猎物。它照着他们的喜好裁出一副肉体，学会了在他们听来最动人的话语，走出他们眼中窈窕的步伐。</p><p>几个星期后，这个恶魔就造出了一副完美的身躯，吸引了数十名神魂颠倒的猎物，然后亲手折磨致死。虽然她总是会细细品味每一个猎物身上每一丝精致的痛苦，但她总是觉得自己还想要更多。每个人类的欲望都太狭小，可以用来把玩的时间也太短暂。他们的痛苦总是稍纵即逝，给她带来的欣快也不过是聊胜清汤寡水的滋味，勉强够她坚持到下一餐。</p><p> 她渴望未来有一天，她可以将这世界投入彻底的混沌，这样她就可以找回曾经的存在状态，充满纯粹而又销魂的狂喜。</p>",
+                "short": "在符文之地的黑暗裂缝中，恶魔伊芙琳一直在搜寻着下一个目标。她披着人类女性的撩人外表，勾引她的猎物。只要有人被她魅惑，伊芙琳就会显露出真正的形态。她会施加难以言喻的折磨，从而让自己在猎物的疼痛中获得满足。对于这个恶魔来说，这样的欢愉只是无心无邪的滥情。但是对于符文之地上的其他人，听到的则是血肉模糊的传说，提醒着人们肉欲的危险和纵欲的代价。",
+                "quote": "“今晚有空吗？要不要和我一起，掘开你身体里那口痛苦的源泉？”",
+                "quote-author": "伊芙琳"
+            },
+            "headerImage": null
+        },
+        {
+            "type": "champion",
+            "release-date": "2015-07-09T00:00:00.000Z",
+            "name": "塔姆",
+            "title": "河流之王",
+            "section-title": "塔姆",
+            "slug": "tahmkench",
+            "associated-faction": "",
+            "associated-faction-slug": "unaffiliated",
+            "image": {
+                "title": "tahmkench-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/bltcb65957e0e85d55b-TahmKench_0.jpg",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 1025,
+                "y": 338,
+                "featured-champions": []
+            },
+            "background": {
+                "title": "tahmkench-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/bltcb65957e0e85d55b-TahmKench_0.jpg",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 1025,
+                "y": 338,
+                "featured-champions": []
+            },
+            "url": "/zh_cn/champion/tahmkench",
+            "video": {
+                "title": "tahmkench-splashvideo-webm",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt5cc483102cdccab1-tahmkench-splashvideo.webm",
+                "encoding": "video/webm",
+                "width": 1280,
+                "height": 720,
+                "x": 1025,
+                "y": 338,
+                "featured-champions": []
+            },
+            "races": [],
+            "roles": [
+                {
+                    "name": "辅助",
+                    "slug": "support"
+                },
+                {
+                    "name": "坦克",
+                    "slug": "tank"
+                }
+            ],
+            "role": [
+                {
+                    "name": "辅助",
+                    "slug": "support"
+                },
+                {
+                    "name": "坦克",
+                    "slug": "tank"
+                }
+            ],
+            "game-info-url": "https://lol.qq.com/web201310/info-defail.shtml?id=TahmKench",
+            "biography": {
+                "full": "<p>瓦洛兰的水道由来已久，但是恶魔塔姆·肯奇的来历更加久远。从蟒河流域泥泞的帐篷赌档，穿过比尔吉沃特盐霜板结的赌博大厅，再到皮尔特沃夫和祖安镀金的赌桌上——任何一个对旁人的财富投去垂涎目光的人都会知道，与河流之王相遇后心里泛起的饥渴是什么样的滋味。</p><p>关于这家伙最早的传说来自于一群在蟒河流域来往的流民。他们提到过一条硕大的鱼，嘴巴又阔又深，引诱着欲壑难填的人。有个故事说的就是一个诚实著称的年轻人。虽然他生来就是做撑船人的命，但他已经看腻了贫瘠的河岸，向往着更好的生活。河流之王向他许诺，只要他撒一次小谎，就会给他一份难忘的经历。看起来是白给的好处，所以撑船人就和自己的兄弟在聊天时就说了大话。那天晚上，这个恶魔冒出来向他指了一条河汊，而他之前从来没发现过。顺着汊道，他来到了一处外地人的营地。他们端来吃喝，跟他称兄道弟。天快亮时，撑船人已经吃饱喝足，准备回家。恶魔这时又来了，许诺说要是他再撒一次谎，就有更开心的体验。他被勾起了兴趣，于是同意了这笔交易，骗了自己的雇主。河水再次分出新路，他顺流而下，度过了更为奢侈的一夜。如是再三，夜复一夜，这个曾经诚实的撑船人如今扯起谎来不费吹灰之力。</p><p>等到河道最终淌入了大海，他发觉自己孤身一人，不知所措——再没有人给他骗了。这么多次愚昧的选择，都是他咎由自取，再也找不到回家的路。</p><p>大陆上苦涩的河水将河流之王的故事传到了蓝焰岛。随着传闻越来越盛，人们给他起了个名字——塔姆·肯奇。在比尔吉沃特，有人暴富，有人赤贫。潮水起起落落，财富也随之来去。很多酒馆里的故事都会提到老塔姆，说他是个活在水里的恶魔，最嗜赌博，永不满足。于是，这个多话的家伙就变成了城里许多赌窝和犯罪之所的标志。</p><p>日之门的开启让比尔吉沃特和皮尔特沃夫便利地通商，塔姆·肯奇的故事在进化之城以及下方的祖安也越来越广为人知。孩子们知道他叫“两件大衣”，因为这条鱼实在胖得过分，所以要把两件大衣缝在一起才穿得进去。他戴着一顶自鸣得意的礼帽，一张大嘴笑起来简直比整个城市还宽。他撩动着年轻技工们的嫉妒心。据说某一次进化日的时候，他找到了皮城里一个正在纠结的发明家，给她出了个主意，保证能让一个富裕的家族注意到。他要求的回报只是一束她的头发。这个野心勃勃的女人一口应允，而且确实，她的作品给她带来了一份丰厚的合同。但一件发明可不够，两件大衣晃悠悠地又来了。这一次他要的是她全部的秀发。为了不让自己的新雇主失望，发明家又同意了——塔姆立刻一口吞下了头发。可是，女人还是做不出名扬天下的发明。恶魔再次现身，索要的代价是一个指尖。一周后，他要了一只耳朵。过了一年，女人已经没什么能给出去的了。最后，她自己唤来了两件大衣，恳求他停止这一切。</p><p>他大笑着张开了大嘴，说他会帮她一了百了地解决问题，然后立即把她整个儿吞了下去。</p><p>河流之王。大晃悠。大哈欠。两件大衣。塔姆·肯奇有很多名字，但凡是叫出过这些名字的人都明白了一个道理：无论他的花言巧语多么诱人，在他的嘴里你必将迷失。</p>",
+                "short": "塔姆在历史上有许多不同的名字，他游历于符文之地的各条水道，用大意之人的悲惨喂养自己贪得无厌的食欲。虽然他的外表可能富有古怪的魅力和得意，但他在物质领域的漫游只是为了寻找毫无戒心的猎物。他的舌头像巨大的鞭子，即使是全副武装的重甲士兵也会被他从十几步以外的距离击晕，而如果跌入了他隆隆作响的肚子里，就相当于掉进了九死一生的绝命深渊。",
+                "quote": "“世界，就是一条河流，而我，是它的国王。”",
+                "quote-author": "塔姆"
+            },
+            "headerImage": null
+        },
+        {
+            "type": "champion",
+            "release-date": "2012-11-13T00:00:00.000Z",
+            "name": "劫",
+            "title": "影流之主",
+            "section-title": "劫",
+            "slug": "zed",
+            "associated-faction": "",
+            "associated-faction-slug": "ionia",
+            "image": {
+                "title": "zed-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt78255e660a53aa1d-Zed_0.jpg",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 925,
+                "y": 22,
+                "featured-champions": []
+            },
+            "background": {
+                "title": "zed-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt78255e660a53aa1d-Zed_0.jpg",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 925,
+                "y": 22,
+                "featured-champions": []
+            },
+            "url": "/zh_cn/champion/zed",
+            "video": {
+                "title": "zed-splashvideo-webm",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt57c05535f45ac06e-zed-splashvideo.webm",
+                "encoding": "video/webm",
+                "width": 1280,
+                "height": 720,
+                "x": 925,
+                "y": 22,
+                "featured-champions": []
+            },
+            "races": [],
+            "roles": [
+                {
+                    "name": "刺客",
+                    "slug": "assassin"
+                },
+                {
+                    "name": "战士",
+                    "slug": "fighter"
+                }
+            ],
+            "role": [
+                {
+                    "name": "刺客",
+                    "slug": "assassin"
+                },
+                {
+                    "name": "战士",
+                    "slug": "fighter"
+                }
+            ],
+            "game-info-url": "https://lol.qq.com/web201310/info-defail.shtml?id=Zed",
+            "biography": {
+                "full": "<p>艾欧尼亚的和谐面纱之下掩盖着那些被丢下的人。对于劫来说，他的故事要从那个坐在家门口冰冷石阶上的小男孩说起，他的家是均衡教派。</p><p>均衡教派的宗师苦说亲自收留了劫，他在古老的庙墙内找到了自己的容身之处。劫尽心竭力地领悟均衡的精神教旨，很快就在战斗和学习两方面超出同辈一大截。即便如此，他还是感到自己在另一个人面前只能甘拜下风——宗师的儿子，慎。虽然劫在每一门技艺上都追求完美，焕发出巨大的热情，但他却缺少慎身上的情绪平衡。虽然存在差异，但两名学徒依然情同手足。</p><p>后来，他们与师父一起出门远行，追查恶名昭彰的“金魔”。他们终于成功抓获这个令人谈之色变的“怪物”时，却发现他只不过是个名叫卡达·烬的普通人。年轻的劫走上前，双手高举刀刃，但苦说大师制止了他，并命令他们把烬押进监狱。</p><p>回到庙堂后，不满情绪开始在劫的心中绽放，他也开始在学习上力不从心。烬制造的惨不忍睹的谋杀现场反复萦绕在他脑海中，与此同时艾欧尼亚和诺克萨斯帝国武装之间愈演愈烈的紧张气氛也加速了他的幻想破灭。那个时候，慎已经开始学会父亲的冷漠无私，而劫却不肯让均衡的崇高理念阻碍他惩奸除恶。</p><p>他深入庙宇隐藏的墓穴中，在那里他发现了一个精致的黑匣。虽然他知道这是在触犯禁忌，只有教派的宗师才能打开这个黑匣，但他还是向黑匣内部窥视。</p><p>黑影包裹住劫的脑海，向他灌输对弱者的蔑视，助长他内心的苦楚，并向他暗示着一种古老的黑暗魔法。</p><p>回到庙堂的光明中后，他与宗师苦说正面相对。劫要求均衡教派动用一切力量打击诺克萨斯侵略者。苦说拒绝了，于是劫离开了那个将他养大的教派。</p><p>不再受到均衡教条的束缚的劫，召集了一批追随他的战士共同抵抗诺克萨斯。任何威胁到他家园的生灵，或者在守卫艾欧尼亚的岗位上玩忽职守的人，全都会陷入残忍的影杀阵——甚至包括那些结盟立场摇摆不定的本土瓦斯塔亚。劫鼓动他的追随者们抛弃顾虑投身战争，但很快他就意识到，自己能力的成长永远都赶不上野心的膨胀，除非得到那个黑匣。</p><p>他集结了所有新信徒，回到了均衡教派的庙堂，苦说出门迎接。这位长者将他的武器放在劫的脚边，恳求他曾经的徒弟能够抛弃暗影，回归均衡之道。</p><p>少顷，劫重新出现在庙前的石阶上。一只手握着黑匣，另一只手上则是刚刚沾满鲜血的剑刃。</p><p>均衡教众惊呆得不知所措，像兽群一样慌不择路，被劫的手下肆意屠戮。随后他霸占了庙堂，并在此成立了自己的影流，开始以黑影之道训练他的信徒。他们将黑暗的刺青刻入肌肤血肉，并学习如何伴着氤氲倒影中的自己共同战斗。</p><p>劫利用了与诺克萨斯之间的战事，以及战争给艾欧尼亚人带来的痛苦。在刚刚发生过大屠杀的衣浦河畔，他遇到了诺克萨斯童兵凯隐，手中只挥舞着一把农用镰刀。劫看到这个男孩是一件待开刃的武器，就把他收为亲授弟子。在这个年轻的信徒身上，他看到了与自己旗鼓相当的纯粹的目标动力。在凯隐身上，劫看到了影流的未来。</p><p>虽然劫并没有与慎和均衡教派残部进行和解，但战争过后，四散在各省份的均衡教众与影流之间达成了脆弱的停战共识。劫知道，自己做过的事早已覆水难收。</p><p>最近几年来，初生之土的平衡显然已经被打乱，可能永远都无法复原。对劫来说，精神的和谐无足轻重——他将不择手段地确保艾欧尼亚的胜利。<br></p>",
+                "short": "<p>彻底抛弃了仁慈与怜悯的劫，是影流教派的领袖。他创立影流的目标是将艾欧尼亚的魔法和传统武术用于实战，驱逐诺克萨斯侵略者。在战争中，绝望指引他开启了神秘的暗影形态。这是一种恶灵魔法，虽然强大，但同时非常危险且有腐化之力。劫已经完全掌握了这种禁忌之术，用它摧毁自己眼中的威胁，维护自己的国家，以及自己的教派。</p>",
+                "quote": "<i>“均衡是愚者的主人。”</i>",
+                "quote-author": "劫"
+            },
+            "headerImage": null
+        }
+    ],
+    "explore-champions": [
+        {
+            "type": "champion",
+            "release-date": "2009-10-10T00:00:00.000Z",
+            "name": "黑默丁格",
+            "title": "大发明家",
+            "section-title": "黑默丁格",
+            "slug": "heimerdinger",
+            "associated-faction": "",
+            "associated-faction-slug": "piltover",
+            "image": {
+                "title": "heimerdinger-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt5003985a072cb830-Heimerdinger_0.jpg",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 973,
+                "y": 248,
+                "featured-champions": []
+            },
+            "background": {
+                "title": "heimerdinger-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt5003985a072cb830-Heimerdinger_0.jpg",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 973,
+                "y": 248,
+                "featured-champions": []
+            },
+            "url": "/zh_cn/champion/heimerdinger",
+            "video": null,
+            "races": [],
+            "roles": [
+                {
+                    "name": "法师",
+                    "slug": "mage"
+                },
+                {
+                    "name": "辅助",
+                    "slug": "support"
+                }
+            ],
+            "role": [
+                {
+                    "name": "法师",
+                    "slug": "mage"
+                },
+                {
+                    "name": "辅助",
+                    "slug": "support"
+                }
+            ],
+            "game-info-url": "https://lol.qq.com/web201310/info-defail.shtml?id=Heimerdinger",
+            "biography": {
+                "full": "<p>塞西尔·B·黑默丁格教授是一个才华横溢但古怪反常的约德尔科学家。他被称赞为皮尔特沃夫前所未见的最具革新意识和受人尊敬的发明家之一。他不间断地工作，达到了神经痴迷的程度。他着迷于那些困扰了他的同辈们长达几十年的奥秘中，并且喜欢解答宇宙中最费解的难题。尽管他的理论经常会看起来晦涩难懂，但他相信知识应该得到分享，并且致力于教导那些渴望获得知识的人们。</p>",
+                "short": "塞西尔·B·黑默丁格教授是一个才华横溢但古怪反常的约德尔科学家。他被称赞为皮尔特沃夫前所未见的最具革新意识和受人尊敬的发明家之一。他不间断地工作，孜孜不倦地尝试解答宇宙中最费解的难题，达到了神经痴迷的程度。尽管他的理论经常会看起来晦涩难懂，但他也曾制造出许多发明，堪称皮尔特沃夫最为惊奇，当然也同样危险的机械，他也在不断改进自己的发明，让它们更加高效。",
+                "quote": "“你是说，不可能？胡说八道。等我让你看看我的计算！”",
+                "quote-author": "黑默丁格"
+            },
+            "headerImage": null
+        },
+        {
+            "type": "champion",
+            "release-date": "2012-08-07T00:00:00.000Z",
+            "name": "黛安娜",
+            "title": "皎月女神",
+            "section-title": "黛安娜",
+            "slug": "diana",
+            "associated-faction": "",
+            "associated-faction-slug": "mount-targon",
+            "image": {
+                "title": "diana-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/bltc235fa2b417ef7a4-Diana_0.jpg",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 945,
+                "y": 234,
+                "featured-champions": []
+            },
+            "background": {
+                "title": "diana-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/bltc235fa2b417ef7a4-Diana_0.jpg",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 945,
+                "y": 234,
+                "featured-champions": []
+            },
+            "url": "/zh_cn/champion/diana",
+            "video": {
+                "title": "diana-splashvideo-webm",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt52e18b467e1902ec-diana-splashvideo.webm",
+                "encoding": "video/webm",
+                "width": 1280,
+                "height": 720,
+                "x": 945,
+                "y": 234,
+                "featured-champions": []
+            },
+            "races": [],
+            "roles": [
+                {
+                    "name": "战士",
+                    "slug": "fighter"
+                },
+                {
+                    "name": "法师",
+                    "slug": "mage"
+                }
+            ],
+            "role": [
+                {
+                    "name": "战士",
+                    "slug": "fighter"
+                },
+                {
+                    "name": "法师",
+                    "slug": "mage"
+                }
+            ],
+            "game-info-url": "https://lol.qq.com/web201310/info-defail.shtml?id=Diana",
+            "biography": {
+                "full": "<p>黛安娜并不是巨神峰的人。一群烈阳教派猎人在发现她的时候，她的双亲已被冰冷夺走，把她裹在襁褓中护在中间——他们是这片土地上的陌生人，显然是远道跋涉而来。猎人们把她带回了他们的神庙，对她悉心照料，把她养大成人并成为了最后烈阳之族群的一员，也就是人们所认识的拉阔尔人。</p><p>和所有信仰烈阳教派的人一样，黛安娜接受了严格的身体训练和信仰修行。然而和其他人不一样的是，黛安娜决心要理解烈阳教派行为做法的<i>原因</i>，以及他们信仰背后的逻辑道理。她每晚都埋头于书库，如饥似渴地阅读所有文字，只有皎白的月光为她照明。事与愿违的是，求知求得的是更多问题而非答案，而她的老师们给出的不容置疑的古训格言则无法满足她寻根问底的心。</p><p>后来黛安娜开始发现典籍巨著里面有整个章节被撕掉，而且所有关于月亮的提及似乎也都失踪了，对此，教师们对她施以严厉的惩罚，想要用疲劳取得她的虔诚。上行下效，她同辈的信徒们也都开始对她和她的质疑敬而远之。</p><p>在那些困惑、苦闷和孤独的岁月里，只有一座明亮的灯塔：蕾欧娜。她是黛安娜同辈中最虔诚的，她们二人经常进行激烈的辩论。虽然持久且频繁的对话从来都无法彻底说服哪一方，但她们却建立了亲密的友谊。</p><p>后来，在一个荣耀的夜晚，黛安娜在山野中发现了一处隐秘的凹室，月光洒在墙上，显露出壮美的图景，太阳，身着黄金铠甲的士兵与银甲的士兵站在一起，对应着月亮的图景，一起出现在巨神峰之巅。黛安娜满心欢喜地跑回去与蕾欧娜分享这一明确的信息——太阳和月亮原来并不是敌人！</p><p>但蕾欧娜听后并不愉快。</p><p>她催促黛安娜彻底忘掉这异端邪说，还提醒她如果对其他人说出这样的话可能会遭遇的惩罚。黛安娜从未见过这个平时就不苟言笑的朋友<i>如此</i>严肃。</p><p>失望啃噬着她，明明她已经触及了烈阳教派认知的尽头，然而即使是蕾欧娜也不肯认可她的新发现。烈阳教派究竟在隐藏什么？黛安娜愈发确信，只有一个地方可以找到答案：巨神峰的顶点。</p><p>攀登的过程以任何能够想象的方式对她进行了考验，在她攀援顶峰的路途上，时间似乎都停止了。为了活下去，她将心思集中在孤独的内心中，思考那些能让烈阳教派更好、更<i>完整</i>的答案。</p><p>在峰顶迎接她的是一轮最明亮、最丰盈的满月。经过狂喜的片刻后，一柱月光打在她身上，她感受到一种奇异的存在占据了她的身体，与她分享曾经的掠影，让她看到另一个拉阔尔信仰：皎月教派。黛安娜意识到这个存在只可能是传说中的星灵……而她已经被选为它的宿主。</p><p>当光芒散去，她恢复了自我意识。黛安娜发现自己穿上了盔甲，手握一把月牙弯刀，曾经的黑发现在闪烁着银光。她转过身发现自己并不是一个人——蕾欧娜就站在她身旁，同样穿上了金色的战甲，手中握着太阳般耀眼的盾牌和长剑。</p><p>黛安娜欢欣鼓舞地与好友分享这一顿悟的时刻，但蕾欧娜只想着回到烈阳教派。黛安娜求她不要走，不顾一切地想要她们二人<i>共同</i>面对这个新的未来。但蕾欧娜拒绝了，她们之间的分歧很快就演变成了一场巨人之间的战斗，月光与日炎喷薄爆发。</p><p>担心自己在星灵的力量中迷失自我，黛安娜最终逃下了山。但她找到了所追寻的答案，她感到自己前所未有地自信，曾经那些对烈阳教派的质疑是正确的。现在是时候与他们正面相对，指出他们信条中的错误了。</p><p>黛安娜推开了拉霍拉克卫队，冲进了高阶祭司们的闭室。他们惊恐万分地听她讲述自己所发现的皎月教派……然后他们将她判为异端、亵渎者、伪神的传播者。怒火填满了黛安娜，她体内的星灵又将这愤怒放大，然后她拥抱了这股愤怒，释放出可怕的月光冲击。她被自己的行为震惊，逃离了神庙，留下了一条死亡之径。</p><p>现在，模糊的景象和远古知识的掠影驱策着黛安娜，让她紧紧抓住她所知道的事实——烈阳和皎月不需要成为敌人，而且她还要去实现一个更伟大的目标，而不是继续做一个巨神峰上的烈阳教派信徒。</p><p>虽然她的天命还不明了，但黛安娜会主动去追寻，不计代价。</p>",
+                "short": "手持新月形状的月刃、身披冬夜白雪般的闪亮铠甲，黛安娜是皎白银月之力的现世化身。她的体内注入了巨神峰彼端的星灵精粹，如今的黛安娜已经不再是单纯的人类，同时也在艰难地理解着自己所拥有的力量、自己在这世上的意义。",
+                "quote": "“我即是那追逐月之魂的皎白之光。”",
+                "quote-author": "黛安娜"
+            },
+            "headerImage": null
+        }
+    ],
+    "modules": [
+        {
+            "slug": "twist-of-fate",
+            "type": "featured-video",
+            "section-title": "影片",
+            "featured-image": {
+                "title": "featuredvideocover-twist-of-fate",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt5d527d26540df340-twist-of-fate.jpg",
+                "encoding": "image/jpeg",
+                "width": 1920,
+                "height": 1080,
+                "x": 165,
+                "y": 290,
+                "featured-champions": []
+            },
+            "title": "《命运的扭转》",
+            "subtitle": "",
+            "description": "在英雄联盟的影片《命运的扭转》中观看你最喜爱的英雄。",
+            "uri": "https://v.qq.com/x/page/s0184fcu194.html",
+            "video": {
+                "type": "video",
+                "title": "",
+                "subtitle": "",
+                "description": [],
+                "uri": "https://v.qq.com/x/page/s0184fcu194.html",
+                "width": "",
+                "height": "",
+                "x": "",
+                "y": "",
+                "featured-champions": []
+            },
+            "blackout": null,
+            "release-date": "2013-05-25T15:00:00.000Z",
+            "video-type": "cinematic",
+            "featured-champions": [
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                },
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                },
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                },
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                },
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                },
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                },
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                },
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                }
+            ],
+            "related-champions": [
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                },
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                },
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                },
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                },
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                },
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                },
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                },
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                }
+            ]
+        },
+        {
+            "slug": "影门",
+            "type": "story-preview",
+            "title": "影门",
+            "subtitle": "作者： Ian St Martin",
+            "description": "“再讲一个故事吧。”<br><br>",
+            "story-slug": "nocturne-color-story",
+            "featured-image": {
+                "title": "nocturne-color-bg",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt77050233097d5ea6-nocturne-color-bg.jpg",
+                "encoding": "image/jpeg",
+                "width": 1920,
+                "height": 1080,
+                "x": 950,
+                "y": 438,
+                "featured-champions": []
+            },
+            "background": {
+                "title": "nocturne-color-bg",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt77050233097d5ea6-nocturne-color-bg.jpg",
+                "encoding": "image/jpeg",
+                "width": 1920,
+                "height": 1080,
+                "x": 950,
+                "y": 438,
+                "featured-champions": []
+            },
+            "release-date": "2018-10-25T15:00:00.000Z",
+            "featured-champions": [
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                }
+            ],
+            "minutes-to-read": 5,
+            "url": "/zh_cn/story/nocturne-color-story"
+        },
+        {
+            "slug": "nocturne-image-gallery",
+            "type": "image-gallery",
+            "section-title": "",
+            "isFanArt": false,
+            "fan-art-url": "",
+            "featured-image": "",
+            "title": "",
+            "subtitle": "",
+            "assets": [
+                {
+                    "title": "魔腾概念图",
+                    "subtitle": "",
+                    "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/bltb143abda25ab6b86-nocturne_concept.jpg",
+                    "encoding": "image/jpeg",
+                    "width": 889,
+                    "height": 1080,
+                    "x": 660,
+                    "y": 498,
+                    "featured-champions": []
+                }
+            ],
+            "featured-champions": [
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                }
+            ]
+        },
+        {
+            "slug": "bts-twist-of-fate",
+            "type": "featured-video",
+            "section-title": "电影幕后",
+            "featured-image": {
+                "title": "featuredvideocover-bts-twist-of-fate",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt94b1622f56703d93-bts-twist-of-fate.jpg",
+                "encoding": "image/jpeg",
+                "width": 3000,
+                "height": 1582,
+                "x": 1399,
+                "y": 301,
+                "featured-champions": []
+            },
+            "title": "《命运的扭转》：幕后花絮",
+            "subtitle": "",
+            "description": "了解更多英雄联盟影片《命运的扭转》的幕后制作花絮。",
+            "uri": "https://v.qq.com/x/cover/3bv0uljb8wd2wru/m0014f97d7x.html",
+            "video": {
+                "type": "video",
+                "title": "",
+                "subtitle": "",
+                "description": [],
+                "uri": "https://v.qq.com/x/cover/3bv0uljb8wd2wru/m0014f97d7x.html",
+                "width": "",
+                "height": "",
+                "x": "",
+                "y": "",
+                "featured-champions": []
+            },
+            "blackout": null,
+            "release-date": "2013-05-25T15:00:00.000Z",
+            "video-type": "behind-the-scenes",
+            "featured-champions": [
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                },
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                },
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                },
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                },
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                },
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                },
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                },
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                }
+            ],
+            "related-champions": [
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                },
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                },
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                },
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                },
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                },
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                },
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                },
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                }
+            ]
+        }
+    ]
+}

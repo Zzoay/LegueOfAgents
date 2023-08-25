@@ -1,0 +1,909 @@
+{
+    "id": "leona",
+    "name": "蕾欧娜",
+    "title": "曙光女神",
+    "locale": "zh_cn",
+    "champion": {
+        "type": "champion",
+        "release-date": "2011-07-13T00:00:00.000Z",
+        "name": "蕾欧娜",
+        "title": "曙光女神",
+        "section-title": "蕾欧娜",
+        "slug": "leona",
+        "associated-faction": "",
+        "associated-faction-slug": "mount-targon",
+        "image": {
+            "title": "leona-splash",
+            "subtitle": "",
+            "description": "",
+            "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt6a3490eb186aa2d8-Leona_0.jpg",
+            "encoding": "image/jpeg",
+            "width": 1215,
+            "height": 717,
+            "x": 1061,
+            "y": 41,
+            "featured-champions": []
+        },
+        "background": {
+            "title": "leona-splash",
+            "subtitle": "",
+            "description": "",
+            "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt6a3490eb186aa2d8-Leona_0.jpg",
+            "encoding": "image/jpeg",
+            "width": 1215,
+            "height": 717,
+            "x": 1061,
+            "y": 41,
+            "featured-champions": []
+        },
+        "url": "/zh_cn/champion/leona",
+        "video": null,
+        "races": [],
+        "roles": [
+            {
+                "name": "坦克",
+                "slug": "tank"
+            },
+            {
+                "name": "辅助",
+                "slug": "support"
+            }
+        ],
+        "role": [
+            {
+                "name": "坦克",
+                "slug": "tank"
+            },
+            {
+                "name": "辅助",
+                "slug": "support"
+            }
+        ],
+        "game-info-url": "https://lol.qq.com/web201310/info-defail.shtml?id=Leona",
+        "biography": {
+            "full": "<p>在巨神峰上居住的拉阔尔族群相信，太阳是神圣的，其中最崇拜太阳的就是烈阳教派。他们的孩子从出生就开始尊敬太阳，甚至会为其抛洒热血，期待太阳的星灵回归，以及回归所预示的巨大危难。</p>\n\n<p>蕾欧娜就是其中一个孩子。她接受烈阳教派的信仰就像呼吸一样简单，总能在森严的结构中找到慰藉和温暖。这种天性也有具体的呈现，她成就卓越的速度飞快，所有同辈都羡慕她的能力、意志和虔诚。所有人都认定她有朝一日定会成为烈阳教派的神圣武士——<i>拉霍拉克</i>的一员。</p>\n\n<p>虽然蕾欧娜意气风发，但她却不能无视导师们在一位求知若渴的学生面前一筹莫展，这名学生是一个叫做黛安娜的孤儿。她的好奇心最初还能获得好感，但老师们很快就开始将黛安娜的问题当成是对烈阳教派教义的挑战。蕾欧娜看到黛安娜在惩罚和孤独中受苦，但别人看到的傲慢无礼，却让她看到一个迷失的灵魂，虔心寻找一切的意义。</p>\n\n<p>蕾欧娜找到了烈阳教派教诲的目的，并决心与黛安娜分享这种目标感，即使最恪尽职守的教师放弃她也无所谓。她们二人经常辩论到夜里，蕾欧娜希望能说服黛安娜，让她相信她所要的一切都可以在信仰中寻得，所以一直都在等待她的真心接受。虽然她始终没能赢得黛安娜的信仰，但她找到了一个朋友。</p>\n\n<p>一天夜里，黛安娜向蕾欧娜坦白了一个秘密。她说自己在山中发现了一个隐秘的凹室，古老的墙壁上刻着奇怪的符号和被遗忘的社群。当黛安娜提到想要攀登巨神峰顶寻求更多答案的时候，蕾欧娜劝阻了她。为了保护她不受到其他烈阳教众的愤怒，蕾欧娜强迫黛安娜承诺放弃搜索。黛安娜不情愿地同意了。</p>\n\n<p>一段时间过去，二人再未提起过这次发现。蕾欧娜相信她的朋友终于清醒了。</p>\n\n<p>在一个深夜中，她对朋友的信念破碎了，她看到黛安娜悄悄溜出神庙。虽然她的第一反应是要告诉长老们，但蕾欧娜也想要保护自己的朋友，她在最后一刻犹豫了。蕾欧娜下定了决心，追着黛安娜离开了……</p>\n\n<p>她们的目的地是巨神峰之巅。</p>\n\n<p>攀登的旅程是蕾欧娜从未经受过的试炼，把她核心存在的每一根纤维都拉扯到了极限，并突破了极限。只有她的锻炼、意志、以及对黛安娜的担忧驱策着她。山坡上冰封的尸体                       一动不动地看着她向上攀登，那些人永远无法走完自己的旅程，但即使是他们也无法让蕾欧娜却步。</p>\n\n<p>在经历了近乎永恒以后——蕾欧娜惊奇地发现，她抵达了峰顶。</p>\n\n<p>精疲力竭的她看到了不可思议的景象，还看到了黛安娜被银色的光柱包围。蕾欧娜看着朋友的身影在痛苦中扭曲，空气中回荡着她的尖叫。惊恐中的蕾欧娜冲过去救她，这时一束金色光芒从天而降，裹住了她。</p>\n\n<p>这种感觉无法描述，但蕾欧娜并没有被化成灰烬，那束光进入了她的身体，为她充满了超凡的力量。她坚持保持自己的清醒意识，对抗着那股想要将她烧尽的洪流。</p>\n\n<p>最后，她不屈的意志获胜了——掌控带来了理解。</p>\n\n<p>掌控带来了理解。蕾欧娜永远地改变了，她的体内注入了太阳星灵。命运选择了<i>她</i>，她的使命是在未来的时间里保护烈阳教派。</p>\n\n<p>这时蕾欧娜看到了黛安娜，她穿上了亮银的战甲，而她发现自己也穿上了金色的铠甲。黛安娜恳求蕾欧娜与她一起，寻找烈阳教派无法提供的答案。蕾欧娜则要求她们一同回家，交给祭司们评判。双方互不让步，最后终于刀剑相向。</p>\n\n<p>她们的战斗迅猛神速，日与月之间的剧烈对撞，最后黛安娜的弯刀停在蕾欧娜的喉咙前。但黛安娜没有给出最后一击，而是逃走了。备受打击的蕾欧娜走下了巨神峰，赶到了长老身边。</p>\n\n<p>而当她回来以后，看到的却是屠杀。许多烈阳教派的祭司和拉霍拉克护卫都死去了，显然是死在黛安娜之手。幸存的人看见她更加惊恐，因为如今他们身边出现了<i>两位</i>星灵。蕾欧娜投入了新的使命，帮助他们接受这个新的现实，并成为她人民的领航之光，就像太阳一直以来对他们的指引。</p>\n\n<p>她也发誓要找到黛安娜，维持烈阳教派的统治……同时帮助她的老朋友掌控月亮星灵的力量，以免她被彻底毁灭。</p>",
+            "short": "蕾欧娜是被灌注了烈阳之火的烈阳教派圣殿武士，用天顶之刃和破晓之盾守护着巨神峰。她的皮肤闪烁着星火，她体内天界星灵的力量透过她的双眼炯炯燃烧。蕾欧娜身披金色铠甲，背负着沉重的上古知识，为一些人带来启示，为另一些人带去死亡。",
+            "quote": "“在太阳的光芒中，世界为人所见。”",
+            "quote-author": "蕾欧娜"
+        },
+        "headerImage": null
+    },
+    "related-champions": [
+        {
+            "type": "champion",
+            "release-date": "2012-08-07T00:00:00.000Z",
+            "name": "黛安娜",
+            "title": "皎月女神",
+            "section-title": "黛安娜",
+            "slug": "diana",
+            "associated-faction": "",
+            "associated-faction-slug": "mount-targon",
+            "image": {
+                "title": "diana-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/bltc235fa2b417ef7a4-Diana_0.jpg",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 945,
+                "y": 234,
+                "featured-champions": []
+            },
+            "background": {
+                "title": "diana-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/bltc235fa2b417ef7a4-Diana_0.jpg",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 945,
+                "y": 234,
+                "featured-champions": []
+            },
+            "url": "/zh_cn/champion/diana",
+            "video": {
+                "title": "diana-splashvideo-webm",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt52e18b467e1902ec-diana-splashvideo.webm",
+                "encoding": "video/webm",
+                "width": 1280,
+                "height": 720,
+                "x": 945,
+                "y": 234,
+                "featured-champions": []
+            },
+            "races": [],
+            "roles": [
+                {
+                    "name": "战士",
+                    "slug": "fighter"
+                },
+                {
+                    "name": "法师",
+                    "slug": "mage"
+                }
+            ],
+            "role": [
+                {
+                    "name": "战士",
+                    "slug": "fighter"
+                },
+                {
+                    "name": "法师",
+                    "slug": "mage"
+                }
+            ],
+            "game-info-url": "https://lol.qq.com/web201310/info-defail.shtml?id=Diana",
+            "biography": {
+                "full": "<p>黛安娜并不是巨神峰的人。一群烈阳教派猎人在发现她的时候，她的双亲已被冰冷夺走，把她裹在襁褓中护在中间——他们是这片土地上的陌生人，显然是远道跋涉而来。猎人们把她带回了他们的神庙，对她悉心照料，把她养大成人并成为了最后烈阳之族群的一员，也就是人们所认识的拉阔尔人。</p><p>和所有信仰烈阳教派的人一样，黛安娜接受了严格的身体训练和信仰修行。然而和其他人不一样的是，黛安娜决心要理解烈阳教派行为做法的<i>原因</i>，以及他们信仰背后的逻辑道理。她每晚都埋头于书库，如饥似渴地阅读所有文字，只有皎白的月光为她照明。事与愿违的是，求知求得的是更多问题而非答案，而她的老师们给出的不容置疑的古训格言则无法满足她寻根问底的心。</p><p>后来黛安娜开始发现典籍巨著里面有整个章节被撕掉，而且所有关于月亮的提及似乎也都失踪了，对此，教师们对她施以严厉的惩罚，想要用疲劳取得她的虔诚。上行下效，她同辈的信徒们也都开始对她和她的质疑敬而远之。</p><p>在那些困惑、苦闷和孤独的岁月里，只有一座明亮的灯塔：蕾欧娜。她是黛安娜同辈中最虔诚的，她们二人经常进行激烈的辩论。虽然持久且频繁的对话从来都无法彻底说服哪一方，但她们却建立了亲密的友谊。</p><p>后来，在一个荣耀的夜晚，黛安娜在山野中发现了一处隐秘的凹室，月光洒在墙上，显露出壮美的图景，太阳，身着黄金铠甲的士兵与银甲的士兵站在一起，对应着月亮的图景，一起出现在巨神峰之巅。黛安娜满心欢喜地跑回去与蕾欧娜分享这一明确的信息——太阳和月亮原来并不是敌人！</p><p>但蕾欧娜听后并不愉快。</p><p>她催促黛安娜彻底忘掉这异端邪说，还提醒她如果对其他人说出这样的话可能会遭遇的惩罚。黛安娜从未见过这个平时就不苟言笑的朋友<i>如此</i>严肃。</p><p>失望啃噬着她，明明她已经触及了烈阳教派认知的尽头，然而即使是蕾欧娜也不肯认可她的新发现。烈阳教派究竟在隐藏什么？黛安娜愈发确信，只有一个地方可以找到答案：巨神峰的顶点。</p><p>攀登的过程以任何能够想象的方式对她进行了考验，在她攀援顶峰的路途上，时间似乎都停止了。为了活下去，她将心思集中在孤独的内心中，思考那些能让烈阳教派更好、更<i>完整</i>的答案。</p><p>在峰顶迎接她的是一轮最明亮、最丰盈的满月。经过狂喜的片刻后，一柱月光打在她身上，她感受到一种奇异的存在占据了她的身体，与她分享曾经的掠影，让她看到另一个拉阔尔信仰：皎月教派。黛安娜意识到这个存在只可能是传说中的星灵……而她已经被选为它的宿主。</p><p>当光芒散去，她恢复了自我意识。黛安娜发现自己穿上了盔甲，手握一把月牙弯刀，曾经的黑发现在闪烁着银光。她转过身发现自己并不是一个人——蕾欧娜就站在她身旁，同样穿上了金色的战甲，手中握着太阳般耀眼的盾牌和长剑。</p><p>黛安娜欢欣鼓舞地与好友分享这一顿悟的时刻，但蕾欧娜只想着回到烈阳教派。黛安娜求她不要走，不顾一切地想要她们二人<i>共同</i>面对这个新的未来。但蕾欧娜拒绝了，她们之间的分歧很快就演变成了一场巨人之间的战斗，月光与日炎喷薄爆发。</p><p>担心自己在星灵的力量中迷失自我，黛安娜最终逃下了山。但她找到了所追寻的答案，她感到自己前所未有地自信，曾经那些对烈阳教派的质疑是正确的。现在是时候与他们正面相对，指出他们信条中的错误了。</p><p>黛安娜推开了拉霍拉克卫队，冲进了高阶祭司们的闭室。他们惊恐万分地听她讲述自己所发现的皎月教派……然后他们将她判为异端、亵渎者、伪神的传播者。怒火填满了黛安娜，她体内的星灵又将这愤怒放大，然后她拥抱了这股愤怒，释放出可怕的月光冲击。她被自己的行为震惊，逃离了神庙，留下了一条死亡之径。</p><p>现在，模糊的景象和远古知识的掠影驱策着黛安娜，让她紧紧抓住她所知道的事实——烈阳和皎月不需要成为敌人，而且她还要去实现一个更伟大的目标，而不是继续做一个巨神峰上的烈阳教派信徒。</p><p>虽然她的天命还不明了，但黛安娜会主动去追寻，不计代价。</p>",
+                "short": "手持新月形状的月刃、身披冬夜白雪般的闪亮铠甲，黛安娜是皎白银月之力的现世化身。她的体内注入了巨神峰彼端的星灵精粹，如今的黛安娜已经不再是单纯的人类，同时也在艰难地理解着自己所拥有的力量、自己在这世上的意义。",
+                "quote": "“我即是那追逐月之魂的皎白之光。”",
+                "quote-author": "黛安娜"
+            },
+            "headerImage": null
+        },
+        {
+            "type": "champion",
+            "release-date": "2009-08-19T00:00:00.000Z",
+            "name": "塔里克",
+            "title": "瓦洛兰之盾",
+            "section-title": "塔里克",
+            "slug": "taric",
+            "associated-faction": "",
+            "associated-faction-slug": "mount-targon",
+            "image": {
+                "title": "taric-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/bltd6031c92be7eafe7-Taric_0.jpg",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 1061,
+                "y": 41,
+                "featured-champions": []
+            },
+            "background": {
+                "title": "taric-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/bltd6031c92be7eafe7-Taric_0.jpg",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 1061,
+                "y": 41,
+                "featured-champions": []
+            },
+            "url": "/zh_cn/champion/taric",
+            "video": {
+                "title": "taric-splashvideo-webm",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt7cc2cbf2b7f8a00e-taric-splashvideo.webm",
+                "encoding": "video/webm",
+                "width": 1280,
+                "height": 720,
+                "x": 1061,
+                "y": 41,
+                "featured-champions": []
+            },
+            "races": [],
+            "roles": [
+                {
+                    "name": "辅助",
+                    "slug": "support"
+                },
+                {
+                    "name": "战士",
+                    "slug": "fighter"
+                }
+            ],
+            "role": [
+                {
+                    "name": "辅助",
+                    "slug": "support"
+                },
+                {
+                    "name": "战士",
+                    "slug": "fighter"
+                }
+            ],
+            "game-info-url": "https://lol.qq.com/web201310/info-defail.shtml?id=Taric",
+            "biography": {
+                "full": "<p>对于德玛西亚高贵的守护者来说，日常生活就是对国王与国家崇高理想的专注、无私、奉献。在世代参军的家族传统感召下，塔里克从没有幻想过逃避这些责任，只不过他不愿意限定自己想要保护的<i>人</i>与<i>物</i>的范围。</p>\n\n<p>这名年轻的战士训练刻苦，武艺高超。但在他为数不多的自由时间里，他会寻求其他为祖国效力的方式。他自愿与光照者们同行，照料病患或者帮助洪水过后的重建。他发挥自己的创意天赋，帮助石匠和工匠树立起大大小小的丰碑，刻画出飞翼保护神的荣光，以及它所代表的崇高理念。</p>\n\n<p>艺术作品。陌生人的安危。正是这些东西让德玛西亚成为一个值得为之战斗的国度。塔里克在每一个人和物之中都看得到美、脆弱、以及拯救的价值。</p>\n\n<p>幸运的是，他友善的举止和发自内心的温暖为他扫清了来自战友和长官的批评。他的军衔渐渐攀升，甚至有机会与年轻的盖伦•冕卫并肩作战。</p>\n\n<p>讽刺的是，正因为塔里克的稳步攀升，才导致了他最后的衰落——至少以德玛西亚的标准可以这样评判。</p>\n\n<p>他晋升到了首屈一指的无畏先锋，突然之间必须遵守更高标准的行为守则。他的许多做法都不再被纪律容许：比如跑到森林里寻找珍禽异兽的踪影；缺席练兵比武，坐在酒馆里聆听吟游诗人的上口民谣；或者在道路巡查期间骑马外出，观赏银灰色的夜幕渐渐降在郊外村庄。塔里克开始感到不自在，很快就被视为不服从命令的士兵，受到特殊关注。</p>\n\n<p>盖伦劝他紧张起来履行自己的使命。他可以看出，塔里克有潜力跻身成为瓦洛兰上最伟大的英雄之列——然而他似乎并不敬畏命运，甚至是自己的祖国。</p>\n\n<p>为了不让他遭到贬黜，塔里克被指派临时担任先锋团剑尉长的随行助理，他们二人对此都心存不满。然而，当老剑尉长连同其他随行人员战死的时候，塔里克却在擅离职守……有传闻称他当时正在附近某片被遗忘的神庙废墟中的回廊上闲逛。</p>\n\n<p>没什么可辩驳的。十多名战士死了，塔里克必须被送上刽子手的砧板。</p>\n\n<p>然而，为了给朋友寻求最后的仁慈，盖伦插手了。作为剑尉长的继任者，他宣判塔里克将被处以“石冠之刑”——根据德玛西亚最古老的传统，他将被送去攀登巨神峰，几乎无人能在登顶的过程中活下来。</p>\n\n<p>虽然石冠之刑通常都是在默许那些丧失尊严的人逃离德玛西亚、自我流放并重获新生，但是塔里克却登上了第一艘南下的船，他发誓<i>真的</i>要以此弥补自己的过失。</p>\n\n<p>攀登巨神峰的旅途几乎吞噬了他，令他身心俱焚，无数次倒下又爬起。但是塔里克突破了疼痛的界限，突破了自己亡故战友的鬼魂以及巨峰施加给他的其他考验。随着他接近顶峰，一轮新来的景象围绕在他身边，他满目失落与毁灭……</p>\n\n<p><i>他看见阿尔巴斯德图书馆被深渊和火焰吞噬……但却毅然地冲进炼狱之火，想要救出桐创作的诗篇。他看见冰霜守卫将世界上最后仅存的幻梦鹿赶下嚎哭深渊……自己也奋不顾身地跟着跳下去想要拯救它。在不朽堡垒的大门前，塔里克看到盖伦的残破尸首在绞刑架上悠荡……他无力地跪倒，然后举起盾牌，义无反顾地冲向前方严阵以待的诺克萨斯大军。</i></p>\n\n<p>当一切景象褪去，塔里克发现自己正站在巨神峰的最高点，而且他并非孤身一人。他的面前，某种显为人形的东西站在那里，水晶般的面孔发出群星的光芒，声音如同千声低语，像刀刃一样割开塔里克。</p>\n\n<p>它向他诉说世间真相，但不知为何，他觉得自己一直都知道那一切。它还讲述了他此生一直都在浑然不觉中准备着一副衣钵，他的一切决定和行为都是为了让他能在此刻站在此地，巨神峰之巅。</p>\n\n<p>接下来他将成为瓦罗兰之盾，在尚未到来的伟大战争中挺立不倒。</p>\n\n<p>塔里克重生成为了保护者星灵，他被赋予了凡人不可想象的力量与意义，并欣然接受了这全新的感召——担当整个<i>世界</i>的坚毅守护者。</p>",
+                "short": "塔里克是保护者星灵的宿主，用超乎寻常的力量守护着符文之地的生命、仁爱以及万物之美。塔里克曾因渎职而被放逐，离开了祖国德玛西亚，前去攀登巨神峰寻找救赎，但他找到的却是来自群星的更高层的召唤。现在的塔里克获得了天界的神力，“瓦罗兰之盾”将永不疲倦地警醒着，为这个世界上的人们提防任何威胁。",
+                "quote": "“最强的武器必然最美。”",
+                "quote-author": "塔里克"
+            },
+            "headerImage": null
+        },
+        {
+            "type": "champion",
+            "release-date": "2016-03-24T00:00:00.000Z",
+            "name": "奥瑞利安·索尔",
+            "title": "铸星龙王",
+            "section-title": "奥瑞利安·索尔",
+            "slug": "aurelionsol",
+            "associated-faction": "",
+            "associated-faction-slug": "unaffiliated",
+            "image": {
+                "title": "aurelionsol-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/bltac9e6a0df59a974e-AurelionSol_0.jpg",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 687,
+                "y": 2,
+                "featured-champions": []
+            },
+            "background": {
+                "title": "aurelionsol-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/bltac9e6a0df59a974e-AurelionSol_0.jpg",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 687,
+                "y": 2,
+                "featured-champions": []
+            },
+            "url": "/zh_cn/champion/aurelionsol",
+            "video": {
+                "title": "aurelionsol-splashvideo-webm",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blta13a38f6e83de0ec-aurelionsol-splashvideo.webm",
+                "encoding": "video/webm",
+                "width": 1280,
+                "height": 720,
+                "x": 687,
+                "y": 2,
+                "featured-champions": []
+            },
+            "races": [],
+            "roles": [
+                {
+                    "name": "法师",
+                    "slug": "mage"
+                },
+                {
+                    "name": "战士",
+                    "slug": "fighter"
+                }
+            ],
+            "role": [
+                {
+                    "name": "法师",
+                    "slug": "mage"
+                },
+                {
+                    "name": "战士",
+                    "slug": "fighter"
+                }
+            ],
+            "game-info-url": "https://lol.qq.com/web201310/info-defail.shtml?id=AurelionSol",
+            "biography": {
+                "full": "<p>一道彗星的现世，常常预兆着动荡与剧变。随着躁动的彗尾拂过天际，人世间新王频立，旧主俱薨，就连九天之上的烁烁星光也会黯淡消失……</p><p>而真相，或许比人们看到的更加阴暗。</p><p>全知全能的奥瑞利安•索尔，在符文之地上的凡类开始繁衍之前就已是远古的存在了。自从降生于太息之初，他和他的同类就开始在广袤空无的原始天界领域遨游，力图在这宽广无垠的画布上绘满奇迹，让闪烁的光谱为所有见证者带来成就与欣喜。</p><p>在奥瑞利安•索尔的漫游途中，很少遇到能与他比肩的同等存在。那些永恒的星灵个个都漠然寡情，对事物的存在鲜有贡献，只满足于构想那些以自我为中心的、关于创造本身的哲学理论。</p><p>然而后来，在他无数纪元之前铸造的一颗普普通通的太阳周边，他有了惊奇的发现。一个星球。多个重叠的领域。</p><p>他并不清楚是谁创造了这个世界，也不清楚出于什么目的——他只清楚这不是自己的作品。</p><p>那些星灵似乎对这个世界有着不同寻常的关注，他们恳求他靠近些。这里孕育着生命、魔法，还有襁褓中的文明啼哭着寻求更高级智慧的指引。有新的观众瞻仰他的无上至尊，令奥瑞利安•索尔沾沾自喜，他化身为星间的凶猛巨龙降入凡尘，沐浴在凡类的奉承之中。</p><p>在一片名为“苣申”的平凡土地上，渺小的居民们用他所赐予的金光为他命名，于是那些星灵就命令他们奉上相应的贡品。凡人们爬上了他们最高的山峰，为他呈上了一顶华美的王冠，上面附有精妙诡秘的魔法，镌刻着天界领域不可思议的图案。</p><p>而当这顶王冠被奥瑞利安•索尔戴上眉梢的时候，他才知道这根本就不是贡品。</p><p>它是被诅咒的邪物，用不可想象的力量箍在他的头上，甚至让他无法摘掉，随后他感觉到，自己关于太阳以及太阳创生的那些知识被偷走、被查阅、被那些低级的智能玷污。更糟糕的是，王冠的力量把他抛回到了天界，而且让他无法靠近这个世界。</p><p>他只能眼睁睁看着那些奸诈的星灵自封为“巨神”，差遣凡人建造巨大的金光圆盘。通过这种方式，他们抽取了<i>他</i>的天界力量，塑造出不朽的天神战士，为的则是迎接某种尚未发生的冲突斗争。</p><p>怒不可遏的奥瑞利安•索尔还看到，由于缺少照料与护理，苍穹中的其他星宿开始黯淡，于是他竭力摆脱王冠的控制。是他在宇宙中诞下了光明！而如今，他为何要被星灵和他们卑贱的棋子所束缚？当他看到那座太阳圆盘坍塌的时候发出了欢喜的咆哮……然而随后看到的却是第二座更强大的圆盘取而代之。最后，放弃抵抗命运的他，看到那些天神战士屠杀敌人，然后是窸窣的纯粹黑暗生物，最后他们自相残杀。</p><p>再后来，星辰巨龙眨眼的瞬息之间，这个世界被接二连三的巫术灾难席卷，这时奥瑞利安•索尔终于看到了，巨神和那些他痛恨的星灵全都破绽大开。他小心翼翼地徘徊靠近，他意识到束缚自己的魔法正在衰退。他的王冠上剥脱下了金屑，每一片都像彗星一样在空中留下火焰的轨迹。</p><p>近在咫尺的自由与复仇引诱着奥瑞利安•索尔，如今的他带着炽热、永恒的怒火睥睨符文之地。毫无疑问，在这颗星球上，宇宙的平衡将再次向他倾斜——届时，这个宇宙将成为他的见证者，见证那些胆敢从铸星龙王身上窃取力量的窃贼迎来怎样的下场。</p>",
+                "short": "奥瑞利安•索尔创造了奇迹般的群星，为无垠的荒芜太空布下他宏伟的恩典，但却遭到巨神星灵的算计，揭示了一颗他所铸造的太阳的秘密。他的神力被抽走，并制造出不朽的天神战士，用来保护那个无足轻重的星球——符文之地。如今，为了重新掌控宇宙，奥瑞利安•索尔誓要夺回属于自己的自由。哪怕召星降怒，倾覆众生。",
+                "quote": "“瑟缩，崇拜，惊叹。人之常态，概莫能外。”",
+                "quote-author": "奥瑞利安·索尔"
+            },
+            "headerImage": null
+        },
+        {
+            "type": "champion",
+            "release-date": "2010-02-02T00:00:00.000Z",
+            "name": "潘森",
+            "title": "不屈之枪",
+            "section-title": "潘森",
+            "slug": "pantheon",
+            "associated-faction": "",
+            "associated-faction-slug": "mount-targon",
+            "image": {
+                "title": "pantheon-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt8c02ab1e736da4a3-pantheon_splash.jpg",
+                "encoding": "image/jpeg",
+                "width": 1080,
+                "height": 637,
+                "x": 556,
+                "y": 230,
+                "featured-champions": []
+            },
+            "background": {
+                "title": "pantheon-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt8c02ab1e736da4a3-pantheon_splash.jpg",
+                "encoding": "image/jpeg",
+                "width": 1080,
+                "height": 637,
+                "x": 556,
+                "y": 230,
+                "featured-champions": []
+            },
+            "url": "/zh_cn/champion/pantheon",
+            "video": null,
+            "races": [],
+            "roles": [
+                {
+                    "name": "战士",
+                    "slug": "fighter"
+                },
+                {
+                    "name": "刺客",
+                    "slug": "assassin"
+                }
+            ],
+            "role": [
+                {
+                    "name": "战士",
+                    "slug": "fighter"
+                },
+                {
+                    "name": "刺客",
+                    "slug": "assassin"
+                }
+            ],
+            "game-info-url": "http://gameinfo.na.leagueoflegends.com/en/game-info/champions/pantheon",
+            "biography": {
+                "full": "<p>阿特瑞斯出生在巨神峰的险山峻岭上，他得名于夜空中的一颗星，而那颗星是战神星座“潘森”的一部分。</p><p>从很小的年纪起，他就知道战斗是自己的天命。他和部落里的许多孩子一样接受训练，目标是加入拉阔尔的军事教团，“拉霍拉克”。阿特瑞斯从来都不是力量最大或者技艺最高超的武士，但他却以某种方式坚持着，在每一回合的较量后，都带着血痕和淤青站起来。一段时间后，他与同辈的新兵派拉斯产生了激烈的对抗气氛。但无论阿特瑞斯多少次被摔在石面上，他都再次站了起来。他不依不饶的韧劲让派拉斯另眼相看，他们在训练场上挥洒的鲜血，筑成了真正的兄弟情义。</p><p>阿特瑞斯和派拉斯在一次巡逻中遭遇了野蛮人的入侵，整支拉阔尔人巡逻队只有他们两人幸存。而当烈阳星灵拒绝讨伐这些入侵者时，阿特瑞斯和派拉斯发誓要亲自夺得星灵的力量，他们决定去攀登巨神峰之巅。</p><p>和许多前人一样，他们也低估了这次攀登的残酷程度。派拉斯在抵达峰顶之前，他的生命如同风中的残烛，最终轻颤一下便化为了乌有。当天空敞开，只有阿特瑞斯还在，他将成为神圣星灵的载体，他将拥有报仇雪恨的力量。</p><p>但后来回到拉阔尔部族的并不是人，而是长枪闪耀、圆盾烨烁的战争星灵——<i>潘森</i>本尊。他判定阿特瑞斯不具资格，因为他是一名屡战屡败的武士，所以它彻底夺走了他的身体，用于实现自己的目标——一项对凡人来说过于艰巨的任务。</p><p>阿特瑞斯被封进了自己脑海中最遥远的角落，只能通过模糊的景象看到这位星灵踏遍世界，搜寻着暗裔——那些远古时代被创造出来的活体武器。</p><p>后来，盛怒之下的潘森加入了巨神峰不远处的一次战斗，等待他的是正在追寻神峰之巅的暗裔剑魔亚托克斯。那场战斗从地面打到天上，横扫下方人类的大军……最后不可能的事情发生了。暗裔的弑神之刃刺入了潘森的胸膛，在天空中的战争星座上刻下了一剑。</p><p>但随着星灵渐渐消散，阿特瑞斯，那个被它认为弱小的人，再次苏醒。他被亚托克斯的剑刃贯穿，星灵武器的力量正在衰退，而他则抽了一口气，冲着那个暗裔的脸啐了一口。亚托克斯冷笑了一下，把阿特瑞斯留在原地等死。</p><p>几小时以后，当乌鸦开始落下来的时候，阿特瑞斯忍住痛苦再次站起来，踉跄着返回拉阔尔部族，身后留下一条血染的路。饱尝一生的失败以后，他求生的意志以及遭背叛的愤怒已经足够延缓他的死亡，纵使那死亡已将战神本尊夺走。</p><p>阿特瑞斯在派拉斯的家中醒来，派拉斯的遗孀伊乌拉为他养伤。在那里，阿特瑞斯明白了，他一生都在仰望星空，却从未思考星空下的世界。凡人不同于天神，凡人之所以战斗是因为他们<i>别无选择</i>，因为他们知道死亡始终在等待。他在一切生命中都看到了这股韧劲，因为死亡的威胁永无终结。</p><p>的确如此，野蛮人入侵者现在就在威胁着拉阔尔人北边的定居点，其中也包括伊乌拉的农场。虽然阿特瑞斯要想举起长枪还需要休养数月，但他还是决定亲自终结这场灾祸。最终，他拿着星灵留下的暗淡武器出发了。</p><p>然而，当他抵达的时候，他发现自己不共戴天的仇敌已经遭到袭击。从他们的惨叫声和那股浓重的血腥味……阿特瑞斯知道，他们面对的是亚托克斯。</p><p>阿特瑞斯意识到，将这群野蛮人驱赶到巨神峰的正是亚托克斯。虽然他曾把他们视作仇敌，但他们和拉阔尔人并无二致——他们都是被夹在两个更庞大的力量之间、饱受纷争摧残的凡人。阿特瑞斯对暗裔和星灵抱有同样的愤恨。它们都一样。它们都是问题本身。</p><p>阿特瑞斯站在了野蛮人与亚托克斯之间。那个暗裔认出了伤痕累累的盾牌和长枪属于那个陨落的星灵，于是对他冷嘲热讽——如今阿特瑞斯没有了潘森的力量，何来希望？他在亚托克斯的攻击下双膝跪地，但当阿特瑞斯听到身边人们的喊叫时，他的意志点燃了星灵的长枪。随着一记奋力的飞跃，他一击斩下了暗裔持剑的手臂。</p><p>剑和暗裔都倒在了地上，只有阿特瑞斯毅然挺立，他看到与自己同名的那颗星在天空中重新焕发生机。</p><p>虽然阿特瑞斯经常挂念着想要回到伊乌拉的农场，但他那天曾许下誓言，要对抗星灵、飞升者、恶魔以及任何力量过分强大的存在，因为它们只会破坏。他抛弃了自己的原名，成为了<i>新的</i>潘森——星灵的武具如今被灌注了新的战斗意志，唯有直面死亡时方可熊熊燃烧。</p><p>潘森的神性已经离去，战神必须在凡人中重生。</p>",
+                "short": "曾被战争星灵附体的阿特瑞斯，在体内的天界力量被抹杀之时，便以凡人的身份活了下来。即便是那裂空摘星的一击，也无法让他屈服。在那不久以后，他学会了拥抱自身的凡性，以及凡性之中那股顽强的韧劲。如今的阿特瑞斯以潘森之名重生，与神性抗争，他坚不可摧的意志在战场上化为火焰，注入那些曾经属于星灵的武具中。",
+                "quote": "“这将是我不朽的时刻……一个众神都会铭记的日子!”",
+                "quote-author": ""
+            },
+            "bioImage": null,
+            "headerImage": null
+        }
+    ],
+    "explore-champions": [
+        {
+            "type": "champion",
+            "release-date": "2021-09-08T19:43:26.000Z",
+            "name": "薇古丝",
+            "title": "愁云使者",
+            "section-title": "薇古丝",
+            "slug": "vex",
+            "associated-faction": "",
+            "associated-faction-slug": "shadow-isles",
+            "image": {
+                "title": "vex-splash.jpg",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt8f02a4d9f9fa875d-vex-splash.jpg",
+                "encoding": "image/jpeg",
+                "width": 1920,
+                "height": 1064,
+                "x": 1250,
+                "y": 150,
+                "featured-champions": []
+            },
+            "background": {
+                "title": "vex-splash.jpg",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt8f02a4d9f9fa875d-vex-splash.jpg",
+                "encoding": "image/jpeg",
+                "width": 1920,
+                "height": 1064,
+                "x": 1250,
+                "y": 150,
+                "featured-champions": []
+            },
+            "url": "/zh_cn/champion/vex",
+            "video": null,
+            "races": [],
+            "roles": [
+                {
+                    "name": "法师",
+                    "slug": "mage"
+                }
+            ],
+            "role": [
+                {
+                    "name": "法师",
+                    "slug": "mage"
+                }
+            ],
+            "game-info-url": "",
+            "biography": {
+                "full": "<p>在暗影岛的黑色中心，一个约德尔人孤独地踯躅在鬼魅的浓雾中，在那片阴郁的惨象中安然自得。薇古丝有着取之不尽的颓废，身后还跟着一个强大的黑影，她躲在自己的小天地里，远离外面的生机和快乐，还有遍布全世界的那些讨厌的“正常人”。</p>\n\n<p>自幼生长在班德尔城的薇古丝，始终都没有任何归属感。这个光怪陆离的约德尔人家园对她来说简直甜得发腻。虽然她的父母尽职尽责，但她却似乎无法找到她的“约德尔精神”，也找不到任何志趣相投的朋友，所以她总是呆在自己房间里闷闷不乐。</p>\n\n<p>在那里，她找到了一个不可思议的灵魂伴侣——她自己的影子。它是黑色的（她最喜欢的颜色），而且它从不说话，简直就是这个忧郁女孩的完美同伴。她学会和影子玩耍取乐，表演阴郁的哑剧，消遣时间。</p>\n\n<p>怎奈何，它只是一个影子，无法替薇古丝抵挡她身边那些可恶的欢快气氛。世上肯定还有别的东西。更加黑暗的。悲哀的。<i>像她一样的</i>。</p>\n\n<p>这个<i>别的东西</i>到来了，它叫蚀魂夜，是席卷班德尔城的浓密黑雾，使得这里的居民惊慌失措。多数约德尔人都英勇战斗，抗击黑雾，但薇古丝却对这种丑恶的颓废气息颇感兴趣，尾随它来到了它的根源。</p>\n\n<p>当薇古丝抵达暗影岛时，她简直不敢相信自己的眼睛。大片大片的土地和海域，全都没了生气和色彩，在她眼前延伸开去。在这里，她终于可以痛快地闷闷不乐，再也不用被其他人的欢笑嬉闹所打扰。</p>\n\n<p>时间一天天过去，薇古丝意识到这种黑雾对自己产生着奇怪的效果。她的影子呈现出了一个前所未有的幽灵般的人格——比它的主人还要活跃开朗许多。而她原本良善的约德尔魔法也变得狰狞凶煞。薇古丝现在可以把她的颓丧散播到更远处了。</p>\n\n<p>“是谁创造出了这个美妙的鬼地方？”她心生好奇。</p>\n\n<p>她的好奇很快有了答案，因为破败之王佛耶戈来到了暗影岛，他要把自己的黑雾播撒到符文之地的每个角落。刚一见到薇古丝，佛耶戈就意识到这个约德尔人拥有散播绝望的特殊能力，能让人更容易受到他的蚀魂夜的侵害。而薇古丝呢，则赞叹佛耶戈的伟大愿景：让黑雾覆盖全世界。于是这二人成为了牢固的盟友，出发上路，一起让全世界变成凋敝的废土。</p>\n\n<p>还没等佛耶戈的愿景彻底实现，薇古丝发现了他隐秘的动机：夺回亡妻伊苏尔德的灵魂，并与她重新团聚，共享幸福美满的婚姻。她嫌恶得浑身颤抖，感觉自己遭到了背叛，因为她所信任的那个要消灭世间所有幸福的人，其实自己就在追寻幸福。薇古丝抛弃了佛耶戈，任凭他被光明哨兵击败，他那全世界大破败的美梦摔碎在卡马维亚的残垣断壁上。又变回孤身一人的她，失望地看着这个世界恢复成那个明媚、多彩的地方，那个她一直以来最憎恨的模样。看来找到一种经久不退的忧郁，要比她想的更难。</p>\n\n<p>她知道自己只剩下一个地方可去，在那里，她保准可以得到自己渴望已久的凄惨境遇。她前往班德尔城看望她的父母，急切地向他们展示自己的改变，等待着他们的反对。</p>\n\n<p>这个约德尔女孩看到父母目瞪口呆，呆若木桩。他们的表情从惊诧，到否认，再到不情愿地接受。</p>\n\n<p>“亲爱的。我们不明白……<i>这个</i>。”她的母亲说着，指了指薇古丝全身上下。</p>\n\n<p>“但我们无条件地爱你，”她的父亲说，“只要你幸福，我们就<i>因你</i>而幸福。”</p>\n\n<p>薇古丝翻了个白眼，忿忿地大声叹了口气。她没好气地抱怨：“你们最差劲了。”</p>\n\n<p>于是她跺脚冲出父母的起居室，迫切地想回到暗影岛，在那里，她可以不被打扰，闷闷不乐。</p>",
+                "short": "在暗影岛的黑色中心，一个约德尔人孤独地踯躅在鬼魅的浓雾中，在那片阴郁的惨象中安然自得。薇古丝有着取之不尽的少年烦恼，身后还跟着一个强大的黑影，她为自己打造了一片阴郁的小天地，沉浸其中，远离 “正常人”世界里恶心的欢快气氛。虽然她没什么远大志向，但她会毫不犹豫地抹杀任何色彩和欢笑，用她的颓废魔法阻止所有试图闯入的人。",
+                "quote": "“呃啊……算了。”",
+                "quote-author": "薇古丝"
+            },
+            "headerImage": null
+        },
+        {
+            "type": "champion",
+            "release-date": "2011-05-10T00:00:00.000Z",
+            "name": "薇恩",
+            "title": "暗夜猎手",
+            "section-title": "薇恩",
+            "slug": "vayne",
+            "associated-faction": "",
+            "associated-faction-slug": "demacia",
+            "image": {
+                "title": "vayne-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/bltb55f82eda095f4e8-Vayne_0.jpg",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 1122,
+                "y": 76,
+                "featured-champions": []
+            },
+            "background": {
+                "title": "vayne-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/bltb55f82eda095f4e8-Vayne_0.jpg",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 1122,
+                "y": 76,
+                "featured-champions": []
+            },
+            "url": "/zh_cn/champion/vayne",
+            "video": null,
+            "races": [],
+            "roles": [
+                {
+                    "name": "射手",
+                    "slug": "marksman"
+                },
+                {
+                    "name": "刺客",
+                    "slug": "assassin"
+                }
+            ],
+            "role": [
+                {
+                    "name": "射手",
+                    "slug": "marksman"
+                },
+                {
+                    "name": "刺客",
+                    "slug": "assassin"
+                }
+            ],
+            "game-info-url": "https://lol.qq.com/web201310/info-defail.shtml?id=Vayne",
+            "biography": {
+                "full": "<p>肖娜・薇恩是一只无情的夺命猛兽。终其一生，她都在寻找杀害她全家的恶魔。手臂上装着十字弩，心中燃烧着熊熊的复仇怒火，薇恩只有在杀死那些为黑暗魔法所控制的人和生物时，才能真正感到开心。</p><p>作为德玛西亚一户富有人家的独生女，薇恩生来养尊处优。童年时代，她在自己的小天地里尽情探索——读书、学习音乐，热衷于收集庄园里的各种昆虫。她的父母年轻时曾经游遍了符文之地，但在薇恩出世后选择在德玛西亚定居。因为相比其他地方，德玛西亚的人们生性更团结，也更懂得同甘共苦。</p><p>十六岁生日后没过多久，薇恩参加完一次仲夏宴会后回家，却看到了令她终生难忘的景象。</p><p>一个头上长角的绝色女子，站在她父母鲜血淋漓的尸体旁 。</p><p>薇恩惊慌失措，大声尖叫。那恶魔似的女人消失前，看了看年轻的薇恩，脸上闪过一抹恐怖而又充满欲望的微笑。</p><p>薇恩试着从她妈妈的眼睛上撩开沾满鲜血的头发。而那个骇人的笑容萦绕着薇恩，在她心中扎根繁衍。当她颤抖着合上她爸爸的双眼时，她看到她爸爸的嘴大张着，脸上的惊恐而疑惑的表情已然凝固。那恶魔的微笑，已深深渗入薇恩的心中。</p><p>在未来的日子里，这微笑将填满薇恩身体的每一寸，种下复仇的种子。</p><p>薇恩试着向身边人解释发生的一切，但没有人相信她。在守备森严，反感黑暗魔法的德玛西亚，居然有一个恶魔逍遥法外？让人难以置信。</p><p>薇恩比他们了解更多。看到那恶魔的笑容，她知道这个妖女一定会再次袭击他人。即使是德玛西亚的高墙也无法阻止黑暗魔法趁隙而入。那恶魔可能狡猾地隐藏自己，或是躲藏在阴暗的角落里，好掩人耳目，但薇恩知道她肯定存在。</p><p>而她却不会再害怕了。</p><p>薇恩心中充满着复仇的念头，她也有足够的钱去招募一小队人马。但无论她到哪，没有人敢跟随她。她需要了解关于黑暗魔法的一切：如何追踪。如何阻止它。如何消灭掉那些使用它的人。</p><p>她需要一位老师。</p><p>她的父母曾经给她讲过冰脉勇士们在北方反抗冰霜女巫的故事。他们世代守护着自己的家园，抵挡着她未知的力量和黑暗士兵的入侵。薇恩明白，这是帮助她找到老师的线索。她逃离了她的指定监护人，坐上了前往弗雷尔卓德的船。</p><p>到达后不久，薇恩就开始寻找恶魔猎人做她的老师。她果然找到了一位，只不过两人的初次见面与她预想之中的有些不同。在穿过一处冰封的峡谷时，薇恩中了精心设计的冰陷阱，掉进了一个满是锯齿、玲珑剔透的冰坑。她抬头向外望去，看到了一头冰霜巨魔，咂着嘴，贪婪地看着她。</p><p>一支长矛呼啸飞来，洞穿了巨魔的头盖骨，深深扎进了脑袋。巨魔肥大的蓝色舌头软瘫在嘴边，身子轰然倒下，摔进了陷阱里。薇恩及时地滚到一边，幸免于难。只是满地黏糊糊的口水和鲜血淹过了她的靴子。</p><p>薇恩的救命恩人是一个头发灰白的中年女人，名叫弗蕾。她帮薇恩包扎了伤口，领着她到篝火旁取暖。在冰冷的峡谷里，火苗艰难地燃烧着。弗蕾告诉薇恩，自己毕生都在和冰霜女巫的手下作战，因为他们杀害了自己的孩子们。薇恩恳求弗蕾收自己为徒，教她如何狩猎那些黑暗生物，但弗蕾并没有兴趣收下她。薇恩恨透了自己的身份和财富，在耗人心神的战斗中，这些东西既不能让你武力超群，也没法让你的剑刃永不磨损。</p><p>薇恩不能接受弗蕾的回答。她向弗蕾发出挑战，要来一场决斗。要是她赢了，弗蕾就要做她的老师；要是她输了，她就甘当诱饵，引出冰霜女巫的手下，让弗蕾把他们一网打尽，报仇雪恨。薇恩心里明白，自己没有胜算——她之前受过的剑术训练加起来不超过一个下午的时间，还因为厌烦这种一只手要放在背后的战斗形式而放弃了——但她不愿放弃希望。看到了薇恩的决心，弗蕾扔了一团雪在薇恩的眼睛上，这便是教给她的关于狩猎恶魔的第一条规则：别想着公平对决。</p><p> 弗蕾在薇恩身上，看到了让她忍不住钦佩的决心。要成长为一个真正的战士，她还有很长的路要走。但每一次，薇恩强忍着身上淤青的痛楚，从泥泞的雪地上爬起来继续和她战斗时，弗蕾看到这个女孩正一点点成为一个冷酷无情的杀手。你可以在技巧上打败她，但永远不能在意志上摧毁她。最后一次，薇恩请求弗蕾帮助她：她们两个的家人都死于黑暗魔法之手。弗蕾当然可以继续狩猎冰霜巨魔，至死方休；但也可以做薇恩的老师。她们联手的话，可以杀死的恶魔会比现在多出一倍不止。她们联手的话，可以拯救的苦难家庭也不止是原来的两倍，而这苦痛，也正折磨着她们两个。弗蕾从薇恩的眼睛里，看到了和自己一样的仇恨，长久不熄。</p><p>弗蕾最终同意跟随薇恩返回德玛西亚。</p><p>她们一路向南。薇恩帮弗蕾做了伪装，骗过了德玛西亚的守备士兵。她们回到薇恩家的庄园后，便开始年复一年地训练。有许多人来向薇恩求婚，但薇恩对此毫无兴趣，只是专注于接受弗蕾的训练。长此以往，两人的关系越发亲近了。</p><p>弗蕾教了薇恩许多关于黑暗魔法、召唤恶兽和邪恶咒语的基础知识。薇恩把弗蕾的每句教诲都铭记在心。但同时，薇恩也有点心绪不宁，她不知道弗蕾是怎么知道这么多毒辣的手段的。</p><p>由于日趋森严的守备以及抗魔森林的存在，黑暗生物在德玛西亚领域内十分少见。所以弗蕾和薇恩会在晚上潜入边境的丛林狩猎。很快，薇恩就杀死了她人生中的第一只恶魔——一只袭击商队的嗜血生物——在她仅仅十八岁的时候。</p><p>怪兽的内脏泼洒在薇恩身上，她感觉某种情感被唤醒了：愉悦。复仇与暴力的炽热在她的血管中冲撞，她感到了狂喜。</p><p>接下来的岁月里，薇恩和弗蕾开始四处猎杀黑暗生物，她们之间的羁绊也在杀戮中不断加深。一天，薇恩忽然意识到，她敬爱弗蕾，就如同敬爱自己的妈妈，但这家人一般的亲情却与恶兽一样的痛苦和创伤紧紧相连，折磨着薇恩。</p><p>薇恩和弗蕾在瓦罗兰大陆上四处游历，却被酒馆里的高原歌谣吸引了。歌谣如泣如诉，讲述的是一个像恶魔似的长角女人，拥有迷惑人心的美貌。故事中的她异常忙碌：</p><p>她成立了教团，招揽虔诚能干的善信。</p><p>走进山中投靠她的人，一个个音讯全无。</p><p>教团的祭司们在悬崖旁设了圣地，为恶魔献上祭品。</p><p>薇恩和弗蕾立刻动身前去狩猎。</p><p>进入山中时已是深夜，薇恩感觉自己有些恍惚。从她们第一次联手，她就对弗蕾有些担心——她害怕再次失去能够给予她母爱的人。她还没来得及说出自己的担忧，一个恶魔的祭司就从树丛中窜了出来，挥着狼牙棒打中了薇恩的肩膀。</p><p>薇恩措手不及，受了重伤。弗蕾迟疑了一下，但她的眼神却很快变得坚定了。她向薇恩道了个歉，然后变形成了一匹巨大的弗雷尔卓德狼。动物形态的弗蕾张开有力的下颚，只迅猛的一击，便生生将袭击薇恩的祭司从喉咙到脚跟撕成了两半。薇恩被眼前的一切惊呆了。</p><p>祭司的尸首散落在薇恩脚边。弗蕾变回了人形，眼神和之前骇人的动物形态完全不同。她解释说，自从家人死后，她便成为了一名萨满，在自己身上施下了诅咒，从而获取了变换形态的力量来对抗冰霜女巫。获得力量的仪式需要黑暗魔法的协助，但她的做法是为了保护——</p><p>——薇恩将一根箭插在了弗蕾的心口上。当她发现弗蕾的真身时，她的敬爱和珍惜全都烟消云散了。弗蕾倒下时，眼中流出了泪水，但薇恩却丝毫没有察觉。两个人之间的温情，随着弗蕾的死去，终于荡然无存了。</p><p>黎明之前还有几个小时，这意味着这场狩猎还有一些时间收尾。薇恩心中只想着恶魔。她享受着这场属于她的杀戮，还有将来的每一场杀戮。符文之地的黑暗世界将会畏惧她的存在，正如这些恶魔从前让她心惊胆寒一样。</p><p>自从双亲死去之后，薇恩第一次，露出了笑容。</p>",
+                "short": "肖娜·薇恩是一位无情的德玛西亚怪物猎手。终其一生，她都在寻找杀害她全家的恶魔。她的手臂上装着十字弩，心中燃烧着熊熊的复仇怒火，从暗影中射出圣银弩箭的风暴，薇恩只有在杀死那些为黑暗魔法所控制的人和生物时，才能真正感到愉悦。",
+                "quote": "“杀死你，并不是因为我心怀正义，而是我觉得，杀死你让我倍感愉快。”",
+                "quote-author": "薇恩"
+            },
+            "headerImage": null
+        }
+    ],
+    "modules": [
+        {
+            "slug": "new-dawn",
+            "type": "featured-video",
+            "section-title": "影片",
+            "featured-image": {
+                "title": "featuredvideocover-new-dawn",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blteebf080253c3eca1-new-dawn.jpg",
+                "encoding": "image/jpeg",
+                "width": 1920,
+                "height": 1080,
+                "x": 1229,
+                "y": 350,
+                "featured-champions": []
+            },
+            "title": "新的曙光",
+            "subtitle": "",
+            "description": "黎明跨过炽热的鲜血和冰冷的钢铁组成的土地。第一缕曙光照耀之际已是开战之时。",
+            "uri": "https://v.qq.com/x/page/h0150c77woq.html",
+            "video": {
+                "type": "video",
+                "title": "",
+                "subtitle": "",
+                "description": [],
+                "uri": "https://v.qq.com/x/page/h0150c77woq.html",
+                "width": "",
+                "height": "",
+                "x": "",
+                "y": "",
+                "featured-champions": []
+            },
+            "blackout": null,
+            "release-date": "2014-07-22T15:00:00.000Z",
+            "video-type": "cinematic",
+            "featured-champions": [
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                },
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                },
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                },
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                },
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                },
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                },
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                },
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                },
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                },
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                }
+            ],
+            "related-champions": [
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                },
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                },
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                },
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                },
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                },
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                },
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                },
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                },
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                },
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                }
+            ]
+        },
+        {
+            "slug": "光明使者",
+            "type": "story-preview",
+            "title": "光明使者",
+            "subtitle": "",
+            "description": "强盗们天还未亮就出击了；五十名如狼似虎的人身穿铁衣，里面裹着陌生动物的毛皮，手里握着粗糙灰暗的斧头。他们的步伐敏捷，进入了山脚下的定居点。这些人都是数年之中共同浴血的同袍手足，都经历过一瞬间的生离死别。带头的战士身穿一副饱经捶打的鳞甲，肩上扛着一柄厚重的大剑。龙盔下的脸粗狂野蛮，烙印着一生的沙场征战和更烈的阳光曝晒。<br><br>",
+            "story-slug": "leona-color-story",
+            "featured-image": {
+                "title": "leona-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt6a3490eb186aa2d8-Leona_0.jpg",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 1061,
+                "y": 41,
+                "featured-champions": []
+            },
+            "background": {
+                "title": "mttargon-solari-prayer-shrine",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt87e38e39c96d44ef-mttargon-solari-prayer-shrine.jpg",
+                "encoding": "image/jpeg",
+                "width": 1920,
+                "height": 1090,
+                "x": 1223,
+                "y": 1039,
+                "featured-champions": []
+            },
+            "release-date": "2016-03-01T16:00:00.000Z",
+            "featured-champions": [
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                }
+            ],
+            "minutes-to-read": 5,
+            "url": "/zh_cn/story/leona-color-story"
+        },
+        {
+            "slug": "rise-with-me",
+            "type": "link-out",
+            "section-title": "",
+            "title": "Rise With Me",
+            "description": "By Dana Luery Shaw",
+            "url": "https://universe.leagueoflegends.com/en_US/story/rise-with-me/",
+            "featured-image": null,
+            "background": {
+                "title": "diana-and-leona",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt44574ecee45aa779-diana-leona.jpg",
+                "encoding": "image/jpeg",
+                "width": 1920,
+                "height": 1080,
+                "x": 850,
+                "y": 300,
+                "featured-champions": []
+            },
+            "cta": "LEARN MORE",
+            "blackout": null,
+            "isFanArt": false,
+            "isComic": false
+        },
+        {
+            "slug": "leona-image-gallery",
+            "type": "image-gallery",
+            "section-title": "",
+            "isFanArt": false,
+            "fan-art-url": "",
+            "featured-image": "",
+            "title": "",
+            "subtitle": "",
+            "assets": [
+                {
+                    "title": "早期蕾欧娜概念艺术",
+                    "subtitle": "",
+                    "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt33e03411b763a41a-leona_early_concepts.jpg",
+                    "encoding": "image/jpeg",
+                    "width": 1920,
+                    "height": 974,
+                    "x": 23,
+                    "y": 297,
+                    "featured-champions": []
+                },
+                {
+                    "title": "蕾欧娜的盾牌概念艺术",
+                    "subtitle": "",
+                    "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/bltc59fcda3dc580e04-leona_shield_explorations.jpg",
+                    "encoding": "image/jpeg",
+                    "width": 1920,
+                    "height": 756,
+                    "x": 1092,
+                    "y": 270,
+                    "featured-champions": []
+                },
+                {
+                    "title": "蕾欧娜的剑刃概念艺术",
+                    "subtitle": "",
+                    "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt586c7bfaa4034e14-leona_sword_explorations.jpg",
+                    "encoding": "image/jpeg",
+                    "width": 1920,
+                    "height": 1050,
+                    "x": 820,
+                    "y": 661,
+                    "featured-champions": []
+                },
+                {
+                    "title": "蕾欧娜概念艺术",
+                    "subtitle": "",
+                    "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/bltd6138b7b3b2bf388-leona_final_conceptmockup.jpg",
+                    "encoding": "image/jpeg",
+                    "width": 1222,
+                    "height": 1080,
+                    "x": 880,
+                    "y": 446,
+                    "featured-champions": []
+                }
+            ],
+            "featured-champions": [
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                }
+            ]
+        },
+        {
+            "slug": "leona-artspotlight",
+            "type": "featured-video",
+            "section-title": "",
+            "featured-image": {
+                "title": "featuredvideocover-leona-artspotlight",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/bltc2b92c4e167af7e0-leona-artspotlight.png",
+                "encoding": "image/jpeg",
+                "width": 1888,
+                "height": 1070,
+                "x": 345,
+                "y": 366,
+                "featured-champions": []
+            },
+            "title": "蕾欧娜美术作品介绍",
+            "subtitle": "",
+            "description": "",
+            "uri": "https://v.qq.com/x/page/z036357eo7v.html",
+            "video": {
+                "type": "video",
+                "title": "",
+                "subtitle": "",
+                "description": [],
+                "uri": "https://v.qq.com/x/page/z036357eo7v.html",
+                "width": "",
+                "height": "",
+                "x": "",
+                "y": "",
+                "featured-champions": []
+            },
+            "blackout": null,
+            "release-date": "2011-06-30T15:00:00.000Z",
+            "video-type": "art-spotlight",
+            "featured-champions": [
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                }
+            ],
+            "related-champions": [
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                }
+            ]
+        }
+    ]
+}

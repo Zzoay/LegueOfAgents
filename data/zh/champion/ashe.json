@@ -1,0 +1,725 @@
+{
+    "id": "ashe",
+    "name": "艾希",
+    "title": "寒冰射手",
+    "locale": "zh_cn",
+    "champion": {
+        "type": "champion",
+        "release-date": "2009-02-21T00:00:00.000Z",
+        "name": "艾希",
+        "title": "寒冰射手",
+        "section-title": "艾希",
+        "slug": "ashe",
+        "associated-faction": "",
+        "associated-faction-slug": "freljord",
+        "image": {
+            "title": "ashe-splash",
+            "subtitle": "",
+            "description": "",
+            "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt5388dc09a75213a1-Classic_Ashe_Splash.jpg",
+            "encoding": "image/jpeg",
+            "width": 1920,
+            "height": 974,
+            "x": 1333,
+            "y": 53,
+            "featured-champions": []
+        },
+        "background": {
+            "title": "ashe-splash",
+            "subtitle": "",
+            "description": "",
+            "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt5388dc09a75213a1-Classic_Ashe_Splash.jpg",
+            "encoding": "image/jpeg",
+            "width": 1920,
+            "height": 974,
+            "x": 1333,
+            "y": 53,
+            "featured-champions": []
+        },
+        "url": "/zh_cn/champion/ashe",
+        "video": null,
+        "races": [],
+        "roles": [
+            {
+                "name": "射手",
+                "slug": "marksman"
+            },
+            {
+                "name": "辅助",
+                "slug": "support"
+            }
+        ],
+        "role": [
+            {
+                "name": "射手",
+                "slug": "marksman"
+            },
+            {
+                "name": "辅助",
+                "slug": "support"
+            }
+        ],
+        "game-info-url": "https://lol.qq.com/web201310/info-defail.shtml?id=Ashe",
+        "biography": {
+            "full": "<p>艾希来自北方弗雷尔卓德，在这里，部落间的劫掠和氏族间的战争如同呼号的寒风和不化的坚冰一样，都是这片土地的一部分。</p><p>小部落阿瓦罗萨的女族长葛伦娜只育有艾希一个女儿，她是一名冰裔，注定要成为战士，天生就被赋予与这片土地的远古魔法连接，而且还拥有罕见的使用臻冰的力量。每个人都认为艾希将会继承她的母亲，成为部落的下一任领袖。然而，艾希从未渴求过那种光荣。战争血脉的冷酷责任以及杰出非凡的天赋反而让艾希觉得自己感到隔绝、负担、孤独。</p><p>她唯一的慰藉是瑟庄妮，这名来自姊妹部落的冰裔小姑娘每年都会随部落一起来渡过夏天，在奥恩卡尔岩地周围捕猎。两个小姑娘之间的友谊是她们童年回忆的全部，但却在她们十岁以后戛然而止。葛伦娜不知怎么就触怒了瑟庄妮的祖母，她们部落之间的友好突然就结束了。</p><p>不久后，艾希的母亲知道自己青春将逝，便开始向着“阿瓦罗萨的王座”进行毕生的追寻，那应该是一大堆财宝和魔法物品，她希望可以借此让她的人民重新振兴。</p><p>但葛伦娜对预言和传奇的笃信让她铤而走险，以至于经常让部落萧条潦倒。最终，在一次危险且不必要的对其他部落领土的劫掠行动中，葛伦娜被杀了。她突然的死让年轻的艾希落荒而逃，而她大部分族人都被赶尽杀绝。</p><p>形单影只、追兵在后的艾希按照她母亲最后留下的地图来到了一片荒无人烟的冰川，在那里她应该是找到了阿瓦罗萨的坟墓，也找到了她的臻冰魔法弓。艾希用那把武器为母亲完成了复仇，然后开始向西走。</p><p>不知是出于责任还是因为孤独，艾希一路上保护了许多散落各地的炉户部落并因此声名远扬。她摒弃了传统的方式，没有把那些人当做奴隶，而是选择将那些走投无路的人接纳为自己新部落的正式族人。很快，许多人都开始相信她不仅是拿着阿瓦罗萨的武器——而且她就是阿瓦罗萨本尊转世重生，注定要让弗雷尔卓德再次统一。</p><p>但是奇谈佳话可不能喂饱她追随者的肚子，在他们漫长的南下过程中，部落即将面临饥荒。于是艾希利用了关于自己的传说，与强大富饶的南方部落缔结盟约，承诺要将他们统一成为一个强大的国家，强大到足以向邻国发起挑战。</p><p>新的盟约也带来了新的危险，艾希很快就发现自己处于政治斗争的中心。战母，也就是弗雷尔卓德部落的首领，理应谈婚论嫁，但无论从哪个大部落里选丈夫，都会激怒其他部落。艾希可以选择多名丈夫，但这样只会把沸腾的冲突带入自己帐下，接踵而至的血战只会让她辛苦缔造的联盟土崩瓦解。</p><p>她的答案是一名流浪汉——战士泰达米尔。他一无所有，他的山岭氏族也几乎被赶尽杀绝。他既不是兽灵行者，也没有元素之力的禀赋，但自打他来到艾希的新都的第一天，泰达米尔就杀进了每一座他能找到的决斗场。他战斗的方式不顾一切，绝望地想要证明自己氏族的幸存者即便一贫如洗也值得被最强的部落接纳。但即便以弗雷尔卓德的标准，他的野蛮战法和非凡体力也足以让人感到不安，许多人都怀疑他被黑魔法侵染。艾希没有在意这些，她提出接纳他的族人，但前提是他成为她第一、也是唯一的血盟。</p><p>泰达米尔不情愿地接受了。虽然这是一场政治婚姻，但他们可以明显感到彼此的吸引，于是二人之间渐渐萌生了真正的爱慕。</p><p>如今，艾希率领着弗雷尔卓德几个世代以来最大的部落联合。即便如此，这来之不易的统一和和平正在遭到诸多威胁：内部阴谋、外族势力、凛冬之爪的暴力崛起、还有一个她自己至少需要假装坚信的命运……</p>",
+            "short": "作为阿瓦罗萨部族的战母，寒冰血脉的艾希率领着北方人数最多的部落。她克己、智慧、忠于理想，但并不适应自己作为领袖的角色，艾希与自己血脉中蕴藏的先祖魔法相通，挽起了臻冰打造的长弓。她的族人相信她就是神话中的女英雄阿瓦罗萨的转世，在人们的追随下，艾希希望夺回那些属于部族的古代领土，从而让弗雷尔卓德再次实现统一。",
+            "quote": "“一个部族，一个民族，一个弗雷尔卓德。”",
+            "quote-author": "艾希"
+        },
+        "headerImage": null
+    },
+    "related-champions": [
+        {
+            "type": "champion",
+            "release-date": "2012-01-17T00:00:00.000Z",
+            "name": "瑟庄妮",
+            "title": "北地之怒",
+            "section-title": "瑟庄妮",
+            "slug": "sejuani",
+            "associated-faction": "",
+            "associated-faction-slug": "freljord",
+            "image": {
+                "title": "sejuani-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/bltd786c978e7beea7b-Sejuani_0.jpg",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 739,
+                "y": 3,
+                "featured-champions": []
+            },
+            "background": {
+                "title": "sejuani-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/bltd786c978e7beea7b-Sejuani_0.jpg",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 739,
+                "y": 3,
+                "featured-champions": []
+            },
+            "url": "/zh_cn/champion/sejuani",
+            "video": null,
+            "races": [],
+            "roles": [
+                {
+                    "name": "坦克",
+                    "slug": "tank"
+                },
+                {
+                    "name": "战士",
+                    "slug": "fighter"
+                }
+            ],
+            "role": [
+                {
+                    "name": "坦克",
+                    "slug": "tank"
+                },
+                {
+                    "name": "战士",
+                    "slug": "fighter"
+                }
+            ],
+            "game-info-url": "https://lol.qq.com/web201310/info-defail.shtml?id=Sejuani",
+            "biography": {
+                "full": "<p>瑟庄妮是一桩弗雷尔卓德政治联姻的结晶，但这场婚姻的开始和结束都一样冰冷。她的母亲是凛冬之爪的冰裔战士廓吉雅，她为了追逐一个多年前偷走她心的男人而抛弃了瑟庄妮，部落没有年轻力壮的战母带领，逐步堕入混乱和没落。</p><p>所以瑟庄妮是由希简祖母养大的。虽然瑟庄妮尽力赢取希简的爱，但她始终无法达到祖母的苛求。随着她的部族在随后的几年中逐渐壮大，希简关心小瑟庄妮的时间越来越少。</p><p>富足、爱、安全——瑟庄妮只能从别人身上看到这些体验，在她造访凛冬之爪的姊妹部族——阿瓦罗萨的时候。每到夏季，这片地区最有名的女战士，葛伦娜，都会让瑟庄妮来到自己的帐下。当她得知葛伦娜曾在决斗中战胜过廓吉雅，这位阿瓦罗萨的战母立刻就成为了她的偶像……葛伦娜的女儿艾希也成为她心目中唯一的朋友。</p><p>葛伦娜质疑小瑟庄妮没有得到祖母恰当的抚养，随后受到冒犯的希简就断绝了与阿瓦罗萨部族的一切往来。凛冬之爪后来与其他临近部族挑起争端，想要夺回他们在廓吉雅离开后失去的土地和荣誉，但他们绝望的战略只带来了更多破败。</p><p>不知如何，这些事情传到了廓吉雅的耳中。</p><p>听说自己曾经的部落厄运连连，她再次回去担起了战母的职责。虽然如此，平定战乱后的凛冬之爪只得到了没有猎物的猎场和资源匮乏的土地，迫使他们依赖冷酷的冰霜守卫部族的保护。</p><p>瑟庄妮对此含垢忍辱，决心要从母亲手中夺取领导权。她立下神圣誓言，要领导一次劫掠诺克萨斯战舰的危险行动，希望履行誓言的同时也能够召集部族的人民，支持自己从廓吉雅和冰霜祭司手中夺取权力。</p><p>在那次凶猛的突袭中，瑟庄妮从战舰的屠宰间里放出了一头未成年的居瓦斯克野猪，并根据它的皮毛给它取名“钢鬃”。当时的她没有猜到，这头野兽后来成为了人们见过的最庞大的居瓦斯克野猪之一，而且始终都是瑟庄妮忠实的坐骑。</p><p>她的劫掠大获成功，瑟庄妮判断时机已成熟，决定挑战母亲争夺部族。按照古老的习俗，母女之间的决斗是不可想象的——但这可拦不住瑟庄妮。</p><p>怒不可遏的冰霜祭司们无奈之下出手干涉，而廓吉雅在争斗之中死去，瑟庄妮根本没能碰到她。</p><p>作为凛冬之爪的新战母，瑟庄妮开始袭击并吸收附近的部族，蓄积力量，集结了形形色色的追随者群落。她对冰霜守卫的蔑视态度也引来了许多无家可归的萨满、兽灵行者、寒冰血脉和暴风血脉，以及弗雷尔卓德各地崇拜旧神的守旧派。</p><p>他们曾一度是弱者、是笑柄、是被周围部族掠夺的对象，只用了几年，凛冬之爪就成为了北境最威风的部族，以迅猛、残忍、和对战母的忠诚，令人闻风丧胆。</p><p>如今，季节轮转，瑟庄妮碾过北境部族、诺克萨斯入侵者、甚至越过德玛西亚边境——一路搜刮、掠夺、征服任何反抗她的人。最终，她的决定要推翻并摧毁一个迅速成长的部族联合，而它的缔结者正是她儿时的朋友，艾希。在瑟庄妮看来，这位阿瓦罗萨战母不仅背叛了她们的友谊，而且更重要的是，她背叛了葛伦娜的传承。</p><p>因此，瑟庄妮将证明只有<i>她</i>才有资格统治弗雷尔卓德。</p>",
+                "short": "瑟庄妮是凛冬之爪部族残忍无情的战母，带领的部族也是弗雷尔卓德土地上最令人闻风丧胆的。她的部族的生存，是一场旷日持久的、毫无希望的对抗元素之力的战斗，迫使他们劫掠诺克萨斯人、德玛西亚人，还有阿瓦罗萨部族等等，以便渡过残酷的凛冬。瑟庄妮在最危险的战斗中身先士卒，骑着居瓦斯克野猪“钢鬃”冲在最前方，用她臻冰打造的链枷让敌人粉身碎骨。",
+                "quote": "“我生于寒冰，以风雪塑形，以寒冷磨砺。”",
+                "quote-author": "瑟庄妮"
+            },
+            "headerImage": null
+        },
+        {
+            "type": "champion",
+            "release-date": "2009-05-01T00:00:00.000Z",
+            "name": "泰达米尔",
+            "title": "蛮族之王",
+            "section-title": "泰达米尔",
+            "slug": "tryndamere",
+            "associated-faction": "",
+            "associated-faction-slug": "freljord",
+            "image": {
+                "title": "tryndamere-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/bltd450a0f61fb2974c-Tryndamere_0.jpg",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 937,
+                "y": 3,
+                "featured-champions": []
+            },
+            "background": {
+                "title": "tryndamere-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/bltd450a0f61fb2974c-Tryndamere_0.jpg",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 937,
+                "y": 3,
+                "featured-champions": []
+            },
+            "url": "/zh_cn/champion/tryndamere",
+            "video": null,
+            "races": [],
+            "roles": [
+                {
+                    "name": "战士",
+                    "slug": "fighter"
+                },
+                {
+                    "name": "刺客",
+                    "slug": "assassin"
+                }
+            ],
+            "role": [
+                {
+                    "name": "战士",
+                    "slug": "fighter"
+                },
+                {
+                    "name": "刺客",
+                    "slug": "assassin"
+                }
+            ],
+            "game-info-url": "https://lol.qq.com/web201310/info-defail.shtml?id=Tryndamere",
+            "biography": {
+                "full": "<p>泰达米尔来到这个世上以后只懂得生存的艰辛，因为他的氏族所定居的冰冻平原从来都没有消融的时候。虽然他们赞美弗雷尔卓德的所有古神，也信奉三姐妹密教，但他们最经常祈祷的对象，是一个在冰原上大肆破坏的神灵——一个壮硕的、无法被杀死的巨牙兽王。因为能用来制作盔甲的原始材料非常稀缺，于是这个氏族就将材料用于铸造巨大的剑刃，以此效仿他们神明的乳白色猎犬。</p><p>泰达米尔的族人以强大的体能和单打独斗能力著称。他们有能力击退来犯的其他部落、击杀山岭中的巨大野兽、抗击南方的诺克萨斯侵袭。泰达米尔自己也成为了一名狂暴、可怕的战士，但对他力量的真正考验，来自一个特别的深冬寒夜。一场非同寻常的风暴从东方席卷而来，带来了冰冷的黑暗，还有一个高大魁梧的、长着犄角的人影，漆黑的轮廓映衬着满月，看不清任何面目。</p><p>氏族里有人倒地跪拜，他们相信面前站着的就是他们的野猪之神。的确，这个生物溢满了远古的魔法，但他并不属于弗雷尔卓德……那些跪拜的人是最先被杀死的。</p><p>眼前的场面让泰达米尔惊骇恐惧。这个入侵者残酷的活体长剑让他感到自己的心中升起一股没来由的残忍。不知是被嗜血还是其他什么疯狂所占据了心智，泰达米尔提起了自己的剑，发出了挑战的怒吼。</p><p>那个黑暗的人影把他像虫子一样拍到一边。</p><p>泰达米尔躺在死人堆中间，地上的白雪几乎被血染成了黑色。就在他准备吸进最后一口气的时候，那个东西走了过来，开口说话。泰达米尔想要听清那奇怪的古代话语，但随着他的生命流逝，烙印在他记忆中的只有那个东西的笑声。</p><p>泰达米尔那一晚并没有死。他在一种从未体会过的怒火中重生了。他看向东方的天边，他要的不仅要为自己的氏族复仇，也要夺回自己的战斗尊严。</p><p>但家乡的平原并没有给他复仇的机会。氏族留下了其他幸存者，如果泰达米尔无法为他们找到庇护所，他们都活不长久。南方有诺克萨斯，北方有冰霜守卫，那个黑暗的人影从东面来。而在西边，听说一些部落正在聚集到据称是阿瓦罗萨转世的麾下——换做从前，他可能会对如此神乎其神的传闻不屑一顾，但现在他知道西边是他唯一的生机。</p><p>泰达米尔和剩下的族人到达了那片山谷，他们几乎和乞丐无异。这位年轻的战士决心要展示出他们氏族的价值，赢得阿瓦罗萨首领的庇护，这样他就可以放心地思考如何复仇了。他舞起自己的獠牙大剑，选择了对他来说最自然的方式：向这里的人发起了对决挑战。心中带着对那个黑暗的人影的执念，脑海中回荡着那个笑声，泰达米尔很快就战胜了所有接受挑战的人。</p><p>他绝无仅有的狂怒让阿瓦罗萨人十分不安。北方的战士们也注意到他在两次较量之间迅速的自愈能力——与他们身边的冰裔不同，泰达米尔越是不加节制地陷入怒火，他的身体自愈的速度就越快。许多人都怀疑他和他的氏族使用了奇怪的、非自然的魔法，于是泰达米尔证明自己价值的计划反而威胁到了氏族的整体形象。</p><p>但并非所有阿瓦罗萨人都敌视他。他们的战母，艾希，正在为了巩固自己的地位而寻求政治联姻……正在寻找一个能为她迎接挑战者的人，与她执手、奉她为王。艾希在这名英俊的野蛮人身上看到了机遇，她许下承诺将他的氏族接纳为阿瓦罗萨人，前提是泰达米尔成为她第一、也是唯一的血盟。</p><p>随着他与艾希共处时间的积累，他开始相信其他人的私语——相信她真的是阿瓦罗萨本尊的神圣化身。他的怒气在她的带领下找到了三思后的节制，二人之间也开始产生真实的爱慕之情。</p><p>虽然如此，但作为艾希的决斗代表，如今的泰达米尔看到的是不确定的未来。这位蛮族之王可以清楚地看到弗雷尔卓德的天边有战争正在酝酿，但他同时也渴求属于他自己的复仇，他也开始怀疑自己的宿命可能到最后并不在他的女王身边……</p>",
+                "short": "<p>桀骜不羁和无尽的愤怒驱使着泰达米尔在弗雷尔卓德所向披靡。他曾公开挑战北方最伟大的战士，让自己为未来更黑暗的时日做好准备。这位愤怒的野蛮人一直都在为自己被灭绝的氏族寻求复仇，不过最近他与阿瓦洛萨部族的战母艾希达成了联姻。他非人的力量与毅力是众人皆知的传奇，而且也为他和他的新盟友带来了无数次奇迹般的胜利。</p>",
+                "quote": "“怒气，即是我的武器。”",
+                "quote-author": "泰达米尔"
+            },
+            "headerImage": null
+        },
+        {
+            "type": "champion",
+            "release-date": "2014-05-12T00:00:00.000Z",
+            "name": "布隆",
+            "title": "弗雷尔卓德之心",
+            "section-title": "布隆",
+            "slug": "braum",
+            "associated-faction": "",
+            "associated-faction-slug": "freljord",
+            "image": {
+                "title": "braum-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt4bc5fffe8811bf6a-Braum_0.jpg",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 1077,
+                "y": 26,
+                "featured-champions": []
+            },
+            "background": {
+                "title": "braum-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt4bc5fffe8811bf6a-Braum_0.jpg",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 1077,
+                "y": 26,
+                "featured-champions": []
+            },
+            "url": "/zh_cn/champion/braum",
+            "video": {
+                "title": "braum-splashvideo-webm",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/bltfa80911d16967199-braum-splashvideo.webm",
+                "encoding": "video/webm",
+                "width": 1280,
+                "height": 720,
+                "x": 1077,
+                "y": 26,
+                "featured-champions": []
+            },
+            "races": [],
+            "roles": [
+                {
+                    "name": "辅助",
+                    "slug": "support"
+                },
+                {
+                    "name": "坦克",
+                    "slug": "tank"
+                }
+            ],
+            "role": [
+                {
+                    "name": "辅助",
+                    "slug": "support"
+                },
+                {
+                    "name": "坦克",
+                    "slug": "tank"
+                }
+            ],
+            "game-info-url": "https://lol.qq.com/web201310/info-defail.shtml?id=Braum",
+            "biography": {
+                "full": "<p>布隆从很小的时候，个头就比其他孩子大许多，但他的母亲教导他永远不要依仗自己高大壮硕就恐吓或者欺凌别人。因为她出身自一个自豪的牧民家族，她相信真正的勇气不是将力量用于统治，而是用于保护无助的人。</p><p>布隆还没长大的时候，一群冰巨人摧毁了临近的一个部族。那个部族一直都在劫掠布隆族人的牧群，但他的母亲却毫不犹豫地带着毛皮衣物、食物和药物穿过苔原营救幸存者。起初，布隆不理解她为什么要帮助敌人——但她的行动挽救了许多性命，让他们成为了毕生的同盟。他终于明白了母亲常说的：弗雷尔卓德人都是一家人。于是从那天起，布隆就发誓要让这个大家庭团聚。</p><p>布隆一天天长大，他高贵的寒冰血脉逐渐显现，而且即使以寒冰血脉的标准衡量，他的力量和元素耐受力也堪称传奇。他成了方圆几十里的英雄，常常救援跌落冰裂缝的孩童、带回被困暴风雪的旅人、保护手无寸铁的平民对抗肆虐的狂爪兽。只要他一出现，人们就知道自己得救了。他是希望的象征，无人不知他充沛的活力、开朗的笑声和广交好友的豪爽。</p><p>最后，布隆意识到还有更多地方需要他，所以他要离开这片生他养他的土地。对母亲含泪告别后，他踏上了遍迹弗雷尔卓德的旅途。</p><p>后来的那些年里，无数个关于布隆英勇事迹的故事开始流传。虽然大多数的故事内核都是真实事件，但这些故事越传越离奇，愈发神乎其神——比如传说中他一夜之间就徒手荡平了一座森林，还说他在一次火山爆发中为了拯救一座孤立无援的农场，把它整个扛了起来跑到了高处。</p><p>在最新的布隆事迹中，讲述了他如何找到了一面巨大的羊头盾牌。故事里讲，这座盾牌是一扇附了魔法的宝藏大门，打造于远古，嵌于山石之中。布隆听到里面传来哭声，但他却无法打破大门。不服输的他，用拳头击穿了石壁，救出了被困在里面的巨魔男孩。他把那扇坚不可摧的门板从折叶上扯了下来，后来就一直带在身上。</p><p>和其他故事一样，布隆第一次听到这个关于自己的传说时也哄然大笑——不过他并没有反驳这样的故事，而是<i>欣然接受</i>。既然这些故事能够激励其他人的慷慨与善意之举，那为什么还要用真相泼冷水呢？</p><p>他究竟如何找到这面盾牌并不重要，总之随后他便启程前往圣地拉克斯塔克，许多部族都已经聚集在那里，恭听阿瓦罗萨部族战母艾希的演讲——人们说她是阿瓦罗萨本尊的转世化身。在那里，他看到了野蛮人泰达米尔，正在不顾一切地证明自己的价值，疯狂发出挑战并击败任何敢同他交手的人。</p><p>布隆观察着，他看到泰达米尔变得愈发失控。在一次对决中，他深陷自己的怒火，明明胜负已分，却依然要对败者下杀手。布隆决定不能再看下去了，他坚定地站在败者身前，举起盾，随后泰达米尔对着那面坚不可摧的壁垒狂劈猛砍。当这名野蛮人的怒意终于消退，布隆用幽默赢得了他的友谊，没过多久，二人就开怀大笑，为彼此的健康祝酒畅饮。甚至有人说是布隆将泰达米尔介绍给了艾希。这名野蛮人后来与艾希成婚，成为她唯一的血盟眷侣。</p><p>布隆并不效忠于任何特定的部族，因为他认为弗雷尔卓德的土地上全都是兄弟姐妹。话虽如此，他在艾希身上看到了闪光，认为她有能力终结数百年来弗雷尔卓德部族之间的纷争，而阿瓦罗萨部族也已非正式地认他为同族。就像布隆常和那些崇拜他的孩子们讲的那样，他的梦想，是有朝一日弗雷尔卓德能够团结成一个大家庭……到那个时候，他就可以告老还乡，当一个普普通通的魄罗牧民。</p><p>虽然在布隆看来任何人都不是敌人，但自从他拿起这面盾牌以来，已经与霜卫部族有过好几次碰撞。他不明白为自己怎么招惹了他们，也不明白为何他们对他手里的东西那么感兴趣……</p>",
+                "short": "拥有大块肌肉和更大颗心脏的布隆，是一位受人爱戴的弗雷尔卓德冰裔英雄。凝霜港以北的任何一家蜜酒坊里都有人会致敬他传奇般的强壮，讲述他的事迹，例如在一夜之间扫平一整片橡树森林，还有用拳头把一整座山打成碎石子。一扇附有魔法的秘库大门被他拿在手中当做盾牌，布隆是游荡在在北方的冻土上快乐的保护者，帮助所有危难之中的人，一步步迈向他的梦想：一个和平安定的弗雷尔卓德。",
+                "quote": "“今天我们彼此为敌，而明天我们可能会并肩作战”",
+                "quote-author": "布隆"
+            },
+            "headerImage": null
+        },
+        {
+            "type": "champion",
+            "release-date": "2013-04-30T00:00:00.000Z",
+            "name": "丽桑卓",
+            "title": "冰霜女巫",
+            "section-title": "丽桑卓",
+            "slug": "lissandra",
+            "associated-faction": "",
+            "associated-faction-slug": "freljord",
+            "image": {
+                "title": "lissandra-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/bltb746610319970ff5-Lissandra_0.jpg",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 930,
+                "y": 0,
+                "featured-champions": []
+            },
+            "background": {
+                "title": "lissandra-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/bltb746610319970ff5-Lissandra_0.jpg",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 930,
+                "y": 0,
+                "featured-champions": []
+            },
+            "url": "/zh_cn/champion/lissandra",
+            "video": {
+                "title": "lissandra-splashvideo-webm",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt7d07c62fe8a51a70-lissandra-splashvideo.webm",
+                "encoding": "video/webm",
+                "width": 1280,
+                "height": 720,
+                "x": 930,
+                "y": 0,
+                "featured-champions": []
+            },
+            "races": [],
+            "roles": [
+                {
+                    "name": "法师",
+                    "slug": "mage"
+                }
+            ],
+            "role": [
+                {
+                    "name": "法师",
+                    "slug": "mage"
+                }
+            ],
+            "game-info-url": "http://gameinfo.na.leagueoflegends.com/en/game-info/champions/lissandra",
+            "biography": {
+                "full": "<p>在一个早已被遗忘的时代，当黄沙尚未诞生并吞没恕瑞玛，古魔法的实体曾自由地游荡在符文之地上。凡人领域之间的边界线和对方境内的东西都是被激烈争夺的对象。</p><p>在这人人自危的动荡时代，丽桑卓、赛瑞尔达和阿瓦罗萨三姐妹诞生了。她们每个人都渴望着驾驭战争中的力量，而她们也都付出了惨痛的代价。赛瑞尔达尝试执掌天界的力量，却把声音输给了初之暮光。阿瓦罗萨面对世界之下的扭曲黑暗，被夺走了听觉，而其中等待着的虚无则渴望着吞噬一切造物。</p><p>而丽桑卓则对抗了凡间世界本身的狂野魔法。为了惩罚她的蔑视，一位原始神用利爪割花了她的双眼，夺走了她的视觉。</p><p>虽然三姐妹的每一位都失去了自己的一部分，但真正让她们团结并兴盛的，是丽桑卓在冰原上发起的无数次战斗。齐心合力的她们无人可挡，但即使是血脉的纽带，也会有褪色的一天。</p><p>没有了视觉的丽桑卓，选择行走在梦境中。她能断断续续地从旁人的眼中看到他们的视野，但她发现只有自己才能看到下方的黑暗以及它的真实面目：那个挥之不去的深渊不仅意味着一个结局，更意味着<i>无限</i>。它是死亡，虽然危险，但也充满潜力。丽桑卓瞒着姐妹们与那些近乎于神的灵体秘密交谈，并以三姐妹的名义与它们做了一桩交易——监视者们会赐予她们接近不朽的力量，而她们则需要让符文之地做好准备迎接虚空的到来。</p><p>于是三姐妹和他们最强大的追随者们得名<i>冰裔</i>。他们有能力抵御最冷冽的寒霜，因此也是活到最后的强者。</p><p>然而，丽桑卓的姐妹们愈发变得不满。阿瓦罗萨坚持认为只有一件事比死亡更糟糕，那就是被奴役。就连赛瑞尔达也怒不可遏，认为他们曾努力为之奋战的世界不应得此下场。丽桑卓被夹在中间，一方面努力平息姐妹们的忧心，一方面向监视者们乞求更多时间，但那不可知的虚无对这些平庸的言辞毫不在意。</p><p>虚空在遥远的北方突入了凡间世界，而这样一来，丽桑卓与监视者们的秘密勾结也变得证据确凿。那一刻，她只有两个选择，要么让全世界被吞噬，要么放弃她最珍视的东西——丽桑卓牺牲了她的姐妹们以及她们集结的盟友，以此为代价将监视者埋葬在冰川的屏障之下，这魔法的寒冰将永不消融。</p><p>丽桑卓很快发现，即使是如此强大的元素之力也远远不够。被冰封的怪物们只是在沉睡，它们渐渐污染了身边的臻冰，使之转变为某种更黑暗的东西。现在它们可以轻易游荡于丽桑卓的梦境之中，而她也同样能轻易进入它们的梦境，每一次，她都会在梦中向它们所承诺的永恒投诚，每一次她都在惶恐中醒来。</p><p>作为三姐妹的唯一幸存者，她召集了剩余的追随者，效忠于她并缅怀她逝去的姐妹们。如果臻冰只能暂时拖延世间万物的最终命运，那么他们就必须集结一切力量，搜寻冰原上的所有冰裔后代，加入他们的大业。</p><p>丽桑卓和她的第一批冰卫部族动用一切力量重写了历史，掌握了所有关于真相的记录，即便如此，依然还是有传闻和预言流传在神话和歌谣中。在人们的低语声中，阿瓦罗萨和赛瑞尔达将有朝一日回归并统一诸多水火不容的部落，为此，丽桑卓将所有被奉为她们转世降临的人都悄悄杀掉了。而她自己则退到了暗影中，每隔一段时间就用她被赋予的能力让自己焕然一新。</p><p>正如她无法杀死冰盖之下的威胁，丽桑卓同样也无法完全控制自己姐妹流传于世的传说。不知是因为愧疚还是因为自大，她曾经留下的姐妹们的传承再度凝结成两位强大的冰裔——一位理想者，一位征服者——如今，她们各自领导了弗雷尔卓德境内的许多部落。</p><p>丽桑卓守望着她们两个，寻找机会挑拨她们之间的关系，同时也加倍努力地封锁她埋藏在主堡之下的恐怖秘密。</p><p>她必须抓紧时间了，因为寒冰已经开始消融。<br></p>",
+                "short": "<p>大多数人都认为身为霜卫首领的丽桑卓是一个活着的圣人，为弗雷尔卓德的各族带来了智慧与治愈。但事实却非如此，她使用元素魔法将臻冰扭曲成黑暗的物质并用它来冰封或穿刺胆敢揭露她隐藏的秘密的人。她的过去可能是符文之地末日的起始。</p>",
+                "quote": "”寒冰中埋藏着如此多的秘密……“",
+                "quote-author": ""
+            },
+            "headerImage": null
+        }
+    ],
+    "explore-champions": [
+        {
+            "type": "champion",
+            "release-date": "2010-11-16T00:00:00.000Z",
+            "name": "艾瑞莉娅",
+            "title": "刀锋舞者",
+            "section-title": "艾瑞莉娅",
+            "slug": "irelia",
+            "associated-faction": "",
+            "associated-faction-slug": "ionia",
+            "image": {
+                "title": "irelia-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt5093ac3980fc83a1-Classic_Irelia_Splash.jpg",
+                "encoding": "image/jpeg",
+                "width": 1920,
+                "height": 1071,
+                "x": 964,
+                "y": 124,
+                "featured-champions": []
+            },
+            "background": {
+                "title": "irelia-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt5093ac3980fc83a1-Classic_Irelia_Splash.jpg",
+                "encoding": "image/jpeg",
+                "width": 1920,
+                "height": 1071,
+                "x": 964,
+                "y": 124,
+                "featured-champions": []
+            },
+            "url": "/zh_cn/champion/irelia",
+            "video": {
+                "title": "irelia-splashvideo-webm",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt32d1d1f93ab09206-irelia-splashvideo.webm",
+                "encoding": "video/webm",
+                "width": 1920,
+                "height": 1071,
+                "x": 964,
+                "y": 124,
+                "featured-champions": []
+            },
+            "races": [],
+            "roles": [
+                {
+                    "name": "战士",
+                    "slug": "fighter"
+                },
+                {
+                    "name": "刺客",
+                    "slug": "assassin"
+                }
+            ],
+            "role": [
+                {
+                    "name": "战士",
+                    "slug": "fighter"
+                },
+                {
+                    "name": "刺客",
+                    "slug": "assassin"
+                }
+            ],
+            "game-info-url": "https://lol.qq.com/web201310/info-defail.shtml?id=Irelia",
+            "biography": {
+                "full": "<p>赞家的艾瑞莉娅还是个小姑娘的时候就被人体动态中的优雅与美感深深地吸引了。在奶奶的悉心指导下，她开始修习家乡的传统绸舞。虽然她不太确定艾欧尼亚的万灵与之有何神秘的联系，但她对舞蹈的热爱却毋庸置疑。为了舞艺的精进，她离开家前去纳沃利的普雷西典向艾欧尼亚最负盛名的舞者们学习。</p><p>艾欧尼亚人天性和平，希冀与人和谐相处，但是有人在海岸边看到了侵略者的身影。普雷西典因而陷入了恐慌。艾瑞莉娅回到自家村庄，却发现家乡已经沦陷。从诺克萨斯远渡重洋而来的士兵，头戴钢盔，手执长矛，用矛柄推搡着手无寸铁的平民走过街道。诺克萨斯的海军上将杜廓尔还征用了赞家的宅院作为舰队军官们的驻地。</p><p>艾瑞莉娅的兄弟们，还有父亲里托都曾经反抗过。而如今全家人都躺在了花园里无名的坟茔中。</p><p>悲痛无比的艾瑞莉娅看到杜廓尔的手下正在搬运她家中的器物，其中有一个硕大的金属徽记，正是赞家的家徽。艾瑞莉娅疾奔过去，想从诺克萨斯人手中抢回来。杜廓尔却把她拖倒在地，让士兵们用一把铁锤砸碎了家徽，然后命令他们给这个不知天高地厚的孩子挖一个新坟。</p><p>他们围上来时，艾瑞莉娅扭过头，看着地上碎裂的赞家徽记。在她灵魂深处，一股奇怪的韵律开始搏动。金属的碎片开始震颤翻飞，似乎有意识般动了起来。艾瑞莉娅再一次感受到了古老舞仪中那充满祥和的愉悦……</p><p>她伸臂一挥，碎片如刀刃般呼啸而起，干脆地切过两名诺克萨斯士兵的身体。杜廓尔和他的军官纷纷惊退，艾瑞莉娅趁势拢起徽记的碎片，逃出了村子。</p><p>在寂静的森林中，艾瑞莉娅一边痛悼着家人，一边回想起奶奶的教导。她突然意识到自己所学到的可不仅仅是舞蹈，而是某种更伟大的事物充满力量的显现。</p><p>诺克萨斯的占领行为动摇了初生之土脆弱的和平。据说就连教派领袖卡尔玛都被迫动用魔法回击了侵略者，不过现在她的追随者们全部退回了长存之殿，并决定不再宽宥任何暴力。在纳沃利，各种意见开始趋向一致，一股反抗的力量业已形成，发誓拼死也要让艾欧尼亚重获自由。艾瑞莉娅也加入了他们的队伍。在林间的营地，她会为大家跳起自己最爱的舞蹈，为的是留住几分故乡日渐消散的礼俗。</p><p>当她回到普雷西典的时候，艾瑞莉娅刚满十四岁。反抗军并入了当地的民兵团体，誓死守护寺庙和神圣的园地。</p><p>但诺克萨斯人非常清楚这个地方的价值。狡猾的将军杰里柯·斯维因早就拿下了普雷西典，并俘获了守军作为人质，打算引诱前来支援的部队深入陷阱。</p><p>这就是艾瑞莉娅挺身而出直面命运的一刻。她不再约束自己，古老刃舞的力量喷涌而出，翩然而澎湃，眨眼间便击倒了斯维因的十几个人，引起一阵慌乱。俘虏们与她并肩作战，直到将军本人也成了她的手下败将——艾瑞莉娅将他的断臂举过头顶，这一幕就是战争的转折点。</p><p>这场胜利，也被称为纳沃利的挺立，让所有艾欧尼亚人都知道了艾瑞莉娅的名字。他们把她看作是抵抗力量的领袖。她勉为其难，带领着日益壮大的反抗军浴血奋战了近三年时间，直到她终于在答禄湾把战败的杜廓尔逼到了绝境，亲手完成了她渴望已久的复仇。</p><p>虽然这场战争已经结束多年，艾欧尼亚却已经不复往日。初生之土四分五裂，互相敌对，战争的惨烈程度不下于诺克萨斯入侵时期。许多人仍然指望艾瑞莉娅可以解决这种局面。也许他们对这份力量求之不得，但艾瑞莉娅依旧惴惴不安。</p><p>在她心底，仍然渴望单纯的起舞。</p>",
+                "short": "诺克萨斯对艾欧尼亚的占领催生了许多英雄，但没有谁像纳沃利的艾瑞莉娅一般令人意外。她将家乡的古老舞艺化为战技，以精心修习的优雅身姿操控着致命的刀丛。在她证明了自己的战斗实力后，被众人推举为反抗军的领袖和首脑，为了守卫家园而奋斗至今。",
+                "quote": "我的起舞曾经只为自己。现在，我将这翩然献给初生之土。",
+                "quote-author": "艾瑞莉娅"
+            },
+            "headerImage": null
+        },
+        {
+            "type": "champion",
+            "release-date": "2016-10-05T00:00:00.000Z",
+            "name": "艾翁",
+            "title": "翠神",
+            "section-title": "艾翁",
+            "slug": "ivern",
+            "associated-faction": "",
+            "associated-faction-slug": "ionia",
+            "image": {
+                "title": "ivern-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt2b44c03ee6865bf4-Ivern_0.jpg",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 569,
+                "y": 0,
+                "featured-champions": []
+            },
+            "background": {
+                "title": "ivern-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt2b44c03ee6865bf4-Ivern_0.jpg",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 569,
+                "y": 0,
+                "featured-champions": []
+            },
+            "url": "/zh_cn/champion/ivern",
+            "video": {
+                "title": "ivern-splashvideo-webm",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt05b5d42132c053d0-ivern-splashvideo.webm",
+                "encoding": "video/webm",
+                "width": 1280,
+                "height": 720,
+                "x": 498,
+                "y": 0,
+                "featured-champions": []
+            },
+            "races": [],
+            "roles": [
+                {
+                    "name": "辅助",
+                    "slug": "support"
+                },
+                {
+                    "name": "法师",
+                    "slug": "mage"
+                }
+            ],
+            "role": [
+                {
+                    "name": "辅助",
+                    "slug": "support"
+                },
+                {
+                    "name": "法师",
+                    "slug": "mage"
+                }
+            ],
+            "game-info-url": "https://lol.qq.com/web201310/info-defail.shtml?id=Ivern",
+            "biography": {
+                "full": "<p>“无情者艾翁”是一位出名的勇猛战士，他生活在古代沃尔瑞加德时期的末端。他的氏族信奉好战的旧神，不肯像其他氏族那样臣服于新崛起的“三姐妹”势力。</p>\n\n<p>然而，黑暗的巫术强化了三姐妹的军队，她们的力量是不容否认的。艾翁和他的族人为了推翻可恨的冰裔，经过持久且周全的密谋，最后启程航向东方——他们要寻找那片太阳初升的土地，因为据说所有的魔法都是从那里流入这个世界的。如果艾翁能将这种力量据为己有，那他肯定所向披靡。</p>\n\n<p>他的舰队驶向天边的同时，也离开了人们的记忆，成为了神话传说，因为再也没人在这片土地上见过他们。</p>\n\n<p>事实上，无情者艾翁登陆了艾欧尼亚。他和手下的战士们血洗了十多个沿海定居点，然后发现了一片神圣的树林，这里被称为<i>奥米卡亚兰</i>，意思是“世界之心”。就是在这片古怪的碧绿园林中，他们遭遇了最猛烈的抵抗。在扭曲的树干笼盖之下，许许多多半人半兽的杂合生物一次次地扑向他们。</p>\n\n<p>艾翁不肯退缩，继续推进，最后带着损失惨重的远征队找到了艾欧尼亚人的至圣之物：传说中的帝柳。</p>\n\n<p>艾翁看入了迷，全然不顾身边正在进行的打斗。这实在是一棵<i>庞然巨树</i>，柔顺的枝叶如同薄纱一般垂挂下来，轻闪着金绿色的光芒。这是他从未感受过的魔法，而且显然这些非人类的生物要誓死捍卫它。于是为了瓦解敌人的意志，他举起了战斧，发出一声憎恨的咆哮，一下下砍在帝柳的树干上。</p>\n\n<p>大树倒下了。在生命能量的乱流中，无情者艾翁顷刻间灭散了。</p>\n\n<p>恍惚神游之中，他看到战斗已经结束。死者的血肉被食腐的鸟类和昆虫吃掉，或者在勃发的彩色蘑菇丛下腐烂。骸骨化为肥沃的泥土，土里的种子发芽生长，结出了属于它们的果实。新叶复萌，新花怒放，死去的人反哺了无数生命，在目之所及的地方汹涌地爆发。</p>\n\n<p>艾翁从来没有见过这样美丽的盛景。生命，千万种形式的生命，紧紧相依，互不分离。他哭了，落下露珠般的泪水，打在他早已变了模样的身上。他比记忆中的自己高大了许多，四肢覆盖着树皮和枝叶。来自另一个完全不同的世界的魔法在他体内运转。他不知道为何，也不知道如何，但此时的他<i>就是</i>残存于世的帝柳。</p>\n\n<p>顿悟以后，他听到了山丘的呼喊、树木的嚎哭和苔藓的簌簌泪水。他反省了自己犯下的错误，自己的无情。艾翁痛彻心扉，他恸哭着请求原谅。</p>\n\n<p>当艾翁终于可以挪动双脚的时候，已经过去了很久，世界似乎变得……崭新？他原本暴力和悲伤早已淡化成心中的残响。他发现自己可以把脚趾深深扎进土中，同根须、石块、江河交流。即使是尘埃也有它自己的主见！</p>\n\n<p>艾翁游荡到远方——横跨艾欧尼亚及更远处。奥米卡亚兰的奇特魔法也跟着他。他与大大小小的生物结交亲密的情谊，他观察他们的小毛病，也欣赏他们的小情趣，还会时不时地伸出援手。他帮毛虫开出捷径，与绯红树怪玩闹，安慰心情低落的厄玛克，和干瘪的老蘑菇们一起大笑。</p>\n\n<p>有一回，他发现了一个受了重伤的石巨人。他知道这可怜的灵魂即将消逝，于是从河里捞了一块卵石，为她捏了一颗新的心脏，后来石巨人成为了艾翁的过命之交。他叫她小菊，因为她的石头身体上竟然会神奇地开出小花儿来。</p>\n\n<p>有些时候，他会碰见凡人，大部分人都<i>还算</i>是和平的。他们叫他荆足、翠神或者老樵夫，讲述关于他的奇妙善行。但是他看到人类的索取依然远多于奉献，他们依然如此残忍无情，于是他充满了悲伤，且不再与凡人为伍。</p>\n\n<p>如果他是帝柳的传承，那他就需要培养人性——帮助他们去看、去听、去生长。曾经身为凡人的艾翁知道，此事将困难异常，然而他微笑着接下了这个挑战。在太阳最后一次沉入地平线之前，他一定要完成这项任务。</p>\n\n<p>他知道自己的时间很充裕。</p>",
+                "short": "艾翁，许多认识他的人都称他为荆足或者老樵夫，他是一个半人半树的奇特生物，游荡在符文之地的荒野上，所经之处无不生机盎然。他知晓自然界的种种秘密，无论是飞禽走兽还是游鱼虫孑，都与他交谊深厚。艾翁会培植丰茂的森林，向路遇的凡人传授奇特的智慧，时不时地，他也会向口风不严的蝴蝶托付自己所知的秘密。",
+                "quote": "“蘑菇的聪慧总能让我惊奇。”",
+                "quote-author": "艾翁"
+            },
+            "headerImage": null
+        }
+    ],
+    "modules": [
+        {
+            "slug": "enter-the-freljord",
+            "type": "featured-video",
+            "section-title": "",
+            "featured-image": {
+                "title": "featuredvideocover-enter-the-freljord",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt91ec7ea694b5cdd6-enter-the-freljord.jpg",
+                "encoding": "image/jpeg",
+                "width": 1920,
+                "height": 1080,
+                "x": 521,
+                "y": 358,
+                "featured-champions": []
+            },
+            "title": "进入弗雷尔卓德",
+            "subtitle": "",
+            "description": "在这变幻无常的国度里，三个部落，三足鼎立。",
+            "uri": "https://v.qq.com/x/page/p03653l9xuy.html",
+            "video": {
+                "type": "video",
+                "title": "",
+                "subtitle": "",
+                "description": [],
+                "uri": "https://v.qq.com/x/page/p03653l9xuy.html",
+                "width": "",
+                "height": "",
+                "x": "",
+                "y": "",
+                "featured-champions": []
+            },
+            "blackout": null,
+            "release-date": "2013-04-30T15:00:00.000Z",
+            "video-type": "animation",
+            "featured-champions": [
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                },
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                },
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                }
+            ],
+            "related-champions": [
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                },
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                },
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                }
+            ]
+        },
+        {
+            "slug": "comic-series-ashewarmother",
+            "type": "link-out",
+            "section-title": "艾希",
+            "title": "战母",
+            "description": "在北方荒蛮之地长大的艾希，是一位寒冰血脉的战士，她天生就被赋予了与这片冻土家园的魔法\n连接——同时也肩负着来自母亲的狂热期许。当她们踏上征程寻找一个远古神话背后的真相之时\n，纽带断裂、谜团揭晓，符文之地遭到永久改变。年轻的艾希能否成为她族人所需要的领袖？还是说这所谓的命运只不过是一场梦？",
+            "url": "/zh_CN/comic/ashewarmother",
+            "featured-image": null,
+            "subtitle": "短篇故事",
+            "background": {
+                "title": "comic-series-ashewarmother",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt1beeafe224346802-header.jpg",
+                "encoding": "image/jpeg",
+                "width": 1920,
+                "height": 1080,
+                "x": 831,
+                "y": 432,
+                "featured-champions": []
+            },
+            "cta": "",
+            "blackout": null,
+            "isFanArt": false,
+            "isComic": true
+        },
+        {
+            "slug": "艰辛之路",
+            "type": "story-preview",
+            "title": "艰辛之路",
+            "subtitle": "作者： Lillian Herington",
+            "description": "巨大的火盆燃起了生气勃勃的火，焰心高高地伸向空中。在很久以前，聚在一起的部落会以此作为节日的开端。<br><br>",
+            "story-slug": "ashe-color-story",
+            "featured-image": {
+                "title": "ashe-color-bg",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blteaa29d92049353a6-ashe_color_bg.jpg",
+                "encoding": "image/jpeg",
+                "width": 2200,
+                "height": 978,
+                "x": 1238,
+                "y": 1,
+                "featured-champions": []
+            },
+            "background": {
+                "title": "ashe-color-bg",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blteaa29d92049353a6-ashe_color_bg.jpg",
+                "encoding": "image/jpeg",
+                "width": 2200,
+                "height": 978,
+                "x": 1238,
+                "y": 1,
+                "featured-champions": []
+            },
+            "release-date": "2019-01-08T16:00:00.000Z",
+            "featured-champions": [
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                }
+            ],
+            "minutes-to-read": 5,
+            "url": "/zh_cn/story/ashe-color-story"
+        },
+        {
+            "slug": "ashe-image-gallery",
+            "type": "image-gallery",
+            "section-title": "",
+            "isFanArt": false,
+            "fan-art-url": "",
+            "featured-image": "",
+            "title": "",
+            "subtitle": "",
+            "assets": [
+                {
+                    "title": "艾希铅笔稿",
+                    "subtitle": "",
+                    "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt0d8981b8c98d6567-ashe_blackandwhite_sketch.jpg",
+                    "encoding": "image/jpeg",
+                    "width": 1634,
+                    "height": 1055,
+                    "x": 1172,
+                    "y": 209,
+                    "featured-champions": []
+                },
+                {
+                    "title": "战斗中的艾希黑白版",
+                    "subtitle": "",
+                    "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/bltd08da264df332152-ashe_combat_bw.jpg",
+                    "encoding": "image/jpeg",
+                    "width": 810,
+                    "height": 1080,
+                    "x": 167,
+                    "y": 435,
+                    "featured-champions": []
+                },
+                {
+                    "title": "灵魂穿刺女皇黑白版",
+                    "subtitle": "",
+                    "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blte43e6da64ebff662-ashe_portrait_bw.jpg",
+                    "encoding": "image/jpeg",
+                    "width": 810,
+                    "height": 1015,
+                    "x": 490,
+                    "y": 221,
+                    "featured-champions": []
+                }
+            ],
+            "featured-champions": [
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                }
+            ]
+        }
+    ]
+}

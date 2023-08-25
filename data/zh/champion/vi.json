@@ -1,0 +1,666 @@
+{
+    "id": "vi",
+    "name": "蔚",
+    "title": "皮城执法官",
+    "locale": "zh_cn",
+    "champion": {
+        "type": "champion",
+        "release-date": "2012-12-19T00:00:00.000Z",
+        "name": "蔚",
+        "title": "皮城执法官",
+        "section-title": "蔚",
+        "slug": "vi",
+        "associated-faction": "",
+        "associated-faction-slug": "piltover",
+        "image": {
+            "title": "vi-splash",
+            "subtitle": "",
+            "description": "",
+            "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt386aa1a09687ad91-Vi_0.jpg",
+            "encoding": "image/jpeg",
+            "width": 1215,
+            "height": 717,
+            "x": 926,
+            "y": 135,
+            "featured-champions": []
+        },
+        "background": {
+            "title": "vi-splash",
+            "subtitle": "",
+            "description": "",
+            "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt386aa1a09687ad91-Vi_0.jpg",
+            "encoding": "image/jpeg",
+            "width": 1215,
+            "height": 717,
+            "x": 926,
+            "y": 135,
+            "featured-champions": []
+        },
+        "url": "/zh_cn/champion/vi",
+        "video": {
+            "title": "vi-splashvideo-webm",
+            "subtitle": "",
+            "description": "",
+            "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt3265d4d974879b08-vi-splashvideo.webm",
+            "encoding": "video/webm",
+            "width": 1280,
+            "height": 720,
+            "x": 926,
+            "y": 135,
+            "featured-champions": []
+        },
+        "races": [],
+        "roles": [
+            {
+                "name": "战士",
+                "slug": "fighter"
+            },
+            {
+                "name": "刺客",
+                "slug": "assassin"
+            }
+        ],
+        "role": [
+            {
+                "name": "战士",
+                "slug": "fighter"
+            },
+            {
+                "name": "刺客",
+                "slug": "assassin"
+            }
+        ],
+        "game-info-url": "http://gameinfo.na.leagueoflegends.com/en/game-info/champions/vi",
+        "biography": {
+            "full": "<p>蔚在祖安这片土地上几乎没有什么儿时的回忆，能记得的片断也让她不堪回首。她一直跟着地下帮派从小混到大，很快就学会了利用头脑和双拳生存下去。每个遇到过蔚的人都会见识到她用言辞——或者蛮力——摆平麻烦事的本领。当然，大多数时候还是后者。</p><p>蔚年轻时，身边的老人们对她的父母和她的出身一概不知。大多数人都猜测她的父母死于一次工业事故，可令人唏嘘的是，祖安的工业事故根本是家常便饭。总之她最后流落到了“希望之屋”孤儿院，一个出名疯癫的地沟拾荒者说蔚是他捡回来的，当时她躺在一个双人摇篮中，被遗弃在一座炼金实验室的废墟里。最后，蔚放弃追寻自己的身世。她开始懂了，有些事还是不知道比较好。</p><p>粉色的乱发让蔚成为祖安的大街小巷中最容易辨认的身影——被愤怒的店主追赶着穿过边境市场；或者大摇大摆地走在黑窄巷的缤纷集市上；又或是搭上海克斯压力运送机的顺风车前往皮尔特沃夫。只要有什么谋划中的抢劫或者酝酿中的骗局，就一定有蔚的一份，不过她偷东西从不让人倾家荡产，打人也从不滥伤无辜。</p><p>随着一天天长大成熟，蔚组建了自己的帮派，孩童时的小打小闹终于变成了成人间的横冲直撞。她蛮横无理、暴虐乖戾，对拳头的热衷依然超出常人，因此总是鼻青脸肿、旧伤未愈又添新伤。</p><p>黑窄巷外围一家酒吧的老板成为了蔚的导师，他劝化了她一部分可能导致自我毁灭的危险倾向。为了巩固蔚的行事准则，他也展示了如何在战斗中进行自控，甚至还教会了她如何以更好的方式疏导心中难以平复的愠怒。</p><p>蔚很快闯出了名号，收人钱财替人消灾，从来不会多问。</p><p>蔚在酒吧里听到一些矿工常客的聊天，得知了几笔巨额交易的时间，以及具体的支付方式。对于一名炼金男爵，这只是个零头——但对于她和伙伴们，这可是一笔大财。她谋划了一次抢劫，但她知道这个计划需要更多人手才能执行，所以蔚不得不把一个敌对帮派拉入伙——坊木魔鬼帮。</p><p>计划原本进展顺利，可没想到魔鬼帮的老大用一副巨大的碎石拳套杀掉了矿主，还把其余的工人都困在坑道里。就在两个帮派分赃跑路的同时，蔚知道自己无法见死不救。她戴上了那副拳套，腕部机械装置死死咬住了蔚的手臂，但她强忍着剧痛，硬是打通了一条出路，将矿工们救了出来。</p><p>第二天，蔚登门拜访了坊木魔鬼帮。动力拳套依然戴在她手上，她独自一人用拳头好好教训了整个帮派的人。时至今日，黑窄巷里依然流传着那一天的传奇故事。</p><p>在一段动乱时期，蔚从祖安城中消失了，当时祖安和皮尔特沃夫之间的关系极为紧张。帮派之中有传闻称蔚死在一次祖安城中心的大爆炸事故中，但也有人说她背弃了朋友，流亡到了远方。然而，最后真相大白的时候人们全都瞠目结舌：老饿鬼疤被人一锅端了。因为这个帮派的连环谋杀案已经做到了皮尔特沃夫，最后引来了皮城女警——和她的新朋友，蔚。</p><p>曾经的祖安帮派老大现在受雇于皮尔特沃夫守卫，而且她还将原来的炼金动力拳套换成了一副海克斯科技“阿特拉斯”原型机。</p><p>没人知道蔚和凯特琳的合作是为何以及<i>如何</i>形成的——不过考虑到皮尔特沃夫最近出现的犯罪高峰及其混乱特性，人们普遍猜测她们的联合是被第三个人促成的——那个来自祖安的青发小疯子……</p>",
+            "short": "蔚曾经是祖安黑街上的破坏分子。她性格急躁、脾气火爆、凶神恶煞，对权威满心不屑。蔚从小到大都是孤身一人，所以练就了一身生存的本能，也培养了一种恶毒刻薄的幽默感。现在，蔚与皮尔特沃夫守卫一起合作，维护着皮城的安宁。靠着她手上的一副巨型海克斯科技拳套，无论是铜墙铁壁还是嫌犯都不在话下。",
+            "quote": "“你是想来硬的呢，还是想来硬的呢？”",
+            "quote-author": ""
+        },
+        "headerImage": null
+    },
+    "related-champions": [
+        {
+            "type": "champion",
+            "release-date": "2011-01-04T00:00:00.000Z",
+            "name": "凯特琳",
+            "title": "皮城女警",
+            "section-title": "凯特琳",
+            "slug": "caitlyn",
+            "associated-faction": "",
+            "associated-faction-slug": "piltover",
+            "image": {
+                "title": "caitlyn-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/bltcd6fb377c05a2467-Caitlyn_Base_Final_Adjustment.jpg",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 1024,
+                "y": 7,
+                "featured-champions": []
+            },
+            "background": {
+                "title": "caitlyn-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/bltcd6fb377c05a2467-Caitlyn_Base_Final_Adjustment.jpg",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 1024,
+                "y": 7,
+                "featured-champions": []
+            },
+            "url": "/zh_cn/champion/caitlyn",
+            "video": null,
+            "races": [],
+            "roles": [
+                {
+                    "name": "射手",
+                    "slug": "marksman"
+                }
+            ],
+            "role": [
+                {
+                    "name": "射手",
+                    "slug": "marksman"
+                }
+            ],
+            "game-info-url": "http://gameinfo.na.leagueoflegends.com/en/game-info/champions/caitlyn",
+            "biography": {
+                "full": "<p>凯特琳·吉拉曼恩出生在一个有钱有势的商业家族。虽然她很快就领会了皮尔特沃夫社会的社交礼节，但她在闲暇时却更喜欢前往城市郊外的荒野。凯特琳既能够融入皮尔特沃夫的上流生活，又能在森林的泥地里跟踪野鹿，甚至有把握追踪商业区上空飞过的鸟儿，还能用她父亲的连发式毛瑟枪一发命中百步开外的野兔，而且专打眼睛。</p>\n\n<p>不过，要说凯特琳最强的武器，倒是她的智慧和求知欲。她以父母为学习的榜样，而她的父母也教她明辨是非的道理，养尊处优的生活没有让他们忘记为人之本。凯特琳的母亲是吉拉曼恩家族几大审计官之一，她总是会告诫凯特琳，皮尔特沃夫充满了诱惑，镀金裹糖的花言巧语可能会令最仁慈的心变得冷酷无情。起初，凯特琳不以为意，因为皮尔特沃夫对她来说是一座无比美丽的城市。每当她从野外归来，都会更加珍惜故乡的秩序井然。</p>\n\n<p>所有的一切，都在五年后的进化日那天被改变了。</p>\n\n<p>外出归来的凯特琳发现家被洗劫一空。家中仆人全遭杀害，她的父母则消失得无影无踪。凯特琳把家里料理妥当以后，便立刻启程寻找自己的双亲。</p>\n\n<p>虽说在城市的街巷中追查踪迹完全不同于在野外狩猎，不过，凯特琳还是一个接一个地找到了闯入她家的人。最后她循着线索找到了一个秘密小屋，她的父母正在那里遭受酷刑拷问。借着黑暗的掩护，她救出了双亲，并报告了皮城守卫……只可惜在被逮捕的所有绑匪之中，没有任何人知道雇主的真实身份——只知道那是一个首字母<em>C</em>的中间人。</p>\n\n<p>凯特琳和父母开始重新开始他们的生活，但有些东西已经彻底变了。最明显的就是她的母亲。吉拉曼恩夫人再也不想面对家族生活中的手腕和心机，选择放弃了这一显贵的要职，使得吉拉曼恩家族的领导层出现了空缺。而且，虽然凯特琳深爱着父母，但却并不想继承母亲的位置，也不想师从父亲去学着做一名技工。</p>\n\n<p>她一门心思地想要解开神秘人“C”周围错综复杂的谜团。借助自身的狩猎技巧，凯特琳开始做起了私家侦探的工作，而且很快闯出了名声，无论是寻人还是找物都从不失手。为了祝贺她靠自己的努力所取得的成功，父母为她打造了一杆海克斯科技精工步枪。它的精准度无可媲美，适配多种不同用途的弹药，还可以现场进行便捷的改装。</p>\n\n<p>一次，她处理了一起海克斯科技装置失窃案及其连带牵出的故意伤害案，外加一系列儿童绑架案，随后被皮城守卫正式召见。</p>\n\n<p>她得到了皮城守卫内部的举荐，举荐人和她一样也偏爱离奇的案件——还与她联手对付过一名丧失理智的炼金研究者及其雇佣的一大帮半机械化人。于是凯特琳正式受邀担任警长一职。起初凯特琳回绝了，但最后她意识到，皮城守卫的资源可能会帮她揭开那个神秘的“C”的真实身份。</p>\n\n<p>现在，凯特琳已经是皮城守卫中备受尊敬的长官，致力于守护这座进步之城，让这里更美好、更安全。她最近遇到了一位来自祖安的新搭档——急躁鲁莽的蔚。这对不可思议的组合究竟是如何诞生的，又究竟为何能够如此高效，一直是街头巷尾热议的话题，更是她们的同事在酒过三巡后的谈资，甚至就连那些被他们送进牢房的嫌犯也感到十分好奇。</p>\n\n<p>然而，凯特琳不知道的是，那个“C”也在密切观察着她……因为她的调查已经越来越接近背后的真相。</p>\n",
+                "short": "凯特琳被誉为皮尔特沃夫最顶尖的和平卫士，同时也是让这座城市真正摆脱地下隐秘犯罪的最有希望的人选。她经常和蔚联手执行任务，以冷静和沉着弥补自己搭档的鲁莽天性。虽然她的海克斯科技步枪独一无二，但凯特琳最强大的武器其实是她过人的智谋，总是能设下天罗地网，迎接任何傻到敢在进步之城作案的不法之徒。",
+                "quote": "向前跑吧，我会让你先跑5分钟",
+                "quote-author": ""
+            },
+            "bioImage": null,
+            "headerImage": null
+        },
+        {
+            "type": "champion",
+            "release-date": "2013-10-10T00:00:00.000Z",
+            "name": "金克丝",
+            "title": "暴走萝莉",
+            "section-title": "金克丝",
+            "slug": "jinx",
+            "associated-faction": "",
+            "associated-faction-slug": "zaun",
+            "image": {
+                "title": "jinx-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt107f004fd12ef551-Jinx_0.jpg",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 901,
+                "y": 82,
+                "featured-champions": []
+            },
+            "background": {
+                "title": "jinx-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt107f004fd12ef551-Jinx_0.jpg",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 901,
+                "y": 82,
+                "featured-champions": []
+            },
+            "url": "/zh_cn/champion/jinx",
+            "video": {
+                "title": "jinx-splashvideo-webm",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt5f5448c0a40a7b77-jinx-splashvideo.webm",
+                "encoding": "video/webm",
+                "width": 1280,
+                "height": 720,
+                "x": 901,
+                "y": 82,
+                "featured-champions": []
+            },
+            "races": [],
+            "roles": [
+                {
+                    "name": "射手",
+                    "slug": "marksman"
+                }
+            ],
+            "role": [
+                {
+                    "name": "射手",
+                    "slug": "marksman"
+                }
+            ],
+            "game-info-url": "https://lol.qq.com/web201310/info-defail.shtml?id=Jinx",
+            "biography": {
+                "full": "<p>虽然大多数人眼中的金克丝只是个疯子，还操着一大堆危险的武器，但少数人还记得她曾经是个<em>相对来说</em>没什么坏心的祖安女孩，一个异想天开、从不合群的修补匠。没人知道发生了什么事，把那个可爱的小女孩变成了一个放浪形骸、毁天灭地的疯子。但当金克丝在皮尔特沃夫爆炸登场的时候，她制造混乱的独特天赋立刻就成为了街头巷尾的奇谈。</p>\n<p>金克丝的昭彰恶名最初来自一些对皮城市民的匿名“恶作剧”。她尤其喜欢捉弄那些与富商家族有联系的人。恶作剧的种类下至无伤大雅，上至危险犯法。她曾在进化日当天，从梅伯爵的动物园里放出了一堆异域走兽，把大街小巷堵得水泄不通。她还曾连续好几个星期骚扰皮城的正常贸易，因为她在城中大大小小的桥上摆出了一排排可爱又要命的嚼火者手雷。还有一次，她甚至把城里所有的路牌都搬弄了一遍，重新立在莫名其妙的地方。</p>\n<p>虽然这个惹事精的捣蛋目标似乎十分随机，而且捣蛋的动机也单纯是制造混乱，但她的所作所为总是能让城市中井然有序的忙碌戛然而止。</p>\n<p>守卫们想当然地认为，来自地下城市的炼金黑帮应该负责。看到自己的风头给别人抢了，金克丝可不服气。所以从那以后，她每一次都会在犯罪现场众目睽睽之下主动亮相。于是很快就开始有许多传闻都提到一个来历不明的青发祖安女孩，随身带着炼金炸药、鲨鱼嘴火箭炮和机关枪。尽管如此，执法部门还是将这些目击报告当成无稽之谈。毕竟，一个下层街巷里的混混，哪有本事搞到此等杀伤力的武器呢？</p>\n<p>金克丝的连环爆破似乎永不停歇，而守卫们抓捕嫌犯的努力却每每化作泡影。她开始在自己留下的废墟现场画上一些生动的涂鸦和挑衅的文字，指名道姓地向一个人喊话——皮城警长对抗罪案的新搭档，执法官蔚。</p>\n<p>金克丝的名声越来越大，祖安人也分成了两派，一派说她是个英雄，因为她只跟高高在上的皮城佬过不去，而另一边则说她是个危险的疯子，她做的事正在让两座城市之间的紧张气氛不断升级。</p>\n<p>经过数月间愈演愈烈的暴行，金克丝公布了她当时最宏大的计划。她用自己标志性的亮粉色字迹，在皮城最安全的黄道地库的外墙上乱涂乱画，除了一幅<em>非常</em>不严肃的漫画版执法官蔚，还详细说明了对地库内部众多隔仓的抢劫意图。</p>\n<p>日子一天天临近，皮城和祖安都弥漫着一股躁动的期待。很多人怀疑即使是金克丝，也不敢冒着铁定被逮捕的风险来抛头露面。</p>\n<p>抢劫的日子来了，蔚、凯特琳和其他守卫在金库外布下了天罗地网。但金克丝早在好几天前，就藏在一个巨大的硬币箱里，被神不知鬼不觉地送进去了。当蔚听到建筑内部爆发出一片嘈杂时，她立刻就意识到守卫们又被耍了。她突入库门，随后发生的交战让黄道地库变成了冒烟的废墟，而那个开心的捣蛋鬼金克丝早已不知所踪。</p>\n<p>金克丝直到今天仍然逍遥法外，始终都是皮尔特沃夫的肉中刺。她的手法引来了许多炼金混混模仿作案；她的事迹催生了好几部讽刺剧，公开讥讽守卫的无能；她的涂鸦甚至还让两座城市中诞生了一些模棱两可的新俚语——不过目前为止还没人敢当面管执法官蔚叫做“<em>粉嫩嫩</em>。”</p>\n<p>无论是金克丝的最终目标，还是她表露无余的对于蔚的执迷，都始终无人猜透，但有一件事可以肯定：她的犯罪行径将无休无止，而且无法无天。</p>",
+                "short": "神经狂躁、冲动任性、劣迹斑斑……金克丝出身自祖安，生来就爱不计后果地大搞破坏。她就是一座人形自走军火库，所经之处必定会留下夺目的火光和震耳的爆炸。金克丝最讨厌无聊，所以不管她去到哪里，混乱和骚动就会如期而至，这就是她留下的“到此一游”。",
+                "quote": "“暴走的炸药就是女孩子最好的伙伴！”",
+                "quote-author": "金克丝"
+            },
+            "bioImage": null,
+            "headerImage": null
+        },
+        {
+            "type": "champion",
+            "release-date": "2015-05-28T00:00:00.000Z",
+            "name": "艾克",
+            "title": "时间刺客",
+            "section-title": "艾克",
+            "slug": "ekko",
+            "associated-faction": "",
+            "associated-faction-slug": "zaun",
+            "image": {
+                "title": "ekko-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt010cb09f412da7ab-Ekko_0.jpg",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 1061,
+                "y": 30,
+                "featured-champions": []
+            },
+            "background": {
+                "title": "ekko-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt010cb09f412da7ab-Ekko_0.jpg",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 1061,
+                "y": 30,
+                "featured-champions": []
+            },
+            "url": "/zh_cn/champion/ekko",
+            "video": {
+                "title": "ekko-splashvideo-webm",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt620140a47e3a8d75-ekko-splashvideo.webm",
+                "encoding": "video/webm",
+                "width": 1280,
+                "height": 720,
+                "x": 1061,
+                "y": 30,
+                "featured-champions": []
+            },
+            "races": [],
+            "roles": [
+                {
+                    "name": "刺客",
+                    "slug": "assassin"
+                },
+                {
+                    "name": "战士",
+                    "slug": "fighter"
+                }
+            ],
+            "role": [
+                {
+                    "name": "刺客",
+                    "slug": "assassin"
+                },
+                {
+                    "name": "战士",
+                    "slug": "fighter"
+                }
+            ],
+            "game-info-url": "http://gameinfo.na.leagueoflegends.com/en/game-info/champions/ekko",
+            "biography": {
+                "full": "<p>艾克是个高智商的天才，他甚至在还没会爬之前就先学会了制作简单的机械。他的父母茵娜和维斯发誓要为他提供一个光明的未来。他们认为充斥着污染和犯罪的祖安只会耽误艾克的成长，只有皮尔特沃夫的财富和机遇才适合他。所以在艾克的童年时期，他就目睹了父母在血汗工厂的危险环境中加班加点，未老先衰。他们挣着微薄的薪水，而贪婪的工厂主和高高在上的皮佬买家却从他们的劳动中获得暴利。</p><p>他们一心想着，如果他们的儿子有朝一日能升入头顶上的那座城，那么一切都是值得的。</p><p>艾克的看法却不一样。纵然祖安有种种缺点，但他却能看到一个洋溢着能量和潜能的活力之都。祖安人的勤奋、多才和顽强是创新的温床。他们从灾难中建起了繁荣的文明，在其他人必死无疑的绝境中兴旺发达。这种精神感召着艾克，激励着他成为了一个肆意挥洒发明与创新的少年。</p><p>艾克并不孤单。他结交了许多好斗的孤儿、好奇的流浪儿和自命不凡的孩子王。祖安佬不愿接受正统教育，而是喜欢以师徒传承的方式学习一门技艺，而这群“祖安迷童” 都拜同一个师父，那就是祖安迷宫一般的街道。他们用年轻人的方式豪情万丈地挥霍青春——在边境市场里赛跑、挑战徒手从地沟区攀爬上舞步走廊。他们自由不羁，不服从任何人。</p><p>一天夜里，艾克独自前往一座刚刚被炸毁的实验室废墟探险，惊讶地发现了一件宝贝：一块蓝绿色的放着魔法亮光的水晶碎片。每个祖安的孩子都听说过<i>海克斯水晶</i>的故事，据说这种水晶是神兵和英雄们的力量之源，有着改变世界的潜力。而现在他手里就握着一块破碎的海克斯水晶。他四处寻觅，想要找到更多碎片，但科技武装的执法者队伍踩在瓦砾上的脚步声告诉他，搜寻碎片的不止他一个。于是艾克在千钧一发之际逃回了家。</p><p>他开始对这块水晶进行狂热的实验。在一次不那么科学的尝试中，水晶爆炸成了一团晶体尘埃形成的漩涡，触发了扭曲时间的气旋。艾克睁开眼，看到了许多个现实的分支，也看到了许多个自己在这一刻的镜像，镜像也在万分惊恐地看着自己，在碎裂的时空中不知所措。</p><p>这一次他真的做到了。</p><p>艾克和自己的平行现实镜像进行了一番紧张的调谐，最后控制并修复了他在现实时空中撕开的裂口。最终，艾克通过一种装置驾驭了这枚破碎水晶的时空之力，可以让他操控一段短暂的时间……至少理论上是这样。</p><p>在他的命名日那天，伙伴们叫嚷着拉他去攀登那座古老的钟塔，“老饿鬼”。于是艾克带上那个尚未经过测试的装置出发了。</p><p>祖安迷童开始了攀登，中间不时停下来涂上一两副讽刺皮佬名人的下流画。就在他们快要登上楼顶的时候，一名伙伴误抓了松动的把手，失手摔了下去。艾克本能地发动了水晶装置，动作娴熟犹如练习过成百上千次一般。周围的世界破碎了，他在时间的粒子洪流中被拉扯着向后倒退。</p><p>然后他回到了刹那之前，正好看到伙伴伸手够向那根松动的把手。把手断裂，男孩落下……但这一次艾克有所准备，他冲到边上，抓住了同伴的衣服。他想要顺势把同伴扔向安全的地方，但他的同伴却被卡在了钟塔的齿轮中间，然后——</p><p>停止。倒退。</p><p>多次尝试以后，艾克终于救下了自己的朋友。但在伙伴们眼里，艾克用的是超自然的反应速度，在其他人还没意识到危险的时候就拯救了朋友。他将水晶的事告诉他们并要他们发誓保密。但他们却得寸进尺，总是互相挑战鲁莽和愚蠢的新高度，因为他们知道艾克一定有办法让他们有惊无险。</p><p>每次试炼，以及背后无数次试错，都让他的时间装置（他给取名为Z型驱动）更加稳定。唯一的使用限制，就是他自己的身体所能承受的疲劳极限。</p><p>艾克扭转时间的传闻和轶事，很快就让祖安和皮城最懂发明、最有实力以及最危险的几个人产生了兴趣。不过艾克唯一关心的只有自己的伙伴、家庭和这座城市。他梦想着有一天自己的故乡能够崛起，让那座自诩进步的城市相形见绌。那个时候，皮尔特沃夫的光鲜外表将笼罩在祖安人的精妙创意和无悔勇气之下，二者之间的差距绝非来自世代传承的特权，而是源于单纯的冒险精神。或许他现在还没有具体的计划，但艾克有大把时间，把这个梦想变为现实。</p><p>毕竟，既然他的Z型驱动能够改变过去，那么改变未来又有何难？</p>",
+                "short": "艾克是一名来自祖安不良街区的天才少年。他能操纵时间，以使任何处境都变得对自己有利。通过使用自己的发明——Z型驱动——艾克可以在现实世界与其它平行分支之间探索。尽管他酷爱这种自由，但只要朋友们遇到了威胁，他就会不顾一切地去保护他们。在旁观者眼里，艾克总是能轻而易举地完成那些看似不可能办到的事情，且屡试不爽。",
+                "quote": "“我的装置在运行失常的时候最好用…...也就是大部分时候都好用。”",
+                "quote-author": ""
+            },
+            "bioImage": null,
+            "headerImage": null
+        }
+    ],
+    "explore-champions": [
+        {
+            "type": "champion",
+            "release-date": "2011-07-13T00:00:00.000Z",
+            "name": "蕾欧娜",
+            "title": "曙光女神",
+            "section-title": "蕾欧娜",
+            "slug": "leona",
+            "associated-faction": "",
+            "associated-faction-slug": "mount-targon",
+            "image": {
+                "title": "leona-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt6a3490eb186aa2d8-Leona_0.jpg",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 1061,
+                "y": 41,
+                "featured-champions": []
+            },
+            "background": {
+                "title": "leona-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt6a3490eb186aa2d8-Leona_0.jpg",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 1061,
+                "y": 41,
+                "featured-champions": []
+            },
+            "url": "/zh_cn/champion/leona",
+            "video": null,
+            "races": [],
+            "roles": [
+                {
+                    "name": "坦克",
+                    "slug": "tank"
+                },
+                {
+                    "name": "辅助",
+                    "slug": "support"
+                }
+            ],
+            "role": [
+                {
+                    "name": "坦克",
+                    "slug": "tank"
+                },
+                {
+                    "name": "辅助",
+                    "slug": "support"
+                }
+            ],
+            "game-info-url": "https://lol.qq.com/web201310/info-defail.shtml?id=Leona",
+            "biography": {
+                "full": "<p>在巨神峰上居住的拉阔尔族群相信，太阳是神圣的，其中最崇拜太阳的就是烈阳教派。他们的孩子从出生就开始尊敬太阳，甚至会为其抛洒热血，期待太阳的星灵回归，以及回归所预示的巨大危难。</p>\n\n<p>蕾欧娜就是其中一个孩子。她接受烈阳教派的信仰就像呼吸一样简单，总能在森严的结构中找到慰藉和温暖。这种天性也有具体的呈现，她成就卓越的速度飞快，所有同辈都羡慕她的能力、意志和虔诚。所有人都认定她有朝一日定会成为烈阳教派的神圣武士——<i>拉霍拉克</i>的一员。</p>\n\n<p>虽然蕾欧娜意气风发，但她却不能无视导师们在一位求知若渴的学生面前一筹莫展，这名学生是一个叫做黛安娜的孤儿。她的好奇心最初还能获得好感，但老师们很快就开始将黛安娜的问题当成是对烈阳教派教义的挑战。蕾欧娜看到黛安娜在惩罚和孤独中受苦，但别人看到的傲慢无礼，却让她看到一个迷失的灵魂，虔心寻找一切的意义。</p>\n\n<p>蕾欧娜找到了烈阳教派教诲的目的，并决心与黛安娜分享这种目标感，即使最恪尽职守的教师放弃她也无所谓。她们二人经常辩论到夜里，蕾欧娜希望能说服黛安娜，让她相信她所要的一切都可以在信仰中寻得，所以一直都在等待她的真心接受。虽然她始终没能赢得黛安娜的信仰，但她找到了一个朋友。</p>\n\n<p>一天夜里，黛安娜向蕾欧娜坦白了一个秘密。她说自己在山中发现了一个隐秘的凹室，古老的墙壁上刻着奇怪的符号和被遗忘的社群。当黛安娜提到想要攀登巨神峰顶寻求更多答案的时候，蕾欧娜劝阻了她。为了保护她不受到其他烈阳教众的愤怒，蕾欧娜强迫黛安娜承诺放弃搜索。黛安娜不情愿地同意了。</p>\n\n<p>一段时间过去，二人再未提起过这次发现。蕾欧娜相信她的朋友终于清醒了。</p>\n\n<p>在一个深夜中，她对朋友的信念破碎了，她看到黛安娜悄悄溜出神庙。虽然她的第一反应是要告诉长老们，但蕾欧娜也想要保护自己的朋友，她在最后一刻犹豫了。蕾欧娜下定了决心，追着黛安娜离开了……</p>\n\n<p>她们的目的地是巨神峰之巅。</p>\n\n<p>攀登的旅程是蕾欧娜从未经受过的试炼，把她核心存在的每一根纤维都拉扯到了极限，并突破了极限。只有她的锻炼、意志、以及对黛安娜的担忧驱策着她。山坡上冰封的尸体                       一动不动地看着她向上攀登，那些人永远无法走完自己的旅程，但即使是他们也无法让蕾欧娜却步。</p>\n\n<p>在经历了近乎永恒以后——蕾欧娜惊奇地发现，她抵达了峰顶。</p>\n\n<p>精疲力竭的她看到了不可思议的景象，还看到了黛安娜被银色的光柱包围。蕾欧娜看着朋友的身影在痛苦中扭曲，空气中回荡着她的尖叫。惊恐中的蕾欧娜冲过去救她，这时一束金色光芒从天而降，裹住了她。</p>\n\n<p>这种感觉无法描述，但蕾欧娜并没有被化成灰烬，那束光进入了她的身体，为她充满了超凡的力量。她坚持保持自己的清醒意识，对抗着那股想要将她烧尽的洪流。</p>\n\n<p>最后，她不屈的意志获胜了——掌控带来了理解。</p>\n\n<p>掌控带来了理解。蕾欧娜永远地改变了，她的体内注入了太阳星灵。命运选择了<i>她</i>，她的使命是在未来的时间里保护烈阳教派。</p>\n\n<p>这时蕾欧娜看到了黛安娜，她穿上了亮银的战甲，而她发现自己也穿上了金色的铠甲。黛安娜恳求蕾欧娜与她一起，寻找烈阳教派无法提供的答案。蕾欧娜则要求她们一同回家，交给祭司们评判。双方互不让步，最后终于刀剑相向。</p>\n\n<p>她们的战斗迅猛神速，日与月之间的剧烈对撞，最后黛安娜的弯刀停在蕾欧娜的喉咙前。但黛安娜没有给出最后一击，而是逃走了。备受打击的蕾欧娜走下了巨神峰，赶到了长老身边。</p>\n\n<p>而当她回来以后，看到的却是屠杀。许多烈阳教派的祭司和拉霍拉克护卫都死去了，显然是死在黛安娜之手。幸存的人看见她更加惊恐，因为如今他们身边出现了<i>两位</i>星灵。蕾欧娜投入了新的使命，帮助他们接受这个新的现实，并成为她人民的领航之光，就像太阳一直以来对他们的指引。</p>\n\n<p>她也发誓要找到黛安娜，维持烈阳教派的统治……同时帮助她的老朋友掌控月亮星灵的力量，以免她被彻底毁灭。</p>",
+                "short": "蕾欧娜是被灌注了烈阳之火的烈阳教派圣殿武士，用天顶之刃和破晓之盾守护着巨神峰。她的皮肤闪烁着星火，她体内天界星灵的力量透过她的双眼炯炯燃烧。蕾欧娜身披金色铠甲，背负着沉重的上古知识，为一些人带来启示，为另一些人带去死亡。",
+                "quote": "“在太阳的光芒中，世界为人所见。”",
+                "quote-author": "蕾欧娜"
+            },
+            "headerImage": null
+        },
+        {
+            "type": "champion",
+            "release-date": "2021-09-08T19:43:26.000Z",
+            "name": "薇古丝",
+            "title": "愁云使者",
+            "section-title": "薇古丝",
+            "slug": "vex",
+            "associated-faction": "",
+            "associated-faction-slug": "shadow-isles",
+            "image": {
+                "title": "vex-splash.jpg",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt8f02a4d9f9fa875d-vex-splash.jpg",
+                "encoding": "image/jpeg",
+                "width": 1920,
+                "height": 1064,
+                "x": 1250,
+                "y": 150,
+                "featured-champions": []
+            },
+            "background": {
+                "title": "vex-splash.jpg",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt8f02a4d9f9fa875d-vex-splash.jpg",
+                "encoding": "image/jpeg",
+                "width": 1920,
+                "height": 1064,
+                "x": 1250,
+                "y": 150,
+                "featured-champions": []
+            },
+            "url": "/zh_cn/champion/vex",
+            "video": null,
+            "races": [],
+            "roles": [
+                {
+                    "name": "法师",
+                    "slug": "mage"
+                }
+            ],
+            "role": [
+                {
+                    "name": "法师",
+                    "slug": "mage"
+                }
+            ],
+            "game-info-url": "",
+            "biography": {
+                "full": "<p>在暗影岛的黑色中心，一个约德尔人孤独地踯躅在鬼魅的浓雾中，在那片阴郁的惨象中安然自得。薇古丝有着取之不尽的颓废，身后还跟着一个强大的黑影，她躲在自己的小天地里，远离外面的生机和快乐，还有遍布全世界的那些讨厌的“正常人”。</p>\n\n<p>自幼生长在班德尔城的薇古丝，始终都没有任何归属感。这个光怪陆离的约德尔人家园对她来说简直甜得发腻。虽然她的父母尽职尽责，但她却似乎无法找到她的“约德尔精神”，也找不到任何志趣相投的朋友，所以她总是呆在自己房间里闷闷不乐。</p>\n\n<p>在那里，她找到了一个不可思议的灵魂伴侣——她自己的影子。它是黑色的（她最喜欢的颜色），而且它从不说话，简直就是这个忧郁女孩的完美同伴。她学会和影子玩耍取乐，表演阴郁的哑剧，消遣时间。</p>\n\n<p>怎奈何，它只是一个影子，无法替薇古丝抵挡她身边那些可恶的欢快气氛。世上肯定还有别的东西。更加黑暗的。悲哀的。<i>像她一样的</i>。</p>\n\n<p>这个<i>别的东西</i>到来了，它叫蚀魂夜，是席卷班德尔城的浓密黑雾，使得这里的居民惊慌失措。多数约德尔人都英勇战斗，抗击黑雾，但薇古丝却对这种丑恶的颓废气息颇感兴趣，尾随它来到了它的根源。</p>\n\n<p>当薇古丝抵达暗影岛时，她简直不敢相信自己的眼睛。大片大片的土地和海域，全都没了生气和色彩，在她眼前延伸开去。在这里，她终于可以痛快地闷闷不乐，再也不用被其他人的欢笑嬉闹所打扰。</p>\n\n<p>时间一天天过去，薇古丝意识到这种黑雾对自己产生着奇怪的效果。她的影子呈现出了一个前所未有的幽灵般的人格——比它的主人还要活跃开朗许多。而她原本良善的约德尔魔法也变得狰狞凶煞。薇古丝现在可以把她的颓丧散播到更远处了。</p>\n\n<p>“是谁创造出了这个美妙的鬼地方？”她心生好奇。</p>\n\n<p>她的好奇很快有了答案，因为破败之王佛耶戈来到了暗影岛，他要把自己的黑雾播撒到符文之地的每个角落。刚一见到薇古丝，佛耶戈就意识到这个约德尔人拥有散播绝望的特殊能力，能让人更容易受到他的蚀魂夜的侵害。而薇古丝呢，则赞叹佛耶戈的伟大愿景：让黑雾覆盖全世界。于是这二人成为了牢固的盟友，出发上路，一起让全世界变成凋敝的废土。</p>\n\n<p>还没等佛耶戈的愿景彻底实现，薇古丝发现了他隐秘的动机：夺回亡妻伊苏尔德的灵魂，并与她重新团聚，共享幸福美满的婚姻。她嫌恶得浑身颤抖，感觉自己遭到了背叛，因为她所信任的那个要消灭世间所有幸福的人，其实自己就在追寻幸福。薇古丝抛弃了佛耶戈，任凭他被光明哨兵击败，他那全世界大破败的美梦摔碎在卡马维亚的残垣断壁上。又变回孤身一人的她，失望地看着这个世界恢复成那个明媚、多彩的地方，那个她一直以来最憎恨的模样。看来找到一种经久不退的忧郁，要比她想的更难。</p>\n\n<p>她知道自己只剩下一个地方可去，在那里，她保准可以得到自己渴望已久的凄惨境遇。她前往班德尔城看望她的父母，急切地向他们展示自己的改变，等待着他们的反对。</p>\n\n<p>这个约德尔女孩看到父母目瞪口呆，呆若木桩。他们的表情从惊诧，到否认，再到不情愿地接受。</p>\n\n<p>“亲爱的。我们不明白……<i>这个</i>。”她的母亲说着，指了指薇古丝全身上下。</p>\n\n<p>“但我们无条件地爱你，”她的父亲说，“只要你幸福，我们就<i>因你</i>而幸福。”</p>\n\n<p>薇古丝翻了个白眼，忿忿地大声叹了口气。她没好气地抱怨：“你们最差劲了。”</p>\n\n<p>于是她跺脚冲出父母的起居室，迫切地想回到暗影岛，在那里，她可以不被打扰，闷闷不乐。</p>",
+                "short": "在暗影岛的黑色中心，一个约德尔人孤独地踯躅在鬼魅的浓雾中，在那片阴郁的惨象中安然自得。薇古丝有着取之不尽的少年烦恼，身后还跟着一个强大的黑影，她为自己打造了一片阴郁的小天地，沉浸其中，远离 “正常人”世界里恶心的欢快气氛。虽然她没什么远大志向，但她会毫不犹豫地抹杀任何色彩和欢笑，用她的颓废魔法阻止所有试图闯入的人。",
+                "quote": "“呃啊……算了。”",
+                "quote-author": "薇古丝"
+            },
+            "headerImage": null
+        }
+    ],
+    "modules": [
+        {
+            "slug": "审讯记录 101",
+            "type": "story-preview",
+            "title": "审讯记录 101",
+            "subtitle": "",
+            "description": "蔚一边忍着哈欠，一边穿过了皮城司法厅当中的镀金房间。日出还没到一个小时，这里还很安静。几个熟睡的醉鬼被关在拘留室里醒酒，听说还有几个炼金增强过的小流氓被关押在戒备更森严的地下牢房里。她稍后再回来问话，看看他们在皮尔特沃夫搞些什么勾当。<br><br>",
+            "story-slug": "vi-color-story",
+            "featured-image": {
+                "title": "piltover-city-of-progress",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/bltb2914a508c3aeb6b-piltover-people.jpg",
+                "encoding": "image/jpeg",
+                "width": 1086,
+                "height": 1080,
+                "x": 717,
+                "y": 422,
+                "featured-champions": []
+            },
+            "background": {
+                "title": "piltover-city-of-progress",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/bltb2914a508c3aeb6b-piltover-people.jpg",
+                "encoding": "image/jpeg",
+                "width": 1086,
+                "height": 1080,
+                "x": 717,
+                "y": 422,
+                "featured-champions": []
+            },
+            "release-date": "2016-12-02T16:00:00.000Z",
+            "featured-champions": [
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                }
+            ],
+            "minutes-to-read": 5,
+            "url": "/zh_cn/story/vi-color-story"
+        },
+        {
+            "slug": "进化日",
+            "type": "story-preview",
+            "title": "进化日",
+            "subtitle": "作者：Graham McNeill",
+            "description": "塔玛拉强迫着自己一大早就起床了——幕天席地的生活很容易培养早起的习惯，但如果是睡在鹅绒床垫上，还盖着棉被褥，那就不一样了。窗帘大开，温暖的阳光倾泻在三楼睡房的地板上。她到了皮尔特沃夫以后，第一天晚上是闭着窗帘睡的，结果日出过了两个小时才醒来，搞得她非常不安，所以那天以后她一直都拉开窗帘睡觉。<br><br>",
+            "story-slug": "piltover-progress-day",
+            "featured-image": {
+                "title": "piltover-zindeloruneterra",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt35ae3648ef89a098-piltover-zindeloruneterra.jpg",
+                "encoding": "image/jpeg",
+                "width": 1920,
+                "height": 1078,
+                "x": 1262,
+                "y": 299,
+                "featured-champions": []
+            },
+            "background": {
+                "title": "piltover-zindeloruneterra",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt35ae3648ef89a098-piltover-zindeloruneterra.jpg",
+                "encoding": "image/jpeg",
+                "width": 1920,
+                "height": 1078,
+                "x": 1262,
+                "y": 299,
+                "featured-champions": []
+            },
+            "release-date": "2016-12-02T16:00:00.000Z",
+            "featured-champions": [
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                },
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                }
+            ],
+            "minutes-to-read": 5,
+            "url": "/zh_cn/story/piltover-progress-day"
+        },
+        {
+            "slug": "vi-image-gallery",
+            "type": "image-gallery",
+            "section-title": "",
+            "isFanArt": false,
+            "fan-art-url": "",
+            "featured-image": "",
+            "title": "",
+            "subtitle": "",
+            "assets": [
+                {
+                    "title": "爱玩的蔚概念图",
+                    "subtitle": "",
+                    "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt992272161bb31be0-vi_ruby_playful.jpg",
+                    "encoding": "image/jpeg",
+                    "width": 781,
+                    "height": 1080,
+                    "x": 426,
+                    "y": 146,
+                    "featured-champions": []
+                },
+                {
+                    "title": "早期蔚概念图",
+                    "subtitle": "",
+                    "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/bltbfa0c63329ae4f2b-vi_ruby.jpg",
+                    "encoding": "image/jpeg",
+                    "width": 821,
+                    "height": 1080,
+                    "x": 475,
+                    "y": 104,
+                    "featured-champions": []
+                },
+                {
+                    "title": "蔚终版彩色版概念图",
+                    "subtitle": "",
+                    "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt2879a859fa7ccc9e-vi_piltover_enforcer_final_concept.jpg",
+                    "encoding": "image/jpeg",
+                    "width": 1706,
+                    "height": 1080,
+                    "x": 5,
+                    "y": 552,
+                    "featured-champions": []
+                },
+                {
+                    "title": "蔚早期概念图",
+                    "subtitle": "",
+                    "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt6c044b4dcf06601f-vi_wip_concept.jpg",
+                    "encoding": "image/jpeg",
+                    "width": 1782,
+                    "height": 1080,
+                    "x": 530,
+                    "y": 88,
+                    "featured-champions": []
+                }
+            ],
+            "featured-champions": [
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                }
+            ]
+        },
+        {
+            "slug": "vi-artbook",
+            "type": "link-out",
+            "section-title": "",
+            "title": "英雄联盟瓦洛兰图志",
+            "description": "蔚这副铁拳背后的原理，来自于被我们的艺术家称为“海克斯科技”的一套理论。这套理论融合了魔法与科技，让两者和谐共处。这对巨大的拳套不仅势大力沉，甚至还能提高蔚的机动性和力量。海克斯科技的出现，使得普通人也可以迎战法师、怪物或者是来自虚空的怪兽。杰斯的大锤、黑默丁格的小玩意儿还有吉格斯的“海克斯炸药”都是海克斯科技小试牛刀的例子。",
+            "url": "https://lol.qq.com/act/export/artbook/index.html#chapter/champions/section/vi",
+            "featured-image": null,
+            "subtitle": "短篇故事",
+            "background": {
+                "title": "vi-artbook",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt132a1f0c2881bda8-vi_artbook.jpg",
+                "encoding": "image/jpeg",
+                "width": 2280,
+                "height": 970,
+                "x": 1333,
+                "y": 321,
+                "featured-champions": []
+            },
+            "cta": "",
+            "blackout": null,
+            "isFanArt": false,
+            "isComic": false
+        },
+        {
+            "slug": "vi-login",
+            "type": "featured-video",
+            "section-title": "",
+            "featured-image": {
+                "title": "vi-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt386aa1a09687ad91-Vi_0.jpg",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 926,
+                "y": 135,
+                "featured-champions": []
+            },
+            "title": "皮城执法官蔚登录界面",
+            "subtitle": "",
+            "description": "",
+            "uri": "https://v.qq.com/x/page/x0363pn26h4.html",
+            "video": {
+                "type": "video",
+                "title": "",
+                "subtitle": "",
+                "description": [],
+                "uri": "https://v.qq.com/x/page/x0363pn26h4.html",
+                "width": "",
+                "height": "",
+                "x": "",
+                "y": "",
+                "featured-champions": []
+            },
+            "blackout": null,
+            "release-date": "2012-12-19T16:00:00.000Z",
+            "video-type": "champ-login-music",
+            "featured-champions": [
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                }
+            ],
+            "related-champions": [
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                }
+            ]
+        }
+    ]
+}

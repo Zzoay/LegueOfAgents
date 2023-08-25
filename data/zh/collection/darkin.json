@@ -1,0 +1,406 @@
+{
+    "id": "darkin",
+    "name": "暗裔",
+    "locale": "zh_cn",
+    "race": {
+        "slug": "darkin",
+        "image": {
+            "title": "darkin-header",
+            "subtitle": "",
+            "description": "",
+            "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt70afff5362705dec-darkin-header.jpg",
+            "encoding": "image/jpeg",
+            "width": null,
+            "height": null,
+            "x": null,
+            "y": null,
+            "featured-champions": []
+        },
+        "video": null,
+        "name": "暗裔",
+        "overview": {
+            "short": "<p>暗裔是久远年代的血色传说。他们是活体的武器，能够腐化并吞噬任何使用者。他们曾经都是名副其实的伟大战士，被设计蒙骗，封进了他们在战场上挥舞的刀剑与长弓，并深藏世外，再也不能威胁到凡人的领域。但符文战争中灾变频仍，暗裔的真相以及他们对符文之地一切生灵造成的威胁再没有人记得。</p><p>从那之后的数百年间，一些无知的人和野心家重新发现了这些武器。暗裔们早已开始寻找更强大的新宿主。清算的时刻就要来临，暗裔们即将实行他们的复仇……<br></p>"
+        }
+    },
+    "champion-list-order": 0,
+    "associated-champions": [
+        {
+            "type": "champion",
+            "release-date": "2013-06-13T19:43:26.000Z",
+            "name": "亚托克斯",
+            "title": "亚托克斯",
+            "section-title": "亚托克斯",
+            "slug": "aatrox",
+            "associated-faction": "",
+            "associated-faction-slug": "darkin",
+            "image": {
+                "title": "aatrox-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blta877c35110144de9-aatrox-splash.jpg",
+                "encoding": "image/jpeg",
+                "width": 1920,
+                "height": 1080,
+                "x": 1351,
+                "y": 346,
+                "featured-champions": []
+            },
+            "background": {
+                "title": "aatrox-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blta877c35110144de9-aatrox-splash.jpg",
+                "encoding": "image/jpeg",
+                "width": 1920,
+                "height": 1080,
+                "x": 1351,
+                "y": 346,
+                "featured-champions": []
+            },
+            "url": "/zh_cn/champion/aatrox",
+            "video": {
+                "title": "aatrox-splashvideo-webm",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt70c132451a5e61fc-aatrox-splashvideo.webm",
+                "encoding": "video/webm",
+                "width": 1920,
+                "height": 1071,
+                "x": 1351,
+                "y": 346,
+                "featured-champions": []
+            },
+            "races": [
+                {}
+            ],
+            "roles": [],
+            "role": [],
+            "game-info-url": "https://lol.qq.com/web201310/info-defail.shtml?id=Aatrox",
+            "biography": {
+                "full": "<p>许多传说都曾提到过暗裔魔剑，有的描述他是天神，也有的说他是恶魔。但很少有人知道他的真名，以及他是如何败落的。</p><p>上古时代，远在黄沙吞噬帝国之前，一位伟大的恕瑞玛英雄被带到了太阳圆盘面前，成为一个如今无人记得的星间信念的化身。当他被重塑为飞升者之后，他的双翼彷如黎明时分的金光，盔甲闪亮，如同深空巨帷背后引人遥望的星座。</p><p>亚托克斯就是他的真名。他在每一场高贵的战斗中都冲锋在前。他真诚待人、领兵有方，其他天神战士总是聚在他的麾下，身后则跟随着一万名恕瑞玛的凡人士兵。当飞升武后瑟塔卡因为艾卡西亚的叛乱而寻求他的帮助时，亚托克斯毫不犹豫地应允了。</p><p>但是，没人能预料到当地的叛军后来竟然释放出了如此恐怖的力量。虚空转瞬间反客为主，吞噬了艾卡西亚，之后便开始毁灭一切所遭遇的生灵。</p><p>经过多年苦战，亚托克斯和他的同胞终于遏制住了虚空狂乱的扩张，并将最大的裂口烧熔封铸了起来。但是，活下来的飞升者——他们自称为太阳血脉，却被他们的敌人永远地改变了。虽然恕瑞玛得胜了，但他们全都失去了一些东西……高贵的亚托克斯也不例外。</p><p>时光流逝，恕瑞玛也陨落了。正如所有帝国的命运。</p><p>没有了誓死守卫的王权，虚空的威胁也不再迫切，亚托克斯和太阳血脉开始互相争斗，最终演变成了一场战争，毁灭了他们的世界。侥幸逃脱的凡人给了他们一个新的名字，也是一个蔑称：暗裔。</p><p>正如虚空的侵袭一样，因为担忧堕落的飞升者们也会危及符文之地的生存，巨神族便出手干涉了。据说，暮光星灵传授给了凡人禁锢暗裔的手段，而新近重生的战争星灵联合起了大军对抗他们。亚托克斯和他的军队何曾畏惧，早已蓄势待发。但是，等到他发觉自己中计的时候已经太晚了。一股比上千颗死去的恒星更强大的引力将他拖入了他手中随他出征无数次的巨剑，把他不朽的精魂永远地锁闭在内。</p><p>这把武器是一座监狱，将他的意识封禁在密不透风的永恒黑暗里，甚至剥夺了他自我了断的能力。他与这地狱般的桎梏拉扯了数百年，直到某个愚蠢透顶的无名氏再次抓起这把巨剑。亚托克斯把握住机会，强行将意志注入到宿主体内，并模仿自己原本的形象重塑了宿主的躯体，同时也夺去了宿主的生命。此后数年间，亚托克斯侵占了许多宿主——无论男女，只要是生机勃勃，或是刚毅非凡。虽然他所掌握的魔法不算精深，但他却能在转瞬间便夺取凡人的身体。而且在战斗中，他发觉死去的人也能为他所用，把自己变得更加健硕强壮。</p><p>亚托克斯在大地上巡游，不停地竭力寻找能够让他重回飞升之身的办法，但这把剑身上的谜团最终也无法解开，并且他也意识到自己永远也不能获得自由。强夺而来并残忍重塑的血肉愈发地像是一种嘲弄，嘲弄着他曾经的荣光——而那也不过是另一个比巨剑稍微大一些的牢笼罢了。绝望与羞愧在他心中滋长。他曾经所代表的神力，和他所有的记忆统统都被抹去了。</p><p>不公的命运令他出离地愤怒了。而他最终想到的办法，完全是一个囚犯刻骨的绝望。如果他不能摧毁这把剑，也不能解脱自己，那他就拥抱湮灭好了。</p><p>现在，亚托克斯怀抱着这无情的决心，沿途散布战争和死亡。他心中只剩下一个盲目的期望：如果他可以把一切造物都拖进一场最终的末日之战——一切都会因此毁灭——那么也许他和这把剑也会永远地不复存在。</p>",
+                "short": "<p>亚托克斯曾是恕瑞玛抗击虚空时的伟大战士。但是，他和他的同胞却有可能变成符文之地更大的威胁。最终，他们败给了凡人的狡诈巫术，自身的精魂被锁在了武器之内。数百年的监禁之后，亚托克斯头一个挣脱出来，腐蚀并转化那些胆敢染指的蠢人。现在，他将夺来的血肉模仿着自己曾经的形象粗暴地重塑，渴望着迟来许久的末世复仇。</p>",
+                "quote": "“我必须连同希望一起毁坏……”",
+                "quote-author": "亚托克斯"
+            },
+            "headerImage": null,
+            "subtitle": "暗裔剑魔",
+            "echelon": 0
+        },
+        {
+            "type": "champion",
+            "release-date": "2017-07-10T00:00:00.000Z",
+            "name": "凯隐",
+            "title": "凯隐",
+            "section-title": "凯隐",
+            "slug": "kayn",
+            "associated-faction": "",
+            "associated-faction-slug": "darkin",
+            "image": {
+                "title": "kayn-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt8c19d1dbd195fa20-kayn-splash-resized.jpg",
+                "encoding": "image/jpeg",
+                "width": 1920,
+                "height": 1134,
+                "x": 975,
+                "y": 579,
+                "featured-champions": []
+            },
+            "background": {
+                "title": "kayn-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt8c19d1dbd195fa20-kayn-splash-resized.jpg",
+                "encoding": "image/jpeg",
+                "width": 1920,
+                "height": 1134,
+                "x": 975,
+                "y": 579,
+                "featured-champions": []
+            },
+            "url": "/zh_cn/champion/kayn",
+            "video": null,
+            "races": [
+                {}
+            ],
+            "roles": [],
+            "role": [],
+            "game-info-url": "",
+            "biography": {
+                "full": "<p>悉达·凯隐生在诺克萨斯，幼年时便被征召入伍，编成了童兵。带领这支残酷部队的是勃朗·达克威尔治下最阴险的军官。在纳沃利的普雷西典惨败之后，这场侵略演变成了持久的消耗战。艾欧尼亚人的怜悯成了可被利用得弱点——他们的战士会在看似无辜的人面前犹豫不决。所以勉强扛得动刀剑的凯隐参战的第一天就基本相当于他的死期。</p><p>为了突袭巴鲁鄂省，诺克萨斯的部队选择在衣浦河口登陆。凯隐和其他孩子被勉强编作先头部队，面对的是为了抵抗去而复返的侵略者而混乱组织起来的地方武装。他年少的战友要么战死，要么当了逃兵，但凯隐却毫无惧色。他甩下重剑，抄起了一把镰刀，直面着震惊的艾欧尼亚人。这时，诺克萨斯的正规部队从侧翼包抄了过来。</p><p>接下来是一场让人不忍目睹的屠杀。农夫、猎人——甚至还有一些瓦斯塔亚人——全都被干脆利落地斩杀殆尽。</p><p>两天后，战事传遍了南部诸省，影流教派循风而来。影流之主劫知道这个地区毫无战略价值。这场屠杀只是一个声明：诺克萨斯绝不留情。</p><p>一道金属的闪光吸引了他的注意。一个顶多十岁的男孩躺在污泥里，对着刺客大师平举起一把残破的镰刀，血迹斑驳的指关节因用力而发白。男孩眼里蕴含着与他年龄极不相符的痛苦，却又燃烧着一个刚强的战士才有的怒火。这种顽强可不是教得会的。劫看着男孩。这个诺克萨斯的弃儿有资格成为一把武器，反过来对付送他走上死路的敌人。劫伸出手，欢迎凯隐加入了影流。</p><p>影流的信徒们往往要花上多年时间操练自己选中的一件武器，但无论什么兵器凯隐全都能熟练地掌握——对他来说，这些东西都只是工具，而他本身就是武器。他觉得盔甲只是笨重的负担，所以他将自己包裹在黑影里，出其不意，迅雷不及掩耳地刺杀敌人。那些侥幸逃脱的人，四处传说着防不胜防的刺杀，恐惧也随之蔓延。</p><p>凯隐声名鹊起，他的自负也日增月涨。他真心相信总有一天，他的力量甚至会超越劫。</p><p>这份自负让凯隐迎来了自己的最终考验：寻找一把最近于诺克萨斯出土的暗裔武器，保护疲弱的艾欧尼亚守军不被残害。他毫不犹豫地接受了，完全没有想过为什么要选他去执行这个任务。实际上，换作别人就想要毁掉这把名为拉亚斯特的活体巨镰，但凯隐却据为了己有。</p><p>他的手指一碰到镰刀，腐化就开始将二者束缚在一起，命中注定地缠斗下去。拉亚斯特为了一个完美的宿主等待了许久，只为与暗裔的同族重聚，将世上的生灵一举剿灭，但凯隐不会轻易地被占据。他志得意满地回到了艾欧尼亚，相信劫将会保荐他为影流教派的新领袖。</p>",
+                "short": "<p>悉达·凯隐是暗影魔法的天纵之才，他战斗的意义，是为了实现自己真正的命运——为了有朝一日能够率领影流教派，开创艾欧尼亚霸业的新世代。凯隐挥舞着活体暗裔武器拉亚斯特，毫不在意它给自己身体和思想带来的腐化。这样后果只可能有两种：要么凯隐驯服这把武器屈从自己的意志；要么，这恶毒的刀刃将他彻底吞噬，为符文之地的毁灭铺平道路。</p>",
+                "quote": "“孩童已死，杀手永存。”",
+                "quote-author": "凯隐"
+            },
+            "headerImage": null,
+            "subtitle": "影流之镰",
+            "echelon": 1
+        },
+        {
+            "type": "champion",
+            "release-date": "2012-05-08T00:00:00.000Z",
+            "name": "韦鲁斯",
+            "title": "韦鲁斯",
+            "section-title": "韦鲁斯",
+            "slug": "varus",
+            "associated-faction": "",
+            "associated-faction-slug": "darkin",
+            "image": {
+                "title": "varus-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blta3a77808520e8966-varus-splash.jpg",
+                "encoding": "image/jpeg",
+                "width": 1920,
+                "height": 1133,
+                "x": 1034,
+                "y": 0,
+                "featured-champions": []
+            },
+            "background": {
+                "title": "varus-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blta3a77808520e8966-varus-splash.jpg",
+                "encoding": "image/jpeg",
+                "width": 1920,
+                "height": 1133,
+                "x": 1034,
+                "y": 0,
+                "featured-champions": []
+            },
+            "url": "/zh_cn/champion/varus",
+            "video": null,
+            "races": [
+                {}
+            ],
+            "roles": [],
+            "role": [],
+            "game-info-url": "https://lol.qq.com/web201310/info-defail.shtml?id=Varus",
+            "biography": {
+                "full": "<p>无论后来他变成了什么样子，韦鲁斯都曾是忠诚与荣誉的楷模。身为古恕瑞玛帝国的熟练弓手，他被指派守护东部地区的一座神庙，而他将此看作至高无上的职责。</p><p>在艾卡西亚战争初期，韦鲁斯的家乡虽然与那片诅咒之地相距甚远，却依然遭到了袭击。其他守卫纷纷离岗前去防守周边的村镇，但韦鲁斯却一个人留在了神庙里。每一支射出的箭矢都伴随着他痛彻心扉的怒吼——因为他选择坚守誓言，而没有返乡保护自己的家人。</p><p>飞升之团的使者们找到他时，只见他跪在遍地的敌人尸体之间肃穆地冥想。据说，他冰冷的凝视就连天神战士也会感到不安。尽管如此，为了表彰他可贵的奉献，他们邀请韦鲁斯加入飞升者的行列。</p><p>作为伟大的飞升者之一，他满心的念头却只是为了向艾卡西亚和虚空寻仇。似乎韦鲁斯并没有理解恕瑞玛最终赢下了那场战争，几百年后也并不完全清楚帝国是如何陷落的，他的心智变得无比地扭曲。一桩桩接连不断的暴行，让他成为了一个孤僻、冷血的杀手。堕落的同胞们将他一次次地送进战场。</p><p>而他们的名字在当今世界令人闻之丧胆。</p><p>暗裔。</p><p>他们一边内斗，一边毁灭任何胆敢与之为敌的人。韦鲁斯手中的水晶长弓专门用于刺杀敌军的长官和英雄，让暗裔更加轻松地剿灭凡人的军团。</p><p>最后，一位披着黄金铠甲的瓦洛兰武后麾下的瓦斯塔亚追月者以及人类法师团将韦鲁斯逼到了绝境。他们将他封印在了那把长弓之中，任凭他如困兽一般嚎哭不止。彼时，暗裔的腐化力量已经为人所知，但这位武后在战争的最后阶段还是决定亲自使用这把致命的武器，她为了伟大的胜利而毅然牺牲了自己。</p><p>之后过了数月，武后带着韦鲁斯来到了初生之土——后来人们称之为艾欧尼亚。此时，弓上的力量已经让她变得可怖不堪，她最后的命令就是让随行者将她活埋在一口无光的井底，深藏在俯瞰着帕拉斯的高山庙宇中。</p><p>韦鲁斯被艾欧尼亚的自然魔力和神庙守卫的仪轨牢牢禁锢着。</p><p>长弓深藏了数百年，无人知晓，无人触及，已被遗忘。直到诺克萨斯人入侵了初生之土。两位怪兽猎人，瓦尔茂和灵犀之侣凯伊，在帕拉斯神庙与第一批登陆的侵略者作战。虽然他们勇气可嘉，也击退了来犯的敌人，但凯伊也受到了致命伤。悲痛万分的瓦尔茂把他背进神庙，希望井中的禁忌魔力能够挽救凯伊的生命。</p><p>但这座神庙只会带来诅咒。两人都被释放出来的暗裔之力侵蚀了。他们的身体分崩离析，然后相互缠结成一具新的躯壳。这具躯壳正好可以将韦鲁斯从禁锢中解脱。从井中爬出的是一个完形生物，苍白而非人般地优美，一部分是人类，一部分是暗裔。经过上千年的等待，韦鲁斯重生了。</p><p>即便如此，在这具不完美的躯壳里，人类和暗裔的精魂此起彼伏，每一方都能短暂地占据上风，然后又被对方压过。韦鲁斯只想让两个凡人的灵魂永远地沉默，然后为他的同胞们报仇。同时，凯伊和瓦尔茂奋力地抵抗着韦鲁斯的恶意，希望彼此间的眷恋能够最终征服暗裔的仇恨。</p><p>到底他们能与韦鲁斯抗衡多久，没人能够确定。但是如果这个酷虐又自大的杀手完全掌控了这具身体，他就会想办法与自己的同胞重聚，再将符文之地化作遍布灰烬的荒原。</p>",
+                "short": "<p>韦鲁斯是一名来自远古的暗裔。身为一名冷血的杀手，他最爱的就是用箭矢折磨敌人。先让他们失心发疯，再了结他们的性命。韦鲁斯虽然在暗裔大战结束后便遭囚禁，但却在几百年后成功逃脱，寄宿于两位艾欧尼亚猎人再造的血肉之躯中。这二人无意之间释放了韦鲁斯，从此便背上了那把蕴含着韦鲁斯精魄的长弓。如今的韦鲁斯寻找着那些囚禁他的人，急欲施行报复，但体内的两个灵魂却在阻挠他的每一步行动。</p>",
+                "quote": "“你们没有把我们彻底毁灭，这个失误带来了你们的末日。”",
+                "quote-author": "韦鲁斯"
+            },
+            "headerImage": null,
+            "subtitle": "惩戒之箭",
+            "echelon": 2
+        }
+    ],
+    "modules": [
+        {
+            "slug": "darkin-image-gallery",
+            "type": "image-gallery",
+            "section-title": "",
+            "isFanArt": false,
+            "fan-art-url": "",
+            "featured-image": "",
+            "title": "",
+            "subtitle": "",
+            "assets": [
+                {
+                    "title": "暗裔大战",
+                    "subtitle": "",
+                    "description": "当恕瑞玛的荣光终于作别了这个世界，许多不朽的飞升者发觉自己陷入了迷茫。没有了皇帝的指引，这些“暗裔”最终陷入了彼此间的争斗，而符文之地的人们也被迫卷入其中。",
+                    "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blta7b5a4cbbd631905-darkin-the-great-darkin-war.jpg",
+                    "encoding": "image/jpeg",
+                    "width": 1368,
+                    "height": 923,
+                    "x": 1116,
+                    "y": 418,
+                    "featured-champions": []
+                },
+                {
+                    "title": "解放的天神战士",
+                    "subtitle": "",
+                    "description": "凡人的律条对于暗裔来说几乎没有意义。数百年间，他们掌握了多种形式的禁断原生魔法，可以轻松地塑造肉体和盔甲，直到再也无法辨认出他们曾经高贵的战士模样。",
+                    "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/bltaf0469ed0d9f7416-darkin-godwarriors-unbound.jpg",
+                    "encoding": "image/jpeg",
+                    "width": 1284,
+                    "height": 1108,
+                    "x": 1268,
+                    "y": 493,
+                    "featured-champions": []
+                },
+                {
+                    "title": "传说不再",
+                    "subtitle": "",
+                    "description": "最终，他们本打算奴役的凡人将他们击败了。在魔法和诡计的作用下，暗裔们被铸进了活体武器中，并被用来对付剩下的同胞。但是，任何染指这些武器的人都不仅仅会成为宿主，被暗裔不朽的精魂占据。",
+                    "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt57215500ebc89162-darkin-to-slay-legends.jpg",
+                    "encoding": "image/jpeg",
+                    "width": 1469,
+                    "height": 826,
+                    "x": 0,
+                    "y": 0,
+                    "featured-champions": []
+                },
+                {
+                    "title": "暗裔的腐化",
+                    "subtitle": "",
+                    "description": "当一把暗裔武器选择了一个宿主时，后者就会发现自己被一股完全无望抵御的力量所吞没——不管他们在脑海里听到的诱惑低语是什么内容。这种力量会迅速地扎根于血肉骨骼中，将宿主转化成怪物般的新生结合体。",
+                    "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt8194fdd7d7b3cb68-darkin-darkin-corruption.jpg",
+                    "encoding": "image/jpeg",
+                    "width": 1061,
+                    "height": 1325,
+                    "x": 0,
+                    "y": 0,
+                    "featured-champions": []
+                },
+                {
+                    "title": "痛苦的遗产",
+                    "subtitle": "",
+                    "description": "虽然暗裔对复仇的渴望如此残忍又长久，但他们要想实现就必须克服新生躯体的限制。他们曾经的身份，曾经的冀望，和如今所变成的模样，全都在他们残缺的凡人心灵中混杂在一起。",
+                    "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt74176c3cf1bca766-darkin-a-legacy-of-pain.jpg",
+                    "encoding": "image/jpeg",
+                    "width": 586,
+                    "height": 878,
+                    "x": 0,
+                    "y": 0,
+                    "featured-champions": []
+                }
+            ],
+            "featured-champions": []
+        },
+        {
+            "slug": "aatrox-teaser-cg",
+            "type": "featured-video",
+            "section-title": "",
+            "featured-image": {
+                "title": "aatrox-teaser-cg-bg",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt91c30f487c6b63e6-aatrox-teaser-cg-bg.jpg",
+                "encoding": "image/jpeg",
+                "width": 1280,
+                "height": 720,
+                "x": 632,
+                "y": 287,
+                "featured-champions": []
+            },
+            "title": "亚托克斯：世界的终结者 | 英雄预告片",
+            "subtitle": "",
+            "description": "空气中满是死亡和灰烬的恶臭。这地方有着比战争更加古老，更为邪恶的东西。而且还在不断地成长。",
+            "uri": "https://v.qq.com/x/page/i0685aifo6n.html",
+            "video": {
+                "type": "video",
+                "title": "",
+                "subtitle": "",
+                "description": [],
+                "uri": "https://v.qq.com/x/page/i0685aifo6n.html",
+                "width": "",
+                "height": "",
+                "x": "",
+                "y": "",
+                "featured-champions": []
+            },
+            "blackout": null,
+            "release-date": "2018-06-11T15:00:00.000Z",
+            "video-type": "cinematic",
+            "featured-champions": [],
+            "related-champions": []
+        },
+        {
+            "slug": "暗裔的传说",
+            "type": "story-preview",
+            "title": "暗裔的传说",
+            "subtitle": null,
+            "description": "暗裔受到了三重诅咒。首先来自他们远古时代的敌人，再是荣耀帝国的陷落，最后是令他们永远堕落的背叛。<br><br>",
+            "story-slug": "the-legend-of-the-darkin",
+            "featured-image": {
+                "title": "darkin-the-great-darkin-war",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blta7b5a4cbbd631905-darkin-the-great-darkin-war.jpg",
+                "encoding": "image/jpeg",
+                "width": 1368,
+                "height": 923,
+                "x": 1116,
+                "y": 418,
+                "featured-champions": []
+            },
+            "background": {
+                "title": "darkin-the-great-darkin-war",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blta7b5a4cbbd631905-darkin-the-great-darkin-war.jpg",
+                "encoding": "image/jpeg",
+                "width": 1368,
+                "height": 923,
+                "x": 1116,
+                "y": 418,
+                "featured-champions": []
+            },
+            "release-date": "2018-06-25T15:00:00.000Z",
+            "featured-champions": [
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                }
+            ],
+            "minutes-to-read": 5,
+            "url": "/zh_cn/story/the-legend-of-the-darkin"
+        },
+        {
+            "slug": "诸神的薄暮",
+            "type": "story-preview",
+            "title": "诸神的薄暮",
+            "subtitle": "作者 Graham McNeill",
+            "description": "他们在夜幕的笼罩下走进山岭阴影中的死城。千人的军团，每个士兵身上都带着血红的图腾象征，象征着那位太阳血脉飞升者的古老血统，象征着他们的领袖。<br><br>",
+            "story-slug": "twilight-of-the-gods",
+            "featured-image": {
+                "title": "darkin-to-slay-legends",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt57215500ebc89162-darkin-to-slay-legends.jpg",
+                "encoding": "image/jpeg",
+                "width": 1469,
+                "height": 826,
+                "x": 0,
+                "y": 0,
+                "featured-champions": []
+            },
+            "background": {
+                "title": "darkin-to-slay-legends",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt57215500ebc89162-darkin-to-slay-legends.jpg",
+                "encoding": "image/jpeg",
+                "width": 1469,
+                "height": 826,
+                "x": 0,
+                "y": 0,
+                "featured-champions": []
+            },
+            "release-date": "2018-06-25T15:00:00.000Z",
+            "featured-champions": [
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                },
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                }
+            ],
+            "minutes-to-read": 5,
+            "url": "/zh_cn/story/twilight-of-the-gods"
+        }
+    ]
+}

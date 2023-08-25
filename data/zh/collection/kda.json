@@ -1,0 +1,913 @@
+{
+    "id": "alt-universe-browse",
+    "name": "Alt Universe Browse",
+    "locale": "zh_cn",
+    "type": "alt-universe",
+    "title": "K/DA",
+    "subtitle": "POP/STARS",
+    "description": "<p>K/DA凭着一首冠军单曲《POP/STARS》在流行歌坛爆红。K/DA的粉丝始终都看不够她们反传统的天分，比如身后的尾巴（粉丝们怀疑是真长在身后的），还有练习室里的怪异装饰。“我们的歌让你无法忘怀——请永远都要忠于自己的内心。”这是主唱阿狸对歌迷们说的话。K/DA希望能举办全球巡演，将她们的音乐传遍全世界。</p>",
+    "hero": {
+        "images": [
+            {
+                "type": "desktop",
+                "src": {
+                    "title": "kda-hero",
+                    "subtitle": "",
+                    "description": "",
+                    "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt00bb1d0eb95765b2-kda-hero.jpg",
+                    "encoding": "image/jpeg",
+                    "width": 0,
+                    "height": 0,
+                    "x": 0,
+                    "y": 0,
+                    "featured-champions": []
+                }
+            },
+            {
+                "type": "mobile",
+                "src": {
+                    "title": "kda-hero",
+                    "subtitle": "",
+                    "description": "",
+                    "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt00bb1d0eb95765b2-kda-hero.jpg",
+                    "encoding": "image/jpeg",
+                    "width": 0,
+                    "height": 0,
+                    "x": 0,
+                    "y": 0,
+                    "featured-champions": []
+                }
+            }
+        ],
+        "videos": [
+            {
+                "src": {
+                    "uri": null
+                },
+                "type": "video/webm"
+            },
+            {
+                "type": "video/mp4"
+            }
+        ]
+    },
+    "logo": {
+        "title": "kda-logo",
+        "subtitle": "",
+        "description": "",
+        "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/bltbac23ca04b5220c5-kda-logo.png",
+        "encoding": "image/jpeg",
+        "width": null,
+        "height": null,
+        "x": null,
+        "y": null,
+        "featured-champions": []
+    },
+    "sections": [
+        {
+            "slug": "kda-music-video",
+            "type": "featured-video",
+            "section-title": "冠军单曲",
+            "featured-image": {
+                "title": "kda-music-video-placeholder",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blte904e27c82dab9c2-kda-music-video-placeholder.jpg",
+                "encoding": "image/jpeg",
+                "width": 1280,
+                "height": 720,
+                "x": 576,
+                "y": 326,
+                "featured-champions": []
+            },
+            "title": "POP/STARS",
+            "subtitle": "",
+            "description": "",
+            "uri": "https://v.qq.com/x/cover/9pa0y87gzc9ffi9/q07811o17ff.html",
+            "video": {
+                "type": "video",
+                "title": "",
+                "subtitle": "",
+                "description": [],
+                "uri": "https://v.qq.com/x/cover/9pa0y87gzc9ffi9/q07811o17ff.html",
+                "width": "",
+                "height": "",
+                "x": "",
+                "y": "",
+                "featured-champions": []
+            },
+            "blackout": null,
+            "release-date": "2018-11-03T15:00:00.000Z",
+            "video-type": "animation",
+            "featured-champions": [],
+            "related-champions": []
+        },
+        {
+            "slug": "kda-musicstream",
+            "type": "link-out",
+            "section-title": "K/DA新的冠军单曲",
+            "title": "《POP/STARS》",
+            "description": "欣赏K/DA最新的冠军单曲，让歌声带着你进入一个大胆而振奋的宇宙。",
+            "url": "https://y.qq.com/n/yqq/song/000FTx4w1obE49.html",
+            "featured-image": {
+                "title": "kda-musicstream-background",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt0ae13012f204acc9-kda-music-stream-background.jpg",
+                "encoding": "image/jpeg",
+                "width": 0,
+                "height": 0,
+                "x": 0,
+                "y": 0,
+                "featured-champions": []
+            },
+            "subtitle": "短篇故事",
+            "background": {
+                "title": "kda-musicstream",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt2f84b4f190856502-kda-music-stream.jpg",
+                "encoding": "image/jpeg",
+                "width": 0,
+                "height": 0,
+                "x": 0,
+                "y": 0,
+                "featured-champions": []
+            },
+            "cta": "听歌",
+            "blackout": null,
+            "isFanArt": false,
+            "isComic": false
+        },
+        {
+            "slug": "kda-fanart",
+            "type": "image-gallery",
+            "section-title": "粉丝作品",
+            "isFanArt": false,
+            "fan-art-url": "",
+            "featured-image": "",
+            "title": "K/DA铁杆粉丝们的作品",
+            "subtitle": "",
+            "assets": [
+                {
+                    "subtitle": "",
+                    "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/bltb22f6f57ca13568b-kda-fan-art-1.jpg",
+                    "encoding": "image/jpeg",
+                    "width": 0,
+                    "height": 0,
+                    "x": 0,
+                    "y": 0,
+                    "featured-champions": []
+                },
+                {
+                    "subtitle": "",
+                    "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt46dc96301086a48d-kda-fan-art-2.jpg",
+                    "encoding": "image/jpeg",
+                    "width": 0,
+                    "height": 0,
+                    "x": 0,
+                    "y": 0,
+                    "featured-champions": []
+                },
+                {
+                    "subtitle": "",
+                    "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt14e87586204ccef5-kda-fan-art-3.jpg",
+                    "encoding": "image/jpeg",
+                    "width": 0,
+                    "height": 0,
+                    "x": 0,
+                    "y": 0,
+                    "featured-champions": []
+                },
+                {
+                    "subtitle": "",
+                    "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt61e95e606d698118-kda-fan-art-4.jpg",
+                    "encoding": "image/jpeg",
+                    "width": 0,
+                    "height": 0,
+                    "x": 0,
+                    "y": 0,
+                    "featured-champions": []
+                },
+                {
+                    "subtitle": "",
+                    "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/bltac5d995ea07c679c-kda-fan-art-5.jpg",
+                    "encoding": "image/jpeg",
+                    "width": 0,
+                    "height": 0,
+                    "x": 0,
+                    "y": 0,
+                    "featured-champions": []
+                },
+                {
+                    "subtitle": "",
+                    "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt6fdfd7a052d69efa-kda-fan-art-6.jpg",
+                    "encoding": "image/jpeg",
+                    "width": 0,
+                    "height": 0,
+                    "x": 0,
+                    "y": 0,
+                    "featured-champions": []
+                },
+                {
+                    "subtitle": "",
+                    "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt3e0a85a9c9006bf7-kda-fan-art-7.png",
+                    "encoding": "image/jpeg",
+                    "width": 0,
+                    "height": 0,
+                    "x": 0,
+                    "y": 0,
+                    "featured-champions": []
+                },
+                {
+                    "subtitle": "",
+                    "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt66e2d1fce70157ba-kda-fan-art-8.png",
+                    "encoding": "image/jpeg",
+                    "width": 0,
+                    "height": 0,
+                    "x": 0,
+                    "y": 0,
+                    "featured-champions": []
+                },
+                {
+                    "subtitle": "",
+                    "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt09e589fdb55a9e95-kda-fan-art-9.jpg",
+                    "encoding": "image/jpeg",
+                    "width": 0,
+                    "height": 0,
+                    "x": 0,
+                    "y": 0,
+                    "featured-champions": []
+                },
+                {
+                    "subtitle": "",
+                    "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt6980bca73b58a2ae-kda-fan-art-10.jpg",
+                    "encoding": "image/jpeg",
+                    "width": 0,
+                    "height": 0,
+                    "x": 0,
+                    "y": 0,
+                    "featured-champions": []
+                },
+                {
+                    "subtitle": "",
+                    "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt57649871e10f469a-kda-fan-art-11.jpg",
+                    "encoding": "image/jpeg",
+                    "width": 0,
+                    "height": 0,
+                    "x": 0,
+                    "y": 0,
+                    "featured-champions": []
+                },
+                {
+                    "subtitle": "",
+                    "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/bltde198bccfa2a519a-kda-fan-art-12.jpeg",
+                    "encoding": "image/jpeg",
+                    "width": 0,
+                    "height": 0,
+                    "x": 0,
+                    "y": 0,
+                    "featured-champions": []
+                }
+            ],
+            "featured-champions": []
+        },
+        {
+            "slug": "kda-merch",
+            "type": "link-out",
+            "section-title": "",
+            "title": "K/DA官方周边商品",
+            "description": "通过K/DA官方周边商品支持你最喜爱的偶像歌手。",
+            "url": "https://merch.riotgames.com/zh_cn/collection/kda-collection-page",
+            "featured-image": {
+                "title": "kda-merch-background",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blte350992060de8a1d-kda-merch-background.jpg",
+                "encoding": "image/jpeg",
+                "width": 0,
+                "height": 0,
+                "x": 0,
+                "y": 0,
+                "featured-champions": []
+            },
+            "subtitle": "短篇故事",
+            "background": {
+                "title": "kda-merch",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blta8b37289beef0fb0-kda-merch.png",
+                "encoding": "image/jpeg",
+                "width": 0,
+                "height": 0,
+                "x": 0,
+                "y": 0,
+                "featured-champions": []
+            },
+            "cta": "了解更多",
+            "blackout": "上线时间：北京时间11月12日4:00 AM",
+            "isFanArt": false,
+            "isComic": false
+        },
+        {
+            "slug": "kda-concept-art"
+        }
+    ],
+    "modules": {
+        "title": "K/DA的更多资讯",
+        "background": {
+            "title": "kda-modules-background",
+            "subtitle": "",
+            "description": "",
+            "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt353d815939069533-kda-modules-background.jpg",
+            "encoding": "image/jpeg",
+            "width": null,
+            "height": null,
+            "x": null,
+            "y": null,
+            "featured-champions": []
+        },
+        "data": [
+            {
+                "slug": "kda-lyrics",
+                "type": "link-out",
+                "section-title": "歌词",
+                "title": "POP/STARS",
+                "description": "学会副歌并一起唱《POP/STARS》。",
+                "url": "/zh_CN/story/popstars-lyrics",
+                "featured-image": null,
+                "subtitle": "短篇故事",
+                "background": {
+                    "title": "kda-lyrics",
+                    "subtitle": "",
+                    "description": "",
+                    "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt34171fcfc5f5c14c-kda_bridge_2.jpg",
+                    "encoding": "image/jpeg",
+                    "width": 0,
+                    "height": 0,
+                    "x": 0,
+                    "y": 0,
+                    "featured-champions": []
+                },
+                "cta": "查看歌词",
+                "blackout": null,
+                "isFanArt": false,
+                "isComic": false
+            },
+            {
+                "slug": "kda-interview",
+                "type": "link-out",
+                "section-title": "PopRox访谈",
+                "title": "K/DA大爆料",
+                "description": "K/DA全体成员作客PopRox访谈，讨论她们的风格、个人生活以及《POP/STARS》的成功。",
+                "url": "http://universe.leagueoflegends.com/zh_CN/story/popstar-interview",
+                "featured-image": null,
+                "subtitle": "短篇故事",
+                "background": {
+                    "title": "kda-interview",
+                    "subtitle": "",
+                    "description": "",
+                    "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt5b3eb683c3daf9f2-kda-interview.jpg",
+                    "encoding": "image/jpeg",
+                    "width": 0,
+                    "height": 0,
+                    "x": 0,
+                    "y": 0,
+                    "featured-champions": []
+                },
+                "cta": "了解她们",
+                "blackout": null,
+                "isFanArt": false,
+                "isComic": false
+            },
+            {
+                "slug": "kda-worldsvideo",
+                "type": "link-out",
+                "section-title": "现场画面",
+                "title": "世界赛上的K/DA",
+                "description": "K/DA在《英雄联盟》世界冠军赛现场表演《POP/STARS》",
+                "url": "https://lol.qq.com/v/v2/detail.shtml?docid=16095130854971485929",
+                "featured-image": null,
+                "subtitle": "短篇故事",
+                "background": {
+                    "title": "kda-worldsvideo",
+                    "subtitle": "",
+                    "description": "",
+                    "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/bltda63a7977c0b9b7a-kda-module-placeholder.jpg",
+                    "encoding": "image/jpeg",
+                    "width": 0,
+                    "height": 0,
+                    "x": 0,
+                    "y": 0,
+                    "featured-champions": []
+                },
+                "cta": "观星",
+                "blackout": "视频即将上线！",
+                "isFanArt": false,
+                "isComic": false
+            }
+        ]
+    },
+    "champions": [
+        {
+            "attributes": {
+                "role": {
+                    "label": "位置",
+                    "value": "主唱",
+                    "machine_name": "role",
+                    "_metadata": {
+                        "uid": "cs641f63e7e3a09852"
+                    }
+                },
+                "zodiac": {
+                    "label": "星座",
+                    "value": "射手座",
+                    "machine_name": "zodiac",
+                    "_metadata": {
+                        "uid": "cs656f0750b07e6482"
+                    }
+                },
+                "nickname": {
+                    "label": "绰号",
+                    "value": "小狐、九尾狐",
+                    "machine_name": "nickname",
+                    "_metadata": {
+                        "uid": "csbfb796fd7be1540f"
+                    }
+                },
+                "height": {
+                    "label": "身高",
+                    "value": "167.6厘米",
+                    "machine_name": "height",
+                    "_metadata": {
+                        "uid": "cs6e021246c4b9b417"
+                    }
+                },
+                "name": {
+                    "label": "乐队成员",
+                    "value": "阿狸"
+                },
+                "bio": {
+                    "label": "美妆与时尚",
+                    "value": "<p>作为少女偶像歌手出道并成名以后，阿狸抛弃了青春气质和少女路线，展示了全新的自我：一位时尚、优雅、闪亮的明星。阿狸时髦的新形象吸引了顶级时装设计师们的目光。在时装周期间，阿狸会身着压轴礼服走上世界各地的秀场。她是FOXY化妆品公司的代言人，去年还推出了自己的香水品牌，<i>魅惑</i>。除了在K/DA的时间和训练之外，阿狸把时间用来购物、与设计师品茶、试用新的美妆产品上。</p>"
+                },
+                "eightfacts": {
+                    "label": "8个冷知识",
+                    "value": "<p>阿狸是K/DA的队长和主唱。<br>她曾荣获2013年流行闪耀大奖的年度最有才华Kpop新人奖。<br>推出五张单曲以后，她暂别舞台寻求新突破。<br>阿狸是许多服装品牌的缪斯女神。设计师总是忍不住冲动要为她设计服装。<br>十二生肖中，阿狸属狗。<br>相较于健身，阿狸更喜欢购物。<br>她和K/DA的伊芙琳是多年的老相识。<br>阿狸曾被票选为流行音乐界最美面孔之一。</p>"
+                }
+            },
+            "background": {
+                "title": "kda-splash-background",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt102ca04634ab1ff6-kda-splash-background.jpg",
+                "encoding": "image/jpeg",
+                "width": null,
+                "height": null,
+                "x": null,
+                "y": null,
+                "featured-champions": []
+            },
+            "avatar": {
+                "title": "kda-avatar-ahri",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt92e36470d212c437-kda-avatar-ahri.jpg",
+                "encoding": "image/jpeg",
+                "width": null,
+                "height": null,
+                "x": null,
+                "y": null,
+                "featured-champions": []
+            },
+            "splash": {
+                "title": "kda-splash-cropped-ahri",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/bltb3f559767a68dcba-kda-splash-cropped-ahri.png",
+                "encoding": "image/jpeg",
+                "width": null,
+                "height": null,
+                "x": null,
+                "y": null,
+                "featured-champions": []
+            },
+            "header-image": {
+                "title": "kda-splash-cropped-ahri",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/bltb3f559767a68dcba-kda-splash-cropped-ahri.png",
+                "encoding": "image/jpeg",
+                "width": null,
+                "height": null,
+                "x": null,
+                "y": null,
+                "featured-champions": []
+            },
+            "profile-image": {
+                "title": "kda-avatar-ahri",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt92e36470d212c437-kda-avatar-ahri.jpg",
+                "encoding": "image/jpeg",
+                "width": null,
+                "height": null,
+                "x": null,
+                "y": null,
+                "featured-champions": []
+            },
+            "blurred-image": {
+                "title": "kda-splash-background",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt102ca04634ab1ff6-kda-splash-background.jpg",
+                "encoding": "image/jpeg",
+                "width": null,
+                "height": null,
+                "x": null,
+                "y": null,
+                "featured-champions": []
+            },
+            "bio": "<p>作为少女偶像歌手出道并成名以后，阿狸抛弃了青春气质和少女路线，展示了全新的自我：一位时尚、优雅、闪亮的明星。阿狸时髦的新形象吸引了顶级时装设计师们的目光。在时装周期间，阿狸会身着压轴礼服走上世界各地的秀场。她是FOXY化妆品公司的代言人，去年还推出了自己的香水品牌，<i>魅惑</i>。除了在K/DA的时间和训练之外，阿狸把时间用来购物、与设计师品茶、试用新的美妆产品上。</p>",
+            "familiarheader": "8个冷知识",
+            "familiarinfo": "<p>阿狸是K/DA的队长和主唱。<br>她曾荣获2013年流行闪耀大奖的年度最有才华Kpop新人奖。<br>推出五张单曲以后，她暂别舞台寻求新突破。<br>阿狸是许多服装品牌的缪斯女神。设计师总是忍不住冲动要为她设计服装。<br>十二生肖中，阿狸属狗。<br>相较于健身，阿狸更喜欢购物。<br>她和K/DA的伊芙琳是多年的老相识。<br>阿狸曾被票选为流行音乐界最美面孔之一。</p>",
+            "name": "阿狸",
+            "type": null
+        },
+        {
+            "attributes": {
+                "role": {
+                    "label": "位置",
+                    "value": "主唱",
+                    "machine_name": "role",
+                    "_metadata": {
+                        "uid": "cs44fb6b57c81409b1"
+                    }
+                },
+                "zodiac": {
+                    "label": "星座",
+                    "value": "金牛座",
+                    "machine_name": "zodiac",
+                    "_metadata": {
+                        "uid": "csf0603bb090d57ecf"
+                    }
+                },
+                "nickname": {
+                    "label": "绰号",
+                    "value": "塞壬，伊芙",
+                    "machine_name": "nickname",
+                    "_metadata": {
+                        "uid": "csae64a4cb48db0c6c"
+                    }
+                },
+                "height": {
+                    "label": "身高",
+                    "value": "164厘米",
+                    "machine_name": "height",
+                    "_metadata": {
+                        "uid": "csb51dc191982317c2"
+                    }
+                },
+                "name": {
+                    "label": "乐队成员",
+                    "value": "伊芙琳"
+                },
+                "bio": {
+                    "label": "第一歌姬",
+                    "value": "<p>许多来自外界的声音都说伊芙的明星架子很大。她向<i>流行闪耀</i>杂志表示，“我是一位艺人，不是形象大使。我不会为自己的高要求而道歉。”伊芙曾有一次在演唱会半途直接离场，因为她发现现场使用的伴奏带是她明确拒绝过的。虽然她在演艺行业总是引起风波和争议，但她却有一群死忠粉丝，自称“Deeva。”在加入K/DA以前，伊芙琳曾有两首冠军单曲，分别是<i>《痛苦之拥》</i>和<i>《极乐狂喜》</i>。</p>"
+                },
+                "eightfacts": {
+                    "label": "8个冷知识",
+                    "value": "<p>伊芙琳最具标志性的是她坚定的目标、浑厚的声线、还有“不良少女”的态度。<br>伊芙琳曾与其他音乐组合不欢而散，后来单飞自己写歌，最后再度与阿狸联手。<br>十二生肖中，伊芙琳属鸡。<br>伊芙琳对她的节食和健身计划始终保持神秘，拒绝透露任何日常安排。<br>她收藏了许多跑车。<br>伊芙琳重情义。她只有少数密友，而对自己的朋友十分照顾。<br>她曾与许多男明星传出过绯闻，但从未等到确认恋人关系，他们就离奇失踪了。<br>卡尔萨斯是她的灵感来源。</p>"
+                }
+            },
+            "background": {
+                "title": "kda-splash-background",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt102ca04634ab1ff6-kda-splash-background.jpg",
+                "encoding": "image/jpeg",
+                "width": null,
+                "height": null,
+                "x": null,
+                "y": null,
+                "featured-champions": []
+            },
+            "avatar": {
+                "title": "kda-avatar-evelynn",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/bltcf33b771ec3863c3-kda-avatar-evelynn.jpg",
+                "encoding": "image/jpeg",
+                "width": null,
+                "height": null,
+                "x": null,
+                "y": null,
+                "featured-champions": []
+            },
+            "splash": {
+                "title": "kda-splash-cropped-evelynn",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt7184f7ed1f4bd919-kda-splash-cropped-evelynn.png",
+                "encoding": "image/jpeg",
+                "width": null,
+                "height": null,
+                "x": null,
+                "y": null,
+                "featured-champions": []
+            },
+            "header-image": {
+                "title": "kda-splash-cropped-evelynn",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt7184f7ed1f4bd919-kda-splash-cropped-evelynn.png",
+                "encoding": "image/jpeg",
+                "width": null,
+                "height": null,
+                "x": null,
+                "y": null,
+                "featured-champions": []
+            },
+            "profile-image": {
+                "title": "kda-avatar-evelynn",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/bltcf33b771ec3863c3-kda-avatar-evelynn.jpg",
+                "encoding": "image/jpeg",
+                "width": null,
+                "height": null,
+                "x": null,
+                "y": null,
+                "featured-champions": []
+            },
+            "blurred-image": {
+                "title": "kda-splash-background",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt102ca04634ab1ff6-kda-splash-background.jpg",
+                "encoding": "image/jpeg",
+                "width": null,
+                "height": null,
+                "x": null,
+                "y": null,
+                "featured-champions": []
+            },
+            "bio": "<p>许多来自外界的声音都说伊芙的明星架子很大。她向<i>流行闪耀</i>杂志表示，“我是一位艺人，不是形象大使。我不会为自己的高要求而道歉。”伊芙曾有一次在演唱会半途直接离场，因为她发现现场使用的伴奏带是她明确拒绝过的。虽然她在演艺行业总是引起风波和争议，但她却有一群死忠粉丝，自称“Deeva。”在加入K/DA以前，伊芙琳曾有两首冠军单曲，分别是<i>《痛苦之拥》</i>和<i>《极乐狂喜》</i>。</p>",
+            "familiarheader": "8个冷知识",
+            "familiarinfo": "<p>伊芙琳最具标志性的是她坚定的目标、浑厚的声线、还有“不良少女”的态度。<br>伊芙琳曾与其他音乐组合不欢而散，后来单飞自己写歌，最后再度与阿狸联手。<br>十二生肖中，伊芙琳属鸡。<br>伊芙琳对她的节食和健身计划始终保持神秘，拒绝透露任何日常安排。<br>她收藏了许多跑车。<br>伊芙琳重情义。她只有少数密友，而对自己的朋友十分照顾。<br>她曾与许多男明星传出过绯闻，但从未等到确认恋人关系，他们就离奇失踪了。<br>卡尔萨斯是她的灵感来源。</p>",
+            "name": "伊芙琳",
+            "type": null
+        },
+        {
+            "attributes": {
+                "role": {
+                    "label": "位置",
+                    "value": "领舞",
+                    "machine_name": "role",
+                    "_metadata": {
+                        "uid": "csc5030becf9562ae8"
+                    }
+                },
+                "zodiac": {
+                    "label": "星座",
+                    "value": "双鱼座",
+                    "machine_name": "zodiac",
+                    "_metadata": {
+                        "uid": "cs4ec0c49e2e21ac6b"
+                    }
+                },
+                "nickname": {
+                    "label": "绰号",
+                    "value": "小笼包、包妞",
+                    "machine_name": "nickname",
+                    "_metadata": {
+                        "uid": "cs47eb6e3a8cf6e037"
+                    }
+                },
+                "height": {
+                    "label": "身高",
+                    "value": "169.6厘米",
+                    "machine_name": "height",
+                    "_metadata": {
+                        "uid": "cs04bc7a1d70d7d7ed"
+                    }
+                },
+                "name": {
+                    "label": "乐队成员",
+                    "value": "卡莎"
+                },
+                "bio": {
+                    "label": "@KDA卡莎",
+                    "value": "<p>@KDA卡莎<br><br><b>K/DA_全球粉丝团</b> @KDA粉丝团<br>@KDA卡莎 你为什么跳舞？ <br><br><b>卡莎官方账号</b> @KDA卡莎<br> 回复 @KDA粉丝团<br>每当音乐响起，律动的协奏就开始搅动我的灵魂。它最初只是低沉的闷响，就像是从虚空传来的召唤，饥肠辘辘，要求得到释放。我的身体回应这个召唤，跃动着编织出一个故事。用故事离开虚空，最后落下来成为生命的步伐。</p>"
+                },
+                "eightfacts": {
+                    "label": "8个冷知识",
+                    "value": "<p>卡莎被阿狸称为K/DA的“梦想家”。<br>她曾经在十个国家中有过生活经历，后来追逐梦想成为流行歌星。<br>卡莎曾于2018年赢得过香港的“你会跳舞吗”。<br>十二生肖中，卡莎属鼠。<br>她能流利说汉语、南非荷兰语、韩语、英语。<br>她每天都在练习室里花费数小时为K/DA编舞。她认为每个舞步都必须在运动之中同时表现弱点和力量。<br>她会在K/DA的宿舍里掌勺做大餐。<br>她最喜欢吃四川麻辣香锅。</p>"
+                }
+            },
+            "background": {
+                "title": "kda-splash-background",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt102ca04634ab1ff6-kda-splash-background.jpg",
+                "encoding": "image/jpeg",
+                "width": null,
+                "height": null,
+                "x": null,
+                "y": null,
+                "featured-champions": []
+            },
+            "avatar": {
+                "title": "kda-avatar-kaisa",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt80fab6d54a5b73df-kda-avatar-kaisa.jpg",
+                "encoding": "image/jpeg",
+                "width": null,
+                "height": null,
+                "x": null,
+                "y": null,
+                "featured-champions": []
+            },
+            "splash": {
+                "title": "kda-splash-cropped-kaisa",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt57c184abe4c9781b-kda-splash-cropped-kaisa.png",
+                "encoding": "image/jpeg",
+                "width": null,
+                "height": null,
+                "x": null,
+                "y": null,
+                "featured-champions": []
+            },
+            "header-image": {
+                "title": "kda-splash-cropped-kaisa",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt57c184abe4c9781b-kda-splash-cropped-kaisa.png",
+                "encoding": "image/jpeg",
+                "width": null,
+                "height": null,
+                "x": null,
+                "y": null,
+                "featured-champions": []
+            },
+            "profile-image": {
+                "title": "kda-avatar-kaisa",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt80fab6d54a5b73df-kda-avatar-kaisa.jpg",
+                "encoding": "image/jpeg",
+                "width": null,
+                "height": null,
+                "x": null,
+                "y": null,
+                "featured-champions": []
+            },
+            "blurred-image": {
+                "title": "kda-splash-background",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt102ca04634ab1ff6-kda-splash-background.jpg",
+                "encoding": "image/jpeg",
+                "width": null,
+                "height": null,
+                "x": null,
+                "y": null,
+                "featured-champions": []
+            },
+            "bio": "<p>@KDA卡莎<br><br><b>K/DA_全球粉丝团</b> @KDA粉丝团<br>@KDA卡莎 你为什么跳舞？ <br><br><b>卡莎官方账号</b> @KDA卡莎<br> 回复 @KDA粉丝团<br>每当音乐响起，律动的协奏就开始搅动我的灵魂。它最初只是低沉的闷响，就像是从虚空传来的召唤，饥肠辘辘，要求得到释放。我的身体回应这个召唤，跃动着编织出一个故事。用故事离开虚空，最后落下来成为生命的步伐。</p>",
+            "familiarheader": "8个冷知识",
+            "familiarinfo": "<p>卡莎被阿狸称为K/DA的“梦想家”。<br>她曾经在十个国家中有过生活经历，后来追逐梦想成为流行歌星。<br>卡莎曾于2018年赢得过香港的“你会跳舞吗”。<br>十二生肖中，卡莎属鼠。<br>她能流利说汉语、南非荷兰语、韩语、英语。<br>她每天都在练习室里花费数小时为K/DA编舞。她认为每个舞步都必须在运动之中同时表现弱点和力量。<br>她会在K/DA的宿舍里掌勺做大餐。<br>她最喜欢吃四川麻辣香锅。</p>",
+            "name": "卡莎",
+            "type": null
+        },
+        {
+            "attributes": {
+                "role": {
+                    "label": "位置",
+                    "value": "说唱歌手",
+                    "machine_name": "role",
+                    "_metadata": {
+                        "uid": "cscc3242ff38c1bcf0"
+                    }
+                },
+                "zodiac": {
+                    "label": "星座",
+                    "value": "金牛座",
+                    "machine_name": "zodiac",
+                    "_metadata": {
+                        "uid": "cs153a7bf849290b99"
+                    }
+                },
+                "nickname": {
+                    "label": "绰号",
+                    "value": "小叛逆、 힙합검객",
+                    "machine_name": "nickname",
+                    "_metadata": {
+                        "uid": "csf13ba49f38d1f2a4"
+                    }
+                },
+                "height": {
+                    "label": "身高",
+                    "value": "163厘米",
+                    "machine_name": "height",
+                    "_metadata": {
+                        "uid": "cs1edaafe95dfc4cc3"
+                    }
+                },
+                "name": {
+                    "label": "乐队成员",
+                    "value": "阿卡丽"
+                },
+                "bio": {
+                    "label": "嘻哈忍者",
+                    "value": "<p>阿卡丽会在造访一个城市的同时与当地的街头艺人同台表演。她将综合格斗技巧融入自己的说唱节奏中，并用大胆的歌词和朋克忍者风范圈粉无数。她出身于街头表演，所以她成名以后只要有机会就要回归自己出身的土壤中。她的发型和她的性格一样桀骜不驯，阿卡丽一亮相就立刻成为K/DA粉丝们的宠儿。</p>"
+                },
+                "eightfacts": {
+                    "label": "8个冷知识",
+                    "value": "<p>阿卡丽是K/DA女团中的幺妹。<br>她15岁那年参加的一场说唱对决被疯狂转发并成为全民话题，她也就此被演艺圈发掘。<br>她出道后有点小众，所以没有任何唱片公司找她签约，最后是阿狸通过社交媒体找到了她。<br>阿卡丽最喜欢吃辛拉面。<br>阿卡丽会定期在街头表演说唱，练习歌词功底。<br>十二生肖中，阿卡丽属牛。<br>她会说英语、韩语、还有日语。<br>阿卡丽的家族是开武道场的。她离开家寻找作为艺人的前途，但她依然懂得如何使用忍镰。</p>"
+                }
+            },
+            "background": {
+                "title": "kda-splash-background",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt102ca04634ab1ff6-kda-splash-background.jpg",
+                "encoding": "image/jpeg",
+                "width": null,
+                "height": null,
+                "x": null,
+                "y": null,
+                "featured-champions": []
+            },
+            "avatar": {
+                "title": "kda-avatar-akali",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt4a7794955223b654-kda-avatar-akali.jpg",
+                "encoding": "image/jpeg",
+                "width": null,
+                "height": null,
+                "x": null,
+                "y": null,
+                "featured-champions": []
+            },
+            "splash": {
+                "title": "kda-splash-cropped-akali",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt41eef43bb0e36e58-kda-splash-cropped-akali.png",
+                "encoding": "image/jpeg",
+                "width": null,
+                "height": null,
+                "x": null,
+                "y": null,
+                "featured-champions": []
+            },
+            "header-image": {
+                "title": "kda-splash-cropped-akali",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt41eef43bb0e36e58-kda-splash-cropped-akali.png",
+                "encoding": "image/jpeg",
+                "width": null,
+                "height": null,
+                "x": null,
+                "y": null,
+                "featured-champions": []
+            },
+            "profile-image": {
+                "title": "kda-avatar-akali",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt4a7794955223b654-kda-avatar-akali.jpg",
+                "encoding": "image/jpeg",
+                "width": null,
+                "height": null,
+                "x": null,
+                "y": null,
+                "featured-champions": []
+            },
+            "blurred-image": {
+                "title": "kda-splash-background",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt102ca04634ab1ff6-kda-splash-background.jpg",
+                "encoding": "image/jpeg",
+                "width": null,
+                "height": null,
+                "x": null,
+                "y": null,
+                "featured-champions": []
+            },
+            "bio": "<p>阿卡丽会在造访一个城市的同时与当地的街头艺人同台表演。她将综合格斗技巧融入自己的说唱节奏中，并用大胆的歌词和朋克忍者风范圈粉无数。她出身于街头表演，所以她成名以后只要有机会就要回归自己出身的土壤中。她的发型和她的性格一样桀骜不驯，阿卡丽一亮相就立刻成为K/DA粉丝们的宠儿。</p>",
+            "familiarheader": "8个冷知识",
+            "familiarinfo": "<p>阿卡丽是K/DA女团中的幺妹。<br>她15岁那年参加的一场说唱对决被疯狂转发并成为全民话题，她也就此被演艺圈发掘。<br>她出道后有点小众，所以没有任何唱片公司找她签约，最后是阿狸通过社交媒体找到了她。<br>阿卡丽最喜欢吃辛拉面。<br>阿卡丽会定期在街头表演说唱，练习歌词功底。<br>十二生肖中，阿卡丽属牛。<br>她会说英语、韩语、还有日语。<br>阿卡丽的家族是开武道场的。她离开家寻找作为艺人的前途，但她依然懂得如何使用忍镰。</p>",
+            "name": "阿卡丽",
+            "type": null
+        }
+    ]
+}

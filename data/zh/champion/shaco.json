@@ -1,0 +1,461 @@
+{
+    "id": "shaco",
+    "name": "萨科",
+    "title": "恶魔小丑",
+    "locale": "zh_cn",
+    "champion": {
+        "type": "champion",
+        "release-date": "2009-10-10T00:00:00.000Z",
+        "name": "萨科",
+        "title": "恶魔小丑",
+        "section-title": "萨科",
+        "slug": "shaco",
+        "associated-faction": "",
+        "associated-faction-slug": "unaffiliated",
+        "image": {
+            "title": "shaco-splash",
+            "subtitle": "",
+            "description": "",
+            "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt6f5beb33c10f0fc9-Shaco_0.jpg",
+            "encoding": "image/jpeg",
+            "width": 1215,
+            "height": 717,
+            "x": 997,
+            "y": 8,
+            "featured-champions": []
+        },
+        "background": {
+            "title": "shaco-splash",
+            "subtitle": "",
+            "description": "",
+            "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt6f5beb33c10f0fc9-Shaco_0.jpg",
+            "encoding": "image/jpeg",
+            "width": 1215,
+            "height": 717,
+            "x": 997,
+            "y": 8,
+            "featured-champions": []
+        },
+        "url": "/zh_cn/champion/shaco",
+        "video": null,
+        "races": [],
+        "roles": [
+            {
+                "name": "刺客",
+                "slug": "assassin"
+            }
+        ],
+        "role": [
+            {
+                "name": "刺客",
+                "slug": "assassin"
+            }
+        ],
+        "game-info-url": "https://lol.qq.com/web201310/info-defail.shtml?id=Shaco",
+        "biography": {
+            "full": "<p>常人都不会视死亡如儿戏。死确非儿戏，但如果你是萨科——则另当别论了。他是瓦洛兰第一位专业的嗜杀喜剧演员。他喜欢变着戏法将人折磨致死，然后放声大笑。他如何获得恶魔小丑的名号仍是个未解之迷。至于他来自何方也是众说纷纭，萨科对此也一直守口如瓶。大多数人认为萨科并非来自符文之地，而是从黑暗扭曲的世界召唤来的。另一些人则认为，他是人类阴暗欲望衍生出的恶魔化身，因此不能以常理而论。而最为可信的一种说法则是萨科是一名雇佣杀手，不需要服务时便捣腾他那些可笑的玩意。萨科也证明了自己确实是一个狡黠之人，每次政府当局想要捉拿他拷问一些骇人的非法暴行时，他都能设法逃避。虽然这样的传言可以让瓦洛兰当地居民稍稍宽心，但人们还是觉得政府竟然让这样的非法之徒逍遥法外，实在有点不可理喻。</p><p>无论他的过往真相为何，萨科都是一个令人恐惧、捉摸不透的人物，经常出现在疯狂盛行的地方。</p>",
+            "short": "很久以前有人为一个孤独的小王子制作了一个玩物，一只附有魔法的提线人偶，它就是如今那个以杀人和破坏取乐的萨科。由于黑魔法的腐化，再加上痛失爱主，曾经友善的人偶如今只能在折磨灵魂制造苦痛的时候才能感到愉悦。小孩子的玩具和简单的戏法在他手中都有了致命的效果。而且，他觉得自己的血腥“游戏”滑稽至极——如果有谁在死寂的夜里听到了阴森的窃笑，或许那就是恶魔小丑看中了他们，作为自己新的玩物。",
+            "quote": "“无论你做什么，千万不要告诉他你错过了他的连珠妙语。”",
+            "quote-author": "崔斯特"
+        },
+        "headerImage": null
+    },
+    "related-champions": [
+        {
+            "type": "champion",
+            "release-date": "2009-02-21T00:00:00.000Z",
+            "name": "费德提克",
+            "title": "远古恐惧",
+            "section-title": "费德提克",
+            "slug": "fiddlesticks",
+            "associated-faction": "",
+            "associated-faction-slug": "unaffiliated",
+            "image": {
+                "title": "fiddlesticks-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/bltecad43e1860aa6d1-fiddlesticks-splash.jpg",
+                "encoding": "image/jpeg",
+                "width": 1920,
+                "height": 1129,
+                "x": 703,
+                "y": 542,
+                "featured-champions": []
+            },
+            "background": {
+                "title": "fiddlesticks-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/bltecad43e1860aa6d1-fiddlesticks-splash.jpg",
+                "encoding": "image/jpeg",
+                "width": 1920,
+                "height": 1129,
+                "x": 703,
+                "y": 542,
+                "featured-champions": []
+            },
+            "url": "/zh_cn/champion/fiddlesticks",
+            "video": null,
+            "races": [],
+            "roles": [
+                {
+                    "name": "法师",
+                    "slug": "mage"
+                },
+                {
+                    "name": "辅助",
+                    "slug": "support"
+                }
+            ],
+            "role": [
+                {
+                    "name": "法师",
+                    "slug": "mage"
+                },
+                {
+                    "name": "辅助",
+                    "slug": "support"
+                }
+            ],
+            "game-info-url": "https://lol.qq.com/web201310/info-defail.shtml?id=FiddleSticks",
+            "biography": {
+                "full": "<p>很久以前，在海边的一座高塔中，一名愚蠢的年轻魔法师将某种东西召唤出来，让它进入这个世界却无法控制它。来到他面前的东西，比任何历史记载都更古老、比没有星星的夜更漆黑。这个世界曾竭尽全力遗忘它，而只过了短暂的一瞬，那名法师、那个怪物、还有那座高塔，全都遗失在时间的长河中。</p><p>至少，故事里是这么讲的。</p><p>在弗雷尔卓德，孩童们围在火边互相讲述恐怖的传说，传说中的怪物从冰封的弃墓中爬出，身体杂乱地混合着头盔、盾牌、毛皮衣物和木料。在比尔吉沃特，醉醺醺的水手之间流传着某个远海环礁的消息，据说上面突兀地矗立着什么东西，但所有靠近的人都有去无回。巨神峰的居民流传着一个古老奇谈，里面讲一个暮光的孩子从一个衣衫褴褛的恐怖之物手中抢走了唯一的欢乐。而诺克萨斯的老兵们则全都会讲一则寓言：孤独的农夫因为庄稼歉收而被喂给了乌鸦，最后变成恶魔回到这个世界。</p><p>德玛西亚。以绪塔尔。皮尔特沃夫。艾欧尼亚。恕瑞玛。类似的神话出现在符文之地的每个角落，在世世代代的讲述中重塑、扭曲、流传。所有的故事讲的都是同一个东西，外观像极了人，悄无声息地走在充满恐惧的地方。</p><p>但这些都只是吓唬小孩子的典故。没人会真正害怕那个叫做费德提克的老妖怪……</p><p>但现在情况变了。</p><p>在德玛西亚的偏远内陆，有什么东西觉醒了，莫名的恐惧和没来由的担忧在人群中形成了恐慌的氛围，引来了它。与雄都相隔几百里的农村聚落几天之内变得空无一人。沿着古老小径赶路的旅人凭空消失。在王国边境巡逻的卫队迟迟不归。路边酒馆里满眼疯狂的幸存者抓着自己的脸哭诉，说着不是乌鸦的乌鸦、不是声音的声音、还有如同山崩地裂的恐怖之物，化作稻草人的外形，偷走死者的声音，发出胡言乱语。</p><p>大多数人都认为这是顽劣法师作祟。在如今这个起义造反的时代，许多事情都会怪到法师头上。</p><p>但真相其实更加可怕。的确是有什么东西回来了，就像故事中那个年轻法师在海边高塔那样。来自远古的邪恶之物，消失了不知几百年，时间久了，就使得蒙昧时期的人类留下的警告变成了神话传说和无稽之谈……直到最后只剩下寥寥几句的寓言故事。它是超出常理的存在，违反了当今几乎所有对魔法的认知。它是超出历史的远古存在，是所有生灵共同的恐惧，如果说出它的名字，即使是动物也会变得不安。</p><p>这场恐怖复苏过后，内陆地区又重新流传起另一个快被遗忘的传说。传说中有一个强大的恶灵，没有形态、没有思想、没有对于这个世界的概念，只懂得把自己制造成其他生灵所恐惧的简陋外形。它是一切生命的原初恐惧，诞生于第一声惊骇的尖叫。它是人类认识恶魔之前就已存在的恶魔。</p><p>至少，故事里是这么说的。</p><p>但费德提克是真实存在的。</p>",
+                "short": "符文之地上有什么东西苏醒了。它古老悠久、恐怖骇人。这个被称为费德提克的远古恐惧无声无息地行走在凡人社会的边缘，被恐慌气氛所吸引，以猎物的惊骇为食。它化身成枯瘦简陋的实体，挥舞着破旧的镰刀，亲自收割恐惧。那些不幸从它手中活下来的人，心智会被彻底摧毁。务必小心乌鸦的声音，或者某个像是人类的身影发出的低语……费德提克回来了。",
+                "quote": "“它在捕杀我们。它知道我们害怕什么。”",
+                "quote-author": "——某无名受害者"
+            },
+            "headerImage": null
+        },
+        {
+            "type": "champion",
+            "release-date": "2011-03-15T00:00:00.000Z",
+            "name": "魔腾",
+            "title": "永恒梦魇",
+            "section-title": "魔腾",
+            "slug": "nocturne",
+            "associated-faction": "",
+            "associated-faction-slug": "unaffiliated",
+            "image": {
+                "title": "nocturne-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/bltd965a4717b06eef3-Nocturne_0.jpg",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 870,
+                "y": 208,
+                "featured-champions": []
+            },
+            "background": {
+                "title": "nocturne-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/bltd965a4717b06eef3-Nocturne_0.jpg",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 870,
+                "y": 208,
+                "featured-champions": []
+            },
+            "url": "/zh_cn/champion/nocturne",
+            "video": null,
+            "races": [],
+            "roles": [
+                {
+                    "name": "刺客",
+                    "slug": "assassin"
+                },
+                {
+                    "name": "战士",
+                    "slug": "fighter"
+                }
+            ],
+            "role": [
+                {
+                    "name": "刺客",
+                    "slug": "assassin"
+                },
+                {
+                    "name": "战士",
+                    "slug": "fighter"
+                }
+            ],
+            "game-info-url": "https://lol.qq.com/web201310/info-defail.shtml?id=Nocturne",
+            "biography": {
+                "full": "<p>虽说一切魔法都可能充满危险和无常，但有一些魔法形式或类别即使是那些最高超的法师和巫师都对其敬而远之，这可不是没道理的。几百年来，“暗影魔法”始终都是整个符文之地上的禁忌，因为所有人都害怕那曾一度肆虐于世的恐怖再度被它唤醒。</p><p>那些恐怖之物当中的最甚者，是有名字的，它的名字是魔腾。</p><p>在符文战争末期，由魔法战士组成的秘密团体为了各自的胜利不择手段，寻找任何可能打压对手的方式。虽然现存的记录没有记载他们的名字，但他们是第一批抛弃自己血肉并进入灵魂领域的人，人们只知道他们互相追猎，他们的猎场不仅在战场上，而且也在他们自己潜意识的思想与情绪塑造的领域中。没有了物质现实法则的束缚，他们战斗的方式让大多数凡人的头脑无法理解，他们甚至能够塑造出虚幻缥缈的刺客执行命令。暗影法师似乎非常擅长这种事——所以有一段时间，他们主宰了灵魂领域，将其送进薄暮。</p><p>各地各处的凡人思绪都受到了这黑暗的沾染。它吸干他们的斗志，侵扰他们的梦境，让无名的恐惧日日夜夜咬住他们不放，甚至导致一些人对自己的同胞犯下骇人听闻的恐怖罪行。</p><p>没人能说清楚，究竟是这些苦难从无到有地造就了魔腾，还是某个低级的刺客构造体受到它的腐化变成了某种更加自我、更加夺命的存在，但无论是哪种情况，都让这个新生的暗影生物具备了非物质的形体和不可捉摸的恐怖。魔腾不理解任何友善、荣誉或高尚——它是恐惧的实体化身，不需要那些自我约束和控制。</p><p>这个恶魔般的生物在灵魂领域嚎叫着，扑向了那些离经叛道的愚蠢法师，那些曾经给予它生命的人，它不顾一切地鞭笞，希望能够终结自己的苦难。它始终忍受着痛苦，而这种痛苦让它残酷，但它很快就喜欢上了凡人恐惧的味道。在它的领域，时间几乎没有意义，但魔腾会尽可能延长每一次追逐，细细品味猎物的剧痛，然后再顷刻间切断他们的最后一线生命。很快，已经没人敢再进入魔腾的领域了。</p><p>如果这个恶魔没有在帷幕的另一侧采取行动，符文战争会不会有另外的结果？很难说，但到了后来，所剩无几的关于暗影魔法的传说被人藏匿了起来，使用这种魔法也被许多地方的人等同于死亡判决。</p><p>灵魂领域成为了牢笼，只有寥寥无几的闯入者维持着这个领域，而魔腾也变得饥肠辘辘。只有一样东西的味道接近它曾品尝过的恐惧大餐，那就是当凡人的思绪在睡梦中不知不觉地飘过虚无。魔法的波流划分着两个领域间的界限，在这里平和的梦境很容易就会变成梦魇——而随着这股魔法流，魔腾找到了让自己进入梦醒后的凡尘世界的方式。</p><p>如今的魔腾作为一种幽魂存在，双眼燃烧着冷光，已然成为了符文之地上许多人最原始恐惧的凶恶倒影。从熙熙攘攘的城市到荒凉的平原，从最伟大的国王到最卑贱的农民，只要是有缺点的灵魂，就会吸引这个恶魔，继而被它扭曲为凡间的恐惧，以及永恒的黑暗。</p>",
+                "short": "<p>将一切有知觉的脑海中萦绕的噩梦提取出来，进而融合成一个恶魔般的实体，这就是被人称为魔腾的存在，它已成为一种纯粹邪恶的原始力量。它的外形捉摸不定，一团无面的黑影中睁着一双冰冷的眼睛，身体两侧是一对形状恐怖的刀刃。魔腾摆脱了精神领域的束缚，一次又一次地进入梦醒后的凡尘世界，寻觅那些在真正的黑暗中疯长的恐惧，作为自己的食粮。</p>",
+                "quote": "黑暗正在迫近……",
+                "quote-author": "魔腾"
+            },
+            "headerImage": null
+        }
+    ],
+    "explore-champions": [
+        {
+            "type": "champion",
+            "release-date": "2009-09-02T00:00:00.000Z",
+            "name": "蒙多医生",
+            "title": "祖安狂人",
+            "section-title": "蒙多医生",
+            "slug": "drmundo",
+            "associated-faction": "",
+            "associated-faction-slug": "zaun",
+            "image": {
+                "title": "drmundo-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt1de6f1cc36193557-mundo-splash.jpg",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 652,
+                "y": 68,
+                "featured-champions": []
+            },
+            "background": {
+                "title": "drmundo-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt1de6f1cc36193557-mundo-splash.jpg",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 652,
+                "y": 68,
+                "featured-champions": []
+            },
+            "url": "/zh_cn/champion/drmundo",
+            "video": null,
+            "races": [],
+            "roles": [
+                {
+                    "name": "战士",
+                    "slug": "fighter"
+                },
+                {
+                    "name": "坦克",
+                    "slug": "tank"
+                }
+            ],
+            "role": [
+                {
+                    "name": "战士",
+                    "slug": "fighter"
+                },
+                {
+                    "name": "坦克",
+                    "slug": "tank"
+                }
+            ],
+            "game-info-url": "https://lol.qq.com/web201310/info-defail.shtml?id=DrMundo",
+            "biography": {
+                "full": "<p>祖安城中声名狼藉的疯人院里，一个怪异的身影游荡在回廊之间。他的手法激进，他的骨锯锋利，令他的病人们闻风丧胆。因为他根本不是医生，他只是在自己的臆想中治病救人。</p>\n\n<p>虽然他真正的名字早已无人记得，也无据可查，但蒙多医生曾经是祖安某位实力雄厚的炼金男爵手下的打手。人人都知道他的豪爽耿直，对于一个靠威逼胁迫为生的人来说，他有着难得的好脾气。他擅长给人起外号，愿意拍别人后背以示友好，还经常兴高采烈地踩到别人的脚趾而不自知。所以没过多久，他就重重地踩到了自己老板的脚趾。</p>\n\n<p>那位炼金男爵要拿他杀鸡儆猴，于是把他送进了奥斯韦尔德疯人院——那是一个以治疗手段惨无人道、处方用药饱受质疑的地方。那位男爵心满意足地看到自己的打手被捆住手脚，被拖进了疯人院最牢靠的软包病房中。</p>\n\n<p>几个月过去，那些所谓的护工们在这个打手身上进行了不可言说的可怕行径。实验处理的执行从不考虑病人的安危。神经穿刺、脑叶切除、未经认证的药物大剂量注入。这个打手开始发生改变，他壮硕的身躯每天都会长出更多肌肉。而他的大脑则迎来更可怕的命运。他彻底忘记了曾经的生活，也无法理解自己周围这个残酷的世界。他低头看到自己身上破旧的束缚衣——好像跟他身边那些医疗人员的白大褂也没差多少。</p>\n\n<p>他读错了自己衣服上的字，于是开始给自己安上了新名字和新职业。</p>\n\n<p><i>我肯定也是个医生。不然的话怎么会呆在这座破烂的疯人院里呢？</i>他继续推断，<i>那我旁边的这些人……肯定都是我的患者。</i></p>\n\n<p>最后有一天，那名炼金男爵终于来接他的打手出院了。令他震惊的是，正门大厅没人接待。走廊空荡死寂，只有尽头一间屋子里某个疯人患者发出微弱的胡言乱语。</p>\n\n<p>男爵走进那间屋子，看到一片骇人的景象：地板上散落着无数具尸体——医者和患者，全都支离破碎无法分辨。唯一站着的，是一个魁梧高大、皮肤发紫的怪物，口中喋喋不休，不知在说些什么，一条肥大的蓝舌头从张开的大嘴里耷拉出来。贲凸的肌肉几乎要把衣服撑破，而他的手里紧紧攥着一把外科手术用的锯刀。那名男爵面色煞白，因为他看到了这个怪物的脸——他认出来这就是自己的打手。</p>\n\n<p>而那个打手根本记不得自己以前的老板，他看到的只有迫切需要治疗的患者。那个紫色的怪物向炼金男爵走去，兴冲冲地挥动骨锯。男爵掏出炼金科技手枪向他开火。子弹撕开怪物胸前的肉块，让他停下脚步……</p>\n\n<p>但只是短暂的停顿。</p>\n\n<p>那个怪物身上的伤口快速愈合，新鲜的肌肉迅速覆盖了缺口。怪物顿了一下，用异样的目光打量男爵一眼，然后吐出一句，“你病了。得治！”</p>\n\n<p>他模仿自己在疯人院里见过的做法，像那些曾经的医者无数次做过的那样，他把面前这个人扔上旁边的病床，把他的胳膊捆到床栏上，然后准备手术器械。那位炼金男爵意识到自己即将迎来何种可怕命运，面无血色。</p>\n\n<p>随后的那场手术——和前前后后许多场手术一样，都<i>不</i>成功。这位大块头医生把患者的残骸扔到地上那一大堆患者中间。虽然没能挽救他们令他难过，但他知道自己已经全力以赴了。再说，以后还有很多机会。祖安有许多病人等待治疗。于是他脸上重新挂起微笑，离开医院，出发去大街小巷里寻找患者。</p>",
+                "short": "精神与认知彻底崩坏、杀人的欲望永不满足、浑身皮肤紫得发黑，这就是蒙多医生，这就是祖安人在漆黑的夜里不敢出门的原因。如今的他自封为一名医生，但在以前，他是祖安最臭名昭著的疯人院里的病人。在“治愈”疯人院里的全体工作人员后，蒙多医生在过去收治他的空病房里搭起了手术台，有模有样地还原起他当年亲历的各种非人实验。蒙多医生的药柜里装满了瓶瓶罐罐，脑子里却丝毫没有半点医学知识。随着他把药剂一针针注入体内，他的外貌也变得愈发丑陋骇人，把误入他办公室周围的“病人”吓得魂飞胆散。",
+                "quote": "“我是个好医生，看过的病人犯病从来不犯第二次。”",
+                "quote-author": "蒙多医生"
+            },
+            "headerImage": null
+        },
+        {
+            "type": "champion",
+            "release-date": "2012-12-19T00:00:00.000Z",
+            "name": "蔚",
+            "title": "皮城执法官",
+            "section-title": "蔚",
+            "slug": "vi",
+            "associated-faction": "",
+            "associated-faction-slug": "piltover",
+            "image": {
+                "title": "vi-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt386aa1a09687ad91-Vi_0.jpg",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 926,
+                "y": 135,
+                "featured-champions": []
+            },
+            "background": {
+                "title": "vi-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt386aa1a09687ad91-Vi_0.jpg",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 926,
+                "y": 135,
+                "featured-champions": []
+            },
+            "url": "/zh_cn/champion/vi",
+            "video": {
+                "title": "vi-splashvideo-webm",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt3265d4d974879b08-vi-splashvideo.webm",
+                "encoding": "video/webm",
+                "width": 1280,
+                "height": 720,
+                "x": 926,
+                "y": 135,
+                "featured-champions": []
+            },
+            "races": [],
+            "roles": [
+                {
+                    "name": "战士",
+                    "slug": "fighter"
+                },
+                {
+                    "name": "刺客",
+                    "slug": "assassin"
+                }
+            ],
+            "role": [
+                {
+                    "name": "战士",
+                    "slug": "fighter"
+                },
+                {
+                    "name": "刺客",
+                    "slug": "assassin"
+                }
+            ],
+            "game-info-url": "http://gameinfo.na.leagueoflegends.com/en/game-info/champions/vi",
+            "biography": {
+                "full": "<p>蔚在祖安这片土地上几乎没有什么儿时的回忆，能记得的片断也让她不堪回首。她一直跟着地下帮派从小混到大，很快就学会了利用头脑和双拳生存下去。每个遇到过蔚的人都会见识到她用言辞——或者蛮力——摆平麻烦事的本领。当然，大多数时候还是后者。</p><p>蔚年轻时，身边的老人们对她的父母和她的出身一概不知。大多数人都猜测她的父母死于一次工业事故，可令人唏嘘的是，祖安的工业事故根本是家常便饭。总之她最后流落到了“希望之屋”孤儿院，一个出名疯癫的地沟拾荒者说蔚是他捡回来的，当时她躺在一个双人摇篮中，被遗弃在一座炼金实验室的废墟里。最后，蔚放弃追寻自己的身世。她开始懂了，有些事还是不知道比较好。</p><p>粉色的乱发让蔚成为祖安的大街小巷中最容易辨认的身影——被愤怒的店主追赶着穿过边境市场；或者大摇大摆地走在黑窄巷的缤纷集市上；又或是搭上海克斯压力运送机的顺风车前往皮尔特沃夫。只要有什么谋划中的抢劫或者酝酿中的骗局，就一定有蔚的一份，不过她偷东西从不让人倾家荡产，打人也从不滥伤无辜。</p><p>随着一天天长大成熟，蔚组建了自己的帮派，孩童时的小打小闹终于变成了成人间的横冲直撞。她蛮横无理、暴虐乖戾，对拳头的热衷依然超出常人，因此总是鼻青脸肿、旧伤未愈又添新伤。</p><p>黑窄巷外围一家酒吧的老板成为了蔚的导师，他劝化了她一部分可能导致自我毁灭的危险倾向。为了巩固蔚的行事准则，他也展示了如何在战斗中进行自控，甚至还教会了她如何以更好的方式疏导心中难以平复的愠怒。</p><p>蔚很快闯出了名号，收人钱财替人消灾，从来不会多问。</p><p>蔚在酒吧里听到一些矿工常客的聊天，得知了几笔巨额交易的时间，以及具体的支付方式。对于一名炼金男爵，这只是个零头——但对于她和伙伴们，这可是一笔大财。她谋划了一次抢劫，但她知道这个计划需要更多人手才能执行，所以蔚不得不把一个敌对帮派拉入伙——坊木魔鬼帮。</p><p>计划原本进展顺利，可没想到魔鬼帮的老大用一副巨大的碎石拳套杀掉了矿主，还把其余的工人都困在坑道里。就在两个帮派分赃跑路的同时，蔚知道自己无法见死不救。她戴上了那副拳套，腕部机械装置死死咬住了蔚的手臂，但她强忍着剧痛，硬是打通了一条出路，将矿工们救了出来。</p><p>第二天，蔚登门拜访了坊木魔鬼帮。动力拳套依然戴在她手上，她独自一人用拳头好好教训了整个帮派的人。时至今日，黑窄巷里依然流传着那一天的传奇故事。</p><p>在一段动乱时期，蔚从祖安城中消失了，当时祖安和皮尔特沃夫之间的关系极为紧张。帮派之中有传闻称蔚死在一次祖安城中心的大爆炸事故中，但也有人说她背弃了朋友，流亡到了远方。然而，最后真相大白的时候人们全都瞠目结舌：老饿鬼疤被人一锅端了。因为这个帮派的连环谋杀案已经做到了皮尔特沃夫，最后引来了皮城女警——和她的新朋友，蔚。</p><p>曾经的祖安帮派老大现在受雇于皮尔特沃夫守卫，而且她还将原来的炼金动力拳套换成了一副海克斯科技“阿特拉斯”原型机。</p><p>没人知道蔚和凯特琳的合作是为何以及<i>如何</i>形成的——不过考虑到皮尔特沃夫最近出现的犯罪高峰及其混乱特性，人们普遍猜测她们的联合是被第三个人促成的——那个来自祖安的青发小疯子……</p>",
+                "short": "蔚曾经是祖安黑街上的破坏分子。她性格急躁、脾气火爆、凶神恶煞，对权威满心不屑。蔚从小到大都是孤身一人，所以练就了一身生存的本能，也培养了一种恶毒刻薄的幽默感。现在，蔚与皮尔特沃夫守卫一起合作，维护着皮城的安宁。靠着她手上的一副巨型海克斯科技拳套，无论是铜墙铁壁还是嫌犯都不在话下。",
+                "quote": "“你是想来硬的呢，还是想来硬的呢？”",
+                "quote-author": ""
+            },
+            "headerImage": null
+        }
+    ],
+    "modules": [
+        {
+            "slug": "shaco-image-gallery",
+            "type": "image-gallery",
+            "section-title": "",
+            "isFanArt": false,
+            "fan-art-url": "",
+            "featured-image": "",
+            "title": "",
+            "subtitle": "",
+            "assets": [
+                {
+                    "title": "萨科速写",
+                    "subtitle": "",
+                    "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt7630c66e6182772e-shaco_dark_jester_sketch.jpg",
+                    "encoding": "image/jpeg",
+                    "width": 1350,
+                    "height": 1080,
+                    "x": 696,
+                    "y": 35,
+                    "featured-champions": []
+                },
+                {
+                    "title": "萨科早期概念图",
+                    "subtitle": "",
+                    "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt983979b755bc0cba-shaco_dark_jester.jpg",
+                    "encoding": "image/jpeg",
+                    "width": 1195,
+                    "height": 1080,
+                    "x": 761,
+                    "y": 114,
+                    "featured-champions": []
+                }
+            ],
+            "featured-champions": [
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                }
+            ]
+        },
+        {
+            "slug": "lulu-shaco-song",
+            "type": "featured-video",
+            "section-title": "英雄联盟音乐专辑",
+            "featured-image": {
+                "title": "featuredvideocover-lulu-shaco-song",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt05b30a0926eb992c-lulu-shaco-song.jpg",
+                "encoding": "image/jpeg",
+                "width": 1920,
+                "height": 1080,
+                "x": 960,
+                "y": 495,
+                "featured-champions": []
+            },
+            "title": "璐璐和萨科的离奇邂逅",
+            "subtitle": "",
+            "description": "",
+            "uri": "https://v.qq.com/x/page/j036555nafc.html",
+            "video": {
+                "type": "video",
+                "title": "",
+                "subtitle": "",
+                "description": [],
+                "uri": "https://v.qq.com/x/page/j036555nafc.html",
+                "width": "",
+                "height": "",
+                "x": "",
+                "y": "",
+                "featured-champions": []
+            },
+            "blackout": null,
+            "release-date": "2015-01-27T16:00:00.000Z",
+            "video-type": "song-visualization",
+            "featured-champions": [
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                },
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                }
+            ],
+            "related-champions": [
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                },
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                }
+            ]
+        }
+    ]
+}

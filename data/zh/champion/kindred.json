@@ -1,0 +1,772 @@
+{
+    "id": "kindred",
+    "name": "千珏",
+    "title": "永猎双子",
+    "locale": "zh_cn",
+    "champion": {
+        "type": "champion",
+        "release-date": "2015-10-14T00:00:00.000Z",
+        "name": "千珏",
+        "title": "永猎双子",
+        "section-title": "千珏",
+        "slug": "kindred",
+        "associated-faction": "",
+        "associated-faction-slug": "unaffiliated",
+        "image": {
+            "title": "kindred-splash",
+            "subtitle": "",
+            "description": "",
+            "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt63aee598eae2eab3-Kindred_0.jpg",
+            "encoding": "image/jpeg",
+            "width": 1215,
+            "height": 717,
+            "x": 983,
+            "y": 220,
+            "featured-champions": []
+        },
+        "background": {
+            "title": "kindred-splash",
+            "subtitle": "",
+            "description": "",
+            "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt63aee598eae2eab3-Kindred_0.jpg",
+            "encoding": "image/jpeg",
+            "width": 1215,
+            "height": 717,
+            "x": 983,
+            "y": 220,
+            "featured-champions": []
+        },
+        "url": "/zh_cn/champion/kindred",
+        "video": {
+            "title": "kindred-splashvideo-webm",
+            "subtitle": "",
+            "description": "",
+            "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/bltf45299f76bd51981-kindred-splashvideo.webm",
+            "encoding": "video/webm",
+            "width": 1280,
+            "height": 720,
+            "x": 983,
+            "y": 220,
+            "featured-champions": []
+        },
+        "races": [],
+        "roles": [
+            {
+                "name": "射手",
+                "slug": "marksman"
+            }
+        ],
+        "role": [
+            {
+                "name": "射手",
+                "slug": "marksman"
+            }
+        ],
+        "game-info-url": "https://lol.qq.com/web201310/info-defail.shtml?id=Kindred",
+        "biography": {
+            "full": "<p>千珏，作为象征死亡的一对精魂，他们互相独立，却从未分离。对于坦然接受命运的人来说，羊灵的长弓可以痛快地送他们离开生者的乐园;而妄图逃脱宿命的人则由狼灵追捕，痛苦地倒在他有力的撕咬下。虽然在符文之地上到处是关于千珏的不同传言，但每个人在临终时都会看到死亡的真正面孔。或者说，其中的一张。</p><p>千珏既是白色空无的最后怀抱，也是黑暗世界的吮血利齿。牧人与屠夫、诗人和野兽……他们融为一体，对面成双。当一个可怜的人命悬一线时，他喉头的呻吟在千珏听来甚于洪钟。若是从容面对羊灵手中银白的长弓，她会让你毫无痛苦地去向极乐。但如果你抗拒挣扎，狼灵便会愉悦地开始他的捕猎。而每一次追捕，都以惨烈的死亡收场。</p><p>从符文之地的人们对死亡有概念以来，千珏就一直在大地上四处漂流。据说，当死亡到来时，一个真正的德玛西亚人会选择接受羊灵的利箭;而在诺克萨斯的暗巷黑街，则随时可见狼灵追猎时飘忽的身影。弗雷尔卓德的冰天雪地中，某些部族会在开拔战场之前举行“吻狼”的仪式，发誓以敌人的鲜血称颂狼灵的追捕。而每年的蚀魂夜之后，比尔吉沃特的镇民们会聚在一起，一边庆祝彼此的幸存，一边纪念被双子终结的灵魂。</p><p>否认千珏的存在即是否认万事运行的自然规律。不过，仍有一些畸怪的灵魂逃脱了命运的安排。但他们落得流离失所，每日担惊受怕的苟活不亚于活在一场永无止境的噩梦中。千珏耐心地守望着那些被关押在暗影岛地下的活死人。因为他们知道，所有不肯安息的活物，都终将葬身于羊弓或狼牙之下。</p><p>永猎双子最早有迹可查的记录是一对来自远古时代的面具，由无名的工匠刻在了被遗忘之人的坟茔上。而如今，羊灵和狼灵形影不离，千珏的名字也已经历经了无数年代，无人不知。</p>",
+            "short": "千珏，作为象征死亡的一对精魂，他们互相独立，却从未分离。对于坦然接受命运的人来说，羊灵的长弓可以痛快地送他们离开生者的乐园，而妄图逃脱宿命的人则由狼灵追捕，痛苦地倒在他有力的撕咬下。虽然在符文之地上到处是关于千珏的不同传言，但每个人在临终时都会看到死亡的真正面孔。至于是哪一面，完全出自个人的抉择。",
+            "quote": "“羊啊，再说一遍，我们可带走什么?”<br>“一切，亲爱的狼。”",
+            "quote-author": "千珏"
+        },
+        "headerImage": null
+    },
+    "related-champions": [
+        {
+            "type": "champion",
+            "release-date": "2009-06-12T00:00:00.000Z",
+            "name": "卡尔萨斯",
+            "title": "死亡颂唱者",
+            "section-title": "卡尔萨斯",
+            "slug": "karthus",
+            "associated-faction": "",
+            "associated-faction-slug": "shadow-isles",
+            "image": {
+                "title": "karthus-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/bltebadd1f72b936e6f-Karthus_0.jpg",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 901,
+                "y": 0,
+                "featured-champions": []
+            },
+            "background": {
+                "title": "karthus-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/bltebadd1f72b936e6f-Karthus_0.jpg",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 901,
+                "y": 0,
+                "featured-champions": []
+            },
+            "url": "/zh_cn/champion/karthus",
+            "video": null,
+            "races": [],
+            "roles": [
+                {
+                    "name": "法师",
+                    "slug": "mage"
+                }
+            ],
+            "role": [
+                {
+                    "name": "法师",
+                    "slug": "mage"
+                }
+            ],
+            "game-info-url": "https://lol.qq.com/web201310/info-defail.shtml?id=Karthus",
+            "biography": {
+                "full": "<p>卡尔萨斯是湮灭的使者，是不死的亡灵。从来都是未见其恐怖身影，先闻其鬼魅挽歌。活着的人惧怕那些永世不得超生的亡灵，但卡尔萨斯却在亡灵的存在中只看到了美丽和纯洁，他看到的是生与死的完美融合。当卡尔萨斯从暗影岛获得新生的时候，他决心要担任不死亡灵的使徒，把死亡的欣喜带给所有凡人。</p><p>卡尔萨斯出生在诺克萨斯首都城墙下，贫民窟最底层。他的母亲在他出生的同时去世了，只剩下他的父亲独自抚养他和他的三个姐姐。他们与其他几个家庭共同住在一所残破不堪、蝇飞鼠窜的救济院中，靠雨水和害虫填饱肚子。卡尔萨斯是所有孩子中最擅长觅食的，经常为他们的大锅中增添一些残缺不全的尸体。</p><p>在诺克萨斯的贫民窟中，死亡是人们习以为常的，父母一觉醒来发现身边的孩子已经僵硬冰凉，新的一天便从他们的啜泣声中开始了。卡尔萨斯慢慢地学会了欣赏这些啜泣和哀悼，他还会着迷地望着千珏教团的死亡记录员在自己的手杖上刻下计数印记，然后将尸体抬出救济院。到了晚上，少年卡尔萨斯会偷偷在拥挤的救济院里四处张望，寻找那些奄奄一息的人，希望能看到他们灵魂跨越生死的瞬间。不过许多年过去了，他的夜游始终无果，因为没人能准确预计一个人的死亡时间。他一直都没机会看到人死去的那一刻，直到有一天死亡开始造访他的家人。</p><p>在如此拥挤密集的居住区中，疾病爆发是常有的事，卡尔萨斯的姐姐们也染上了瘟疫，于是他开始精心照看她们。他的父亲只知道借酒消愁，这时候卡尔萨斯成为了恪尽职守的弟弟，在他姐姐们身染重病、生命垂危之际给予关怀和照顾。他看着三位姐姐一个接着一个地死去，在她们临终渐渐暗淡的眼神中，卡尔萨斯仿佛感受到了某种神圣的召唤 —— 他想要了解死后世界，渴望探究永恒存在的奥秘。当死亡记录员前来带走尸体的时候，卡尔萨斯跟着他们回到了神庙，不停地向他们提问关于千珏教团以及关于丧葬工作的事。一个人可不可以存在于生命结束但又未迎来死亡的夹缝中？如果生死之间的交界能够被理解并掌控，那么生命的智慧是不是能与死亡的明朗融为一体？</p><p>死亡记录员很快就觉得卡尔萨斯非常适合加入他们的教团，并吸纳他加入自己的行列，最初卡尔萨斯负责挖掘坟墓和拾柴火葬，后来升为了收尸者。卡尔萨斯每天都会推着他的骨制小车，在诺克萨斯的大街上收纳尸体。很快，全诺克萨斯都对他的安魂曲有所耳闻，他的悼词悲恸凄美，描绘了死亡的美丽，祈愿死后世界是令人向往的圣地。许多悲痛欲绝的死者亲属都会从他的哀乐中找到慰藉，在挽歌中获得平和。最后，卡尔萨斯被派到神庙中，专门负责照看病人，给与他们临终关怀，在死亡如期而至的时候与死者共同迎接。卡尔萨斯会在每个人临终之前对他们低声说话，引导死者的灵魂渐渐走向死亡，并在瞑目以后寻找更加深奥的智慧。</p><p>最后，卡尔萨斯终于发现，他无法从凡人身上学到更多东西，只有死人才能回答他的问题。虽然死去的灵魂无法告诉他死后世界是什么样的，但却有一些用来吓唬小孩子的玄幻的故事和传说，讲述着一个死亡并不意味终结的地方——暗影岛。</p><p>卡尔萨斯将神庙金库里的钱席卷一空，凑齐路费前往比尔吉沃特，这座城市正在被一种奇怪的黑雾萦绕，据说会将人的灵魂拉向大海远方的诅咒之岛。没有任何一位船长愿意载卡尔萨斯前往暗影岛，但最后他找到了一位酩酊大醉的渔夫，因为举债如山所以破釜沉舟。渔船在大海中航行了许多个昼夜，最后一阵风暴把他们吹上了一座海图上从未标记过的岛屿，卡在了岸边的礁石上。一团黑雾从扭曲的树林和荒芜的废墟之中滚滚而出。渔夫立刻将船撤出礁石，调转船头向比尔吉沃特的方向仓皇而逃，但卡尔萨斯却跳下了船，涉水走上了沙滩。他紧扶着自己刻满痕迹的死亡记录员之杖，勉强站稳，然后骄傲地唱起了他为自己临终谱写的挽歌，他的歌声顺着一股寒风飘进了岛屿的中心。</p><p>黑雾继续飘散，穿过了卡尔萨斯，用古老的魔咒蹂躏着他的肉体和灵魂，但他超脱死亡的欲望是如此强烈，就连黑雾都没有将他彻底击倒。相反，黑雾重塑了他，卡尔萨斯在岛屿的滩涂上获得了重生，成为了一具没有肉体的幽魂。</p><p>卡尔萨斯实现了一直以来的愿望，成为了自己梦寐以求的存在形式，站在了生与死的交界处，这时他获得了新的启示。一刻成为永恒，这种美感让他惊奇赞叹，与此同时岛上的其他怨灵全都醒了过来，就像鲨鱼闻到了鲜血一样，被卡尔萨斯的热情吸引过来，见证他的转变。卡尔萨斯终于找到了自己的归宿，他周围的灵魂全都能领会到不死祝福的真谛。一股义不容辞的狂热注满了卡尔萨斯，他知道，自己必须回到瓦洛兰，将自己的礼物分享给其他活着的人，将他们从那些微不足道的世俗担忧中解脱出来。</p><p>卡尔萨斯转过身去，黑雾载着他飘在海浪上，追上了渔夫的小船。渔夫跪在卡尔萨斯面前，求他饶命，但卡尔萨斯却赐给了他死亡的祝福，终结了他的世俗苦痛，在亡灵的挽歌中重生为不灭的鬼魂。这位渔夫是卡尔萨斯解放的众多灵魂中的首例，很快，这位死亡颂唱者就将指挥一支不死怨魂组成的大军。在卡尔萨斯新觉醒的感官中，暗影岛处于一种无情的冥河边界状态，肆意地浪费着死亡的福祉。他要催动亡者进行一场圣战，将湮灭的美好送给活着的凡人，结束俗世间的痛苦，开启不死亡灵的光辉时代。</p><p>卡尔萨斯成为了暗影岛的使者，湮灭的代言人，他的悼词赞美着死亡的荣光。他的亡魂军团也会加入他的安魂曲合唱，他们挥之不去的歌声会传出黑雾的范围，在寒冷的夜晚，回荡在全瓦洛兰大陆的墓地和停尸间中。</p>",
+                "short": "卡尔萨斯是湮灭的使者，是不死的亡灵。从来都是未见其恐怖身影，先闻其鬼魅挽歌。活着的人惧怕那些永世不得超生的亡灵，但卡尔萨斯却在亡灵的存在中只看到了美丽和纯洁，这是生与死的完美融合。当卡尔萨斯从暗影岛获得新生的时候，他决心要担任不死亡灵的使徒，把死亡的欣喜带给所有凡人。",
+                "quote": "“死亡不是终点，旅程才刚刚开始……”",
+                "quote-author": "卡尔萨斯"
+            },
+            "headerImage": null
+        },
+        {
+            "type": "champion",
+            "release-date": "2010-02-24T00:00:00.000Z",
+            "name": "莫德凯撒",
+            "title": "铁铠冥魂",
+            "section-title": "莫德凯撒",
+            "slug": "mordekaiser",
+            "associated-faction": "",
+            "associated-faction-slug": "noxus",
+            "image": {
+                "title": "mordekaiser-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt626d0a9a6c259304-Classic_Mordekaiser_Splash.jpg",
+                "encoding": "image/jpeg",
+                "width": 5146,
+                "height": 2780,
+                "x": 2356,
+                "y": 222,
+                "featured-champions": []
+            },
+            "background": {
+                "title": "mordekaiser-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt626d0a9a6c259304-Classic_Mordekaiser_Splash.jpg",
+                "encoding": "image/jpeg",
+                "width": 5146,
+                "height": 2780,
+                "x": 2356,
+                "y": 222,
+                "featured-champions": []
+            },
+            "url": "/zh_cn/champion/mordekaiser",
+            "video": null,
+            "races": [],
+            "roles": [
+                {
+                    "name": "战士",
+                    "slug": "fighter"
+                }
+            ],
+            "role": [
+                {
+                    "name": "战士",
+                    "slug": "fighter"
+                }
+            ],
+            "game-info-url": "https://lol.qq.com/web201310/info-defail.shtml?id=Mordekaiser",
+            "biography": {
+                "full": "<p>在上一个纪元，凶残的军阀萨恩·乌祖尔肆虐于北方大地。他受到黑暗信仰的驱使，清洗了所有阻拦他的部落和村庄，以鲜血和死亡熔铸起自己的帝国。他在行将就木之时却十分欣喜，因为他很肯定自己生前的作为已经让他在骸骨大殿中获得了永远与神同列的资格。</p><p>可是，在他死去以后等待着他的，并不是成神的荣耀或是宏伟的大殿。萨恩·乌祖尔站在一片灰蒙的荒原上，只有杂乱的低语萦绕耳边，幽灵般的雾气缠裹着身体。偶尔有迷失的亡魂飘过——一些渺小的鬼影，恍惚于自身的虚无。</p><p>萨恩·乌祖尔怒不可遏。难道他的信仰一直是谎言？还是说，他生前的征伐仍不足以换取他梦寐以求的永生？眼前的虚无怎么可能就是自己生命尽头的光景——虽然看似毫无尽头。他看着弱小的亡魂渐渐隐入雾气，从此消散于时光之中。</p><p>但是萨恩·乌祖尔拒绝消散。</p><p>经受过怒火与残暴锤炼的意志让他保住了意识。许久之后，原本模糊不清的低语逐渐凝结成了他几乎可以理解的词汇——他最后明白，这是欧琛语，一种绝不属于任何活物的罪恶语言。他残存的意念里慢慢地浮现出一个诡计。他的低语开始渗透不同领域之间的帷幕，向任何敢于聆听的人许诺自己不败的力量。</p><p>他没有等待太久。一伙巫师听从了他的召唤，决定将他带回生者的世界。没有血肉和骸骨的他，鼓动巫师们将自己的灵体封存在一副形貌恰似他生前穿着的黑铁板甲中，获得了足以藐视凡人的力量。无情的铁铠冥魂就此诞生。</p><p>渴求力量的巫师们原本希望的是利用他作为自己无聊战争中的武器。然而，他当场便处决了所有人，巫师们的魔法和武装对他形同虚设。</p><p>绝望之际，他们喊着他的名字企图将他再次封印——但只是徒劳，因为萨恩·乌祖尔早已不复存在。</p><p>随着一句缥缈的低语，他说出了自己在欧琛语中的名字：<i>莫德凯撒</i>。</p><p>他再次开始了对凡人世界的征讨。他的野心仍然宏大，而在死灵法术的加持之下，他的力量却超乎自己的想象。莫德凯撒用巫师们的亡魂铸造了一把凶残的钉锤，夜陨。这件号令死者的武器可以控制他们复活的亡灵。</p><p>在他的敌人眼中，莫德凯撒似乎只执着于屠杀和毁灭。残酷的征战几乎抹去了整整一代人。</p><p>但是，莫德凯撒的计划远不止如此。他在帝国中心建起了不朽堡垒。很多人以为这只是一个权力的象征，但有些人发觉了其中的秘密。莫德凯撒渴望掌控灵魂和死亡的所有禁忌知识，并且彻底理解物质领域……或是任何领域。</p><p>暴政只会树敌。最终，一众诺克希部落的联军，加上亲信的背叛，竟然击败了铁铠冥魂。他们切断了莫德凯撒的灵魂与盔甲之间的联结，然后将这副空壳封存在了秘处。</p><p>莫德凯撒就这样被驱逐出了物质领域。然而，没有人知道，这恰是他的计划，而且是关键的一步。权力和诡计虽然让他荣极一时，但他知道还有比骸骨大殿更为伟大的命运在等待他。</p><p>在曾经空旷的荒原上，所有死在他暴虐统治之下的亡魂都在静候。黑暗巫术侵蚀后的亡灵不会消散。其中最强大的灵魂成为了他虔诚的不朽军队，由他的意志操控……而弱小者也同样有自己的任务。</p><p>凭借这些灵魂，莫德凯撒将会建立新的帝国。他们将会成为冥界帝国的砖瓦。</p><p>符文之地转瞬千年，不朽堡垒周围兴起了又一个帝国。了解古代历史的人依然会带着恐惧与敬畏低声说起莫德凯撒的名字。还有少数久远的亡灵也仍记得他的暴行。他们最大的恐惧就是莫德凯撒有朝一日找到了办法重返人间，永远盘踞。</p><p>他们默默祈祷这永远不会发生，因为他们知道，没有任何办法可以阻止他的征讨。</p>",
+                "short": "两度被杀，三度重生。莫德凯撒是一位来自远古纪元的残酷军阀，他使用死灵巫术将无数灵魂禁锢在永恒的奴役中。现在几乎无人记得他早期的那些征服战争，也无人知道他有多强大的力量，但也有一些古老的灵魂认得他，而他们一直都在担心有一天他会回来，同时统治生者和死者。",
+                "quote": "“天命。主宰。欺诈。”",
+                "quote-author": "莫德凯撒"
+            },
+            "headerImage": null
+        },
+        {
+            "type": "champion",
+            "release-date": "2011-06-22T00:00:00.000Z",
+            "name": "约里克",
+            "title": "牧魂人",
+            "section-title": "约里克",
+            "slug": "yorick",
+            "associated-faction": "",
+            "associated-faction-slug": "shadow-isles",
+            "image": {
+                "title": "yorick-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt54ec063fda332295-Yorick_0.jpg",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 968,
+                "y": 11,
+                "featured-champions": []
+            },
+            "background": {
+                "title": "yorick-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt54ec063fda332295-Yorick_0.jpg",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 968,
+                "y": 11,
+                "featured-champions": []
+            },
+            "url": "/zh_cn/champion/yorick",
+            "video": {
+                "title": "yorick-splashvideo-webm",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt1db6b8ba59fc1ea0-yorick-splashvideo.webm",
+                "encoding": "video/webm",
+                "width": 1280,
+                "height": 720,
+                "x": 968,
+                "y": 11,
+                "featured-champions": []
+            },
+            "races": [],
+            "roles": [
+                {
+                    "name": "战士",
+                    "slug": "fighter"
+                },
+                {
+                    "name": "法师",
+                    "slug": "mage"
+                }
+            ],
+            "role": [
+                {
+                    "name": "战士",
+                    "slug": "fighter"
+                },
+                {
+                    "name": "法师",
+                    "slug": "mage"
+                }
+            ],
+            "game-info-url": "https://lol.qq.com/web201310/info-defail.shtml?id=Yorick",
+            "biography": {
+                "full": "<p>约里克所在的教团早已被世人忘却，而他也成为了最后的幸存者。说不上是诅咒抑或是祝福，他拥有操控死者的能力。与他一同被困在暗影岛上的，只有逐渐腐败的尸体，还有他引到自己身边终日尖啸的死灵。约里克怪异的举止下掩藏着的却是他决绝的憧憬：在破败之咒的阴影下解放他的家园。</p><p>早在孩童时期，约里克就没有体验过普通人的生活。他出生在福光岛边缘岛屿的一座渔村，一直都在苦苦寻求接受与认同。大多数同龄的孩子都在玩捉迷藏的时候，年轻的约里克就开始结交另类的朋友了——尸骨未寒的亡者的灵魂。</p><p>起初，约里克见了鬼的阴阳眼让他惊恐万分。只要村里有人去世，约里克就会整晚不睡觉，等着新访客冷彻心扉的啼哭。他不理解为什么他会成为灵魂叨扰的对象，也不理解为什么他的父母坚称他看见的灵魂只不过是噩梦。</p><p>逐渐，他开始懂了，那些灵魂并不想伤害他。他们只是迷失了方向，需要帮助才能找到前往彼端的路。因为约里克是唯一一个能够看到这些灵魂的人，所以他主动肩负起了向导的重任，陪他们走完最后一程，共同面对永恒彼端等待他们的命运。</p><p>这项任务喜忧参半。约里克发现自己很喜欢与鬼魂为伴，但每当他送走一个好友前往安息之所，都意味着永别。对于亡者而言，他是救星，而对于生者而言，他是个让人唯恐避之不及的扫把星。村民们看到的约里克只是一个神叨叨地对着空气说话的小男孩。</p><p>约里克的阴阳眼很快传出了他的村子，福光岛中心居住的少数僧侣得知以后非常好奇。他们派出了使者小队前往约里克所在的小岛，因为他们认为约里克可以成为他们信仰的工具。</p><p>约里克欣然同意前往他们的寺院，在那里他学习了暮光兄弟会的处世之道，以及他们着装的真正意义。每个僧侣都会随身佩一把铲刀，象征着他们的职责——以妥善的仪式安葬死者，确保他们的亡魂不会迷路。兄弟会成员还会佩戴一个小瓶子，里面承载着福光岛的圣泉之水。他们称之为生命之泪，这小瓶子象征着他们的另一个职责——救死扶伤。</p><p>然而，无论约里克多么努力，他都无法获得其他僧侣的接受和认可。对他们来说，原本只能靠皈依信仰才能理解的哲理，在他身上却变成了看得见摸得着的实物。他们厌恶他的能力，他所感知到的东西是他们需要花费毕生心血才能理解的。约里克遭到了同门兄弟的疏远，再次变成孤单一人。</p><p>一天早晨，约里克正在墓地中处理自己的日常职责，突然一团漆黑的乌云闯入了他的视线，乌云在福光岛的地面上滚动，吞噬了一切物体。约里克想要逃跑，但乌云很快就吞噬了他，将他笼罩在暗影之中。</p><p>约里克环顾四周，一切生灵都在凋零扭曲，被黑雾的邪恶魔法腐化堕落。人类、动物、甚至植物都转变成为丑恶的、尸鬼般的形态。他耳边的狂风诉说着低语，附近的师兄弟们开始撕扯脖子上挂着的装满治愈之水的小瓶子，似乎这些小瓶子正在给他们带来巨大的痛苦。不一会，约里克惊恐地发现，这些僧人的灵魂全都从身体中被抽了出去，只剩下冰冷惨白的尸体。</p><p>在他师兄弟们撕心裂肺的哀嚎声中，约里克独自听到了迷雾中的声音。</p><p>“扔掉它。加入我们。我们将合而为一。”</p><p>他感觉到自己的手指紧握着颈前挂着的小瓶。约里克拼尽了全部的意志力，硬逼着自己松开双手，并命令那些嚎叫的灵魂安静下来。黑雾剧烈地翻滚着，黑暗压倒了他。</p><p>当约里克醒来以后，他发现周围已经风平浪静，曾经肥沃的土地已经变成了诡异荒芜的地狱面貌，福光岛已成为暗影岛。有一缕落单的黑雾紧跟着他，想要夺走这唯一一个尚未被腐化的活物。黑雾虽然紧紧围绕着他，但约里克发现黑雾的触须只要触碰到他颈前的小瓶，就会立刻弹回去。他握紧了这瓶祝福之水，恍然大悟，他能活下来全都是因为这瓶水的存在。</p><p>在随后的几天当中，约里克遍布各座小岛搜寻幸存者，但找到的只有扭曲的残骸。无论他走到哪里，看到的都是悲惨的灵魂从死尸中站起来。</p><p>通过搜索幸存者，约里克开始慢慢猜出来导致这场灾变的起因：一个国王到这里复活自己的王后，结果阴差阳错地摧毁了这片群岛以及上面的一切。</p><p>约里克希望能够找到这位“破败之王”，逆转他所施放的诅咒。但面对周围近乎无穷无尽的死亡，他感到自己渺小而无力。</p><p>约里克沉浸在悲伤里几乎无法自拔，他开始与周围的灵魂说话，希望能够像小时候那样找到慰藉。出乎意料的是，每当他与身边的迷雾交流，就有尸体从坟墓中爬出来，循着他的声音前进。他意识到，这些曾经被他埋葬的尸体现在都在服从他的命令。</p><p>在他绝望的心中出现了希望的微光。为了超度暗影岛的亡者，约里克将使用亡者自己的优势和力量。</p><p>为了终结诅咒，他不得不利用诅咒。</p>",
+                "short": "约里克所在的教团早已被世人忘却，而他也成为了最后的幸存者。说不上是诅咒抑或是祝福，他拥有操控死者的能力。与他一同被困在暗影岛上的，只有逐渐腐败的尸体，还有他引到自己身边终日尖啸的死灵。约里克怪异的举止下掩藏着的却是他决绝的憧憬：解放他的家园于破败之咒的阴影下。",
+                "quote": "“群岛……恸哭。”",
+                "quote-author": "约里克"
+            },
+            "headerImage": null
+        }
+    ],
+    "explore-champions": [
+        {
+            "type": "champion",
+            "release-date": "2022-05-20T17:00:00.000Z",
+            "name": "卑尔维斯",
+            "title": "虚空女皇",
+            "section-title": "卑尔维斯",
+            "slug": "belveth",
+            "associated-faction": "",
+            "associated-faction-slug": "void",
+            "image": {
+                "title": "belveth-splash.jpg",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt318127f5a8847c16-belveth-splash.jpg",
+                "encoding": "image/jpeg",
+                "width": 1920,
+                "height": 1080,
+                "x": 900,
+                "y": 300,
+                "featured-champions": []
+            },
+            "background": {
+                "title": "belveth-splash.jpg",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt318127f5a8847c16-belveth-splash.jpg",
+                "encoding": "image/jpeg",
+                "width": 1920,
+                "height": 1080,
+                "x": 900,
+                "y": 300,
+                "featured-champions": []
+            },
+            "url": "/zh_cn/champion/belveth",
+            "video": null,
+            "races": [],
+            "roles": [
+                {
+                    "name": "战士",
+                    "slug": "fighter"
+                }
+            ],
+            "role": [
+                {
+                    "name": "战士",
+                    "slug": "fighter"
+                }
+            ],
+            "biography": {
+                "full": "<p>卑尔维斯犹如黑暗的癌症般于虚空心脏深处游走扩散。她被已然存在的现实打动，进而渴望创造属于自己的世界，代价则是整个符文之地将被吞噬，最终重造成为她畸怪的愿景。她极度渴望饱食新的体验、记忆和认知，吞下了一座座城市和居民，化作概念和知识，引向一片不断蔓延的异界领地——淡紫之海。然而，随着她宛如原生的海洋一般不断扩增，即便是虚空自身也难以在她的贪婪之下求全。她逼迫所见的一切归顺她的渴望，否则就只有湮灭。</p>\n<p>虽然卑尔维斯是符文之地的新来者，但她却在难以追溯的远古年代便已经开始孕育——虚空曾经与初出的现实发生了一次激烈的反应，结果造就了她的开端。当存在成为实体，曾经宁静的虚无便无可挽回地打破了。虚空被迫分化成无数个体，亘古不休地源源涌现，为的是抵挡现实所带来的震惊和苦痛。被它们吞噬的一切都化作无物，“虚空”二字也正因此得名。可是，每次与现世的接触都会让虚空中的造物从曾经完美的形态逐渐变异成沉溺于欲望和暴力的动物。</p>\n<p>虚空也随之嬗变。每次冲突和入侵过后，在虚空物留下的孔道中，最幽深的隐蔽处所包藏的子宫里，某种更加不祥的事物就又成熟了一分……建筑、阳光、初具雏形的人类肢体伸进一片虚无……一幅永远找不齐碎片的拼图……虚空有了一具更为恐怖的新形象。岁月更变，人类撕开了战争的序幕，监视者们也在筹划着入侵弗雷尔卓德。两者的共同作用下，这不为神明所容的毁灭之物彻底投向了旧时虚空的反面：欲念、贪婪和渴望。</p>\n<p>很快，它便开始渴盼一位领袖的出现。可以是一个人，也可以是一个东西，能够为地上和地下的世界同时开启恐怖的全新篇章。这名领袖要能够与“人们”交流，告诉他们未来的图景，在他们历尽苦战徒劳绝望时采收他们的情感和回忆，直到文明的最后一丝火种熄灭，诞下新的时代。</p>\n<p>这名领袖就是卑尔维斯。她是一位可怖的女皇。一座港口城市及其附近海域被完全吞噬后，其中所有人的记忆、情感和体验共同孕育了她。卑尔维斯的脑海中容有百万年来被精心保存的一切知识，给予了她近乎全知的意识。她意欲摧毁整个符文之地，以及自己的先祖，监视者们所容身的领域。</p>\n<p>若是对她的战略有价值，那就是最为幸运的人。而她对这些尚可利用的人也从不矫饰、不曾发问，更不会对真相模棱两可——她只会平白地陈述事实，因为虚空的本质就已经决定胜利已经近在咫尺，除此之外的一切都无需赘言。而若是不幸触怒了她的人，就会发觉她的人类形体只有为满足功能而存在的部分——神经末梢、肌肉和眼柄——她会展开其庞然的双翼，显现出恐怖的真身。</p>\n<p>讽刺的是，古代恕瑞玛语中有一个词可以描述她的身份。这个词可大致理解为“湮灭之神”，来自某个部落的神话，所描述的是一位冷酷的神祇，不带一丝恨意地抹除一切，并以自身取而代之。卑尔维斯这个城市的名字正是由来于此，虽然背后的真意早在数百年前就已经无人记得。</p>\n<p>但也不完全，至少还有一个“人”记得——这座城市化成的她。</p>\n",
+                "short": "<p>一座被吞噬的城市，哺育了一位噩梦般的女皇。卑尔维斯就是符文之地的终结……也是她亲手规划的可怖现实的开端。地上世界无数世代的历史、知识和记忆驱使着她不知餍足地吞食所过之处的一切体验和情感。然而，区区一个世界完全不能满足她的胃口。卑尔维斯将眼光投向了虚空曾经的主人……</p>",
+                "quote": "“这个世界不会彻底湮灭。我将取而代之，如同一个孩子将父母吞噬。”",
+                "quote-author": ""
+            },
+            "bioImage": null,
+            "headerImage": null
+        },
+        {
+            "type": "champion",
+            "release-date": "2012-09-27T00:00:00.000Z",
+            "name": "卡兹克",
+            "title": "虚空掠夺者",
+            "section-title": "卡兹克",
+            "slug": "khazix",
+            "associated-faction": "",
+            "associated-faction-slug": "void",
+            "image": {
+                "title": "khazix-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt619b602796c258c4-Khazix_0.jpg",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 983,
+                "y": 231,
+                "featured-champions": []
+            },
+            "background": {
+                "title": "khazix-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt619b602796c258c4-Khazix_0.jpg",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 983,
+                "y": 231,
+                "featured-champions": []
+            },
+            "url": "/zh_cn/champion/khazix",
+            "video": {
+                "title": "khazix-splashvideo-webm",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blta12c28e47273ac3d-khazix-splashvideo.webm",
+                "encoding": "video/webm",
+                "width": 1280,
+                "height": 720,
+                "x": 983,
+                "y": 231,
+                "featured-champions": []
+            },
+            "races": [],
+            "roles": [
+                {
+                    "name": "刺客",
+                    "slug": "assassin"
+                },
+                {
+                    "name": "战士",
+                    "slug": "fighter"
+                }
+            ],
+            "role": [
+                {
+                    "name": "刺客",
+                    "slug": "assassin"
+                },
+                {
+                    "name": "战士",
+                    "slug": "fighter"
+                }
+            ],
+            "game-info-url": "https://lol.qq.com/web201310/info-defail.shtml?id=Khazix",
+            "biography": {
+                "full": "一头来自虚空、名为卡兹克的恶毒掠食者渗入了瓦洛兰，准备吞噬这块大陆上最有潜力的生物们。每次猎杀后，他都会吸收掉猎物的力量，让自己进化得更加强大。卡兹克最渴望征服和吞噬的对象是雷恩加尔，一只与他实力在伯仲之间的野兽。<br><br>当卡兹克刚刚穿越到这个世界时，他非常地脆弱和饥饿。他最先遇到的一批动物实在是太弱小了，难以为他的快速进化提供给养。于是，卡兹克将他的目光转移到他所能找到的最为危险的生物上，即便冒着生命危险，也要满足进化所需的给养。每次击杀都让他大快朵颐，焕然一新，变成更强更快的掠食者。很快，卡兹克便开始用无止境的掠食欲来追杀他的猎物，并相信他已经无人能挡。一天，当他正在享用新鲜的猎物时，不幸被黄雀在后了。从遮蔽物后扑出来一只带着獠牙和铁器的生物，猛地将他按在地上。它当着他的面咆哮，又撕又抓，而卡兹克第一次感到他的血喷洒了出来。伴随着愤怒的狂啸，他划破了这头畜生的一只眼睛作为还击。他们从日落战到日出。最后，奄奄一息的他们才不情愿地分开。在他的伤口愈合后，卡兹克开始为吞噬掉这个实力堪比与虚空生物的猎物的想法所煎熬。他重新开始用加倍精力来研究这强大的猎物。终有一日，卡兹克会将雷恩加尔大卸八块，好好品尝。<br><br>",
+                "short": "虚空在成长，虚空在不断适应。在众多虚空生物中，没有哪种比卡兹克更能体现这一特性。进化的动力让这种恐怖不断变异，本能地求生并弑杀强者。只要它遇到了障碍，就会进化出新的、更有效的方法反制并杀掉猎物。卡兹克最初只是个愚钝的野兽，然而它的智力和它的形态一样获得了发展。现在，这只生物会提前计划狩猎行动，甚至懂得在猎物心中制造最真实的恐惧。",
+                "quote": "“杀掉。吃掉。吸收掉。”",
+                "quote-author": "卡兹克"
+            },
+            "headerImage": null
+        }
+    ],
+    "modules": [
+        {
+            "slug": "kindred-promo",
+            "type": "featured-video",
+            "section-title": "",
+            "featured-image": {
+                "title": "featuredvideocover-kindred-promo",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/bltea6bcb9fc5c42582-kindred-promo.jpg",
+                "encoding": "image/jpeg",
+                "width": 1422,
+                "height": 800,
+                "x": 750,
+                "y": 503,
+                "featured-champions": []
+            },
+            "title": "千珏预告视频",
+            "subtitle": "",
+            "description": "听听他们的故事",
+            "uri": "https://v.qq.com/x/page/w0165bad46j.html",
+            "video": {
+                "type": "video",
+                "title": "",
+                "subtitle": "",
+                "description": [],
+                "uri": "https://v.qq.com/x/page/w0165bad46j.html",
+                "width": "",
+                "height": "",
+                "x": "",
+                "y": "",
+                "featured-champions": []
+            },
+            "blackout": null,
+            "release-date": "2015-10-26T15:00:00.000Z",
+            "video-type": "animation",
+            "featured-champions": [
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                }
+            ],
+            "related-champions": [
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                }
+            ]
+        },
+        {
+            "slug": "木秀于林",
+            "type": "story-preview",
+            "title": "木秀于林",
+            "subtitle": "",
+            "description": "在他们的眼中，血腥的战场无异于一顿香气澎湃的盛宴——生命如此美味，尽可攫取，尽可猎杀。狼灵踱过雪地，而羊灵轻捷地踩着剑锋和矛尖前行，血迹斑斑的屠场没有在她苍白的身体上留下半点污秽。<br><br>",
+            "story-slug": "kindred-color-story",
+            "featured-image": {
+                "title": "kindred-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt63aee598eae2eab3-Kindred_0.jpg",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 983,
+                "y": 220,
+                "featured-champions": []
+            },
+            "background": {
+                "title": "storybg-kindred",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt9a98cf88c003c1b0-kindred_background_image.png",
+                "encoding": "image/jpeg",
+                "width": 1898,
+                "height": 1047,
+                "x": 1034,
+                "y": 565,
+                "featured-champions": []
+            },
+            "release-date": "2015-10-14T15:00:00.000Z",
+            "featured-champions": [
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                }
+            ],
+            "minutes-to-read": 5,
+            "url": "/zh_cn/story/kindred-color-story"
+        },
+        {
+            "slug": "续写索阿蒂丝",
+            "type": "story-preview",
+            "title": "续写索阿蒂丝",
+            "subtitle": "作者：Matt Dunn",
+            "description": "塔诺德知道这出戏要砸了，因为他所有的剧作技巧都已用尽。他手下的演员全都开始怯场。可能要怪剧本的行文，或者是迷信的心里在作祟，毕竟他们要表演的是一个已故作家的未竟手稿，所以无论是什么原因，每个演员都在某种程度上有失专业水准。<br><br>",
+            "story-slug": "finishing-soates",
+            "featured-image": {
+                "title": "finishing-soates-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt703307ea958b3ac1-finishing-soates-splash.jpg",
+                "encoding": "image/jpeg",
+                "width": 1920,
+                "height": 1080,
+                "x": 1000,
+                "y": 1000,
+                "featured-champions": []
+            },
+            "background": {
+                "title": "finishing-soates-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt703307ea958b3ac1-finishing-soates-splash.jpg",
+                "encoding": "image/jpeg",
+                "width": 1920,
+                "height": 1080,
+                "x": 1000,
+                "y": 1000,
+                "featured-champions": []
+            },
+            "release-date": "2021-03-19T15:00:00.000Z",
+            "featured-champions": [
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                }
+            ],
+            "minutes-to-read": 5,
+            "url": "/zh_cn/story/finishing-soates"
+        },
+        {
+            "slug": "完美的临终",
+            "type": "story-preview",
+            "title": "完美的临终",
+            "subtitle": null,
+            "description": "玛迦很快就要死了——这是第十四次。她又一次咬下腐烂的苹果。败坏的果肉不出意外地感染了她的身体。女演员踩着人濒死时蹒跚的脚步，尽力喊出临终的台词<br><br>",
+            "story-slug": "kindred-good-death-story",
+            "featured-image": {
+                "title": "top_intro_cover",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt8b13aaaac9cc0b40-top_intro_cover.png",
+                "encoding": "image/jpeg",
+                "width": 0,
+                "height": 0,
+                "x": 0,
+                "y": 0,
+                "featured-champions": []
+            },
+            "background": {
+                "title": "top_intro_cover",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt8b13aaaac9cc0b40-top_intro_cover.png",
+                "encoding": "image/jpeg",
+                "width": 0,
+                "height": 0,
+                "x": 0,
+                "y": 0,
+                "featured-champions": []
+            },
+            "release-date": "2015-10-14T15:00:00.000Z",
+            "featured-champions": [
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                }
+            ],
+            "minutes-to-read": 5,
+            "url": "/zh_cn/story/kindred-good-death-story"
+        },
+        {
+            "slug": "kindred-image-gallery",
+            "type": "image-gallery",
+            "section-title": "",
+            "isFanArt": false,
+            "fan-art-url": "",
+            "featured-image": "",
+            "title": "",
+            "subtitle": "",
+            "assets": [
+                {
+                    "title": "羊灵特性探索",
+                    "subtitle": "",
+                    "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/bltde6f1efc6417aa6c-kindred_farya_exploration.jpg",
+                    "encoding": "image/jpeg",
+                    "width": 1364,
+                    "height": 969,
+                    "x": 765,
+                    "y": 332,
+                    "featured-champions": []
+                },
+                {
+                    "title": "千珏概念图",
+                    "subtitle": "",
+                    "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/bltfc3673eede8e170d-kindred_fw_studies.jpg",
+                    "encoding": "image/jpeg",
+                    "width": 1920,
+                    "height": 653,
+                    "x": 427,
+                    "y": 226,
+                    "featured-champions": []
+                },
+                {
+                    "title": "千珏早期概念图",
+                    "subtitle": "",
+                    "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt3177b5ed13e6a498-kindred_lamb_and_wolf_early_concept.jpg",
+                    "encoding": "image/jpeg",
+                    "width": 1506,
+                    "height": 953,
+                    "x": 36,
+                    "y": 653,
+                    "featured-champions": []
+                },
+                {
+                    "title": "千珏概念图",
+                    "subtitle": "",
+                    "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blta2bd3d55ae4b8abf-kindred_lamb_wolf_exploration.jpg",
+                    "encoding": "image/jpeg",
+                    "width": 1508,
+                    "height": 956,
+                    "x": 902,
+                    "y": 298,
+                    "featured-champions": []
+                },
+                {
+                    "title": "千珏羊灵和狼灵拟人化探索",
+                    "subtitle": "",
+                    "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt44f89ca67f2cac26-kindred_lambwolfanthro.jpg",
+                    "encoding": "image/jpeg",
+                    "width": 1920,
+                    "height": 769,
+                    "x": 1161,
+                    "y": 298,
+                    "featured-champions": []
+                },
+                {
+                    "title": "千珏狼灵头部",
+                    "subtitle": "",
+                    "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt5fcd862894bca0a8-kindred_wolyohead.jpg",
+                    "encoding": "image/jpeg",
+                    "width": 1249,
+                    "height": 1080,
+                    "x": 281,
+                    "y": 885,
+                    "featured-champions": []
+                }
+            ],
+            "featured-champions": [
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                }
+            ]
+        },
+        {
+            "slug": "kindred-devblog",
+            "type": "link-out",
+            "section-title": "Dev Blog",
+            "title": "英雄剖析：永猎双子，千珏",
+            "description": "",
+            "url": "https://lol.qq.com/webplat/info/news_version3/152/4579/4580/m3106/201509/379553.shtml",
+            "featured-image": null,
+            "subtitle": "短篇故事",
+            "background": {
+                "title": "kindred-devblog",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt1a27d88184fc003d-kindred_devblog.jpg",
+                "encoding": "image/jpeg",
+                "width": 1280,
+                "height": 720,
+                "x": 212,
+                "y": 106,
+                "featured-champions": []
+            },
+            "cta": "",
+            "blackout": null,
+            "isFanArt": false,
+            "isComic": false
+        },
+        {
+            "slug": "kindred-login",
+            "type": "featured-video",
+            "section-title": "",
+            "featured-image": {
+                "title": "kindred-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt63aee598eae2eab3-Kindred_0.jpg",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 983,
+                "y": 220,
+                "featured-champions": []
+            },
+            "title": "永猎双子千珏登录界面",
+            "subtitle": "",
+            "description": "",
+            "uri": "https://v.qq.com/x/page/p036305gv9v.html",
+            "video": {
+                "type": "video",
+                "title": "",
+                "subtitle": "",
+                "description": [],
+                "uri": "https://v.qq.com/x/page/p036305gv9v.html",
+                "width": "",
+                "height": "",
+                "x": "",
+                "y": "",
+                "featured-champions": []
+            },
+            "blackout": null,
+            "release-date": "2015-10-14T15:00:00.000Z",
+            "video-type": "champ-login-music",
+            "featured-champions": [
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                }
+            ],
+            "related-champions": [
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                }
+            ]
+        }
+    ]
+}

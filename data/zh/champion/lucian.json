@@ -1,0 +1,1017 @@
+{
+    "id": "lucian",
+    "name": "卢锡安",
+    "title": "圣枪游侠",
+    "locale": "zh_cn",
+    "champion": {
+        "type": "champion",
+        "release-date": "2013-08-22T00:00:00.000Z",
+        "name": "卢锡安",
+        "title": "圣枪游侠",
+        "section-title": "卢锡安",
+        "slug": "lucian",
+        "associated-faction": "",
+        "associated-faction-slug": "unaffiliated",
+        "image": {
+            "title": "lucian-splash",
+            "subtitle": "",
+            "description": "",
+            "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/bltd0d3d68533866389-Lucian_0.jpg",
+            "encoding": "image/jpeg",
+            "width": 1215,
+            "height": 717,
+            "x": 896,
+            "y": 267,
+            "featured-champions": []
+        },
+        "background": {
+            "title": "lucian-splash",
+            "subtitle": "",
+            "description": "",
+            "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/bltd0d3d68533866389-Lucian_0.jpg",
+            "encoding": "image/jpeg",
+            "width": 1215,
+            "height": 717,
+            "x": 896,
+            "y": 267,
+            "featured-champions": []
+        },
+        "url": "/zh_cn/champion/lucian",
+        "video": {
+            "title": "lucian-splashvideo-webm",
+            "subtitle": "",
+            "description": "",
+            "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt0b575231c81dfebf-lucian-splashvideo.webm",
+            "encoding": "video/webm",
+            "width": 1280,
+            "height": 720,
+            "x": 896,
+            "y": 267,
+            "featured-champions": []
+        },
+        "races": [],
+        "roles": [
+            {
+                "name": "射手",
+                "slug": "marksman"
+            }
+        ],
+        "role": [
+            {
+                "name": "射手",
+                "slug": "marksman"
+            }
+        ],
+        "game-info-url": "https://lol.qq.com/web201310/info-defail.shtml?id=Lucian",
+        "biography": {
+            "full": "<p>从孩童时代开始，卢锡安最大的心愿就是成为自己父亲乌利亚斯那样的人，成为远古教团“光明哨兵”的一员。当卢锡安在德玛西亚的家中留守时，乌利亚斯则走遍四面八方，保护生者对抗黑雾中的怨灵。</p>\n<p>乌利亚斯对卢锡安讲述自己精彩的冒险故事，在故事中，勇气和机智总是能化险为夷。每一个字都让卢锡安沉醉，他想象着自己与父亲并肩作战，拯救符文之地各处的人们。但乌利亚斯却并不想让儿子追随自己的脚步，而是希望他的家人能够远离他所选择的危险人生。</p>\n<p>卢锡安一直在等待自己成为乌利亚斯徒弟的那天，但却始终没有等到。</p>\n<p>留在德玛西亚的卢锡安发现自己与这个国度的文化格格不入。最让他感到不满的就是德玛西亚会把安分守己的法师流放到偏远的内陆。卢锡安会护送那些被放逐的人走完危险的旅途，这让他收获了意义。虽然他同胞们眼中的法师等同于罪人，他们只把世界简单地分为善恶，但是卢锡安却拉近了距离，他眼中的法师是陷入困境的人。</p>\n<p>在完成某次护送回到家中时，卢锡安发现门前等着一个陌生人。她介绍自己为赛娜，一名光明哨兵。她手中捧着乌利亚斯的圣物手枪，向他传达了父亲的死讯噩耗，他战死在对抗黑雾中不死怨灵的战斗中。</p>\n<p>赛娜是乌利亚斯的徒弟，多年来一直与他并肩作战。</p>\n<p>卢锡安震惊了——不仅是因为父亲的死，也是因为他面前的这名女子获得了他一直想要的人生。就在赛娜打算离开的时候，卢锡安把她拦在门口，坚持要与她同行。他知道接下来的事——殉职哨兵的守灵仪式。赛娜不情愿地同意了卢锡安的请求。</p>\n<p>一路上，二人互相讲述了自己与乌利亚斯共度的时光，赛娜用自己坦率的智慧安慰卢锡安，而卢锡安则用温柔的回忆安抚她的痛苦。他们最后到达了乌利亚斯的出生地，一个远离德玛西亚的地方。在那里，他们进行了殉职哨兵的守灵仪式。</p>\n<p>就在他们准备离开的时候，黑暗的乌云翻滚着盖过海岸，怨灵从污秽中显出形态，开始袭击它们。在卢锡安无比惊恐的时候，赛娜冷酷而娴熟地抽出了武器——这是她的诅咒。从她小的时候开始，黑雾的触须就一直追随纠缠着她，无论她在任何地方逗留太久，都会遭到黑雾的可怕侵袭。</p>\n<p>就在赛娜对抗一只怪物的时候，她手中乌利亚斯的手枪被它打飞在地。卢锡安捡回了手枪，他感觉到命运在自己面前打开新的大门。他心中炽热的悲伤化成了一发光弹，从手枪中射出，干扰了那个怨灵，让赛娜将它彻底放逐。最后赛娜击退了剩余的恶灵，然后他们二人离开了，她必须时刻都将黑雾甩在身后。</p>\n<p>此前从未有过任何非成员成功发射过哨兵们的圣物武器。卢锡安第一次向赛娜证明了自己加入这一教团的潜质。</p>\n<p>最后，赛娜将他父亲的手枪托付给了卢锡安，并按照哨兵的战术和教义指引他。他证明自己不枉教诲。他们二人之间开始慢慢缔结纽带，卢锡安的温暖和魅力与赛娜的自律和不屈形成了完美的平衡。</p>\n<p>卢锡安和赛娜共同对抗这黑雾中涌出的种种邪恶之物，他们对彼此的依赖成熟并绽放为爱。卢锡安与赛娜的距离越近，她的诅咒就越令他心痛。每一次战斗都让他更加坚决，让他把世界一分为二：光明与暗影、善良与邪恶。疗愈赛娜的执念成为了卢锡安的圣战，让他义无反顾，狂热追寻。</p>\n<p>当这两位哨兵在一座被遗忘的秘库中搜寻解药时，突然遭遇了袭击，来犯者是怪兽般的怨灵锤石。这个尸鬼模样的魂锁典狱长是个危险的对手，而当赛娜下令暂时撤退重整旗鼓时，卢锡安却拒绝转身。他盲目地进行攻击，直到锤石占了上风才意识到自己的失误。赛娜挡在了锤石前方，恳求卢锡安逃跑。</p>\n<p>尘埃落定后，赛娜死在了他面前，她的灵魂被锤石那可怕的灯笼夺走了。</p>\n<p>赛娜的牺牲近乎摧毁了卢锡安。多年来，他茫然地行于符文之地，只剩下空洞的躯壳，曾经的柔情已变成了愤怒和怨恨。卢锡安手持自己和赛娜的枪，开始对锤石的追猎，希望能够破坏灯笼，并让他的爱人摆脱束缚，得以湮灭。终于有一天，那场期盼已久的战斗到来了，卢锡安打碎了灯笼，但他并没有让她获得永恒的安息，相反，赛娜<em>复现了。</em></p>\n<p>卢锡安和赛娜之间的爱，是死亡都无法切断的纽带。卢锡安艰难地接受赛娜改变后的模样，同时他也在尽全力找回从前的自己，而且他还要接受这个残酷的现实：他所憎恨的黑暗力量，如今却是让赛娜与他团聚的唯一方式。</p>\n<p>虽然赛娜的回归带来了新的知识和使命，但卢锡安却依然执迷于对锤石复仇，因为他敢肯定这个魂锁典狱长机关算尽，必有后患。</p>",
+            "short": "<p>卢锡安，一名光明哨兵，一个狩猎不死亡灵的残酷猎手，使用一双圣物手枪进行无情的追踪与杀灭。当怨灵锤石夺走他妻子的生命后，卢锡安踏上了复仇之路。但即便她已重获新生，他的怒火也没有平息。无情而又固执的卢锡安将不惜一切代价，保护生者，对抗黑雾中那亡故已久的恐怖。</p>",
+            "quote": "“圣光为枪，痛苦为伴，肃清世间一切黑暗。”",
+            "quote-author": "卢锡安"
+        },
+        "bioImage": null,
+        "headerImage": null
+    },
+    "related-champions": [
+        {
+            "type": "champion",
+            "release-date": "2013-01-23T00:00:00.000Z",
+            "name": "锤石",
+            "title": "魂锁典狱长",
+            "section-title": "锤石",
+            "slug": "thresh",
+            "associated-faction": "",
+            "associated-faction-slug": "shadow-isles",
+            "image": {
+                "title": "thresh-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt9fd7de40b070c6d4-Thresh_0.jpg",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 847,
+                "y": 3,
+                "featured-champions": []
+            },
+            "background": {
+                "title": "thresh-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt9fd7de40b070c6d4-Thresh_0.jpg",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 847,
+                "y": 3,
+                "featured-champions": []
+            },
+            "url": "/zh_cn/champion/thresh",
+            "video": {
+                "title": "thresh-splashvideo-webm",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt746b910f7d5fac34-thresh-splashvideo.webm",
+                "encoding": "video/webm",
+                "width": 1280,
+                "height": 720,
+                "x": 847,
+                "y": 3,
+                "featured-champions": []
+            },
+            "races": [],
+            "roles": [
+                {
+                    "name": "辅助",
+                    "slug": "support"
+                },
+                {
+                    "name": "战士",
+                    "slug": "fighter"
+                }
+            ],
+            "role": [
+                {
+                    "name": "辅助",
+                    "slug": "support"
+                },
+                {
+                    "name": "战士",
+                    "slug": "fighter"
+                }
+            ],
+            "game-info-url": "https://lol.qq.com/web201310/info-defail.shtml?id=Thresh",
+            "biography": {
+                "full": "<p>如今的可怕幽魂锤石，曾经也只是一个普通的人，只不过有些纷繁困扰。在那早已被历史遗忘的时代，他曾是一个卑微的看守，他所在的教团致力于收集并保护奥术知识。这个教团创建于福光岛，那里当时还被魔法的白雾笼罩，安宁地藏于世外。</p><p>教团的长老们念在锤石多年劳役的份上，命令他看管海力亚城地下的秘密仓库。这里用枷锁封存着许多危险的魔法器物。当时的锤石意志坚定，得心应手，非常适合这一任务……即便是那个时候，他的残忍倾向就已经被教团的兄弟们察觉。虽然他并没有实施真正的<i>凶杀</i>，或者至少是没有相关的证据，但他依然还是被多数人敬而远之。</p><p>后来他意识到，自己被授予的这份工作就是为了让他远离其他人，让他得不到自认应当的认同。在黑暗中经年累月的独处让他付出了代价，锤石变得愈发愤恨、嫉妒，在他提着灯笼巡逻于漫长的走廊时，只有那些憎恶的想法陪伴着他。</p><p>他的转折契机到来了，一个疯狂的国王设法穿过了雾的帷幕，不请自来地踏上了福光岛的海岸。</p><p>暗地里，接踵而至的屠杀让锤石感到欣喜。这个入侵的国王执迷于复活他的王后——锤石欣然地带他前往传说中的生命之水。</p><p>只有教团中最高等级的成员才被允许进入藏有圣水的古墓。现在，有国王的士兵在背后撑腰，锤石放声大笑，看着圣所的守护者们倒在血泊中。他认为自己终于如愿以偿。</p><p>国王将亡妻的尸体放进生命之水，当时发生的事只有在场的人才知道。然而随后产生的震颤，波及了整个符文之地。</p><p>黑暗能量向外爆发出灾难性的冲击波，吞没了海力亚，迅速席卷福光岛全境，曾经为这里提供庇护的白雾，变得漆黑凶恶。所有收到波及的生命全都瞬间陨落，而他们的灵魂却又无法继续前行，全被困在了介于生于死之间的可怕状态。锤石是最先被夺走生命的，但就在其他人为自己的命运哀嚎时，他却在这灾难中狂欢。</p><p>他从这场灾难，这场<i>破败之咒</i>中崛起，成为了幽魂恶灵，寻求折磨其他人的乐趣，不怕遭到报复，也不再担心凡性的限制。</p><p>在随后的数十上百年中，他的超自然外观逐渐改变，变得更贴近于他心中持续酝酿的邪恶与残忍。让锤石发笑的是，他意识到大多数被困在黑雾中的灵魂都只保留了生前的碎片，即使是那些最强大的入侵者，即使是赫卡里姆和莱卓斯也不例外。而他自己的力量却在持续增长。</p><p>锤石因单纯的恶意而去掠食那些在他眼中次等的灵魂，他最喜欢的猎物总是那些在他伤害下最痛苦的人。无论他们的决心、耐力、信仰如何强大，他都会尽可能缓慢地击垮他们，一点点了解他们的恐惧和弱点，将猎物玩弄到最后。当他们的生命被撕碎，他们的爱人被夺走，他们的目标感彻底丧失，他们的希望彻底熄灭，锤石的钩锁才会收回到他不死的手掌中。</p><p>即便如此，死亡带来的并不是仁慈的解放，因为被他杀死的人都会被他割走灵魂，并被囚禁在他的诅咒提灯中，被迫永世见证他的掠夺。</p><p>只有过一个灵魂成功脱逃。</p><p>赛娜，他最恨的“光明哨兵”的一员，在某个被遗忘的邪恶秘库里与锤石针锋相对并白白送死。后来的数年里，她悲痛欲绝的丈夫卢锡安一直在追击这个残酷的灵魂，并且变得执迷不悟，几乎让悲伤和愤怒彻底将自己吞噬。对于锤石来说，这简直是一道美味佳肴。</p><p>然而，还没等他夺走卢锡安的灵魂，一记仇恨的猛击打破了锤石的灯笼，从中解救了赛娜。</p><p>他们二人之间的凡尘纽带强固弱现，被勾起兴趣的锤石决定送给他们这个微不足道的胜利，因为他清楚地知道，这场光与影的游戏远没有结束……</p>",
+                "short": "暴虐又狡猾的锤石是一个来自暗影岛的亡灵，野心勃勃、不知疲倦。他曾经是无数奥秘的看守，在一种超越生死的力量下骨肉瓦解，而现在他则使用自己独创的钻心痛苦缓慢地折磨并击溃其他人，以此作为自己存在下去的手段。被他迫害的人需要承受远超死亡的痛苦，因为锤石会让他们的灵魂也饱尝剧痛，将他们的灵魂囚禁在自己的灯笼中，经受永世的折磨。",
+                "quote": "“心灵都是我的玩具。”",
+                "quote-author": "锤石"
+            },
+            "headerImage": null
+        },
+        {
+            "type": "champion",
+            "release-date": "2010-09-08T00:00:00.000Z",
+            "name": "厄运小姐",
+            "title": "赏金猎人",
+            "section-title": "厄运小姐",
+            "slug": "missfortune",
+            "associated-faction": "",
+            "associated-faction-slug": "bilgewater",
+            "image": {
+                "title": "missfortune-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/bltc6e788b11a9c8245-MissFortune_0.jpg",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 983,
+                "y": 231,
+                "featured-champions": []
+            },
+            "background": {
+                "title": "missfortune-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/bltc6e788b11a9c8245-MissFortune_0.jpg",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 983,
+                "y": 231,
+                "featured-champions": []
+            },
+            "url": "/zh_cn/champion/missfortune",
+            "video": null,
+            "races": [],
+            "roles": [
+                {
+                    "name": "射手",
+                    "slug": "marksman"
+                }
+            ],
+            "role": [
+                {
+                    "name": "射手",
+                    "slug": "marksman"
+                }
+            ],
+            "game-info-url": "https://lol.qq.com/web201310/info-defail.shtml?id=MissFortune",
+            "biography": {
+                "full": "<p>和大部分在比尔吉沃特错综复杂、尔虞我诈的迷局中获得赫赫恶名的大人物们一样，厄运小姐的双手上不乏鲜血……</p><p>作为著名女枪械师艾比盖尔•福琼的爱女，莎拉的快乐童年大部分时间都是在一座近海小岛上的工坊里度过的。小莎拉学着安装转轮锁扣、调校扳机轴距，甚至还会参与定制手枪的试射。她妈妈在制枪手艺界是一个传奇人物，许许多多巨商船长的收藏里都能找到她定做的手枪。</p><p>但时不时地，她的枪也会被一些图谋不轨、心术不正的人惦记。</p><p>这类人之中，就有一个当时刚刚崭露头角比尔吉沃特强盗，他的手下都叫他普朗克。他的实力让他自信和自负，要求莎拉的母亲为他制作一对手枪，必须无人能及。她最终不情愿地接受了订单，整一年后的同一天，普朗克回来了。他并不打算交钱，所以用一块肮脏的围巾遮住脸——他是来明抢的。</p><p>艾比盖尔制作的这副双枪堪称大师级杰作，不仅威力强大、精密准确，而且造型优雅、独具匠心。她大声呵斥，如此优秀的武器，他不配。她可以看出，普朗克已经成为泯灭人性的恶棍。普朗克盛怒之下夺过双枪，用她自己制造的武器射杀了她，然后又把枪口对准了她的丈夫和幼小的莎拉。然后，没有其他理由，只是出于单纯的恶意，他将工坊点燃，并将双枪摔在石头上，要让福琼打造的一切彻底从符文之地上消失。</p><p>莎拉被剧痛唤醒。虽然她伤势严重，但却还是从燃烧着的废墟中爬了出来，两把残破的手枪紧紧护在自己胸前。她的身体逐渐治愈，但梦魇和惊厥将继续折磨她许多年。</p><p>即便如此，她还是将一切抗了下来，决心复仇。她修好了母亲的双枪，打探了一切关于那个蒙面凶手的消息。那个人后来自封为比尔吉沃特的新任强盗之王，即便是那些最有影响力的船长也被迫承认他的地位。</p><p>他闹得多欢都无所谓。当莎拉再次与他见面，她将做好万全准备。</p><p>她坐船来到比尔吉沃特，在踏上码头以后几分钟内，她就完成了人生中的第一次杀人。那是一名醉酒的水手，肚子里有一加仑麦龙黑啤，脑袋价值一大笔悬赏。莎拉把他的尸体拖到了悬赏告示板官员那里，然后又撕下了十多张悬赏令，大步走进城中。</p><p>不到一周，十多张悬赏令全都交付兑现，只要被莎拉盯上就是交了厄运，最后要么伏法要么服刑。她很快就在比尔吉沃特的酒馆和赌场里成为了热议人物，得名“厄运小姐”。普朗克不可能注意到她。他的城里有那么多赏金猎人，多一个又怎样？</p><p>随后的几年中，厄运小姐的猎头事迹越传越远，每个新故事都比上一次更加夸张。她曾用自己失窃的朗姆酒桶把“绸刀海盗团”的老大淹死。她曾教训一个手脚不干净的船长，夺走了他的“塞壬号”。她还曾追查疯狂的荡妇开膛手”，在屠宰码头上半截海怪肚子里找到了他的老巢，并在他逃跑的时候命中后背。</p><p>虽然已经有这么大能耐，但普朗克还是太过强大，凶狠的铁钩帮还总是在他身旁寸步不离，所以不能公开向他挑战——厄运小姐也知道，直接杀掉普朗克太便宜他了。只有让他忍受奇耻大辱、同时把他盗取的一切烧成灰烬，才能让那个死在母亲工坊中的女孩心满意足。</p><p>于是，她日积月累，在自己身边聚集了一群规模不大但却忠心耿耿的骨干，他们最后将助她彻底摆脱旧日的心魔。</p><p>厄运小姐豁出一切展开对抗普朗克的行动。环环相扣的计策让他的<i>冥渊号</i>在港湾里化为熊熊燃烧的残骸，而那位暴虐的强盗之王也被推翻。最棒的是，比尔吉沃特的所有人都目睹了他的陨落。这是莎拉最大的希望，一切都如她计划一般。</p><p>一切都在片刻间结束了。</p><p>没了普朗克，敌对船长们立刻陷入了纷争，都想执掌这座城市。原本就无法无天的比尔吉沃特一瞬间变得更加混乱，无数安分守己的平民都被帮派之间的争斗所波及。无奈之下，厄运小姐站了出来——在她手下的拥护下，以<i>塞壬号</i>船长之名，多方磋商，达成了脆弱的停火协议，奇迹般地一直持续到了今天。</p><p>但在这座港口城市中，几乎没什么是永久的，成为海上女帝的厄运小姐忽然发现，自己不得不面对一个个强盗、帮派老大和潜藏的威胁，并对其贯彻她定的规矩。</p><p>比尔吉沃特真正的争霸战才刚刚开始。</p>",
+                "short": "以美貌闻名，但却以无情立命的莎拉是一位比尔吉沃特的船长，她在这座港镇的强硬犯罪集团中塑造了不容轻视的形象。在她还是个孩子的时候，亲眼目睹了海盗之王普朗克谋杀了自己的家人。多年以后她残忍地报仇雪恨，把他和他的旗舰连人带船一同炸飞。所有低估她的人都会发现，自己面对的是一个极具欺骗性的狡黠对手，还有可能要处理肚子里的一两颗子弹。",
+                "quote": "“风险多多，赏金多多。”",
+                "quote-author": "厄运小姐"
+            },
+            "headerImage": null
+        },
+        {
+            "type": "champion",
+            "release-date": "2010-06-09T00:00:00.000Z",
+            "name": "奥拉夫",
+            "title": "狂战士",
+            "section-title": "奥拉夫",
+            "slug": "olaf",
+            "associated-faction": "",
+            "associated-faction-slug": "freljord",
+            "image": {
+                "title": "olaf-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt121dcc1ff9f83f58-Olaf_0.jpg",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 815,
+                "y": 67,
+                "featured-champions": []
+            },
+            "background": {
+                "title": "olaf-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt121dcc1ff9f83f58-Olaf_0.jpg",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 815,
+                "y": 67,
+                "featured-champions": []
+            },
+            "url": "/zh_cn/champion/olaf",
+            "video": null,
+            "races": [],
+            "roles": [
+                {
+                    "name": "战士",
+                    "slug": "fighter"
+                },
+                {
+                    "name": "坦克",
+                    "slug": "tank"
+                }
+            ],
+            "role": [
+                {
+                    "name": "战士",
+                    "slug": "fighter"
+                },
+                {
+                    "name": "坦克",
+                    "slug": "tank"
+                }
+            ],
+            "game-info-url": "https://lol.qq.com/web201310/info-defail.shtml?id=Olaf",
+            "biography": {
+                "full": "大多数人会说，死亡是一件可怕的事情；这些人中肯定没有奥拉夫。这个狂战士只为战争的怒吼和钢铁的交鸣而活。对荣誉的渴求和无名之死的虚无诅咒驱使着奥拉夫，让他一往无前地投入每一场战斗。奥拉夫听从他血脉深处的嗜血欲望的摆布，并且他只有在鬼门关外拼杀时才真正活着。<br><br>洛克法是一块沿海半岛，位于弗雷尔卓德最为荒蛮的地区当中。在那里，怒火是唯一一种能让冻僵的骨头变暖的火焰，血液是唯一一种能够自由流动的液体，并且没有什么事情，能比变老、变弱和被遗忘更加糟糕的了。奥拉夫曾是一名洛克法的战士，不缺过人荣耀，也不吝与人分享。某个傍晚，当他和族人在一个刚被夷平的村庄的余烬里大吹大擂时，一名年长的战士对奥拉夫的吹牛产生了厌倦。这名老战士用激将法，让奥拉夫去卜一卦，看看他的命运是否符合他的沾沾自喜。这个挑战给奥拉夫壮了胆。他嘲弄了那个年长的战士，然后将已死野兽的肘骨投出，好预测他的死亡是否能达到荣誉的巅峰。在族人们阅读预言时，所有欢笑都汇聚在了一起：根据卦象，奥拉夫会很长寿，并且一生都波澜不惊。<br><br>感到愤怒的奥拉夫冲进了夜幕中，并决定通过找到并杀死洛克法可怕的怪兽，冰霜之蛇，来证明预言是错误的。这头怪兽已经在它漫长的生命里吞吃了数以千计的人类和舰船之类的东西，并且对于所有战士来说，只要想迎来生命的终点，都会去挑战这头怪兽。当奥拉夫让自己冲进它阴暗的胃部时，他的意识陷入了黑化状态。刺骨的冰水将他从黑暗中唤醒，而他的旁边漂浮着那头野兽满是伤痕的尸体。虽然很有挫败感，但奥拉夫没有死心，而是再次启程，前去猎杀每一头带有利爪和尖牙的传奇生物，并希望下一场战斗能成为他的在最后一战。每当他朝着梦寐以求的死亡进行猛冲时，都会受到狂暴之血的拯救，并把他带出死亡的边缘。<br><br>奥拉夫断定，没有什么野兽能够让他死得符合战士的身份。他的解决方法是，去挑战弗雷尔卓德里最为可怕的部族：凛冬之爪。瑟庄妮被奥拉夫只身挑战她的战团的行为给逗乐了，但他的胆大妄为不会为他赢得任何怜悯之举。她让手下发起冲锋，并且准备为击倒奥拉夫的战士们记功。但他们一个接一个地倒下了，然后奥拉夫再次在嗜血欲望中迷失了自己，毫不费劲地砍出一条通向凛冬之爪首领的血路。瑟庄妮摇动冰川，而尽管奥拉夫看上去不可阻挡，瑟庄妮仍然与他战到筋疲力尽。当他们陷入僵局时，瑟庄妮的怒视穿透了奥拉夫的狂战阴霾，而在此之前没有任何武器能做到这点。他的狂暴消退了，而瑟庄妮终于可以对他提出建议：瑟庄妮发誓，她能带奥拉夫找到属于他的荣耀之死，但条件是，他和他的斧子要为她的征服之旅出力。从那时起，奥拉夫郑重宣告，他会将遗产刻入弗雷尔卓德。<br><br>",
+                "short": "奥拉夫是一股无坚不摧的毁灭之力，战斧在手的他别无所求，只想光荣地死在战斗中。奥拉夫来自弗雷尔卓德的海岸半岛洛克法，他曾在一次占卜预言中听闻自己将安详地死去——这是懦夫的命运，也是对他们族人的莫大侮辱。于是，为了追寻另外一种结局，他在狂怒的驱动下在这片土地上暴跳横行，屠杀了数十名伟大的战士和传说中的野兽，希望能够找到能够阻止自己的对手。如今他是凛冬之爪部族残酷的执法者，希望在即将到来的大战中找到自己的终结。",
+                "quote": "“当你们见到自己的祖先时，别忘了告诉他们，是奥拉夫送你们去的。”",
+                "quote-author": "奥拉夫"
+            },
+            "headerImage": null
+        },
+        {
+            "type": "champion",
+            "release-date": "2012-04-18T00:00:00.000Z",
+            "name": "赫卡里姆",
+            "title": "战争之影",
+            "section-title": "赫卡里姆",
+            "slug": "hecarim",
+            "associated-faction": "",
+            "associated-faction-slug": "shadow-isles",
+            "image": {
+                "title": "hecarim-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt122e5bde31a6f6fc-Hecarim_0.jpg",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 1018,
+                "y": 11,
+                "featured-champions": []
+            },
+            "background": {
+                "title": "hecarim-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt122e5bde31a6f6fc-Hecarim_0.jpg",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 1018,
+                "y": 11,
+                "featured-champions": []
+            },
+            "url": "/zh_cn/champion/hecarim",
+            "video": {
+                "title": "hecarim-splashvideo-webm",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/bltd0cc01e6d9b34da7-hecarim-splashvideo.webm",
+                "encoding": "video/webm",
+                "width": 1280,
+                "height": 720,
+                "x": 1018,
+                "y": 11,
+                "featured-champions": []
+            },
+            "races": [],
+            "roles": [
+                {
+                    "name": "战士",
+                    "slug": "fighter"
+                },
+                {
+                    "name": "坦克",
+                    "slug": "tank"
+                }
+            ],
+            "role": [
+                {
+                    "name": "战士",
+                    "slug": "fighter"
+                },
+                {
+                    "name": "坦克",
+                    "slug": "tank"
+                }
+            ],
+            "game-info-url": "https://lol.qq.com/web201310/info-defail.shtml?id=Hecarim",
+            "biography": {
+                "full": "<p>赫卡里姆出生的故国早已灰飞烟灭，他曾是“铁之团”的副官，这是一支效忠保卫国王领土的骑士兄弟会。</p><p>赫卡里姆骑着他的高大战马获得了一次又一次的胜利，铁之团的指挥官在他身上看到了继任者的潜质……但同时也看到了越来越膨胀的黑暗。他对功绩的痴迷正在侵蚀他的荣誉感，于是骑士团指挥官终于意识到，这个年轻的副官永远不能成为他们的首领。</p><p>当被告知这一切的时候，赫卡里姆怒火中烧。但他咽下这口气，回到了自己的岗位上。</p><p>当铁之团再次踏上战场的时候，指挥官遭到敌人包围，而且被切断了与大部队汇合的路线。赫卡里姆意识到自己的机会来了。他策马回身，抛弃了指挥官。战斗结束以后，铁之团被蒙在鼓里，他们单膝跪在血染的地上，宣誓追随他们的新领袖，赫卡里姆。</p><p>赫卡里姆来到首都进行就职宣誓，在那里他遇到了国王最信任的将军，卡莉丝塔。她看到了赫卡里姆的英勇和领导力，所以当王后被刺客的毒刃所伤以后，卡莉丝塔很欣慰铁之团能够留在国王身边，让她安心外出寻找解药。</p><p>国王的执念开始变得偏激，有人想要劝他王后将死，节哀顺变，但国王却勃然大怒，他命令铁之团肃清全国上下的忤逆声音。铁之团因此获得了国王意志的无情执法者的可怕名声。城镇与村庄被焚毁。好几百人被就地正法。 </p><p>灾祸将至，无可避退。王后殡天后，赫卡里姆用谗言诳语将国王的悲伤酿成了憎恨，从而获得国王的特许，带领铁之团远征疆域以外的土地。他要为她的死复仇，同时也要为自己夺得更多黑暗的威名。</p><p>就在他出发之前，卡莉丝塔回来了。她在遥远的福光岛寻得了要找的东西——但现在为时已晚。国王不愿相信这样的事实，以叛国罪名将卡莉丝塔打入大牢。赫卡里姆听说了福光岛后心生邪念，探望了监狱中的卡莉丝塔。两人聊起了那片保护岛屿不受外来入侵的苍白迷雾……也说起了岛民巨大的财富，还有传奇中的生命之水。</p><p>赫卡里姆知道只有卡莉丝塔才能带他们过去，于是费尽心思说服了她，带领国王的舰队穿过魔力的帷幕，来到隐藏于凡人视线之外的福光岛。</p><p>他们在海力亚城登岸，肃穆地抬着王后的尸体前进。铁之团在前方开道，遇到的只是这座城的大师们。如今他们已经不肯出手相助。国王盛怒之下命令卡莉丝塔杀死他们，但她拒绝执行命令，于是赫卡里姆做出了一个令他遭受永世诅咒的命运抉择。他用一杆长矛刺穿了卡莉丝塔的脊背，然后命令手下的骑士们将这座城洗劫一空，搜刮了珍宝琳琅的秘宝库。</p><p>混乱之中，一名低贱的保管人同意带国王去找生命之水——但即使是这种事也没能让赫卡里姆从嗜血的狂欢中分神，于是随后的福光岛破败之咒让他措手不及。</p><p>魔力的冲击波席卷海力亚，破坏了所有建筑物，让残骸悬停在灼热的无光中。接踵而至的是黑雾，这是一场翻江倒海的飓风，所触及的任何活物都会被拥入它狂啸、翻滚的怀抱。赫卡里姆想要集合铁之团，希望能回到他们的船上，但迷雾一个接一个夺走了逃窜的骑士。</p><p>赫卡里姆只剩下自己，而且到最后依然不可一世，黑影最后夺走了这位骑士团长。他和自己的坐骑被融合成了奇形怪状的鬼魅恶灵，这正是赫卡里姆内心黑暗的反照——一个充满狂怒和恶意的狂妄生物，与黑雾合而为一，同时也彻底是黑雾的奴隶。</p><p>赫卡里姆永远都被禁锢在暗影岛，几百年来他一直都存在于生前身姿的怪异再造体之中，在诅咒的驱使下巡逻这片他曾想征服的土地。无论何时，只要黑雾弥漫到他们海岸之外，他和铁之团的鬼魂大军就会骑行出击，屠杀活人，追忆逝去已久的荣光。</p>",
+                "short": "赫卡里姆是人与野兽的融合体，诅咒让他永世狂奔。当福光岛堕入暗影，这位高傲的骑士在破败之咒的破坏性能量中瓦解，一起陪葬的还有他手下的骑兵与坐骑。如今，只要黑雾延伸到符文之地，他就将带领毁灭性的冲锋，在屠杀中狂喜，用铁蹄碾压一切敌人。",
+                "quote": "“无情利刃所向，尽皆披靡。恐惧铁蹄之下，生灵涂炭。”",
+                "quote-author": "赫卡里姆"
+            },
+            "headerImage": null
+        }
+    ],
+    "explore-champions": [
+        {
+            "type": "champion",
+            "release-date": "2010-08-24T00:00:00.000Z",
+            "name": "厄加特",
+            "title": "无畏战车",
+            "section-title": "厄加特",
+            "slug": "urgot",
+            "associated-faction": "",
+            "associated-faction-slug": "zaun",
+            "image": {
+                "title": "urgot-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/bltf0cbbef2f074c8cb-urgot-splash-updated.jpg",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 686,
+                "y": 40,
+                "featured-champions": []
+            },
+            "background": {
+                "title": "urgot-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/bltf0cbbef2f074c8cb-urgot-splash-updated.jpg",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 686,
+                "y": 40,
+                "featured-champions": []
+            },
+            "url": "/zh_cn/champion/urgot",
+            "video": null,
+            "races": [],
+            "roles": [
+                {
+                    "name": "战士",
+                    "slug": "fighter"
+                },
+                {
+                    "name": "juggernaut",
+                    "slug": "juggernaut"
+                }
+            ],
+            "role": [
+                {
+                    "name": "战士",
+                    "slug": "fighter"
+                },
+                {
+                    "name": "juggernaut",
+                    "slug": "juggernaut"
+                }
+            ],
+            "game-info-url": "https://lol.qq.com/web201310/info-defail.shtml?id=Urgot",
+            "biography": {
+                "full": "<p>厄加特一直都相信自己是一个有资格的人。</p><p>作为处决弱者的处刑人，他就是诺克萨斯活生生的理念象征：只有力量才是统治万物的真理。因此每当他挥起行刑者的巨斧，都是在向世人宣示这一理念。他的荣耀随着他身后的尸堆越积越高，他的威严也是无数战团的军纪保障。</p><p>即便如此，权谋者的一句话就足以颠覆他的人生。厄加特奉命前往遥远的祖安，破坏一桩所谓的针对诺克萨斯统治者的阴谋，但当他发现自己中计的时候，已经太迟了。在他远离王都的同时，篡位者斯维因已经夺得了诺克萨斯的控制。厄加特被炼金男爵的探子们团团包围，拖进了祖安底层的炼金科技矿坑。他所相信的一切都是谎言，他怒不可遏，但此时的他已经是无力回天。到最后，他失去了所有的资格，只能默默地忍受着矿坑中的恶劣条件，等待自己的死亡。</p><p>在“沉钩”里，死亡有许多种形式……</p><p>矿坑的监守人，沃斯女伯爵，偶尔会接受囚犯在不堪折磨之下痛苦的供认和忏悔，赏赐的奖励就是予以自由——用她的刀锋。坑道里回荡着的惨叫声，让厄加特逐渐了解了祖安的奇观。这座城市拥有某种特别的东西，某种非凡卓绝而且深入人心的东西，即使是将死之人喷洒着鲜血的喉头，也在诉说着这座城市的秘宝。厄加特百思不得其解，直到有一天他被带到了沃斯女伯爵的面前。他很害怕，怕她将自己彻底毁掉。</p><p>但随着女伯爵的刀刃切入他的血肉，厄加特意识到自己的身体早已千疮百孔、饱经痛苦，沃斯造成的伤痛根本不值一提。“沉钩”让他变得更强大，远超出身为处刑人时的他可能想象的极限。</p><p>祖安的秘宝就是<i>痛苦</i>。他的狂笑把沃斯女伯爵赶回了地面，随后地底就开始被混乱所统治。</p><p>厄加特夺取了监牢的控制，他在全新的生存试炼中欣喜若狂。他发现自己的身体才是最脆弱的东西，于是就将它们替换成了搜刮来的机械部件。这些零件原本是一些人生存下去的必需品，但任何必需之物都是痛苦之母。</p><p>守卫们已经无法再进入厄加特从沃斯的手中抢下的区域。而那里的囚犯们对于新主人的畏惧超过了对沃斯的慑服。还有许多人甚至开始狂热地崇拜厄加特，因为他们被迫接受他关于权力本质的思想灌输，而那些听不进去的人只能面对厄加特锁喉的铁腕。</p><p>随着一名诺克萨斯探子来到了“沉钩”，厄加特终于被迫正视自己的过去。虽然探子认出了厄加特并协助他成功逃脱，但厄加特还是无情地痛打了他，并将他残破的身躯扔进了深渊。</p><p>厄加特意识到，一直以来统治诺克萨斯的并不是力量，而是人，人是弱小的。世上不应存在统治者，不应存在谎言，不应有任何东西阻碍生存所带来的纯粹的混乱。厄加特挑起了暴动，点燃了矿坑中的炼金科技管线，产生的爆炸堪比祖安最初诞生之时。爆炸撼动了上方的城市，给监牢炸出了裂缝。许多囚犯都死了，上千人消失在城市下方的地沟区。但那些有资格生存的人，一如既往地活着。</p><p>从那天开始，厄加特的恐怖之治愈演愈烈。他自己成为了工业机械和诺克萨斯残忍作风的骇人融合体，他一个接一个地屠杀炼金男爵和他们的仆人，在祖安最受压迫的人群中召集了一群追随者。人们将他称为新的救世主，相信他将掀翻压迫者的铁靴，松开普通祖安人快要窒息的咽喉。</p><p>然而，他的行为却没有符合这种期待，厄加特不分强弱贵贱地测试着人们的资格。在他的夺命试炼中幸存下来的人知道，他要传达的信息很明确：他并不是要带领人们爬上去，而是要<i>生存下去</i>。如果其他人也有资格，那么他们也会生存下去。</p><p>厄加特最后伤及了皮尔特沃夫商会家族的代表，皮城守卫们不得不介入，把他用铁链捆起来，拖入了铜墙铁壁的监狱牢笼——只不过这件事似乎更加确立了他“无畏战车”的传奇地位，让帮派成员、地沟孤儿和那些被遗忘者们传唱。</p><p>皮尔特沃夫并不是第一个禁锢厄加特的地方，任何人都必然会好奇，世上<i>真的</i>存在能够长久束缚他的牢笼吗……</p>",
+                "short": "厄加特曾一度是诺克萨斯强大的处刑人，但这个让他为之杀人如麻的帝国，最后却背叛了他。铁链束缚着他，并迫使他在一个新的地方懂得了力量的真正意义——祖安地下深处的监牢矿坑——“沉钩”。后来的一场灾难让祖安城中混乱肆虐，厄加特也借机破土而出，在祖安的地下犯罪世界傲视群雄。曾经奴役他的铁链，现在是他折磨猎物的工具，他会用枪火洗礼自己新的家园，肃清那些不配苟活的人，将祖安铸成一座痛苦的熔炉。",
+                "quote": "“衡量一个人，唯一的方式就是将他撕成…...许多…...碎块。”",
+                "quote-author": "厄加特"
+            },
+            "headerImage": null
+        },
+        {
+            "type": "champion",
+            "release-date": "2019-11-19T19:43:26.000Z",
+            "name": "厄斐琉斯",
+            "title": "残月之肃",
+            "section-title": "厄斐琉斯",
+            "slug": "aphelios",
+            "associated-faction": "",
+            "associated-faction-slug": "mount-targon",
+            "image": {
+                "title": "aphelios-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt5b04d0076299c48f-aphelios-splash.jpg",
+                "encoding": "image/jpeg",
+                "width": 1900,
+                "height": 1122,
+                "x": 996,
+                "y": 53,
+                "featured-champions": []
+            },
+            "background": {
+                "title": "aphelios-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt5b04d0076299c48f-aphelios-splash.jpg",
+                "encoding": "image/jpeg",
+                "width": 1900,
+                "height": 1122,
+                "x": 996,
+                "y": 53,
+                "featured-champions": []
+            },
+            "url": "/zh_cn/champion/aphelios",
+            "video": null,
+            "races": [],
+            "roles": [
+                {
+                    "name": "射手",
+                    "slug": "marksman"
+                },
+                {
+                    "name": "坦克",
+                    "slug": "tank"
+                }
+            ],
+            "role": [
+                {
+                    "name": "射手",
+                    "slug": "marksman"
+                },
+                {
+                    "name": "坦克",
+                    "slug": "tank"
+                }
+            ],
+            "game-info-url": "",
+            "biography": {
+                "full": "<p>月亮高悬在巨神峰上，遥遥万里，却又不可思议地触手可及。</p><p>在一次罕见的月合奇观中，孪生兄妹厄斐琉斯和拉露恩诞生了。月合之时，精神领域的月之镜像恰好与其实体重合。恰逢此时降生的兄妹俩也被巨神峰的皎月教派奉为天命之子。</p><p>正如他们诞生时发生的天体奇观，这对双胞胎清楚地知道自己生来就背负着宿命——厄斐琉斯的身体有如月球磐岩一般强悍，而拉露恩的魔法则好比精神领域的月影。两人从小受到狂热的虔诚熏陶，信奉神秘、沉思和启迪。而他们拥抱黑暗则不仅是因为信仰，也是因为只有黑暗才能让他们感到安全。</p><p>统治巨神峰地区的烈阳教派认为皎月教派是异端邪说，于是将他们逐出人们的视线，直到最后大多数人已经遗忘了皎月教派的存在。于是，皎月教众只能委身于阴影，居住在远离烈阳视线的洞穴和神庙里。</p><p>天命加身的厄斐琉斯自然不能辜负众望。他不知疲倦地操练着神秘的月石武器，在训练时饱尝血汗，为的就是在捍卫信仰时让他人同样付出血的代价。紧绷的精神往往易折，所以他与妹妹之间深切的纽带取代了任何人的友谊。</p><p>为了保护皎月教派，厄斐琉斯被派去执行越来越危险的任务，而拉露恩则单独接受着成为真知者的训练，用她的夜明魔法揭示隐藏的通路，在月光下展现真相。不久后，她就奉命离开他们长大的圣庙，去外面完成使命。</p><p>没有拉露恩，厄斐琉斯的信仰开始动摇。</p><p>他急切地渴望目标和意义，于是出发进行了一次巡礼。按照皎月教派的信条，他要踏上黑暗的旅程寻找自己的路——自己的运行轨道。他追随着月光来到一个池塘边，水面下的夜绽之花已经开放。虽然这些罕见的花朵有毒，但却可以提炼出一种药水，能够让暗夜的力量向他敞开大门。</p><p>喝下黑夜的精粹之后，厄斐琉斯感受到了前所未有的疼痛。这种痛觉占据了他所有的感官，让他对其余一切感觉都变得麻木。</p><p>不久之后，远古神庙癸亥玛吕寺即将从精神领域运转到现实的相位。这是几百年来首次出现的机遇。皎月教众离开了藏身之地，从山脉的四面八方汇聚于此，亲眼见证天体运行周期带来的力量移位。</p><p>但那座要塞每次现世都只能容下一个人，一个拥有魔法天赋的人。这一次，它将接纳拉露恩。她的轨道已经引她来到了神庙。而平时很少提要求的厄斐琉斯，也坚持请求参与这次观礼。</p><p>在魔法的闪光中，癸亥玛吕寺穿过了帷幕。一道更加炽烈的光辉填满了夜空。不知为何，明明这样的天体运转是对皎月教派的赐福，但他们却被发现了。</p><p>一支烈阳教派的部队从天而降，用火焰和钢铁对皎月教徒们进行清洗。一切看似都已结束，就连厄斐琉斯也被击败了。他的月石刀剑被打碎在地，嘴边也淋漓着鲜血，他正一步步接近黑夜……</p><p>但就在众人搏杀正酣的同时，拉露恩走进了神庙的更深处——当她到达核心的时候，她所有的潜力瞬间被唤醒了。在黑夜中，厄斐琉斯感受到拉露恩的力量拥抱了他……她的声音就在耳边。随着一声低语，她将魔法传到他的手心——凝结成了月石，取代了他原来的武器。</p><p>就像实体月球和它的灵魂倒影那样，厄斐琉斯的武艺和拉露恩的魔法也交叠重合在一起。</p><p>那些烈阳的人再也没能活着看到太阳。</p><p>拉露恩的魔法光芒骤然迸发，推动那座神庙带着自己回到了精神领域，那里将是烈阳教派无法染指的安全之所。神庙的聚焦效应放大了内部的力量，拉露恩能够从中向任何地方投射自己的魔法，只要能够找到可供聚焦的事物——比如厄斐琉斯血液中流淌着的毒药。</p><p>直到这时，他们才真正领悟了自己的命运。厄斐琉斯会用疼痛将自己放空，成为皎月之力的导体。拉露恩会孤独地生活，将自己隔绝在要塞中。但她将引导哥哥，看到他所见的一切。</p><p>他们二人一起，就是皎月教派所需要的武器，疼痛与牺牲将他们连在一起。只有天各一方，他们才能长相厮守——两人的灵魂轻触着帷幕两端，遥遥万里，却又不可思议地触手可及。</p><p>那次袭击的幸存者躲回了山脉的阴影中。为了保护他们，拉露恩的魔法扩展并延伸了厄斐琉斯的杀人术——他手中的刀剑变成了许多神秘的武器，在一次次任务中由拉露恩不断改进完善。</p><p>巨神峰的力量平衡正在悄然偏转，烈阳教派知道皎月教派依然在存续，厄斐琉斯和拉露恩比以往任何时候都更举足轻重。</p>",
+                "short": "如月影般神出鬼没、时刻剑拔弩张的厄斐琉斯沉默地弑杀一切自身信仰的敌人。他的语言只有精确的瞄准和枪火。虽然他饮下了让他失声的毒药，但他也因此得到了妹妹拉露恩的引导，从遥远的神庙中将月石打造的各种武器送到他手里。只要头顶的明月依然皎洁，厄斐琉斯就永不孤单。",
+                "quote": "“每抗拒一次命运，我们的信仰就坚定一分。”",
+                "quote-author": "拉露恩"
+            },
+            "headerImage": null
+        }
+    ],
+    "modules": [
+        {
+            "slug": "the-climb-cinematic",
+            "type": "featured-video",
+            "section-title": "",
+            "featured-image": {
+                "title": "the-climb-cg-thumbnail",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt07e77f414a5bf204-the-climb-cg-thumbnail.jpg",
+                "encoding": "image/jpeg",
+                "width": 1920,
+                "height": 1080,
+                "x": 1020,
+                "y": 481,
+                "featured-champions": []
+            },
+            "title": "登峰",
+            "subtitle": "",
+            "description": "2018赛季已经到来。迈步前进，登峰起行。",
+            "uri": "https://lol.qq.com/v/detail.shtml?id=79416&e_code=lolweb.videoofficialindex.r7",
+            "video": {
+                "type": "video",
+                "title": "",
+                "subtitle": "",
+                "description": [],
+                "uri": "https://lol.qq.com/v/detail.shtml?id=79416&e_code=lolweb.videoofficialindex.r7",
+                "width": "",
+                "height": "",
+                "x": "",
+                "y": "",
+                "featured-champions": []
+            },
+            "blackout": null,
+            "release-date": "2018-01-18T16:00:00.000Z",
+            "video-type": "cinematic",
+            "featured-champions": [
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                },
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                },
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                },
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                },
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                },
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                },
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                },
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                }
+            ],
+            "related-champions": [
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                },
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                },
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                },
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                },
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                },
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                },
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                },
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                }
+            ]
+        },
+        {
+            "slug": "救赎",
+            "type": "story-preview",
+            "title": "救赎",
+            "subtitle": "作者：Phillip Vargas",
+            "description": "赛娜抽了一口凉气苏醒过来，呼出的水雾在寒夜中升腾扩散。她浑身被汗水打湿，胳膊、腿、脖子和后背上沾了一层沙子。唯一一个念头在她脑海中颤动。<br><br>",
+            "story-slug": "redeemed",
+            "featured-image": {
+                "title": "redeemed-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt083ec2ace9c8ca4e-redeemed-splash.jpg",
+                "encoding": "image/jpeg",
+                "width": 1900,
+                "height": 1069,
+                "x": 720,
+                "y": 270,
+                "featured-champions": []
+            },
+            "background": {
+                "title": "redeemed-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt083ec2ace9c8ca4e-redeemed-splash.jpg",
+                "encoding": "image/jpeg",
+                "width": 1900,
+                "height": 1069,
+                "x": 720,
+                "y": 270,
+                "featured-champions": []
+            },
+            "release-date": "2021-01-06T16:00:00.000Z",
+            "featured-champions": [
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                },
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                },
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                }
+            ],
+            "minutes-to-read": 5,
+            "url": "/zh_cn/story/redeemed"
+        },
+        {
+            "slug": "回家",
+            "type": "story-preview",
+            "title": "回家",
+            "subtitle": "Phillip Vargas著",
+            "description": "卢锡安坐在山顶的一棵大榕树树荫下，俯视着山谷。他双手放在一对枪上，手指摩挲着黄铜的纹路。黑雾卷过青翠的低谷，吞噬着途经之处的一切。蚀魂夜比预想中提前了几个小时降临这个小岛。<br><br>",
+            "story-slug": "homebound",
+            "featured-image": {
+                "title": "homebound-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt5bbec091927c4898-homebound-splash.jpg",
+                "encoding": "image/jpeg",
+                "width": 1900,
+                "height": 1069,
+                "x": 1000,
+                "y": 550,
+                "featured-champions": []
+            },
+            "background": {
+                "title": "homebound-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt5bbec091927c4898-homebound-splash.jpg",
+                "encoding": "image/jpeg",
+                "width": 1900,
+                "height": 1069,
+                "x": 1000,
+                "y": 550,
+                "featured-champions": []
+            },
+            "release-date": "2019-10-11T15:00:00.000Z",
+            "featured-champions": [
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                }
+            ],
+            "minutes-to-read": 5,
+            "url": "/zh_cn/story/homebound"
+        },
+        {
+            "slug": "福影双至",
+            "type": "story-preview",
+            "title": "福影双至",
+            "subtitle": "作者：Graham McNeill",
+            "description": "一枚生锈的粗缆针，连着绳索穿过寒鸦门徒的下颚，把他整个人吊在半空，随便码头上的野物们享用。斩屠帮的手段。戴着兜帽的男子已经见怪不怪了——这是他今晚看到的第十七具黑帮尸体<br><br>",
+            "story-slug": "shadow-and-fortune-story",
+            "featured-image": {
+                "title": "bilgewater-06",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt4c4a087ed31758a6-bilgewater_06.jpg",
+                "encoding": "image/jpeg",
+                "width": 0,
+                "height": 0,
+                "x": 0,
+                "y": 0,
+                "featured-champions": []
+            },
+            "background": {
+                "title": "bilgewater-06",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt4c4a087ed31758a6-bilgewater_06.jpg",
+                "encoding": "image/jpeg",
+                "width": 0,
+                "height": 0,
+                "x": 0,
+                "y": 0,
+                "featured-champions": []
+            },
+            "release-date": "2015-10-27T15:00:00.000Z",
+            "featured-champions": [
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                },
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                },
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                },
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                },
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                },
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                },
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                }
+            ],
+            "minutes-to-read": 5,
+            "url": "/zh_cn/story/shadow-and-fortune-story"
+        },
+        {
+            "slug": "黑影的猎人",
+            "type": "story-preview",
+            "title": "黑影的猎人",
+            "subtitle": "作者： Anthony Reynolds",
+            "description": "它们如同一片模糊的影子扑向卢锡安，用非物质的爪子和古老、锈蚀的刀剑刺向他。它们很快……但快不过他。<br><br>",
+            "story-slug": "lucian-color-story",
+            "featured-image": {
+                "title": "lucian-color-story-bg",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt39e7646764f718c2-lucian-color-story-bg.jpg",
+                "encoding": "image/jpeg",
+                "width": 0,
+                "height": 0,
+                "x": 0,
+                "y": 0,
+                "featured-champions": []
+            },
+            "background": {
+                "title": "lucian-color-story-bg",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt39e7646764f718c2-lucian-color-story-bg.jpg",
+                "encoding": "image/jpeg",
+                "width": 0,
+                "height": 0,
+                "x": 0,
+                "y": 0,
+                "featured-champions": []
+            },
+            "release-date": "2018-10-05T15:00:00.000Z",
+            "featured-champions": [
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                }
+            ],
+            "minutes-to-read": 5,
+            "url": "/zh_cn/story/lucian-color-story"
+        },
+        {
+            "slug": "lucian-image-gallery",
+            "type": "image-gallery",
+            "section-title": "",
+            "isFanArt": false,
+            "fan-art-url": "",
+            "featured-image": "",
+            "title": "",
+            "subtitle": "",
+            "assets": [
+                {
+                    "title": "卢锡安概念艺术",
+                    "subtitle": "",
+                    "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt607a6b7776c8f536-lucian_guntemplar.jpg",
+                    "encoding": "image/jpeg",
+                    "width": 1582,
+                    "height": 1080,
+                    "x": 778,
+                    "y": 215,
+                    "featured-champions": []
+                }
+            ],
+            "featured-champions": [
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                }
+            ]
+        },
+        {
+            "slug": "lucian-login",
+            "type": "featured-video",
+            "section-title": "",
+            "featured-image": {
+                "title": "lucian-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/bltd0d3d68533866389-Lucian_0.jpg",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 896,
+                "y": 267,
+                "featured-champions": []
+            },
+            "title": "圣枪游侠卢锡安",
+            "subtitle": "",
+            "description": "",
+            "uri": "https://v.qq.com/x/page/j03657at9ho.html",
+            "video": {
+                "type": "video",
+                "title": "",
+                "subtitle": "",
+                "description": [],
+                "uri": "https://v.qq.com/x/page/j03657at9ho.html",
+                "width": "",
+                "height": "",
+                "x": "",
+                "y": "",
+                "featured-champions": []
+            },
+            "blackout": null,
+            "release-date": "2013-08-22T15:00:00.000Z",
+            "video-type": "champ-login-music",
+            "featured-champions": [
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                }
+            ],
+            "related-champions": [
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                }
+            ]
+        }
+    ]
+}

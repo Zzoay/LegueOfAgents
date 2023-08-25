@@ -1,0 +1,613 @@
+{
+    "id": "sejuani",
+    "name": "瑟庄妮",
+    "title": "北地之怒",
+    "locale": "zh_cn",
+    "champion": {
+        "type": "champion",
+        "release-date": "2012-01-17T00:00:00.000Z",
+        "name": "瑟庄妮",
+        "title": "北地之怒",
+        "section-title": "瑟庄妮",
+        "slug": "sejuani",
+        "associated-faction": "",
+        "associated-faction-slug": "freljord",
+        "image": {
+            "title": "sejuani-splash",
+            "subtitle": "",
+            "description": "",
+            "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/bltd786c978e7beea7b-Sejuani_0.jpg",
+            "encoding": "image/jpeg",
+            "width": 1215,
+            "height": 717,
+            "x": 739,
+            "y": 3,
+            "featured-champions": []
+        },
+        "background": {
+            "title": "sejuani-splash",
+            "subtitle": "",
+            "description": "",
+            "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/bltd786c978e7beea7b-Sejuani_0.jpg",
+            "encoding": "image/jpeg",
+            "width": 1215,
+            "height": 717,
+            "x": 739,
+            "y": 3,
+            "featured-champions": []
+        },
+        "url": "/zh_cn/champion/sejuani",
+        "video": null,
+        "races": [],
+        "roles": [
+            {
+                "name": "坦克",
+                "slug": "tank"
+            },
+            {
+                "name": "战士",
+                "slug": "fighter"
+            }
+        ],
+        "role": [
+            {
+                "name": "坦克",
+                "slug": "tank"
+            },
+            {
+                "name": "战士",
+                "slug": "fighter"
+            }
+        ],
+        "game-info-url": "https://lol.qq.com/web201310/info-defail.shtml?id=Sejuani",
+        "biography": {
+            "full": "<p>瑟庄妮是一桩弗雷尔卓德政治联姻的结晶，但这场婚姻的开始和结束都一样冰冷。她的母亲是凛冬之爪的冰裔战士廓吉雅，她为了追逐一个多年前偷走她心的男人而抛弃了瑟庄妮，部落没有年轻力壮的战母带领，逐步堕入混乱和没落。</p><p>所以瑟庄妮是由希简祖母养大的。虽然瑟庄妮尽力赢取希简的爱，但她始终无法达到祖母的苛求。随着她的部族在随后的几年中逐渐壮大，希简关心小瑟庄妮的时间越来越少。</p><p>富足、爱、安全——瑟庄妮只能从别人身上看到这些体验，在她造访凛冬之爪的姊妹部族——阿瓦罗萨的时候。每到夏季，这片地区最有名的女战士，葛伦娜，都会让瑟庄妮来到自己的帐下。当她得知葛伦娜曾在决斗中战胜过廓吉雅，这位阿瓦罗萨的战母立刻就成为了她的偶像……葛伦娜的女儿艾希也成为她心目中唯一的朋友。</p><p>葛伦娜质疑小瑟庄妮没有得到祖母恰当的抚养，随后受到冒犯的希简就断绝了与阿瓦罗萨部族的一切往来。凛冬之爪后来与其他临近部族挑起争端，想要夺回他们在廓吉雅离开后失去的土地和荣誉，但他们绝望的战略只带来了更多破败。</p><p>不知如何，这些事情传到了廓吉雅的耳中。</p><p>听说自己曾经的部落厄运连连，她再次回去担起了战母的职责。虽然如此，平定战乱后的凛冬之爪只得到了没有猎物的猎场和资源匮乏的土地，迫使他们依赖冷酷的冰霜守卫部族的保护。</p><p>瑟庄妮对此含垢忍辱，决心要从母亲手中夺取领导权。她立下神圣誓言，要领导一次劫掠诺克萨斯战舰的危险行动，希望履行誓言的同时也能够召集部族的人民，支持自己从廓吉雅和冰霜祭司手中夺取权力。</p><p>在那次凶猛的突袭中，瑟庄妮从战舰的屠宰间里放出了一头未成年的居瓦斯克野猪，并根据它的皮毛给它取名“钢鬃”。当时的她没有猜到，这头野兽后来成为了人们见过的最庞大的居瓦斯克野猪之一，而且始终都是瑟庄妮忠实的坐骑。</p><p>她的劫掠大获成功，瑟庄妮判断时机已成熟，决定挑战母亲争夺部族。按照古老的习俗，母女之间的决斗是不可想象的——但这可拦不住瑟庄妮。</p><p>怒不可遏的冰霜祭司们无奈之下出手干涉，而廓吉雅在争斗之中死去，瑟庄妮根本没能碰到她。</p><p>作为凛冬之爪的新战母，瑟庄妮开始袭击并吸收附近的部族，蓄积力量，集结了形形色色的追随者群落。她对冰霜守卫的蔑视态度也引来了许多无家可归的萨满、兽灵行者、寒冰血脉和暴风血脉，以及弗雷尔卓德各地崇拜旧神的守旧派。</p><p>他们曾一度是弱者、是笑柄、是被周围部族掠夺的对象，只用了几年，凛冬之爪就成为了北境最威风的部族，以迅猛、残忍、和对战母的忠诚，令人闻风丧胆。</p><p>如今，季节轮转，瑟庄妮碾过北境部族、诺克萨斯入侵者、甚至越过德玛西亚边境——一路搜刮、掠夺、征服任何反抗她的人。最终，她的决定要推翻并摧毁一个迅速成长的部族联合，而它的缔结者正是她儿时的朋友，艾希。在瑟庄妮看来，这位阿瓦罗萨战母不仅背叛了她们的友谊，而且更重要的是，她背叛了葛伦娜的传承。</p><p>因此，瑟庄妮将证明只有<i>她</i>才有资格统治弗雷尔卓德。</p>",
+            "short": "瑟庄妮是凛冬之爪部族残忍无情的战母，带领的部族也是弗雷尔卓德土地上最令人闻风丧胆的。她的部族的生存，是一场旷日持久的、毫无希望的对抗元素之力的战斗，迫使他们劫掠诺克萨斯人、德玛西亚人，还有阿瓦罗萨部族等等，以便渡过残酷的凛冬。瑟庄妮在最危险的战斗中身先士卒，骑着居瓦斯克野猪“钢鬃”冲在最前方，用她臻冰打造的链枷让敌人粉身碎骨。",
+            "quote": "“我生于寒冰，以风雪塑形，以寒冷磨砺。”",
+            "quote-author": "瑟庄妮"
+        },
+        "headerImage": null
+    },
+    "related-champions": [
+        {
+            "type": "champion",
+            "release-date": "2009-02-21T00:00:00.000Z",
+            "name": "艾希",
+            "title": "寒冰射手",
+            "section-title": "艾希",
+            "slug": "ashe",
+            "associated-faction": "",
+            "associated-faction-slug": "freljord",
+            "image": {
+                "title": "ashe-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt5388dc09a75213a1-Classic_Ashe_Splash.jpg",
+                "encoding": "image/jpeg",
+                "width": 1920,
+                "height": 974,
+                "x": 1333,
+                "y": 53,
+                "featured-champions": []
+            },
+            "background": {
+                "title": "ashe-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt5388dc09a75213a1-Classic_Ashe_Splash.jpg",
+                "encoding": "image/jpeg",
+                "width": 1920,
+                "height": 974,
+                "x": 1333,
+                "y": 53,
+                "featured-champions": []
+            },
+            "url": "/zh_cn/champion/ashe",
+            "video": null,
+            "races": [],
+            "roles": [
+                {
+                    "name": "射手",
+                    "slug": "marksman"
+                },
+                {
+                    "name": "辅助",
+                    "slug": "support"
+                }
+            ],
+            "role": [
+                {
+                    "name": "射手",
+                    "slug": "marksman"
+                },
+                {
+                    "name": "辅助",
+                    "slug": "support"
+                }
+            ],
+            "game-info-url": "https://lol.qq.com/web201310/info-defail.shtml?id=Ashe",
+            "biography": {
+                "full": "<p>艾希来自北方弗雷尔卓德，在这里，部落间的劫掠和氏族间的战争如同呼号的寒风和不化的坚冰一样，都是这片土地的一部分。</p><p>小部落阿瓦罗萨的女族长葛伦娜只育有艾希一个女儿，她是一名冰裔，注定要成为战士，天生就被赋予与这片土地的远古魔法连接，而且还拥有罕见的使用臻冰的力量。每个人都认为艾希将会继承她的母亲，成为部落的下一任领袖。然而，艾希从未渴求过那种光荣。战争血脉的冷酷责任以及杰出非凡的天赋反而让艾希觉得自己感到隔绝、负担、孤独。</p><p>她唯一的慰藉是瑟庄妮，这名来自姊妹部落的冰裔小姑娘每年都会随部落一起来渡过夏天，在奥恩卡尔岩地周围捕猎。两个小姑娘之间的友谊是她们童年回忆的全部，但却在她们十岁以后戛然而止。葛伦娜不知怎么就触怒了瑟庄妮的祖母，她们部落之间的友好突然就结束了。</p><p>不久后，艾希的母亲知道自己青春将逝，便开始向着“阿瓦罗萨的王座”进行毕生的追寻，那应该是一大堆财宝和魔法物品，她希望可以借此让她的人民重新振兴。</p><p>但葛伦娜对预言和传奇的笃信让她铤而走险，以至于经常让部落萧条潦倒。最终，在一次危险且不必要的对其他部落领土的劫掠行动中，葛伦娜被杀了。她突然的死让年轻的艾希落荒而逃，而她大部分族人都被赶尽杀绝。</p><p>形单影只、追兵在后的艾希按照她母亲最后留下的地图来到了一片荒无人烟的冰川，在那里她应该是找到了阿瓦罗萨的坟墓，也找到了她的臻冰魔法弓。艾希用那把武器为母亲完成了复仇，然后开始向西走。</p><p>不知是出于责任还是因为孤独，艾希一路上保护了许多散落各地的炉户部落并因此声名远扬。她摒弃了传统的方式，没有把那些人当做奴隶，而是选择将那些走投无路的人接纳为自己新部落的正式族人。很快，许多人都开始相信她不仅是拿着阿瓦罗萨的武器——而且她就是阿瓦罗萨本尊转世重生，注定要让弗雷尔卓德再次统一。</p><p>但是奇谈佳话可不能喂饱她追随者的肚子，在他们漫长的南下过程中，部落即将面临饥荒。于是艾希利用了关于自己的传说，与强大富饶的南方部落缔结盟约，承诺要将他们统一成为一个强大的国家，强大到足以向邻国发起挑战。</p><p>新的盟约也带来了新的危险，艾希很快就发现自己处于政治斗争的中心。战母，也就是弗雷尔卓德部落的首领，理应谈婚论嫁，但无论从哪个大部落里选丈夫，都会激怒其他部落。艾希可以选择多名丈夫，但这样只会把沸腾的冲突带入自己帐下，接踵而至的血战只会让她辛苦缔造的联盟土崩瓦解。</p><p>她的答案是一名流浪汉——战士泰达米尔。他一无所有，他的山岭氏族也几乎被赶尽杀绝。他既不是兽灵行者，也没有元素之力的禀赋，但自打他来到艾希的新都的第一天，泰达米尔就杀进了每一座他能找到的决斗场。他战斗的方式不顾一切，绝望地想要证明自己氏族的幸存者即便一贫如洗也值得被最强的部落接纳。但即便以弗雷尔卓德的标准，他的野蛮战法和非凡体力也足以让人感到不安，许多人都怀疑他被黑魔法侵染。艾希没有在意这些，她提出接纳他的族人，但前提是他成为她第一、也是唯一的血盟。</p><p>泰达米尔不情愿地接受了。虽然这是一场政治婚姻，但他们可以明显感到彼此的吸引，于是二人之间渐渐萌生了真正的爱慕。</p><p>如今，艾希率领着弗雷尔卓德几个世代以来最大的部落联合。即便如此，这来之不易的统一和和平正在遭到诸多威胁：内部阴谋、外族势力、凛冬之爪的暴力崛起、还有一个她自己至少需要假装坚信的命运……</p>",
+                "short": "作为阿瓦罗萨部族的战母，寒冰血脉的艾希率领着北方人数最多的部落。她克己、智慧、忠于理想，但并不适应自己作为领袖的角色，艾希与自己血脉中蕴藏的先祖魔法相通，挽起了臻冰打造的长弓。她的族人相信她就是神话中的女英雄阿瓦罗萨的转世，在人们的追随下，艾希希望夺回那些属于部族的古代领土，从而让弗雷尔卓德再次实现统一。",
+                "quote": "“一个部族，一个民族，一个弗雷尔卓德。”",
+                "quote-author": "艾希"
+            },
+            "headerImage": null
+        },
+        {
+            "type": "champion",
+            "release-date": "2013-04-30T00:00:00.000Z",
+            "name": "丽桑卓",
+            "title": "冰霜女巫",
+            "section-title": "丽桑卓",
+            "slug": "lissandra",
+            "associated-faction": "",
+            "associated-faction-slug": "freljord",
+            "image": {
+                "title": "lissandra-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/bltb746610319970ff5-Lissandra_0.jpg",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 930,
+                "y": 0,
+                "featured-champions": []
+            },
+            "background": {
+                "title": "lissandra-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/bltb746610319970ff5-Lissandra_0.jpg",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 930,
+                "y": 0,
+                "featured-champions": []
+            },
+            "url": "/zh_cn/champion/lissandra",
+            "video": {
+                "title": "lissandra-splashvideo-webm",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt7d07c62fe8a51a70-lissandra-splashvideo.webm",
+                "encoding": "video/webm",
+                "width": 1280,
+                "height": 720,
+                "x": 930,
+                "y": 0,
+                "featured-champions": []
+            },
+            "races": [],
+            "roles": [
+                {
+                    "name": "法师",
+                    "slug": "mage"
+                }
+            ],
+            "role": [
+                {
+                    "name": "法师",
+                    "slug": "mage"
+                }
+            ],
+            "game-info-url": "http://gameinfo.na.leagueoflegends.com/en/game-info/champions/lissandra",
+            "biography": {
+                "full": "<p>在一个早已被遗忘的时代，当黄沙尚未诞生并吞没恕瑞玛，古魔法的实体曾自由地游荡在符文之地上。凡人领域之间的边界线和对方境内的东西都是被激烈争夺的对象。</p><p>在这人人自危的动荡时代，丽桑卓、赛瑞尔达和阿瓦罗萨三姐妹诞生了。她们每个人都渴望着驾驭战争中的力量，而她们也都付出了惨痛的代价。赛瑞尔达尝试执掌天界的力量，却把声音输给了初之暮光。阿瓦罗萨面对世界之下的扭曲黑暗，被夺走了听觉，而其中等待着的虚无则渴望着吞噬一切造物。</p><p>而丽桑卓则对抗了凡间世界本身的狂野魔法。为了惩罚她的蔑视，一位原始神用利爪割花了她的双眼，夺走了她的视觉。</p><p>虽然三姐妹的每一位都失去了自己的一部分，但真正让她们团结并兴盛的，是丽桑卓在冰原上发起的无数次战斗。齐心合力的她们无人可挡，但即使是血脉的纽带，也会有褪色的一天。</p><p>没有了视觉的丽桑卓，选择行走在梦境中。她能断断续续地从旁人的眼中看到他们的视野，但她发现只有自己才能看到下方的黑暗以及它的真实面目：那个挥之不去的深渊不仅意味着一个结局，更意味着<i>无限</i>。它是死亡，虽然危险，但也充满潜力。丽桑卓瞒着姐妹们与那些近乎于神的灵体秘密交谈，并以三姐妹的名义与它们做了一桩交易——监视者们会赐予她们接近不朽的力量，而她们则需要让符文之地做好准备迎接虚空的到来。</p><p>于是三姐妹和他们最强大的追随者们得名<i>冰裔</i>。他们有能力抵御最冷冽的寒霜，因此也是活到最后的强者。</p><p>然而，丽桑卓的姐妹们愈发变得不满。阿瓦罗萨坚持认为只有一件事比死亡更糟糕，那就是被奴役。就连赛瑞尔达也怒不可遏，认为他们曾努力为之奋战的世界不应得此下场。丽桑卓被夹在中间，一方面努力平息姐妹们的忧心，一方面向监视者们乞求更多时间，但那不可知的虚无对这些平庸的言辞毫不在意。</p><p>虚空在遥远的北方突入了凡间世界，而这样一来，丽桑卓与监视者们的秘密勾结也变得证据确凿。那一刻，她只有两个选择，要么让全世界被吞噬，要么放弃她最珍视的东西——丽桑卓牺牲了她的姐妹们以及她们集结的盟友，以此为代价将监视者埋葬在冰川的屏障之下，这魔法的寒冰将永不消融。</p><p>丽桑卓很快发现，即使是如此强大的元素之力也远远不够。被冰封的怪物们只是在沉睡，它们渐渐污染了身边的臻冰，使之转变为某种更黑暗的东西。现在它们可以轻易游荡于丽桑卓的梦境之中，而她也同样能轻易进入它们的梦境，每一次，她都会在梦中向它们所承诺的永恒投诚，每一次她都在惶恐中醒来。</p><p>作为三姐妹的唯一幸存者，她召集了剩余的追随者，效忠于她并缅怀她逝去的姐妹们。如果臻冰只能暂时拖延世间万物的最终命运，那么他们就必须集结一切力量，搜寻冰原上的所有冰裔后代，加入他们的大业。</p><p>丽桑卓和她的第一批冰卫部族动用一切力量重写了历史，掌握了所有关于真相的记录，即便如此，依然还是有传闻和预言流传在神话和歌谣中。在人们的低语声中，阿瓦罗萨和赛瑞尔达将有朝一日回归并统一诸多水火不容的部落，为此，丽桑卓将所有被奉为她们转世降临的人都悄悄杀掉了。而她自己则退到了暗影中，每隔一段时间就用她被赋予的能力让自己焕然一新。</p><p>正如她无法杀死冰盖之下的威胁，丽桑卓同样也无法完全控制自己姐妹流传于世的传说。不知是因为愧疚还是因为自大，她曾经留下的姐妹们的传承再度凝结成两位强大的冰裔——一位理想者，一位征服者——如今，她们各自领导了弗雷尔卓德境内的许多部落。</p><p>丽桑卓守望着她们两个，寻找机会挑拨她们之间的关系，同时也加倍努力地封锁她埋藏在主堡之下的恐怖秘密。</p><p>她必须抓紧时间了，因为寒冰已经开始消融。<br></p>",
+                "short": "<p>大多数人都认为身为霜卫首领的丽桑卓是一个活着的圣人，为弗雷尔卓德的各族带来了智慧与治愈。但事实却非如此，她使用元素魔法将臻冰扭曲成黑暗的物质并用它来冰封或穿刺胆敢揭露她隐藏的秘密的人。她的过去可能是符文之地末日的起始。</p>",
+                "quote": "”寒冰中埋藏着如此多的秘密……“",
+                "quote-author": ""
+            },
+            "headerImage": null
+        },
+        {
+            "type": "champion",
+            "release-date": "2010-06-09T00:00:00.000Z",
+            "name": "奥拉夫",
+            "title": "狂战士",
+            "section-title": "奥拉夫",
+            "slug": "olaf",
+            "associated-faction": "",
+            "associated-faction-slug": "freljord",
+            "image": {
+                "title": "olaf-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt121dcc1ff9f83f58-Olaf_0.jpg",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 815,
+                "y": 67,
+                "featured-champions": []
+            },
+            "background": {
+                "title": "olaf-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt121dcc1ff9f83f58-Olaf_0.jpg",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 815,
+                "y": 67,
+                "featured-champions": []
+            },
+            "url": "/zh_cn/champion/olaf",
+            "video": null,
+            "races": [],
+            "roles": [
+                {
+                    "name": "战士",
+                    "slug": "fighter"
+                },
+                {
+                    "name": "坦克",
+                    "slug": "tank"
+                }
+            ],
+            "role": [
+                {
+                    "name": "战士",
+                    "slug": "fighter"
+                },
+                {
+                    "name": "坦克",
+                    "slug": "tank"
+                }
+            ],
+            "game-info-url": "https://lol.qq.com/web201310/info-defail.shtml?id=Olaf",
+            "biography": {
+                "full": "大多数人会说，死亡是一件可怕的事情；这些人中肯定没有奥拉夫。这个狂战士只为战争的怒吼和钢铁的交鸣而活。对荣誉的渴求和无名之死的虚无诅咒驱使着奥拉夫，让他一往无前地投入每一场战斗。奥拉夫听从他血脉深处的嗜血欲望的摆布，并且他只有在鬼门关外拼杀时才真正活着。<br><br>洛克法是一块沿海半岛，位于弗雷尔卓德最为荒蛮的地区当中。在那里，怒火是唯一一种能让冻僵的骨头变暖的火焰，血液是唯一一种能够自由流动的液体，并且没有什么事情，能比变老、变弱和被遗忘更加糟糕的了。奥拉夫曾是一名洛克法的战士，不缺过人荣耀，也不吝与人分享。某个傍晚，当他和族人在一个刚被夷平的村庄的余烬里大吹大擂时，一名年长的战士对奥拉夫的吹牛产生了厌倦。这名老战士用激将法，让奥拉夫去卜一卦，看看他的命运是否符合他的沾沾自喜。这个挑战给奥拉夫壮了胆。他嘲弄了那个年长的战士，然后将已死野兽的肘骨投出，好预测他的死亡是否能达到荣誉的巅峰。在族人们阅读预言时，所有欢笑都汇聚在了一起：根据卦象，奥拉夫会很长寿，并且一生都波澜不惊。<br><br>感到愤怒的奥拉夫冲进了夜幕中，并决定通过找到并杀死洛克法可怕的怪兽，冰霜之蛇，来证明预言是错误的。这头怪兽已经在它漫长的生命里吞吃了数以千计的人类和舰船之类的东西，并且对于所有战士来说，只要想迎来生命的终点，都会去挑战这头怪兽。当奥拉夫让自己冲进它阴暗的胃部时，他的意识陷入了黑化状态。刺骨的冰水将他从黑暗中唤醒，而他的旁边漂浮着那头野兽满是伤痕的尸体。虽然很有挫败感，但奥拉夫没有死心，而是再次启程，前去猎杀每一头带有利爪和尖牙的传奇生物，并希望下一场战斗能成为他的在最后一战。每当他朝着梦寐以求的死亡进行猛冲时，都会受到狂暴之血的拯救，并把他带出死亡的边缘。<br><br>奥拉夫断定，没有什么野兽能够让他死得符合战士的身份。他的解决方法是，去挑战弗雷尔卓德里最为可怕的部族：凛冬之爪。瑟庄妮被奥拉夫只身挑战她的战团的行为给逗乐了，但他的胆大妄为不会为他赢得任何怜悯之举。她让手下发起冲锋，并且准备为击倒奥拉夫的战士们记功。但他们一个接一个地倒下了，然后奥拉夫再次在嗜血欲望中迷失了自己，毫不费劲地砍出一条通向凛冬之爪首领的血路。瑟庄妮摇动冰川，而尽管奥拉夫看上去不可阻挡，瑟庄妮仍然与他战到筋疲力尽。当他们陷入僵局时，瑟庄妮的怒视穿透了奥拉夫的狂战阴霾，而在此之前没有任何武器能做到这点。他的狂暴消退了，而瑟庄妮终于可以对他提出建议：瑟庄妮发誓，她能带奥拉夫找到属于他的荣耀之死，但条件是，他和他的斧子要为她的征服之旅出力。从那时起，奥拉夫郑重宣告，他会将遗产刻入弗雷尔卓德。<br><br>",
+                "short": "奥拉夫是一股无坚不摧的毁灭之力，战斧在手的他别无所求，只想光荣地死在战斗中。奥拉夫来自弗雷尔卓德的海岸半岛洛克法，他曾在一次占卜预言中听闻自己将安详地死去——这是懦夫的命运，也是对他们族人的莫大侮辱。于是，为了追寻另外一种结局，他在狂怒的驱动下在这片土地上暴跳横行，屠杀了数十名伟大的战士和传说中的野兽，希望能够找到能够阻止自己的对手。如今他是凛冬之爪部族残酷的执法者，希望在即将到来的大战中找到自己的终结。",
+                "quote": "“当你们见到自己的祖先时，别忘了告诉他们，是奥拉夫送你们去的。”",
+                "quote-author": "奥拉夫"
+            },
+            "headerImage": null
+        }
+    ],
+    "explore-champions": [
+        {
+            "type": "champion",
+            "release-date": "2019-12-18T00:00:00.000Z",
+            "name": "瑟提",
+            "title": "腕豪",
+            "section-title": "瑟提",
+            "slug": "sett",
+            "associated-faction": "",
+            "associated-faction-slug": "ionia",
+            "image": {
+                "title": "sett-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blta4f78a29b9ba4c0e-sett-splash.jpg",
+                "encoding": "image/jpeg",
+                "width": 1900,
+                "height": 1092,
+                "x": 927,
+                "y": 98,
+                "featured-champions": []
+            },
+            "background": {
+                "title": "sett-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blta4f78a29b9ba4c0e-sett-splash.jpg",
+                "encoding": "image/jpeg",
+                "width": 1900,
+                "height": 1092,
+                "x": 927,
+                "y": 98,
+                "featured-champions": []
+            },
+            "url": "/zh_cn/champion/sett",
+            "video": null,
+            "races": [],
+            "roles": [
+                {
+                    "name": "战士",
+                    "slug": "fighter"
+                }
+            ],
+            "role": [
+                {
+                    "name": "战士",
+                    "slug": "fighter"
+                }
+            ],
+            "game-info-url": "",
+            "biography": {
+                "full": "<p>在艾欧尼亚日渐猖獗的地下世界里，瑟提已经是个不可小视的强力角色，但他的出身却十分低微。他的父亲是诺克萨斯人，母亲则是瓦斯塔亚，所以这个“半兽”男孩从一开始就是个异类。他的降生违背了瓦斯塔亚部落的传统，震惊不已的族人们也因此驱逐了瑟提一家。艾欧尼亚的人们无法接受这种禁忌的结合，不过种种微词都被他父亲的名声挡在了门外——因为他是一名搏击角斗士。</p><p>父亲不告而别的那天，瑟提一家小心翼翼的平静生活终于被打破了。几乎是一瞬间，那些看到瑟提就忍不住嚼舌头的人就觉得大放厥词的机会终于来了。瑟提很困惑，不知道父亲去了哪里，也不知道为什么突然之间自己走到哪里都有麻烦。</p><p>瑟提成长得很快，对人们的挑衅和侮辱学会了视而不见。不久之后，他开始懂得用自己的拳头来教人闭嘴。瑟提和人打架的消息传到了母亲那里，她便逼他发誓，自己永远不会靠近他父亲曾经呆过的搏击场。</p><p>但是瑟提越是和人交手，就越是会不由自主地想起父亲。</p><p>瑟提渴望找到那个早已在记忆中模糊了的男人。一天深夜，他在母亲睡着之后悄悄出门，溜进了搏击场。他立刻就被眼前的景象迷住了。数不清的诺克萨斯士兵在他身边发出嗜血的狂吼，他们都是不久前刚刚登陆艾欧尼亚海岸的部队。在场地中央，出身各异、隶属不同的角斗士们拿着各式各样的武器在凶残地搏斗——赢家则会收到大笔的诺克萨斯钱币。等到搏击结束，瑟提在人群中打听自己父亲的下落，却知道了一个冰冷的事实：他的父亲已经攒钱赎清了自己的契约，前往海外报酬更高的搏击场了。他抛妻弃子远走他乡，就是为了更大的财富。</p><p>怒火中烧的瑟提和搏击场的管理人要求参战，他想的是有朝一日父亲游历归来，就会成为他的对手，与他在搏击场上一较高下。管理人把瑟提安排在了下一场格斗，他觉得这孩子在自己手下的成名斗士面前只是一道开胃菜而已。</p><p>瑟提让他知道了自己错得有多离谱。</p><p>从挥出第一拳开始，人们就知道这个混血小子天生就是干这行的。虽然瑟提没有接受过正式的搏击训练，但是光凭他身上原始的力量与凶狠便已足够。他就像一座攻城锤似地掀翻了一个又一个技巧精湛的对手。瑟提一直抱着希望，自己有一天会与父亲同场较量。很快，他就成了当之无愧的“搏击场之王”，赚得盆满钵满，手下败将数不胜数。</p><p>每天晚上拳赛结束，瑟提都会带着钱回来孝敬母亲，从来没有告诉过她这些钱的真正来历。看到母亲为他骄傲的神情，不必再为了生计操劳，瑟提那颗早已麻木的心感到阵阵暖意。不过，瑟提总是觉得自己还有更大的前途。搏击场之王的头衔虽然很好，可要是能把场子收归己有……那才是真正的出人头地。</p><p>一天深夜，观众的人数打破了纪录，他们目睹瑟提又一次守住了自己的宝座。他向搏击场的管理人提出了新的要求：诺克萨斯人把搏击场交给他来管理，利润也由他说了算。在他们拒绝之后，瑟提闩上了大门。几分钟后，大门重新打开，诺克萨斯人个个血肉模糊。他们颤抖着带血的嘴唇，承认半兽人瑟提就是搏击场的新主人。</p><p>瑟提反客为主，将搏击场收入囊中之后，疲于应战的艾欧尼亚人蜂拥而至。他们直到现在才知道自己内心潜藏着对暴力的渴望。瑟提则将搏击场升级成了赌博和犯罪肆虐的地下帝国，靠着艾欧尼亚人新觉醒的嗜血爱好大发其财，攫取权力——远超他童年时最大胆的幻想。</p><p>曾经靠着一对铁拳在搏击场中横行无阻的瑟提，如今以一双铁腕统治着他的不法之地。只要有人胆敢质疑他的权威，他就会亲自出手提醒他们注意自己的身份。瑟提的每一拳砸向的都是他曾经贫困孤苦的生活，他绝不允许那样的日子卷土重来。</p>",
+                "short": "在与诺克萨斯的战争结束之后，艾欧尼亚的地下王国日渐兴起，瑟提在其中脱颖而出，成为了一方霸主。虽然他一开始只是纳沃利的搏击场里的无名小卒，但他有着一身蛮力，而且极其耐打，很快就名声鹊起。等到当地的搏击手尽数被他击败之后，瑟提靠着一腔勇武，掌控了自己曾经浴血奋战的搏击场。",
+                "quote": "“当大哥的感觉，比不当好太多了。”",
+                "quote-author": "瑟提"
+            },
+            "headerImage": null
+        },
+        {
+            "type": "champion",
+            "release-date": "2012-03-20T00:00:00.000Z",
+            "name": "璐璐",
+            "title": "仙灵女巫",
+            "section-title": "璐璐",
+            "slug": "lulu",
+            "associated-faction": "",
+            "associated-faction-slug": "bandle-city",
+            "image": {
+                "title": "lulu-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt71009d4f4fabcf6f-Lulu_0.jpg",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 956,
+                "y": 173,
+                "featured-champions": []
+            },
+            "background": {
+                "title": "lulu-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt71009d4f4fabcf6f-Lulu_0.jpg",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 956,
+                "y": 173,
+                "featured-champions": []
+            },
+            "url": "/zh_cn/champion/lulu",
+            "video": null,
+            "races": [],
+            "roles": [
+                {
+                    "name": "辅助",
+                    "slug": "support"
+                },
+                {
+                    "name": "法师",
+                    "slug": "mage"
+                }
+            ],
+            "role": [
+                {
+                    "name": "辅助",
+                    "slug": "support"
+                },
+                {
+                    "name": "法师",
+                    "slug": "mage"
+                }
+            ],
+            "game-info-url": "https://lol.qq.com/web201310/info-defail.shtml?id=Lulu",
+            "biography": {
+                "full": "<p>璐璐一直都是个热心的约德尔人，总是对别人关爱有加。她活在现实中的同时，也活在自己的古怪异想中。有一天，她正在物质领域中游荡，突然遇到了一个像是折翼的小鸟的东西。她当即跑过去想帮忙，可小鸟却突然变成了一个淘气的小仙灵。还没等她反应过来，小仙灵就抓住了她的手杖飞走了。璐璐开心地笑起来，追了上去。</p><p>那个仙灵把她引向了森林深处。他们一起踏过巨石，钻过倒地的树干，绕过古老的圆石阵。仙灵冲进了一道瀑布后面的洞穴，璐璐也跟了上去。它在前面摇摇摆摆，总是差一点儿就能够到。</p><p>他们沿着洞穴走啊走。璐璐在弯曲的树根和发光的蘑菇之间磕磕碰碰，不知何时，在她不知不觉间，他们穿越到了精神领域。他们周围的环境变得越来越奇怪、越来越扭曲：上下颠倒、前后对调、大小互换。</p><p>最后，似乎过了永远那么远以后，璐璐终于抓住了小仙灵，然后她发现，他的名字是皮克斯。</p><p>皮克斯的小手打了个响指，然后把璐璐的手杖变成了一根螺旋形状的法杖，再扔回给璐璐。法杖上长出了树叶和花朵，让璐璐笑逐颜开。于是，因为对调皮、玩闹和自然的共同热情，两人结下了永远的友谊。</p><p>皮克斯领她进入了奇幻仙境。</p><p>璐璐的家乡班德尔城就已经是一个奇特的魔力之地，不存在逻辑、时间失去意义、物质领域的自然法则根本不生效。然而奇幻仙境是一个更加离奇的地方——这里早在约德尔人出现以前就已经存在很久了，或许班德尔城就是从奇幻仙境中诞生的呢。这个充满原始魔法的地方一直隐藏得很深，从来没有任何约德尔人发现过……直到此刻为止。</p><p>在这里，璐璐自身的魔法变得狂野十足。她喜不自禁地发现自己可以任意改变周围物体的形状，也能改变自己的形态。在她亢奋的想象力作用下，任何东西都变成了现实。</p><p>璐璐不知道皮克斯把她带到这里是因为他觉得遇到了相似的灵魂，还是单纯只是想要人陪他玩，还是奇幻仙境出于其他目的需要她前来——但她立刻就爱上了这里。她的生活变成了无尽的创造与玩耍，她很快就遗忘了所有其他的存在。</p><p>当她终于回忆起来的时候，感觉如梦初醒。</p><p>她发现自己回到了物质领域，不知道刚刚过去了一天，还是一千年。让她惊喜的是，她发现有一些新学会的能力和她一起回到了这里，她可以让小东西变大，把东西变成自己喜欢的颜色，还能让生物不由自主地睡着。皮克斯永远都看不腻的，就是她轻挥法杖把巨大的野兽变成小巧的青蛙或迷茫的松鼠。</p><p>虽然很快乐，但她还是开始怀念起奇幻仙境。她决定回到仙境去，但她意识到自己已经不记得路了。皮克斯帮不上忙，他表示自己也忘记了路，但也可能是他还没在外面玩够。</p><p>璐璐没有在意，还是出发上了路。她可以肯定，回到奇幻仙境的路一直都在变换，所以无论走哪条路都一样正确。于是她干脆随时随地、随心所欲地选择方向，甚至只要看上去好玩，她就不惜以身犯险。她的足迹远达广至，而魔法、破坏和灾祸似乎也总是随行而至。</p><p>在德玛西亚，她从无聊的历史课堂上解救了一群孩童，带着他们来到附近的一片牧场。她设计的游戏到头来把孩子们都变成了毒蘑菇。整整一个月期间，他们的父母和当地民兵苦苦找寻却徒劳无获。虽然这不是璐璐的本意，但却也同样好玩。孩子们最后回到家，和大人们说起了这番经历，却没一个人相信。</p><p>在弗雷尔卓德的无主之地上，两个敌对部族在冲锋交战的瞬间，手里的武器都变成了鲜花。一场恶战立刻成了一出混乱不堪的闹剧，只是因为璐璐觉得这样好玩。而最近，她正在艾欧尼亚开心地迷路，与葵林的夜明常红花嬉戏，跟影流的弟子玩恶作剧——因为她觉得他们实在是太严肃了，对身体不好。</p><p>虽然璐璐想要回到奇幻仙境，而且十分想念那里，但她现在也很幸福，因为每一天都有更多冒险和游玩的机会。</p><p>再说，她已经意识到，奇幻仙境一直都有一部分在她心里，她到哪里，哪里就是仙境。</p>",
+                "short": "璐璐是一位约德尔女巫，最著名的能力是召来梦境般的幻觉和奇异的小动物，小仙灵皮克斯就是她云游符文之地的伙伴。璐璐可以突发奇想地重塑现实，改变世界的本质结构，改造这个平凡的物质领域中任何让她感觉是限制的东西。虽然其他人对她的魔法颇有微词，往好听了说是一种异象，往难听了说是一种危害。但是璐璐始终认为，一点魔力的启发对任何人都没有坏处。",
+                "quote": "“两点之间的最佳路径就是，上下颠倒，连起来，然后里外反转并且再次弄圆。”",
+                "quote-author": "璐璐"
+            },
+            "headerImage": null
+        }
+    ],
+    "modules": [
+        {
+            "slug": "enter-the-freljord",
+            "type": "featured-video",
+            "section-title": "",
+            "featured-image": {
+                "title": "featuredvideocover-enter-the-freljord",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt91ec7ea694b5cdd6-enter-the-freljord.jpg",
+                "encoding": "image/jpeg",
+                "width": 1920,
+                "height": 1080,
+                "x": 521,
+                "y": 358,
+                "featured-champions": []
+            },
+            "title": "进入弗雷尔卓德",
+            "subtitle": "",
+            "description": "在这变幻无常的国度里，三个部落，三足鼎立。",
+            "uri": "https://v.qq.com/x/page/p03653l9xuy.html",
+            "video": {
+                "type": "video",
+                "title": "",
+                "subtitle": "",
+                "description": [],
+                "uri": "https://v.qq.com/x/page/p03653l9xuy.html",
+                "width": "",
+                "height": "",
+                "x": "",
+                "y": "",
+                "featured-champions": []
+            },
+            "blackout": null,
+            "release-date": "2013-04-30T15:00:00.000Z",
+            "video-type": "animation",
+            "featured-champions": [
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                },
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                },
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                }
+            ],
+            "related-champions": [
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                },
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                },
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                }
+            ]
+        },
+        {
+            "slug": "被诅咒者的静默",
+            "type": "story-preview",
+            "title": "被诅咒者的静默",
+            "subtitle": "作者： Odin Austin Shafer",
+            "description": "越过冰封的河面，灯火遥遥闪烁，似是描绘着温暖和饱足。乌迪尔想象着城中住宅里的熊熊炉火。壁炉周围铺着毛绒被褥，暖意沁人。<br><br>",
+            "story-slug": "silence-for-the-damned",
+            "featured-image": {
+                "title": "udyr-ritual",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt864481ecdddaa969-udyr_ritual_story.jpg",
+                "encoding": "image/jpeg",
+                "width": 1920,
+                "height": 1080,
+                "x": 958,
+                "y": 496,
+                "featured-champions": []
+            },
+            "background": {
+                "title": "udyr-ritual",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt864481ecdddaa969-udyr_ritual_story.jpg",
+                "encoding": "image/jpeg",
+                "width": 1920,
+                "height": 1080,
+                "x": 958,
+                "y": 496,
+                "featured-champions": []
+            },
+            "release-date": "2019-02-19T16:00:00.000Z",
+            "featured-champions": [
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                },
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                }
+            ],
+            "minutes-to-read": 5,
+            "url": "/zh_cn/story/silence-for-the-damned"
+        },
+        {
+            "slug": "sejuani-image-gallery",
+            "type": "image-gallery",
+            "section-title": "",
+            "isFanArt": false,
+            "fan-art-url": "",
+            "featured-image": "",
+            "title": "",
+            "subtitle": "",
+            "assets": [
+                {
+                    "title": "瑟庄妮在行动中黑白版",
+                    "subtitle": "",
+                    "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt629672f84079e2e6-sejuani_action_bw.jpg",
+                    "encoding": "image/jpeg",
+                    "width": 1440,
+                    "height": 1080,
+                    "x": 1151,
+                    "y": 118,
+                    "featured-champions": []
+                },
+                {
+                    "title": "瑟庄妮黑白版",
+                    "subtitle": "",
+                    "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt7bc1b7f8cd1e9f3e-sejuani_sketch_bw.jpg",
+                    "encoding": "image/jpeg",
+                    "width": 1411,
+                    "height": 1007,
+                    "x": 300,
+                    "y": 492,
+                    "featured-champions": []
+                },
+                {
+                    "title": "瑟庄妮概念图",
+                    "subtitle": "",
+                    "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/bltb19aaba77c9eceb5-sejuani_concept.jpg",
+                    "encoding": "image/jpeg",
+                    "width": 1350,
+                    "height": 1080,
+                    "x": 613,
+                    "y": 206,
+                    "featured-champions": []
+                },
+                {
+                    "title": "骑乘状态的瑟庄妮概念图",
+                    "subtitle": "",
+                    "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/bltba274eb1e5a03c66-sejuani_mounted.jpg",
+                    "encoding": "image/jpeg",
+                    "width": 1110,
+                    "height": 1080,
+                    "x": 580,
+                    "y": 468,
+                    "featured-champions": []
+                }
+            ],
+            "featured-champions": [
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                }
+            ]
+        }
+    ]
+}

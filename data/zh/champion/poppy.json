@@ -1,0 +1,616 @@
+{
+    "id": "poppy",
+    "name": "波比",
+    "title": "圣锤之毅",
+    "locale": "zh_cn",
+    "champion": {
+        "type": "champion",
+        "release-date": "2010-01-13T00:00:00.000Z",
+        "name": "波比",
+        "title": "圣锤之毅",
+        "section-title": "波比",
+        "slug": "poppy",
+        "associated-faction": "",
+        "associated-faction-slug": "demacia",
+        "image": {
+            "title": "poppy-splash",
+            "subtitle": "",
+            "description": "",
+            "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt67bf8a3bc7bca663-Poppy_0.jpg",
+            "encoding": "image/jpeg",
+            "width": 1215,
+            "height": 717,
+            "x": 873,
+            "y": 3,
+            "featured-champions": []
+        },
+        "background": {
+            "title": "poppy-splash",
+            "subtitle": "",
+            "description": "",
+            "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt67bf8a3bc7bca663-Poppy_0.jpg",
+            "encoding": "image/jpeg",
+            "width": 1215,
+            "height": 717,
+            "x": 873,
+            "y": 3,
+            "featured-champions": []
+        },
+        "url": "/zh_cn/champion/poppy",
+        "video": {
+            "title": "poppy-splashvideo-webm",
+            "subtitle": "",
+            "description": "",
+            "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt6456e7d6fe2666ba-poppy-splashvideo.webm",
+            "encoding": "video/webm",
+            "width": 1280,
+            "height": 720,
+            "x": 873,
+            "y": 3,
+            "featured-champions": []
+        },
+        "races": [],
+        "roles": [
+            {
+                "name": "坦克",
+                "slug": "tank"
+            },
+            {
+                "name": "战士",
+                "slug": "fighter"
+            }
+        ],
+        "role": [
+            {
+                "name": "坦克",
+                "slug": "tank"
+            },
+            {
+                "name": "战士",
+                "slug": "fighter"
+            }
+        ],
+        "game-info-url": "http://gameinfo.na.leagueoflegends.com/en/game-info/champions/poppy",
+        "biography": {
+            "full": "<p>符文之地大陆上从来都不缺勇敢的英雄，但很少有谁能像波比一样坚毅。她一直都带着一把圣锤，长度有两个她那么高。这位意志坚决的约德尔人在无数个岁月中一直都在寻找“德玛西亚英雄”。传说中，只有这位勇士才有资格接过并使用她手中的武器。</p><p>根据传说中的描述，这位绝世英雄是唯一一个能够激发出这把圣锤的全部神力的人，而且还会将德玛西亚引向真正的伟大荣光。虽然波比已经搜寻过这个王国最偏远的角落，但她的搜寻始终徒劳无果。她曾经多次尝试将圣锤交付给某个可能成为绝世英雄的人，但每次后果都以悲剧收场：通常收下圣锤的勇士都会惨死。换成是别人，早就放弃这项使命了，但别人并不具备这位巾帼英雄不屈不挠的勇气和坚毅。</p><p>波比是一位与众不同的约德尔人。从她记事开始，她就一直在寻找着人生的目标。其他约德尔人天生都变幻无常、奇思妙想，这让波比感到自己格格不入，她更喜欢在身边寻找规律和秩序，并沉浸其中。这种冲动让她开始亲近瓦洛兰西部的人类定居点，在那里，她充满好奇地看着人类商队沿着乡间小道走向视野的尽头。商队中的人们看上去衣衫褴褛、疲惫不堪，但他们依然蹒跚前行，寻求着某种更美好的生活，似乎越过地平线就能够到达</p><p>不过有一天，这里路过了一支不一样的队伍。与其他旅行者不同的是，这些人在前进的时候似乎有着明确的目的。他们每天清晨都在守望者的号角声中全体准时起床。他们每天都在同一时间全体共同进餐，几分钟后收拾完毕。他们无论扎营还是开拔都干净利落，效率惊人。</p><p>约德尔人使用与生俱来的魔法能力铸就了非凡成就，然而这群人类却通过协作和纪律达成了同样的壮举。他们就像齿轮一样协调合作，形成了一种个人永远无法企及的强大力量。在波比眼里，这比世间所有魔法都更加令人惊叹。</p><p>波比在暗中观察这片营地的时候，看到了一件盔甲从帐篷里发出闪闪的光芒。这是他们的指挥官，身上穿着鳞片状的锁甲，金属片之间层叠交错，每一片都是这副盔甲不可或缺的一部分。他的名字叫做奥伦，他的言行似乎能像触人灵魂般鼓舞大家。如果有人灰心丧气，他会到旁边提醒他们这次远行的目的。如果有人筋疲力尽，他会让他们重新振奋起来。这让波比想起了一些约德尔人的法术，不过他不靠魔法，实现了同样的效果。</p><p>波比悄悄爬到近处仔细查看。她不由自主地被吸引到了这位闪闪发光的指挥官身边，似乎是在听从命运的召唤。她仔细观察了奥伦带领手下士兵进行训练。他的体型并不算巨大，但他却能轻松自如地挥动一把巨大的战锤。夜里，波比仔细倾听他与旅团中长者们低声商讨计划。她听到他们打算开拔上路，向西前进并建造永久定居地。</p><p>波比的脑海中充满了问题。奥伦要去哪?他从哪来?他是怎样集结这样一群一丝不苟的旅行者的?这支旅团能否接纳一位约德尔人?就在这个时候，她做出了自己今生最重要的决定：她决定首次在一名人类面前现身，因为这也是她首次感觉到与一名人类存在着某种联系。</p><p>他们首次会面充满意外，奥伦对波比提出的问题和她自己提出的一样多，不过二人很快变得密不可分。他成为了她的导师，而她则追随着他的理想。在训练场上，波比是无价的陪练对手 – 因为他是奥伦手下唯一一个敢于真正对他出手的人。她从来都不会谄媚奉承，经常用孩子一般的天真无邪质疑他的决定，似乎她根本就不知道自己应该乖乖遵从命令。她跟着他一起来到了这片新的定居地 — 一个雄心勃发的新兴国度，德玛西亚。在这里，所有人都可以获得包容和欢迎，不需要具备任何身份地位和社会背景，只需要自愿为大局整体的利益做贡献。</p><p>奥伦成为了这个国度备受爱戴的人物。虽然很少有人看到他耍弄自己的战锤，但他却一直将它背在身上，因此这把战锤很快成为这个新兴国度的一种神圣象征。有人甚至传闻这把巨锤附有摧枯拉朽、撼天动地的神力。</p><p>奥伦弥留之际，将这把战锤托付给了波比，同时托付给她的，还有他对国家长治久安、千秋万代的希望。直到那个时候，奥伦才告诉波比关于这把圣锤的故事，它如何被创造、如何注定不是他的武器。他告诉波比，这把圣锤是为了“德玛西亚绝世英雄”而生，只有这个人有能力守护德玛西亚的团结和统一。波比看着自己的朋友撒手人寰，暗自向他发誓，她一定会找到这位英雄，将这把圣锤亲手交付给他。</p><p>虽然波比具备无比的坚毅，但她却缺乏自信和自我，因此她从未意识到，她自己就可能是奥伦所描述的那位绝世英雄。</p>",
+            "short": "符文之地从来都不缺勇敢的英雄，但很少有谁能像波比一样坚毅。她一直带着奥伦的传奇圣锤，哪怕锤柄立起来有两个她那么高。这位意志坚决的约德尔人在无数个岁月中一直都在秘密地寻找“德玛西亚的英雄”，也就是传说中这把战锤的最合适的主人。在找到他之前，波比肩负起战斗的使命，用旋风般的攻击打退王国的敌人。",
+            "quote": "“ 我不是什么英雄。我只是个拿锤子的约德尔人。”",
+            "quote-author": ""
+        },
+        "bioImage": null,
+        "headerImage": null
+    },
+    "related-champions": [
+        {
+            "type": "champion",
+            "release-date": "2010-08-10T00:00:00.000Z",
+            "name": "加里奥",
+            "title": "正义巨像",
+            "section-title": "加里奥",
+            "slug": "galio",
+            "associated-faction": "",
+            "associated-faction-slug": "demacia",
+            "image": {
+                "title": "galio-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt2552ecf89c99a831-Galio_updated_splash.jpg",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 588,
+                "y": 64,
+                "featured-champions": []
+            },
+            "background": {
+                "title": "galio-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt2552ecf89c99a831-Galio_updated_splash.jpg",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 588,
+                "y": 64,
+                "featured-champions": []
+            },
+            "url": "/zh_cn/champion/galio",
+            "video": null,
+            "races": [],
+            "roles": [
+                {
+                    "name": "坦克",
+                    "slug": "tank"
+                },
+                {
+                    "name": "法师",
+                    "slug": "mage"
+                }
+            ],
+            "role": [
+                {
+                    "name": "坦克",
+                    "slug": "tank"
+                },
+                {
+                    "name": "法师",
+                    "slug": "mage"
+                }
+            ],
+            "game-info-url": "https://lol.qq.com/web201310/info-defail.shtml?id=Galio",
+            "biography": {
+                "full": "<p>有关加里奥的传奇可以追溯到符文战争的余波之时。那个时候，整片大陆上的难民全都对魔法的破坏力量避之不及。据传，在瓦洛兰的西部有一群难民被一支恶毒的黑魔法战团追杀。经过长达数日不眠不休的跋涉，难民们迫不得已躲藏在一片古老的树林中，这里的树木早已干枯风化变成了化石。法师们追到这里，却发现他们的魔法在这片树林中发挥不出任何效果。</p><p>这些树木的化石似乎是天然的魔法屏障，任何法术都会在出手之际哑火。这群难民不再是待宰的羔羊，他们举起刀剑，将那些黑魔法师赶出了这片土地。</p><p>有人断言，这个能够屏蔽魔法的庇护所是神赐的礼物，其他人则认为这里是他们用艰辛的旅途换来的奖励，但所有人都同意将这里作为他们新的家园。</p><p>多年过去，最早的一批定居者使用这些神奇的木材制作了许多种防具。后来他们发现，这种树木的化石可以与石灰混合制成禁魔石 —— 这种材料对魔法有很强的抵抗性。它也将成为一个新兴文明的基石，为摇篮中的德玛西亚王国筑起高墙。</p><p>随后的几年里，只要有禁魔石障壁的保护，德玛西亚人就不会害怕魔法进犯他们的家园。在极少数情况下需要在边境之外解决纷争时，德玛西亚军队便证明了他们的骁勇善战。但是，只要敌人使用了魔法，士兵们就显得左支右绌了。他们必须想方设法，让他们的禁魔城墙也能在前线的征战中发挥作用。</p><p>雕塑家杜朗接受了委托，用禁魔石为军队设计制作某种防护手段。两年以后，宏伟展翅的雕像加里奥问世了，它后来成为了王国重要的防守战力，也向整个符文之地昭告着德玛西亚的力量。</p><p>靠着滑轮、钢轨和无数头公牛的力量，他们把这尊巨石像推上战场。许多原本强大的侵略者，只要一看到这尊令人敬畏的石像隐约的轮廓时就立刻呆若木鸡。这位“吃魔法的巨人”激励了整个王国，也震慑着这个王国的敌人。</p><p>但一直以来，从来都没有人考虑过，不计其数的魔法奥能作用于这尊石像，会产生怎样难以预料的结果……</p><p>德玛西亚当时正在瓦洛兰北方的绿齿峰进行旷日持久的缠斗。一个战斗法师团体，奥法之拳，使用猛烈的秘法魔能，放出噼啪作响的魔法飞弹，对阵地狂轰滥炸了十三日夜。幸存下来的士兵士气低落，在加里奥身边缩成一团。就在他们万念俱灰之时，一个缓慢低沉、震耳欲聋的轰鸣响彻山谷，就像是两侧的高山在互相角力碰撞。一个巨大的阴影缓缓升起，德玛西亚士兵拿出最后的坚毅，做好慷慨赴死的准备。</p><p>一个深沉的声音在他们头顶低吼。令德玛西亚士兵惊讶的是，这个声音来自他们身后的雄伟巨像。加里奥动了起来，还在说话，完全以他自己的意志。也许是某种古怪的原理，长年累月吸纳的魔法让他活了起来。加里奥挺身而出，用自己的身躯挡在了士兵前方，用庞大的石躯吸收了每一次魔法弹的攻击。</p><p>然后加里奥转过身，走上山坡，将奥法之拳拍进了碎石和泥土中。</p><p>德玛西亚人欢呼起来。他们正想要热切地感谢他们的救命恩人，那位禁魔石像哨兵，但就如同刚才他毫无征兆地激活，这位威武的保护神现在又毫无征兆地静止了，仿佛一直伫立在基座上。回到雄都以后，绿齿峰战役的少数幸存者们开始悄声传播那桩奇闻怪事，但换来的通常只有无言的怀疑。那一天逐渐成为了传说 ——可能只是古时候人们为了共渡难关相互勉励而编出来的童话寓言。</p><p>当然，没人敢相信这尊巨像一直都在默默关注着他身边的每一件琐事。虽然他的身体纹丝不动，但是他的意识却始终清醒，渴望着再次体验战斗厮杀的快感。</p><p>他注视着凡人们从他脚下走过，年复一年地向他致敬。让他疑惑的是，随着时光荏苒，人们会一个接一个地消失。加里奥很好奇那些消失的人去哪了。或许他们是被送去修补了吧，就像他从战场回来后一样。</p><p>岁月如梭，加里奥逐渐意识到了这个问题的答案是多么地忧伤——德玛西亚人和他不一样，不能重新涂漆，也不能方便地修补。人类是脆弱的，他们的生命是短暂的。现在他突然明白了人类是多么需要他的保护。战斗曾是他热切的渴望，而现在，人民是他战斗的意义。</p><p>虽然如此，但在后来的数百年间，加里奥只获得过少数几次加入战斗的机会。德玛西亚开始聚焦于内部，世上的魔法相比以前已经变得稀缺了许多，所以他只能保持休眠的状态，在半梦半醒的恍惚之中观察这个世界。这尊巨像内心最深处的希望，是获得一次巨量魔法的赐福，魔力强大到可以让他永远不再需要沉睡。</p><p>只有到那个时候，加里奥才能真正执行他的目标，永远屹立在战斗前线，矢志不渝地保护德玛西亚。</p>",
+                "short": "德玛西亚雄都之外，巨型石像加里奥始终如一地守望着。他被创造出来是为了抵挡来犯的法师，但却经常要一动不动地矗立数十年，只有当强大的魔法力量出现时，他才会被激活。而只要加里奥活动起来，他便会充分利用每一刻，品味荡气回肠的战斗和来之不易的守护人民的荣耀。可惜，他的胜利永远都喜忧参半，因为消灭魔法的同时，也消灭了他活跃力量的源泉。每一次胜利都会使他再次进入不知世事的休眠。",
+                "quote": "“躲在我身后，德玛西亚人！可能你没注意到，我可是个大块头。”",
+                "quote-author": "加里奥"
+            },
+            "headerImage": null
+        },
+        {
+            "type": "champion",
+            "release-date": "2011-11-01T00:00:00.000Z",
+            "name": "希瓦娜",
+            "title": "龙血武姬",
+            "section-title": "希瓦娜",
+            "slug": "shyvana",
+            "associated-faction": "",
+            "associated-faction-slug": "demacia",
+            "image": {
+                "title": "shyvana-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt5b30a904d3564cd1-Shyvana_0.jpg",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 951,
+                "y": 0,
+                "featured-champions": []
+            },
+            "background": {
+                "title": "shyvana-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt5b30a904d3564cd1-Shyvana_0.jpg",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 951,
+                "y": 0,
+                "featured-champions": []
+            },
+            "url": "/zh_cn/champion/shyvana",
+            "video": null,
+            "races": [],
+            "roles": [
+                {
+                    "name": "战士",
+                    "slug": "fighter"
+                },
+                {
+                    "name": "坦克",
+                    "slug": "tank"
+                }
+            ],
+            "role": [
+                {
+                    "name": "战士",
+                    "slug": "fighter"
+                },
+                {
+                    "name": "坦克",
+                    "slug": "tank"
+                }
+            ],
+            "game-info-url": "https://lol.qq.com/web201310/info-defail.shtml?id=Shyvana",
+            "biography": {
+                "full": "<p>虽然极为罕见，但符文之地现在确实还存在几处元素巨龙的栖息地。</p><p>在恕瑞玛帝国陨落很久以后，在一座无人知晓的火山底部的岩洞中，名为伊瓦的远古巨兽在那里守护着她为数不多的龙蛋。龙蛋不仅是亚龙想要破坏的东西，同时也是超乎凡人想象的无价之宝，所以有许多无所畏惧或不长脑子的人想要来试试运气。许多年来，几十个甚至更多觊觎龙蛋的窃贼都成伊瓦口中焦黑的美餐……但最后有一个人成功了。</p><p>这个突然交了好运的法师紧紧抱着巨大的龙蛋，逃出了那片山脉，他沿途经过的丛林都被伊瓦的怒火点燃。不可能的事情发生了，他成功抵达了海岸，巨龙只能悻悻归巢。她已经失去了一枚龙蛋。不能再有闪失。</p><p>这名法师去到了北方的皮尔特沃夫，但还没等他找到买家，龙蛋就开始孵化了。不知是因为它被人搬离了龙巢，还是因为秋季的最后一轮明月预示了冬季的到来，总之有什么东西变了。破壳而出的不是幼龙，而是清清楚楚的一个人形女婴，浑身惨白的皮肤透着紫红。那名法师发现自己无法狠心抛弃她，于是把女婴当成自己的孩子养大，给她取名“希瓦娜”，致敬她生母伊瓦的黑暗传奇。</p><p>希瓦娜逐渐开始显现出超越凡人的本质。从很小的年纪开始，她的外形就能变化成某种类似古神话中半龙的怪异存在。这就让她难以生活在普通瓦洛兰居民之中，而麻烦还不止于此。有一件事可以肯定：伊瓦与她失踪的女儿之间存在某种连接，而且随时间推移越来越强烈。当其他幼龙终于振翅起飞，伊瓦也离开了空巢，飞跃海洋，追寻希瓦娜的下落。</p><p>这片土地正在受到激烈的边境战争的摧残，但无论是军队还是村民，都在巨龙来临之际四散而逃。正在一座农舍废墟中寻找安身之所的希瓦娜，眼睁睁看着自己的养父在伊瓦低空掠过的同时被烈火吞噬。年轻的希瓦娜把他拖到了附近的森林中，但除此以外她已无能为力。她在一颗大橡树下草草安葬了养父，然后孤身一人启程出发。</p><p>在野外游移躲藏了数周以后，希瓦娜在树丛中嗅到了微弱的血味。她找到了一个受伤的战士，生命垂危，她知道这个人是她<i>可以</i>拯救的。</p><p>她没有顾忌自己正在被愤怒的巨龙猎捕，立刻就变成半龙的形态，将那个昏迷中的人带走，来到了远处德玛西亚边境的一个前哨站。</p><p>在伦沃尔的城堡中，希瓦娜发现她带回来的不是别人，而是嘉文四世——德玛西亚国王的独子，王位的继承人。虽然在此驻守的士兵都因她的紫色皮肤和奇怪举止而疑心重重，但责任使然，他们还是迎接了希瓦娜。看起来，德玛西亚人永远都会互相照应，而她在镇里度过了此生中最平和的一段时光。</p><p>但和平并未能持久。希瓦娜在风中感知到了黑暗。伊瓦来了。</p><p>逐渐康复的皇子知道自己必须负责伦沃尔守军的指挥，所以组织惊恐中的居民躲进了要塞内，为即将到来的战斗做好了准备。即便如此，希瓦娜还是准备继续逃离此处。嘉文拦住了她，于是她承认那只猎捕她的巨龙其实是她的亲人。她无法容许自己的私事害死其他无辜的人。</p><p>嘉文拒绝让她离开。希瓦娜救了他的命，所以他理应在这种时候与她并肩作战。他的坚持打动了希瓦娜，她接受了他的提议。</p><p>伊瓦出现在空中，德玛西亚的弓箭手进行了一轮又一轮齐射，不断干扰伊瓦。作为反击，她用火焰洗礼了一个个城垛，用强大的爪子撕扯石墙，将身穿铠甲的战士们扫下墙边的护栏。就在这时，希瓦娜向前跨越，在空中变身，对自己的生母发出了挑战的咆哮。这番景象自从符文战争之后就在瓦洛兰大陆上鲜有见闻：两条巨龙针锋相对，尖牙利爪在伦沃尔的上空铿锵冲撞。</p><p>最后，遍体鳞伤、血流如注的希瓦娜将伊瓦拖到了地面，在坚硬的石板上拧断了巨龙的脖颈。</p><p>皇子亲自嘉奖了希瓦娜的英勇表现，并承诺只要希瓦娜与他一同回到父王的宫殿，他身边就永远都有她一席之地。他们带上伊瓦的头骨作为胜利的证明，共同启程返回德玛西亚雄都。</p><p>希瓦娜得知，国王嘉文三世的疆域正在分裂——人民对于法师和魔法的不信任导致他们偏离了德玛西亚创建之初的高尚理想。她作为皇子最信任的守卫中的一员，虽然得到了一定程度的接纳，但她不禁好奇，如果她真正的本质被广为人知的话，自己是否还能受到一如既往的对待。</p>",
+                "short": "希瓦娜是超越凡人的生物，心中燃烧着纯粹的元素魔法。虽然她平时以人的形象出现，但在必要的时候，她能显露出真正的形态，变为一条威猛的巨龙，用龙息烈焰吞噬敌人。希瓦娜曾拯救过皇子嘉文四世的性命，如今她心神不安地在皇子的卫队中效力，力图在多疑的德玛西亚人中求得接纳。",
+                "quote": "“我来自两个世界，却不属于任何一处。”",
+                "quote-author": "希瓦娜"
+            },
+            "headerImage": null
+        }
+    ],
+    "explore-champions": [
+        {
+            "type": "champion",
+            "release-date": "2009-05-01T00:00:00.000Z",
+            "name": "泰达米尔",
+            "title": "蛮族之王",
+            "section-title": "泰达米尔",
+            "slug": "tryndamere",
+            "associated-faction": "",
+            "associated-faction-slug": "freljord",
+            "image": {
+                "title": "tryndamere-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/bltd450a0f61fb2974c-Tryndamere_0.jpg",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 937,
+                "y": 3,
+                "featured-champions": []
+            },
+            "background": {
+                "title": "tryndamere-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/bltd450a0f61fb2974c-Tryndamere_0.jpg",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 937,
+                "y": 3,
+                "featured-champions": []
+            },
+            "url": "/zh_cn/champion/tryndamere",
+            "video": null,
+            "races": [],
+            "roles": [
+                {
+                    "name": "战士",
+                    "slug": "fighter"
+                },
+                {
+                    "name": "刺客",
+                    "slug": "assassin"
+                }
+            ],
+            "role": [
+                {
+                    "name": "战士",
+                    "slug": "fighter"
+                },
+                {
+                    "name": "刺客",
+                    "slug": "assassin"
+                }
+            ],
+            "game-info-url": "https://lol.qq.com/web201310/info-defail.shtml?id=Tryndamere",
+            "biography": {
+                "full": "<p>泰达米尔来到这个世上以后只懂得生存的艰辛，因为他的氏族所定居的冰冻平原从来都没有消融的时候。虽然他们赞美弗雷尔卓德的所有古神，也信奉三姐妹密教，但他们最经常祈祷的对象，是一个在冰原上大肆破坏的神灵——一个壮硕的、无法被杀死的巨牙兽王。因为能用来制作盔甲的原始材料非常稀缺，于是这个氏族就将材料用于铸造巨大的剑刃，以此效仿他们神明的乳白色猎犬。</p><p>泰达米尔的族人以强大的体能和单打独斗能力著称。他们有能力击退来犯的其他部落、击杀山岭中的巨大野兽、抗击南方的诺克萨斯侵袭。泰达米尔自己也成为了一名狂暴、可怕的战士，但对他力量的真正考验，来自一个特别的深冬寒夜。一场非同寻常的风暴从东方席卷而来，带来了冰冷的黑暗，还有一个高大魁梧的、长着犄角的人影，漆黑的轮廓映衬着满月，看不清任何面目。</p><p>氏族里有人倒地跪拜，他们相信面前站着的就是他们的野猪之神。的确，这个生物溢满了远古的魔法，但他并不属于弗雷尔卓德……那些跪拜的人是最先被杀死的。</p><p>眼前的场面让泰达米尔惊骇恐惧。这个入侵者残酷的活体长剑让他感到自己的心中升起一股没来由的残忍。不知是被嗜血还是其他什么疯狂所占据了心智，泰达米尔提起了自己的剑，发出了挑战的怒吼。</p><p>那个黑暗的人影把他像虫子一样拍到一边。</p><p>泰达米尔躺在死人堆中间，地上的白雪几乎被血染成了黑色。就在他准备吸进最后一口气的时候，那个东西走了过来，开口说话。泰达米尔想要听清那奇怪的古代话语，但随着他的生命流逝，烙印在他记忆中的只有那个东西的笑声。</p><p>泰达米尔那一晚并没有死。他在一种从未体会过的怒火中重生了。他看向东方的天边，他要的不仅要为自己的氏族复仇，也要夺回自己的战斗尊严。</p><p>但家乡的平原并没有给他复仇的机会。氏族留下了其他幸存者，如果泰达米尔无法为他们找到庇护所，他们都活不长久。南方有诺克萨斯，北方有冰霜守卫，那个黑暗的人影从东面来。而在西边，听说一些部落正在聚集到据称是阿瓦罗萨转世的麾下——换做从前，他可能会对如此神乎其神的传闻不屑一顾，但现在他知道西边是他唯一的生机。</p><p>泰达米尔和剩下的族人到达了那片山谷，他们几乎和乞丐无异。这位年轻的战士决心要展示出他们氏族的价值，赢得阿瓦罗萨首领的庇护，这样他就可以放心地思考如何复仇了。他舞起自己的獠牙大剑，选择了对他来说最自然的方式：向这里的人发起了对决挑战。心中带着对那个黑暗的人影的执念，脑海中回荡着那个笑声，泰达米尔很快就战胜了所有接受挑战的人。</p><p>他绝无仅有的狂怒让阿瓦罗萨人十分不安。北方的战士们也注意到他在两次较量之间迅速的自愈能力——与他们身边的冰裔不同，泰达米尔越是不加节制地陷入怒火，他的身体自愈的速度就越快。许多人都怀疑他和他的氏族使用了奇怪的、非自然的魔法，于是泰达米尔证明自己价值的计划反而威胁到了氏族的整体形象。</p><p>但并非所有阿瓦罗萨人都敌视他。他们的战母，艾希，正在为了巩固自己的地位而寻求政治联姻……正在寻找一个能为她迎接挑战者的人，与她执手、奉她为王。艾希在这名英俊的野蛮人身上看到了机遇，她许下承诺将他的氏族接纳为阿瓦罗萨人，前提是泰达米尔成为她第一、也是唯一的血盟。</p><p>随着他与艾希共处时间的积累，他开始相信其他人的私语——相信她真的是阿瓦罗萨本尊的神圣化身。他的怒气在她的带领下找到了三思后的节制，二人之间也开始产生真实的爱慕之情。</p><p>虽然如此，但作为艾希的决斗代表，如今的泰达米尔看到的是不确定的未来。这位蛮族之王可以清楚地看到弗雷尔卓德的天边有战争正在酝酿，但他同时也渴求属于他自己的复仇，他也开始怀疑自己的宿命可能到最后并不在他的女王身边……</p>",
+                "short": "<p>桀骜不羁和无尽的愤怒驱使着泰达米尔在弗雷尔卓德所向披靡。他曾公开挑战北方最伟大的战士，让自己为未来更黑暗的时日做好准备。这位愤怒的野蛮人一直都在为自己被灭绝的氏族寻求复仇，不过最近他与阿瓦洛萨部族的战母艾希达成了联姻。他非人的力量与毅力是众人皆知的传奇，而且也为他和他的新盟友带来了无数次奇迹般的胜利。</p>",
+                "quote": "“怒气，即是我的武器。”",
+                "quote-author": "泰达米尔"
+            },
+            "headerImage": null
+        },
+        {
+            "type": "champion",
+            "release-date": "2011-08-24T00:00:00.000Z",
+            "name": "泰隆",
+            "title": "刀锋之影",
+            "section-title": "泰隆",
+            "slug": "talon",
+            "associated-faction": "",
+            "associated-faction-slug": "noxus",
+            "image": {
+                "title": "talon-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt7df9d71e87d2ab9a-Talon_0.jpg",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 893,
+                "y": 121,
+                "featured-champions": []
+            },
+            "background": {
+                "title": "talon-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt7df9d71e87d2ab9a-Talon_0.jpg",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 893,
+                "y": 121,
+                "featured-champions": []
+            },
+            "url": "/zh_cn/champion/talon",
+            "video": null,
+            "races": [],
+            "roles": [
+                {
+                    "name": "刺客",
+                    "slug": "assassin"
+                },
+                {
+                    "name": "战士",
+                    "slug": "fighter"
+                }
+            ],
+            "role": [
+                {
+                    "name": "刺客",
+                    "slug": "assassin"
+                },
+                {
+                    "name": "战士",
+                    "slug": "fighter"
+                }
+            ],
+            "game-info-url": "https://lol.qq.com/web201310/info-defail.shtml?id=Talon",
+            "biography": {
+                "full": "<p>泰隆最早记住的东西，就是诺克萨斯地下隧道的阴暗，以及手中刀刃那令人放心的可靠感。他对家庭，温暖，或是友善没有一点印象。所窃金币的叮当作响，以及身后墙壁的安全感，反而是他曾渴望的一切。泰隆仅凭他的急智与巧手谋生，在诺克萨斯破旧的下层社会勉强度日。他对刀刃的精通，使他很快被看成是一个威胁，并且诺克萨斯的行会们都曾派出刺客向他提出要求：加入他们或者被杀。他将这些不速之客的尸体统统丢进了诺克萨斯的护城河，作为他的回答。</p><p>刺杀变得越来越危险，直到一名杀手与泰隆在一场硬碰硬的对决之中刀锋相向。令泰隆意外的是，他自己被解除了武器，并且俯首于行刑者的剑下。此时，这个杀手表明了自己的身份：他就是杜·克卡奥将军。将军提供给泰隆两个选择，要么死在他的剑下，要么以诺克萨斯最高指挥部的特使身份而生。泰隆选择生存下去，但条件是，他的服务对象只有杜·克卡奥一个，他仅敬重他无法击败的人的命令。泰隆仍然藏身于暗处，执行着杜·克卡奥的秘密任务，从弗瑞尔卓德的寒冷大地，到德玛西亚城的内部密室。在将军消失的时候，泰隆重获了他的自由，但在常年的服务之后，他对杜·克卡奥的尊敬之情已经无法估量。在追寻将军下落的过程中，他变得心神不宁，并在追查到对杜·克卡奥的失踪负有责任的人时会施以清扫行动。</p>",
+                "short": "泰隆是黑暗中的匕首，是绝无仁慈的杀手，他出手前不会有任何警告，不会留任何退路，也不会引起任何警觉。泰隆在诺克萨斯的野蛮街巷中深深烙印了自己危险的名号，在这里他被迫为了生存而战斗、杀戮、偷窃。后来恶名昭彰的杜·克卡奥家族收养了他，现在他为帝国的指挥部贡献自己的夺命手段，暗杀敌人的领袖、军官和英雄…...当然也包括任何得罪了最高长官们的诺克萨斯蠢货。",
+                "quote": "“瓦洛兰的三个最能取人性命的刃武大师，都与杜·克卡奥家族有关系：我的父亲，我，还有泰隆。来挑战我们吧，如果你够胆的话。”",
+                "quote-author": "卡特琳娜·杜·克卡奥"
+            },
+            "headerImage": null
+        }
+    ],
+    "modules": [
+        {
+            "slug": "屠魔人",
+            "type": "story-preview",
+            "title": "屠魔人",
+            "subtitle": "",
+            "description": "波比不想招惹这只荆棘狼，但现在这只狼却正要向她扑过来。它的嘴角依然挂着暗红色的血迹，距离它上次猎杀没过多久，不过这位约德尔人可不想成为它口中的猎物。她很快就要追赶上著名的屠魔人了，她必须活下去，找到这位屠魔人并判断他的资格。<br><br>",
+            "story-slug": "poppy-color-story",
+            "featured-image": {
+                "title": "poppy-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt67bf8a3bc7bca663-Poppy_0.jpg",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 873,
+                "y": 3,
+                "featured-champions": []
+            },
+            "background": {
+                "title": "demacia-citadel",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt4f8faf8e4ff0c12b-demacia-citadel.jpg",
+                "encoding": "image/jpeg",
+                "width": 1582,
+                "height": 1080,
+                "x": 685,
+                "y": 185,
+                "featured-champions": []
+            },
+            "release-date": "2015-12-09T16:00:00.000Z",
+            "featured-champions": [
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                }
+            ],
+            "minutes-to-read": 5,
+            "url": "/zh_cn/story/poppy-color-story"
+        },
+        {
+            "slug": "轻语嘟嗒",
+            "type": "story-preview",
+            "title": "轻语嘟嗒",
+            "subtitle": "作者：Graham McNeill",
+            "description": "我来给你讲讲我林子里的这片空地。<br><br>",
+            "story-slug": "the-whispering-doodad",
+            "featured-image": {
+                "title": "doodad",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt22efa4152391c194-whispering_doodad.jpg",
+                "encoding": "image/jpeg",
+                "width": 0,
+                "height": 0,
+                "x": 0,
+                "y": 0,
+                "featured-champions": []
+            },
+            "background": {
+                "title": "doodad",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt22efa4152391c194-whispering_doodad.jpg",
+                "encoding": "image/jpeg",
+                "width": 0,
+                "height": 0,
+                "x": 0,
+                "y": 0,
+                "featured-champions": []
+            },
+            "release-date": "2019-05-14T15:00:00.000Z",
+            "featured-champions": [
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                },
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                }
+            ],
+            "minutes-to-read": 5,
+            "url": "/zh_cn/story/the-whispering-doodad"
+        },
+        {
+            "slug": "poppy-image-gallery",
+            "type": "image-gallery",
+            "section-title": "",
+            "isFanArt": false,
+            "fan-art-url": "",
+            "featured-image": "",
+            "title": "",
+            "subtitle": "",
+            "assets": [
+                {
+                    "title": "波比制作中概念图",
+                    "subtitle": "",
+                    "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt749d673df18d84a3-poppy_wip_concept.jpg",
+                    "encoding": "image/jpeg",
+                    "width": 1233,
+                    "height": 1080,
+                    "x": 296,
+                    "y": 418,
+                    "featured-champions": []
+                },
+                {
+                    "title": "波比实体模型",
+                    "subtitle": "",
+                    "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/bltff42dccfed1a8375-poppy_mockup.jpg",
+                    "encoding": "image/jpeg",
+                    "width": 1837,
+                    "height": 1080,
+                    "x": 914,
+                    "y": 759,
+                    "featured-champions": []
+                },
+                {
+                    "title": "波比早期概念图",
+                    "subtitle": "",
+                    "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt895140f42c05b788-poppy_early_concept.jpg",
+                    "encoding": "image/jpeg",
+                    "width": 1216,
+                    "height": 1001,
+                    "x": 826,
+                    "y": 401,
+                    "featured-champions": []
+                }
+            ],
+            "featured-champions": [
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                }
+            ]
+        },
+        {
+            "slug": "poppy-devblog",
+            "type": "link-out",
+            "section-title": "Dev Blog",
+            "title": "英雄剖析：圣锤之毅，波比",
+            "description": "",
+            "url": "https://lol.qq.com/webplat/info/news_version3/152/4579/4580/m3106/201511/405684.shtml",
+            "featured-image": null,
+            "subtitle": "短篇故事",
+            "background": {
+                "title": "poppy-devblog",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt6886f22d808da57d-poppy_devblog.jpg",
+                "encoding": "image/jpeg",
+                "width": 1280,
+                "height": 720,
+                "x": 1025,
+                "y": 142,
+                "featured-champions": []
+            },
+            "cta": "",
+            "blackout": null,
+            "isFanArt": false,
+            "isComic": false
+        },
+        {
+            "slug": "poppy-devbloganim",
+            "type": "link-out",
+            "section-title": "Dev Blog",
+            "title": "波比的动画效果",
+            "description": "",
+            "url": "https://lol.qq.com/webplat/info/news_version3/152/4579/4580/m3106/201512/414000.shtml",
+            "featured-image": null,
+            "subtitle": "短篇故事",
+            "background": {
+                "title": "poppy-devbloganim",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/bltb986bcdd5b8ede97-poppy_devbloganim.jpg",
+                "encoding": "image/jpeg",
+                "width": 1280,
+                "height": 720,
+                "x": 665,
+                "y": 339,
+                "featured-champions": []
+            },
+            "cta": "",
+            "blackout": null,
+            "isFanArt": false,
+            "isComic": false
+        },
+        {
+            "slug": "poppy-login",
+            "type": "featured-video",
+            "section-title": "",
+            "featured-image": {
+                "title": "poppy-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt67bf8a3bc7bca663-Poppy_0.jpg",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 873,
+                "y": 3,
+                "featured-champions": []
+            },
+            "title": "圣锤之毅波比登录界面",
+            "subtitle": "",
+            "description": "",
+            "uri": "https://v.qq.com/x/page/h0363yxb1js.html",
+            "video": {
+                "type": "video",
+                "title": "",
+                "subtitle": "",
+                "description": [],
+                "uri": "https://v.qq.com/x/page/h0363yxb1js.html",
+                "width": "",
+                "height": "",
+                "x": "",
+                "y": "",
+                "featured-champions": []
+            },
+            "blackout": null,
+            "release-date": "2015-12-09T16:00:00.000Z",
+            "video-type": "champ-login-music",
+            "featured-champions": [
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                }
+            ],
+            "related-champions": [
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                }
+            ]
+        }
+    ]
+}

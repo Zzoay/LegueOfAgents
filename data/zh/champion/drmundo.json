@@ -1,0 +1,421 @@
+{
+    "id": "drmundo",
+    "name": "蒙多医生",
+    "title": "祖安狂人",
+    "locale": "zh_cn",
+    "champion": {
+        "type": "champion",
+        "release-date": "2009-09-02T00:00:00.000Z",
+        "name": "蒙多医生",
+        "title": "祖安狂人",
+        "section-title": "蒙多医生",
+        "slug": "drmundo",
+        "associated-faction": "",
+        "associated-faction-slug": "zaun",
+        "image": {
+            "title": "drmundo-splash",
+            "subtitle": "",
+            "description": "",
+            "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt1de6f1cc36193557-mundo-splash.jpg",
+            "encoding": "image/jpeg",
+            "width": 1215,
+            "height": 717,
+            "x": 652,
+            "y": 68,
+            "featured-champions": []
+        },
+        "background": {
+            "title": "drmundo-splash",
+            "subtitle": "",
+            "description": "",
+            "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt1de6f1cc36193557-mundo-splash.jpg",
+            "encoding": "image/jpeg",
+            "width": 1215,
+            "height": 717,
+            "x": 652,
+            "y": 68,
+            "featured-champions": []
+        },
+        "url": "/zh_cn/champion/drmundo",
+        "video": null,
+        "races": [],
+        "roles": [
+            {
+                "name": "战士",
+                "slug": "fighter"
+            },
+            {
+                "name": "坦克",
+                "slug": "tank"
+            }
+        ],
+        "role": [
+            {
+                "name": "战士",
+                "slug": "fighter"
+            },
+            {
+                "name": "坦克",
+                "slug": "tank"
+            }
+        ],
+        "game-info-url": "https://lol.qq.com/web201310/info-defail.shtml?id=DrMundo",
+        "biography": {
+            "full": "<p>祖安城中声名狼藉的疯人院里，一个怪异的身影游荡在回廊之间。他的手法激进，他的骨锯锋利，令他的病人们闻风丧胆。因为他根本不是医生，他只是在自己的臆想中治病救人。</p>\n\n<p>虽然他真正的名字早已无人记得，也无据可查，但蒙多医生曾经是祖安某位实力雄厚的炼金男爵手下的打手。人人都知道他的豪爽耿直，对于一个靠威逼胁迫为生的人来说，他有着难得的好脾气。他擅长给人起外号，愿意拍别人后背以示友好，还经常兴高采烈地踩到别人的脚趾而不自知。所以没过多久，他就重重地踩到了自己老板的脚趾。</p>\n\n<p>那位炼金男爵要拿他杀鸡儆猴，于是把他送进了奥斯韦尔德疯人院——那是一个以治疗手段惨无人道、处方用药饱受质疑的地方。那位男爵心满意足地看到自己的打手被捆住手脚，被拖进了疯人院最牢靠的软包病房中。</p>\n\n<p>几个月过去，那些所谓的护工们在这个打手身上进行了不可言说的可怕行径。实验处理的执行从不考虑病人的安危。神经穿刺、脑叶切除、未经认证的药物大剂量注入。这个打手开始发生改变，他壮硕的身躯每天都会长出更多肌肉。而他的大脑则迎来更可怕的命运。他彻底忘记了曾经的生活，也无法理解自己周围这个残酷的世界。他低头看到自己身上破旧的束缚衣——好像跟他身边那些医疗人员的白大褂也没差多少。</p>\n\n<p>他读错了自己衣服上的字，于是开始给自己安上了新名字和新职业。</p>\n\n<p><i>我肯定也是个医生。不然的话怎么会呆在这座破烂的疯人院里呢？</i>他继续推断，<i>那我旁边的这些人……肯定都是我的患者。</i></p>\n\n<p>最后有一天，那名炼金男爵终于来接他的打手出院了。令他震惊的是，正门大厅没人接待。走廊空荡死寂，只有尽头一间屋子里某个疯人患者发出微弱的胡言乱语。</p>\n\n<p>男爵走进那间屋子，看到一片骇人的景象：地板上散落着无数具尸体——医者和患者，全都支离破碎无法分辨。唯一站着的，是一个魁梧高大、皮肤发紫的怪物，口中喋喋不休，不知在说些什么，一条肥大的蓝舌头从张开的大嘴里耷拉出来。贲凸的肌肉几乎要把衣服撑破，而他的手里紧紧攥着一把外科手术用的锯刀。那名男爵面色煞白，因为他看到了这个怪物的脸——他认出来这就是自己的打手。</p>\n\n<p>而那个打手根本记不得自己以前的老板，他看到的只有迫切需要治疗的患者。那个紫色的怪物向炼金男爵走去，兴冲冲地挥动骨锯。男爵掏出炼金科技手枪向他开火。子弹撕开怪物胸前的肉块，让他停下脚步……</p>\n\n<p>但只是短暂的停顿。</p>\n\n<p>那个怪物身上的伤口快速愈合，新鲜的肌肉迅速覆盖了缺口。怪物顿了一下，用异样的目光打量男爵一眼，然后吐出一句，“你病了。得治！”</p>\n\n<p>他模仿自己在疯人院里见过的做法，像那些曾经的医者无数次做过的那样，他把面前这个人扔上旁边的病床，把他的胳膊捆到床栏上，然后准备手术器械。那位炼金男爵意识到自己即将迎来何种可怕命运，面无血色。</p>\n\n<p>随后的那场手术——和前前后后许多场手术一样，都<i>不</i>成功。这位大块头医生把患者的残骸扔到地上那一大堆患者中间。虽然没能挽救他们令他难过，但他知道自己已经全力以赴了。再说，以后还有很多机会。祖安有许多病人等待治疗。于是他脸上重新挂起微笑，离开医院，出发去大街小巷里寻找患者。</p>",
+            "short": "精神与认知彻底崩坏、杀人的欲望永不满足、浑身皮肤紫得发黑，这就是蒙多医生，这就是祖安人在漆黑的夜里不敢出门的原因。如今的他自封为一名医生，但在以前，他是祖安最臭名昭著的疯人院里的病人。在“治愈”疯人院里的全体工作人员后，蒙多医生在过去收治他的空病房里搭起了手术台，有模有样地还原起他当年亲历的各种非人实验。蒙多医生的药柜里装满了瓶瓶罐罐，脑子里却丝毫没有半点医学知识。随着他把药剂一针针注入体内，他的外貌也变得愈发丑陋骇人，把误入他办公室周围的“病人”吓得魂飞胆散。",
+            "quote": "“我是个好医生，看过的病人犯病从来不犯第二次。”",
+            "quote-author": "蒙多医生"
+        },
+        "headerImage": null
+    },
+    "related-champions": [
+        {
+            "type": "champion",
+            "release-date": "2015-05-28T00:00:00.000Z",
+            "name": "艾克",
+            "title": "时间刺客",
+            "section-title": "艾克",
+            "slug": "ekko",
+            "associated-faction": "",
+            "associated-faction-slug": "zaun",
+            "image": {
+                "title": "ekko-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt010cb09f412da7ab-Ekko_0.jpg",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 1061,
+                "y": 30,
+                "featured-champions": []
+            },
+            "background": {
+                "title": "ekko-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt010cb09f412da7ab-Ekko_0.jpg",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 1061,
+                "y": 30,
+                "featured-champions": []
+            },
+            "url": "/zh_cn/champion/ekko",
+            "video": {
+                "title": "ekko-splashvideo-webm",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt620140a47e3a8d75-ekko-splashvideo.webm",
+                "encoding": "video/webm",
+                "width": 1280,
+                "height": 720,
+                "x": 1061,
+                "y": 30,
+                "featured-champions": []
+            },
+            "races": [],
+            "roles": [
+                {
+                    "name": "刺客",
+                    "slug": "assassin"
+                },
+                {
+                    "name": "战士",
+                    "slug": "fighter"
+                }
+            ],
+            "role": [
+                {
+                    "name": "刺客",
+                    "slug": "assassin"
+                },
+                {
+                    "name": "战士",
+                    "slug": "fighter"
+                }
+            ],
+            "game-info-url": "http://gameinfo.na.leagueoflegends.com/en/game-info/champions/ekko",
+            "biography": {
+                "full": "<p>艾克是个高智商的天才，他甚至在还没会爬之前就先学会了制作简单的机械。他的父母茵娜和维斯发誓要为他提供一个光明的未来。他们认为充斥着污染和犯罪的祖安只会耽误艾克的成长，只有皮尔特沃夫的财富和机遇才适合他。所以在艾克的童年时期，他就目睹了父母在血汗工厂的危险环境中加班加点，未老先衰。他们挣着微薄的薪水，而贪婪的工厂主和高高在上的皮佬买家却从他们的劳动中获得暴利。</p><p>他们一心想着，如果他们的儿子有朝一日能升入头顶上的那座城，那么一切都是值得的。</p><p>艾克的看法却不一样。纵然祖安有种种缺点，但他却能看到一个洋溢着能量和潜能的活力之都。祖安人的勤奋、多才和顽强是创新的温床。他们从灾难中建起了繁荣的文明，在其他人必死无疑的绝境中兴旺发达。这种精神感召着艾克，激励着他成为了一个肆意挥洒发明与创新的少年。</p><p>艾克并不孤单。他结交了许多好斗的孤儿、好奇的流浪儿和自命不凡的孩子王。祖安佬不愿接受正统教育，而是喜欢以师徒传承的方式学习一门技艺，而这群“祖安迷童” 都拜同一个师父，那就是祖安迷宫一般的街道。他们用年轻人的方式豪情万丈地挥霍青春——在边境市场里赛跑、挑战徒手从地沟区攀爬上舞步走廊。他们自由不羁，不服从任何人。</p><p>一天夜里，艾克独自前往一座刚刚被炸毁的实验室废墟探险，惊讶地发现了一件宝贝：一块蓝绿色的放着魔法亮光的水晶碎片。每个祖安的孩子都听说过<i>海克斯水晶</i>的故事，据说这种水晶是神兵和英雄们的力量之源，有着改变世界的潜力。而现在他手里就握着一块破碎的海克斯水晶。他四处寻觅，想要找到更多碎片，但科技武装的执法者队伍踩在瓦砾上的脚步声告诉他，搜寻碎片的不止他一个。于是艾克在千钧一发之际逃回了家。</p><p>他开始对这块水晶进行狂热的实验。在一次不那么科学的尝试中，水晶爆炸成了一团晶体尘埃形成的漩涡，触发了扭曲时间的气旋。艾克睁开眼，看到了许多个现实的分支，也看到了许多个自己在这一刻的镜像，镜像也在万分惊恐地看着自己，在碎裂的时空中不知所措。</p><p>这一次他真的做到了。</p><p>艾克和自己的平行现实镜像进行了一番紧张的调谐，最后控制并修复了他在现实时空中撕开的裂口。最终，艾克通过一种装置驾驭了这枚破碎水晶的时空之力，可以让他操控一段短暂的时间……至少理论上是这样。</p><p>在他的命名日那天，伙伴们叫嚷着拉他去攀登那座古老的钟塔，“老饿鬼”。于是艾克带上那个尚未经过测试的装置出发了。</p><p>祖安迷童开始了攀登，中间不时停下来涂上一两副讽刺皮佬名人的下流画。就在他们快要登上楼顶的时候，一名伙伴误抓了松动的把手，失手摔了下去。艾克本能地发动了水晶装置，动作娴熟犹如练习过成百上千次一般。周围的世界破碎了，他在时间的粒子洪流中被拉扯着向后倒退。</p><p>然后他回到了刹那之前，正好看到伙伴伸手够向那根松动的把手。把手断裂，男孩落下……但这一次艾克有所准备，他冲到边上，抓住了同伴的衣服。他想要顺势把同伴扔向安全的地方，但他的同伴却被卡在了钟塔的齿轮中间，然后——</p><p>停止。倒退。</p><p>多次尝试以后，艾克终于救下了自己的朋友。但在伙伴们眼里，艾克用的是超自然的反应速度，在其他人还没意识到危险的时候就拯救了朋友。他将水晶的事告诉他们并要他们发誓保密。但他们却得寸进尺，总是互相挑战鲁莽和愚蠢的新高度，因为他们知道艾克一定有办法让他们有惊无险。</p><p>每次试炼，以及背后无数次试错，都让他的时间装置（他给取名为Z型驱动）更加稳定。唯一的使用限制，就是他自己的身体所能承受的疲劳极限。</p><p>艾克扭转时间的传闻和轶事，很快就让祖安和皮城最懂发明、最有实力以及最危险的几个人产生了兴趣。不过艾克唯一关心的只有自己的伙伴、家庭和这座城市。他梦想着有一天自己的故乡能够崛起，让那座自诩进步的城市相形见绌。那个时候，皮尔特沃夫的光鲜外表将笼罩在祖安人的精妙创意和无悔勇气之下，二者之间的差距绝非来自世代传承的特权，而是源于单纯的冒险精神。或许他现在还没有具体的计划，但艾克有大把时间，把这个梦想变为现实。</p><p>毕竟，既然他的Z型驱动能够改变过去，那么改变未来又有何难？</p>",
+                "short": "艾克是一名来自祖安不良街区的天才少年。他能操纵时间，以使任何处境都变得对自己有利。通过使用自己的发明——Z型驱动——艾克可以在现实世界与其它平行分支之间探索。尽管他酷爱这种自由，但只要朋友们遇到了威胁，他就会不顾一切地去保护他们。在旁观者眼里，艾克总是能轻而易举地完成那些看似不可能办到的事情，且屡试不爽。",
+                "quote": "“我的装置在运行失常的时候最好用…...也就是大部分时候都好用。”",
+                "quote-author": ""
+            },
+            "bioImage": null,
+            "headerImage": null
+        }
+    ],
+    "explore-champions": [
+        {
+            "type": "champion",
+            "release-date": "2012-12-19T00:00:00.000Z",
+            "name": "蔚",
+            "title": "皮城执法官",
+            "section-title": "蔚",
+            "slug": "vi",
+            "associated-faction": "",
+            "associated-faction-slug": "piltover",
+            "image": {
+                "title": "vi-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt386aa1a09687ad91-Vi_0.jpg",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 926,
+                "y": 135,
+                "featured-champions": []
+            },
+            "background": {
+                "title": "vi-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt386aa1a09687ad91-Vi_0.jpg",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 926,
+                "y": 135,
+                "featured-champions": []
+            },
+            "url": "/zh_cn/champion/vi",
+            "video": {
+                "title": "vi-splashvideo-webm",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt3265d4d974879b08-vi-splashvideo.webm",
+                "encoding": "video/webm",
+                "width": 1280,
+                "height": 720,
+                "x": 926,
+                "y": 135,
+                "featured-champions": []
+            },
+            "races": [],
+            "roles": [
+                {
+                    "name": "战士",
+                    "slug": "fighter"
+                },
+                {
+                    "name": "刺客",
+                    "slug": "assassin"
+                }
+            ],
+            "role": [
+                {
+                    "name": "战士",
+                    "slug": "fighter"
+                },
+                {
+                    "name": "刺客",
+                    "slug": "assassin"
+                }
+            ],
+            "game-info-url": "http://gameinfo.na.leagueoflegends.com/en/game-info/champions/vi",
+            "biography": {
+                "full": "<p>蔚在祖安这片土地上几乎没有什么儿时的回忆，能记得的片断也让她不堪回首。她一直跟着地下帮派从小混到大，很快就学会了利用头脑和双拳生存下去。每个遇到过蔚的人都会见识到她用言辞——或者蛮力——摆平麻烦事的本领。当然，大多数时候还是后者。</p><p>蔚年轻时，身边的老人们对她的父母和她的出身一概不知。大多数人都猜测她的父母死于一次工业事故，可令人唏嘘的是，祖安的工业事故根本是家常便饭。总之她最后流落到了“希望之屋”孤儿院，一个出名疯癫的地沟拾荒者说蔚是他捡回来的，当时她躺在一个双人摇篮中，被遗弃在一座炼金实验室的废墟里。最后，蔚放弃追寻自己的身世。她开始懂了，有些事还是不知道比较好。</p><p>粉色的乱发让蔚成为祖安的大街小巷中最容易辨认的身影——被愤怒的店主追赶着穿过边境市场；或者大摇大摆地走在黑窄巷的缤纷集市上；又或是搭上海克斯压力运送机的顺风车前往皮尔特沃夫。只要有什么谋划中的抢劫或者酝酿中的骗局，就一定有蔚的一份，不过她偷东西从不让人倾家荡产，打人也从不滥伤无辜。</p><p>随着一天天长大成熟，蔚组建了自己的帮派，孩童时的小打小闹终于变成了成人间的横冲直撞。她蛮横无理、暴虐乖戾，对拳头的热衷依然超出常人，因此总是鼻青脸肿、旧伤未愈又添新伤。</p><p>黑窄巷外围一家酒吧的老板成为了蔚的导师，他劝化了她一部分可能导致自我毁灭的危险倾向。为了巩固蔚的行事准则，他也展示了如何在战斗中进行自控，甚至还教会了她如何以更好的方式疏导心中难以平复的愠怒。</p><p>蔚很快闯出了名号，收人钱财替人消灾，从来不会多问。</p><p>蔚在酒吧里听到一些矿工常客的聊天，得知了几笔巨额交易的时间，以及具体的支付方式。对于一名炼金男爵，这只是个零头——但对于她和伙伴们，这可是一笔大财。她谋划了一次抢劫，但她知道这个计划需要更多人手才能执行，所以蔚不得不把一个敌对帮派拉入伙——坊木魔鬼帮。</p><p>计划原本进展顺利，可没想到魔鬼帮的老大用一副巨大的碎石拳套杀掉了矿主，还把其余的工人都困在坑道里。就在两个帮派分赃跑路的同时，蔚知道自己无法见死不救。她戴上了那副拳套，腕部机械装置死死咬住了蔚的手臂，但她强忍着剧痛，硬是打通了一条出路，将矿工们救了出来。</p><p>第二天，蔚登门拜访了坊木魔鬼帮。动力拳套依然戴在她手上，她独自一人用拳头好好教训了整个帮派的人。时至今日，黑窄巷里依然流传着那一天的传奇故事。</p><p>在一段动乱时期，蔚从祖安城中消失了，当时祖安和皮尔特沃夫之间的关系极为紧张。帮派之中有传闻称蔚死在一次祖安城中心的大爆炸事故中，但也有人说她背弃了朋友，流亡到了远方。然而，最后真相大白的时候人们全都瞠目结舌：老饿鬼疤被人一锅端了。因为这个帮派的连环谋杀案已经做到了皮尔特沃夫，最后引来了皮城女警——和她的新朋友，蔚。</p><p>曾经的祖安帮派老大现在受雇于皮尔特沃夫守卫，而且她还将原来的炼金动力拳套换成了一副海克斯科技“阿特拉斯”原型机。</p><p>没人知道蔚和凯特琳的合作是为何以及<i>如何</i>形成的——不过考虑到皮尔特沃夫最近出现的犯罪高峰及其混乱特性，人们普遍猜测她们的联合是被第三个人促成的——那个来自祖安的青发小疯子……</p>",
+                "short": "蔚曾经是祖安黑街上的破坏分子。她性格急躁、脾气火爆、凶神恶煞，对权威满心不屑。蔚从小到大都是孤身一人，所以练就了一身生存的本能，也培养了一种恶毒刻薄的幽默感。现在，蔚与皮尔特沃夫守卫一起合作，维护着皮城的安宁。靠着她手上的一副巨型海克斯科技拳套，无论是铜墙铁壁还是嫌犯都不在话下。",
+                "quote": "“你是想来硬的呢，还是想来硬的呢？”",
+                "quote-author": ""
+            },
+            "headerImage": null
+        },
+        {
+            "type": "champion",
+            "release-date": "2011-07-13T00:00:00.000Z",
+            "name": "蕾欧娜",
+            "title": "曙光女神",
+            "section-title": "蕾欧娜",
+            "slug": "leona",
+            "associated-faction": "",
+            "associated-faction-slug": "mount-targon",
+            "image": {
+                "title": "leona-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt6a3490eb186aa2d8-Leona_0.jpg",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 1061,
+                "y": 41,
+                "featured-champions": []
+            },
+            "background": {
+                "title": "leona-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt6a3490eb186aa2d8-Leona_0.jpg",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 1061,
+                "y": 41,
+                "featured-champions": []
+            },
+            "url": "/zh_cn/champion/leona",
+            "video": null,
+            "races": [],
+            "roles": [
+                {
+                    "name": "坦克",
+                    "slug": "tank"
+                },
+                {
+                    "name": "辅助",
+                    "slug": "support"
+                }
+            ],
+            "role": [
+                {
+                    "name": "坦克",
+                    "slug": "tank"
+                },
+                {
+                    "name": "辅助",
+                    "slug": "support"
+                }
+            ],
+            "game-info-url": "https://lol.qq.com/web201310/info-defail.shtml?id=Leona",
+            "biography": {
+                "full": "<p>在巨神峰上居住的拉阔尔族群相信，太阳是神圣的，其中最崇拜太阳的就是烈阳教派。他们的孩子从出生就开始尊敬太阳，甚至会为其抛洒热血，期待太阳的星灵回归，以及回归所预示的巨大危难。</p>\n\n<p>蕾欧娜就是其中一个孩子。她接受烈阳教派的信仰就像呼吸一样简单，总能在森严的结构中找到慰藉和温暖。这种天性也有具体的呈现，她成就卓越的速度飞快，所有同辈都羡慕她的能力、意志和虔诚。所有人都认定她有朝一日定会成为烈阳教派的神圣武士——<i>拉霍拉克</i>的一员。</p>\n\n<p>虽然蕾欧娜意气风发，但她却不能无视导师们在一位求知若渴的学生面前一筹莫展，这名学生是一个叫做黛安娜的孤儿。她的好奇心最初还能获得好感，但老师们很快就开始将黛安娜的问题当成是对烈阳教派教义的挑战。蕾欧娜看到黛安娜在惩罚和孤独中受苦，但别人看到的傲慢无礼，却让她看到一个迷失的灵魂，虔心寻找一切的意义。</p>\n\n<p>蕾欧娜找到了烈阳教派教诲的目的，并决心与黛安娜分享这种目标感，即使最恪尽职守的教师放弃她也无所谓。她们二人经常辩论到夜里，蕾欧娜希望能说服黛安娜，让她相信她所要的一切都可以在信仰中寻得，所以一直都在等待她的真心接受。虽然她始终没能赢得黛安娜的信仰，但她找到了一个朋友。</p>\n\n<p>一天夜里，黛安娜向蕾欧娜坦白了一个秘密。她说自己在山中发现了一个隐秘的凹室，古老的墙壁上刻着奇怪的符号和被遗忘的社群。当黛安娜提到想要攀登巨神峰顶寻求更多答案的时候，蕾欧娜劝阻了她。为了保护她不受到其他烈阳教众的愤怒，蕾欧娜强迫黛安娜承诺放弃搜索。黛安娜不情愿地同意了。</p>\n\n<p>一段时间过去，二人再未提起过这次发现。蕾欧娜相信她的朋友终于清醒了。</p>\n\n<p>在一个深夜中，她对朋友的信念破碎了，她看到黛安娜悄悄溜出神庙。虽然她的第一反应是要告诉长老们，但蕾欧娜也想要保护自己的朋友，她在最后一刻犹豫了。蕾欧娜下定了决心，追着黛安娜离开了……</p>\n\n<p>她们的目的地是巨神峰之巅。</p>\n\n<p>攀登的旅程是蕾欧娜从未经受过的试炼，把她核心存在的每一根纤维都拉扯到了极限，并突破了极限。只有她的锻炼、意志、以及对黛安娜的担忧驱策着她。山坡上冰封的尸体                       一动不动地看着她向上攀登，那些人永远无法走完自己的旅程，但即使是他们也无法让蕾欧娜却步。</p>\n\n<p>在经历了近乎永恒以后——蕾欧娜惊奇地发现，她抵达了峰顶。</p>\n\n<p>精疲力竭的她看到了不可思议的景象，还看到了黛安娜被银色的光柱包围。蕾欧娜看着朋友的身影在痛苦中扭曲，空气中回荡着她的尖叫。惊恐中的蕾欧娜冲过去救她，这时一束金色光芒从天而降，裹住了她。</p>\n\n<p>这种感觉无法描述，但蕾欧娜并没有被化成灰烬，那束光进入了她的身体，为她充满了超凡的力量。她坚持保持自己的清醒意识，对抗着那股想要将她烧尽的洪流。</p>\n\n<p>最后，她不屈的意志获胜了——掌控带来了理解。</p>\n\n<p>掌控带来了理解。蕾欧娜永远地改变了，她的体内注入了太阳星灵。命运选择了<i>她</i>，她的使命是在未来的时间里保护烈阳教派。</p>\n\n<p>这时蕾欧娜看到了黛安娜，她穿上了亮银的战甲，而她发现自己也穿上了金色的铠甲。黛安娜恳求蕾欧娜与她一起，寻找烈阳教派无法提供的答案。蕾欧娜则要求她们一同回家，交给祭司们评判。双方互不让步，最后终于刀剑相向。</p>\n\n<p>她们的战斗迅猛神速，日与月之间的剧烈对撞，最后黛安娜的弯刀停在蕾欧娜的喉咙前。但黛安娜没有给出最后一击，而是逃走了。备受打击的蕾欧娜走下了巨神峰，赶到了长老身边。</p>\n\n<p>而当她回来以后，看到的却是屠杀。许多烈阳教派的祭司和拉霍拉克护卫都死去了，显然是死在黛安娜之手。幸存的人看见她更加惊恐，因为如今他们身边出现了<i>两位</i>星灵。蕾欧娜投入了新的使命，帮助他们接受这个新的现实，并成为她人民的领航之光，就像太阳一直以来对他们的指引。</p>\n\n<p>她也发誓要找到黛安娜，维持烈阳教派的统治……同时帮助她的老朋友掌控月亮星灵的力量，以免她被彻底毁灭。</p>",
+                "short": "蕾欧娜是被灌注了烈阳之火的烈阳教派圣殿武士，用天顶之刃和破晓之盾守护着巨神峰。她的皮肤闪烁着星火，她体内天界星灵的力量透过她的双眼炯炯燃烧。蕾欧娜身披金色铠甲，背负着沉重的上古知识，为一些人带来启示，为另一些人带去死亡。",
+                "quote": "“在太阳的光芒中，世界为人所见。”",
+                "quote-author": "蕾欧娜"
+            },
+            "headerImage": null
+        }
+    ],
+    "modules": [
+        {
+            "slug": "不为害",
+            "type": "story-preview",
+            "title": "不为害",
+            "subtitle": "",
+            "description": "<i>已经好久了</i>,蒙多一边拈着自己的舌头一边想，他巨大的紫舌头像刚被绞死的犯人一样耷拉在嘴边，<i>蒙多好久都没上门治病了</i>。<br><br>",
+            "story-slug": "drmundo-color-story",
+            "featured-image": {
+                "title": "zaun-breatherstation",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt66e7ef18b830fffd-zaun-breatherstation.jpg",
+                "encoding": "image/jpeg",
+                "width": 1920,
+                "height": 1067,
+                "x": 940,
+                "y": 800,
+                "featured-champions": []
+            },
+            "background": {
+                "title": "zaun-breatherstation",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt66e7ef18b830fffd-zaun-breatherstation.jpg",
+                "encoding": "image/jpeg",
+                "width": 1920,
+                "height": 1067,
+                "x": 940,
+                "y": 800,
+                "featured-champions": []
+            },
+            "release-date": "2016-12-02T16:00:00.000Z",
+            "featured-champions": [
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                }
+            ],
+            "minutes-to-read": 5,
+            "url": "/zh_cn/story/drmundo-color-story"
+        },
+        {
+            "slug": "蒙多医辽日痣",
+            "type": "story-preview",
+            "title": "蒙多医辽日痣",
+            "subtitle": "作者：蒙多",
+            "description": "为了便于识读，原文已经过誊写和语法更正。抄写员：John O'Bryan",
+            "story-slug": "medikul-jernel",
+            "featured-image": {
+                "title": "medikul-jernel-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt70481ea78028196b-medikul-jernel-splash.jpg",
+                "encoding": "image/jpeg",
+                "width": 1920,
+                "height": 1080,
+                "x": 0,
+                "y": 0,
+                "featured-champions": []
+            },
+            "background": {
+                "title": "medikul-jernel-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt70481ea78028196b-medikul-jernel-splash.jpg",
+                "encoding": "image/jpeg",
+                "width": 1920,
+                "height": 1080,
+                "x": 0,
+                "y": 0,
+                "featured-champions": []
+            },
+            "release-date": "2021-06-09T15:00:00.000Z",
+            "featured-champions": [
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                }
+            ],
+            "minutes-to-read": 5,
+            "url": "/zh_cn/story/medikul-jernel"
+        },
+        {
+            "slug": "drmundo-image-gallery",
+            "type": "image-gallery",
+            "section-title": "",
+            "isFanArt": false,
+            "fan-art-url": "",
+            "featured-image": "",
+            "title": "",
+            "subtitle": "",
+            "assets": [
+                {
+                    "title": "蒙多医生概念艺术",
+                    "subtitle": "",
+                    "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt71d023a5ede76620-dr_mundo_concept.jpg",
+                    "encoding": "image/jpeg",
+                    "width": 1277,
+                    "height": 1080,
+                    "x": 791,
+                    "y": 343,
+                    "featured-champions": []
+                }
+            ],
+            "featured-champions": [
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                }
+            ]
+        }
+    ]
+}

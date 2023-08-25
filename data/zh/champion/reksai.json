@@ -1,0 +1,498 @@
+{
+    "id": "reksai",
+    "name": "雷克塞",
+    "title": "虚空遁地兽",
+    "locale": "zh_cn",
+    "champion": {
+        "type": "champion",
+        "release-date": "2014-12-11T00:00:00.000Z",
+        "name": "雷克塞",
+        "title": "虚空遁地兽",
+        "section-title": "雷克塞",
+        "slug": "reksai",
+        "associated-faction": "",
+        "associated-faction-slug": "void",
+        "image": {
+            "title": "reksai-splash",
+            "subtitle": "",
+            "description": "",
+            "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blta50d60e9cdac9abf-RekSai_0.jpg",
+            "encoding": "image/jpeg",
+            "width": 1215,
+            "height": 717,
+            "x": 728,
+            "y": 193,
+            "featured-champions": []
+        },
+        "background": {
+            "title": "reksai-splash",
+            "subtitle": "",
+            "description": "",
+            "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blta50d60e9cdac9abf-RekSai_0.jpg",
+            "encoding": "image/jpeg",
+            "width": 1215,
+            "height": 717,
+            "x": 728,
+            "y": 193,
+            "featured-champions": []
+        },
+        "url": "/zh_cn/champion/reksai",
+        "video": {
+            "title": "reksai-splashvideo-webm",
+            "subtitle": "",
+            "description": "",
+            "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blte7bf0205a0081497-reksai-splashvideo.webm",
+            "encoding": "video/webm",
+            "width": 1280,
+            "height": 720,
+            "x": 728,
+            "y": 193,
+            "featured-champions": []
+        },
+        "races": [],
+        "roles": [
+            {
+                "name": "战士",
+                "slug": "fighter"
+            }
+        ],
+        "role": [
+            {
+                "name": "战士",
+                "slug": "fighter"
+            }
+        ],
+        "game-info-url": "https://lol.qq.com/web201310/info-defail.shtml?id=RekSai",
+        "biography": {
+            "full": "<p>雷克塞是她族群之中体型最大、脾气最暴的。她是一个无情的掠食者，可以在地底挖掘隧道，来伏击并吞噬她的猎物。她那永不满足的饥渴已经使鼎盛一时的恕瑞玛帝国遍布废墟。商人、贸易者和武装商队都会绕行百里，来躲开这些广袤的地区，但是狡诈的盗匪们会引诱粗心的人们进入雷克塞的杀戮之地。一旦雷克塞侦测到你，你的命运就已注定。毫无逃生的希望；她是来自沙砾之下的死亡。</p>",
+            "short": "作为食物链顶端的掠食者，残忍无情的虚空生物，雷克赛能够在地下挖掘隧道，偷袭并吞食毫无防备的猎物。她那永不满足的饥渴让曾经鼎盛一时的恕瑞玛帝国所在的地区满目疮痍。商人、贸易者和武装商队都会绕行百里，来躲开这些广袤的地区。一旦有人在遥远的地平线看到雷克赛，就等于看到自己葬身沙砾之下的命运。",
+            "quote": "“恐惧，不是来自山上的伏击，不是来自天空的飞兽。恕瑞玛的真正恐怖来自沙漠，并且她的出现从无预先警告。”",
+            "quote-author": "希维尔"
+        },
+        "headerImage": null
+    },
+    "related-champions": [
+        {
+            "type": "champion",
+            "release-date": "2011-08-09T00:00:00.000Z",
+            "name": "斯卡纳",
+            "title": "水晶先锋",
+            "section-title": "斯卡纳",
+            "slug": "skarner",
+            "associated-faction": "",
+            "associated-faction-slug": "shurima",
+            "image": {
+                "title": "skarner-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt7f291e5a370b94f4-Skarner_0.jpg",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 1004,
+                "y": 276,
+                "featured-champions": []
+            },
+            "background": {
+                "title": "skarner-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt7f291e5a370b94f4-Skarner_0.jpg",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 1004,
+                "y": 276,
+                "featured-champions": []
+            },
+            "url": "/zh_cn/champion/skarner",
+            "video": null,
+            "races": [],
+            "roles": [
+                {
+                    "name": "战士",
+                    "slug": "fighter"
+                },
+                {
+                    "name": "坦克",
+                    "slug": "tank"
+                }
+            ],
+            "role": [
+                {
+                    "name": "战士",
+                    "slug": "fighter"
+                },
+                {
+                    "name": "坦克",
+                    "slug": "tank"
+                }
+            ],
+            "game-info-url": "https://lol.qq.com/web201310/info-defail.shtml?id=Skarner",
+            "biography": {
+                "full": "<p>在恕瑞玛帝国崛起以前的悠久远古，西北方的偏僻峡谷地带曾是一个古老种族的故乡，它们被称为<i>壳人族</i>。</p><p>这种高贵的生物十分与众不同。或许他们单独的个体看上去既原始又凶恶，但它们蛛网状的身体内藏着一个惊世秘密——他们整个种族的存在都是为了守护一个真正古老的完璧无缺的意识体，这个意识体可能是符文之地最古老的存在之一。每个壳人身上都寄宿着一块魔法水晶，里面保存着这个远古意识的记忆、希望和梦想，以及一切使之保持自我的东西。</p><p>身体死亡以后，水晶的核心将被恭敬地埋藏在最深的山谷中。在那里，水晶等待着年轻的新壳人前来继承自己，继承所有前人的衣钵。</p><p>长此如是，通过永恒水晶的和谐之歌，壳人族实现了真正的永生不朽。</p><p>那个日后成为斯卡纳的壳人，有一天听到了那枚属于他的水晶正在地下某处召唤着他。于是他夜以继日地挖掘，有条不紊地用复杂的螺旋轨迹探索了整个峡谷，直到最后他的双鳌终于抓到了一颗水晶，体积比他见过的任何一颗都大。虽然它的表面遍布裂纹、缺少光泽，但它内部的微光用脉动回应他的到来，用歌声将他拥抱。</p><p>当斯卡纳再次回过神的时候，那枚水晶已经与他的身体完全融合，而他也与其他所有同胞合而为一，<i>无数</i>个思想以无需语言的交流方式汇聚在一起。他可以感受到自己周围物质领域的魔法——这是一种与世界更深入的连接，就像一种持续不停的低鸣，与他本质的每个层面都产生共振。</p><p>那个时候的凡人，对壳人族有所了解，充满敬意，但同时也感到畏惧。他们有的时候会在峡谷地带的入口处留下贡品，还用他们粗糙、世俗的语言给这片峡谷命名为“水晶之痕”。然而时过境迁，他们逐渐开始醉心于冲突与征服，于是壳人族决定采用休眠的方式等待这次危机结束。即便那些凡人的种族之间相互赶尽杀绝，对于水晶的永恒之歌来说也不过是一个阴郁且短暂的音符而已。</p><p>于是，壳人族开始了沉睡。</p><p>然后，毫无预警地，那歌声变成了尖叫。斯卡纳惊厥而醒，一场场爆炸撕开了壳人族的藏身之地。这片大陆已经变得干旱贫瘠，但那些凡人却依然健在——他们武装着火焰和金属前来，掘开地面，从他沉睡着的同胞身上凿取那些有生命的水晶。</p><p>斯卡纳从黄沙中一跃而出，狂乱地攻击。那帮残害他同胞的强盗死了不少，其余的也都仓皇地逃走了，而他则留下唤醒那些沉睡的同伴。但如果水晶形态被破坏，壳人就会在醒来以后快速死去，还有许多壳人则根本无法被唤醒，因为他们的集体心智已经受到了严重的伤害。</p><p>他怀着悲痛在峡谷中徘徊，他可以肯定，即使水晶的魔力没有立刻消失，也会在凡人的手中迅速衰退。</p><p>然而数周之后，太阳冲破地平线之际，斯卡纳的脑海中接收到了微弱的呼唤。这些声音不再是他所熟悉的和谐曲调，而是惊骇、急促的恸哭，哀求他采取行动。他犹豫了片刻，因为他知道如果自己去寻找那些被偷走的同胞，就无法守护那些依然还在黄沙下沉睡的壳人……</p><p>但随着那些哭喊声渐弱渐止，他知道自己别无选择，于是踏入了沙漠，向东方进发。</p><p>虽然斯卡纳的搜寻十分孤独，但有的时候他会听到一枚失落水晶的冰冷、空洞的歌声逐渐靠近，却又再次消散。这既是希望，也是痛苦，而他将自己的忧伤化为不可动摇的坚决。他知道，壳人族的生存是唯一重要的事。</p>",
+                "short": "作为壳人族的一员，斯卡纳是一只身形庞大的水晶蝎，来自于恕瑞玛的一处隐秘山谷。壳人族因卓然的智慧和与魔法深切的联系而闻名，他们的身体与强大的生命水晶相融合，通过水晶完好地保存了先祖的记忆与现世的思绪。在久远的过去，壳人族为了躲避被灭绝的灾难而进入了长眠。然而不久前，新的威胁唤醒了斯卡纳，如今的他要拼尽全力保护其余的同胞，免遭任何人的迫害。",
+                "quote": "“我们生来一体，我们永不分离。”",
+                "quote-author": "斯卡纳"
+            },
+            "headerImage": null
+        }
+    ],
+    "explore-champions": [
+        {
+            "type": "champion",
+            "release-date": "2011-01-18T00:00:00.000Z",
+            "name": "雷克顿",
+            "title": "荒漠屠夫",
+            "section-title": "雷克顿",
+            "slug": "renekton",
+            "associated-faction": "",
+            "associated-faction-slug": "shurima",
+            "image": {
+                "title": "renekton-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt9cc0bcde424bd35d-Renekton_0.jpg",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 801,
+                "y": 6,
+                "featured-champions": []
+            },
+            "background": {
+                "title": "renekton-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt9cc0bcde424bd35d-Renekton_0.jpg",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 801,
+                "y": 6,
+                "featured-champions": []
+            },
+            "url": "/zh_cn/champion/renekton",
+            "video": null,
+            "races": [],
+            "roles": [
+                {
+                    "name": "战士",
+                    "slug": "fighter"
+                },
+                {
+                    "name": "坦克",
+                    "slug": "tank"
+                }
+            ],
+            "role": [
+                {
+                    "name": "战士",
+                    "slug": "fighter"
+                },
+                {
+                    "name": "坦克",
+                    "slug": "tank"
+                }
+            ],
+            "game-info-url": "https://lol.qq.com/web201310/info-defail.shtml?id=Renekton",
+            "biography": {
+                "full": "<p>雷克顿是天生的战士。从儿童时期开始他就无所畏惧，经常卷入恶毒的打斗之中。导致这些冲突的起因往往是尊严，因为雷克顿从来都无法忍气吞声，更不会放过任何污蔑。虽然他的哥哥内瑟斯并不赞成他打架斗殴，但是雷克顿却乐在其中。</p>\n\n<p>后来内瑟斯离家求学，进入了著名的太阳学院，而雷克顿的斗殴则变得越发严重。内瑟斯担心雷克顿的暴力天性会让他锒铛入狱或者英年早逝，因此帮他应征加入了恕瑞玛军队。按照官方规定，雷克顿还不到参军服役的年龄，但内瑟斯安排了一场美丽的疏忽。</p>\n\n<p>军队的纪律和制度对于雷克顿来说是一种福气。他在许多次帝国扩张征服战争中冲在最前线，年少时的凶狠坚韧依然显而易见，但他的荣誉与勇气也声名远扬。当时身为名将和统帅的内瑟斯，常常会说自己只是为战争运筹帷幄，而雷克顿则是则冲锋陷阵<i>赢下</i>战争。</p>\n\n<p>此言不虚，在为孤城祖瑞塔解围以后，雷克顿成为皇帝钦点的尉官，还被封以“恕瑞玛守门人”的称号。当时雷克顿率领一支奇兵小队，以一敌十据守通往南方的崎岖山路，力求为城市疏散拖延时间。没人认为雷克顿有机会在这场战斗中幸存，更别提获胜。但他还是坚持到内瑟斯率领的援军赶到，化解了那次入侵。</p>\n\n<p>数十年的征战，让雷克顿的声望足可匹敌飞升之团的天神战士。他的存在就是对周围士兵的鼓舞，对敌方士气的震慑。但岁月依然催白了他的头发，留给他一身伤疤，在他人到中年时，噩耗传来——他的兄长命不久矣。</p>\n\n<p>他火速赶回都城，只见内瑟斯宛如曾经意气风发时期的灰白残影，已然被凶恶的疾病消耗得奄奄一息。他罹患的是不治之症。</p>\n\n<p>无论怎样，内瑟斯的伟大有目共睹。他不仅战功显赫，而且还管理着恕瑞玛最伟大的图书馆群，还曾编撰或翻译过许多最杰出的历史著作。这样的人不能轻易离世，于是法令下达，他有资格接受飞升仪式。</p>\n\n<p>整座都城的人民全都前来见证，但内瑟斯甚至没有力气爬上太阳圆盘前飞升神坛。雷克顿没有顾及自身安危，抱起他的兄长，爬完了最终一段台阶，等待着自己被抹杀消灭。毕竟，他只是一介武夫，而他知道，恕瑞玛在未来的岁月中需要的是内瑟斯。</p>\n\n<p>然而，雷克顿并没有被消灭。在太阳圆盘的炫目光辉之中兄弟二人双双获得了重生。当光芒褪去，<i>两个</i>伟大的飞升者同时出现在人们面前。内瑟斯变成了身材瘦高、犬首人身的形象，而雷克顿则变成了庞大的鳄鱼外形。豺狗经常被认为是最聪明机智的野兽，而鳄鱼的凶猛无畏则完美贴合雷克顿的性格。</p>\n\n<p>雷克顿此前就是一位伟大的战争英雄，现在更是拥有了超乎凡人理解的力量。雷克顿带领着恕瑞玛的军队取得了许多场血腥的胜利，绝不心慈手软，也不打算接受敌人的仁慈。他的传奇传到了帝国以外很远的地方，他的敌人称他为“荒漠屠夫”，这也是他最喜欢的称号。</p>\n\n<p>不过有些人，包括内瑟斯，觉得雷克顿的一部分人性随着飞升变形一去不返了。他似乎变得更加残暴，更加嗜血，而且坊间开始流传他的种种战争暴行。无论怎样，他一直都是恕瑞玛的坚实保卫者，他忠心耿耿地为许多任皇帝效命，甚至抵挡了艾卡西亚的叛乱以及那场接踵而至的骇人战争。</p>\n\n<p>多年以后，年轻的皇帝阿兹尔受到认可，将加入飞升之团的行列，成为民心所向的不朽神王。</p>\n\n<p>结果是灾难性的。</p>\n\n<p>事情发生的时候，雷克顿和内瑟斯都距离都城一天的路程开外，他们赶回去的时候只看到曾经辉煌的城市变成废墟。太阳圆盘的神力散尽，正在逐渐崩塌。在这片惨烈情形的中心，他们发现了皇帝身边阴险狡诈的巫师泽拉斯，此时他已变成恶毒的纯粹能量体。</p>\n\n<p>兄弟二人全力奋战，但他们知道自己无法彻底摧毁泽拉斯，最后雷克顿擒住泽拉斯，一头栽进城市下方的帝王之墓，让哥哥把他们封在里面。内瑟斯知道自己别无选择，不情愿地遵照了弟弟的意愿。</p>\n\n<p>泽拉斯和雷克顿继续着他们的战斗。他们在暗无天日的深谷中互相追猎了不知几百年，地面上曾经光辉伟大的恕瑞玛文明已经化为尘土。泽拉斯嘲弄他的对手，向雷克顿的耳中灌输恶言诳语，日复一日，他毒药般的言语开始扎根。他让雷克顿相信，是内瑟斯嫉妒他的战功，所以抓住机会落井下石，独享不朽的神格。</p>\n\n<p>雷克顿的理智一点一点地被瓦解，泽拉斯向这些裂缝之中嵌入楔子，混淆他对真实和幻想的感知和区分能力。当帝王之墓终于被贪婪的凡人拾荒者打开的时候，雷克顿狂怒地嘶吼着，狂奔进了恕瑞玛沙漠，嗅着空气中的气味，寻找自己的兄长。</p>\n\n<p>但在他离开的时间里，恕瑞玛已经变了。飞升之团早已不在，多数人民流落到四面八方，无人统领。虽然雷克顿无心拥兵掌权，但他还是引来了一群追随者——一群最为凶悍嗜血的沙漠劫匪。只不过他在寻常的失心狂乱之中并不能明确地分清敌友。</p>\n\n<p>虽然有些时候他又变回那个骄傲、光荣的旧日英雄，但大多数时间里他都只是一头心智退化、充满憎恨与疯狂的野兽，心中唯有嗜血和复仇的欲念。</p>",
+                "short": "雷克顿是一位来自恕瑞玛炙热沙漠中的面目可怖、野蛮狂怒的飞升者。他曾经是帝国最受尊敬的英雄，带领军队取得过无数次胜利。然而，在太阳圆盘陨落以后，雷克顿被困在了沙漠之下，慢慢地，在世界变迁的同时，雷克顿丧失了理智。现在他重获自由，但却被一个执念吞噬：找到并杀死他的哥哥内瑟斯，因为他坚信是内瑟斯害他经受了数百年黑暗束缚。",
+                "quote": "“血债！血偿！”",
+                "quote-author": "雷克顿"
+            },
+            "headerImage": null
+        },
+        {
+            "type": "champion",
+            "release-date": "2012-08-21T00:00:00.000Z",
+            "name": "雷恩加尔",
+            "title": "傲之追猎者",
+            "section-title": "雷恩加尔",
+            "slug": "rengar",
+            "associated-faction": "",
+            "associated-faction-slug": "ixtal",
+            "image": {
+                "title": "rengar-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt4c3e514b7691fbf8-Rengar_0.jpg",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 900,
+                "y": 141,
+                "featured-champions": []
+            },
+            "background": {
+                "title": "rengar-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt4c3e514b7691fbf8-Rengar_0.jpg",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 900,
+                "y": 141,
+                "featured-champions": []
+            },
+            "url": "/zh_cn/champion/rengar",
+            "video": {
+                "title": "rengar-splashvideo-webm",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt6b1397ed85d0ca6a-rengar-splashvideo.webm",
+                "encoding": "video/webm",
+                "width": 1280,
+                "height": 720,
+                "x": 900,
+                "y": 141,
+                "featured-champions": []
+            },
+            "races": [
+                {
+                    "name": "瓦斯塔亚",
+                    "slug": "vastaya"
+                }
+            ],
+            "roles": [
+                {
+                    "name": "刺客",
+                    "slug": "assassin"
+                },
+                {
+                    "name": "战士",
+                    "slug": "fighter"
+                }
+            ],
+            "role": [
+                {
+                    "name": "刺客",
+                    "slug": "assassin"
+                },
+                {
+                    "name": "战士",
+                    "slug": "fighter"
+                }
+            ],
+            "game-info-url": "https://lol.qq.com/web201310/info-defail.shtml?id=Rengar",
+            "biography": {
+                "full": "<p>瓦斯塔亚的雷恩加尔是一名凶残的猎手。他的人生意义就是追寻猎杀危险生物带来的快感。他寻遍整个世界，只为寻找最可怕的野兽，特别是任何关于卡兹克的踪迹。这头来自虚空的野兽弄瞎了他的一只眼睛。雷恩加尔追寻着猎物，不为捕食也不为荣耀，只是为了纯粹的猎杀所带来的剧烈快意。</p><p>雷恩加尔出生在位于恕瑞玛的一个瓦斯塔亚的肉齿兽部落。这个部落崇尚猎杀，以高超的狩猎水平为莫大的荣耀。雷恩加尔是部落酋长庞加夫的幼子。他天生身材瘦小，因此庞加夫认为他不可能成为一个有价值的猎手。他遗弃了雷恩加尔，任其自生自灭。</p><p>最后，年轻的雷恩加尔逃离了部落的营地。父亲的遗弃令他既失望又羞耻。他靠着虫子和植物苟活了几个星期，直到有一天，他差点儿被一个名叫马尔孔的传奇猎人给杀死。马尔孔看到雷恩加尔的可怜模样，同情他的遭遇，放了他一条生路。另一方面来讲，马尔孔也不认为任何一个瓦斯塔亚人有资格成为他的猎物。</p><p>几个月，雷恩加尔都跟随着马尔孔，依靠他杀掉的猎物的尸体果腹。雷恩加尔心中仍然想着有朝一日能重新回到部落。所以，他也在留心观察马尔孔是如何狩猎的。</p><p>过了不久，马尔孔厌烦了身后总是有个可怜兮兮的肉齿兽跟着他。他掏出一把小刀，架在雷恩加尔的脖子上，告诉他说想成为猎人，唯一的途径就是去狩猎。他丢给雷恩加尔一把剑，把他踢下了峡谷，逼着他去完成第一次杀戮，以求自保。</p><p>从那以后，雷恩加尔经年累月地狩猎，把自己逼迫到了极限。他走遍恕瑞玛各地，完成各种艰难危险的狩猎。尽管他的体型还是不如其他肉齿兽人庞大，但他的凶残是他那些同族人的两倍。时光荏苒，他带回营地的再也不是流着血的伤疤，而是各种战利品。他把一头沙鹫的头骨磨得锃亮，把尖啸兽的牙齿编在了辫子里。</p><p>之后，他觉得是回家的时候了。他回到他的部落，准备好作为一个真正的猎手被族人接纳。</p><p>然而，庞加夫却对雷恩加尔和他的战利品嗤之以鼻。他宣布只有当雷恩加尔把那神出鬼没的虚空怪兽的头颅带回来的时候，这个部落才会重新欢迎他回来。</p><p>雷恩加尔被回家的念想冲昏了头，结果在和这凶狠的野兽战斗时落了下风，被他弄伤了一只眼睛逃走了。雷恩加尔只能懊恼地向庞加夫承认自己的失败。正如他所料，父亲严厉地斥责了他。</p><p>庞加夫说着话时，雷恩加尔却注意到父亲房间里的所有战利品都已经沾满灰尘，老旧不堪。这个部落的酋长已经很长时间没有狩猎了──他让雷恩加尔去狩猎卡兹克，很可能是因为他自己不敢去。 </p><p>雷恩加尔打断了父亲的训斥，直言他就是个懦夫。肉齿兽部落的人们拥有健壮的身躯，享受着舒适的居所。而雷恩加尔恰恰相反，他生来就面临着死亡的威胁。他只能自己教自己如何去狩猎，去夺取自己的战利品以及必然随之而来的伤疤。而他血肉模糊的眼窝，恰恰证明了雷恩加尔尽管先天不足，但他从未屈服过。</p><p>雷恩加尔纵身跃向他的父亲，把他开膛破肚。部落里最凶猛的猎手们为他献上了火蔷薇，标志着他加冕为这个部落的新酋长。</p><p>但此时，雷恩加尔已经不需要这个部落的肯定了。他只需要追逐猎物时，肾上腺素在血管中奔涌的快感。雷恩加尔离开了这个部落，庞加夫留下的战利品，他一点都不感兴趣──这个酋长不值得人们记住，而值得记住的，是那个想要弄瞎他的凶猛生物。雷恩加尔踏上了征途，下定决心要找到它，然后杀死它。</p><p>这杀戮，无关部落的赞赏，而只是为了自我的满足。</p>",
+                "short": "瓦斯塔亚的雷恩加尔是一名声名远扬又凶残无比的猎手。他的人生充满着追寻猎杀危险的生物的快感。他寻遍整个世界，只为寻找他能找到的最可怕的野兽，特别是寻找任何关于卡兹克的踪迹。这头来自虚空的野兽弄瞎了他的一只眼睛。雷恩加尔追寻着猎物，不为捕食也不为荣耀，只是为了纯粹的猎杀所带来的激烈美感。",
+                "quote": "“猎杀弱者，能让你延续生命；猎杀强者，能让你享受人生。”",
+                "quote-author": "雷恩加尔"
+            },
+            "headerImage": null
+        }
+    ],
+    "modules": [
+        {
+            "slug": "reksai-promo",
+            "type": "featured-video",
+            "section-title": "",
+            "featured-image": {
+                "title": "featuredvideocover-reksai-promo",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt77730e6f0a43588c-reksai-promo.jpg",
+                "encoding": "image/jpeg",
+                "width": 1920,
+                "height": 1080,
+                "x": 503,
+                "y": 492,
+                "featured-champions": []
+            },
+            "title": "潜藏的恐惧",
+            "subtitle": "",
+            "description": "商人们窃窃私语，谈论着藏身于恕瑞玛黄沙之下的野兽。据说她会尾随敢擅入她地盘的马车，她会追猎逃跑者，杀死反抗者。但如果这不只是故事呢？如果这是真事呢？",
+            "uri": "https://v.qq.com/x/page/u0015mqt39m.html?start=8",
+            "video": {
+                "type": "video",
+                "title": "",
+                "subtitle": "",
+                "description": [],
+                "uri": "https://v.qq.com/x/page/u0015mqt39m.html?start=8",
+                "width": "",
+                "height": "",
+                "x": "",
+                "y": "",
+                "featured-champions": []
+            },
+            "blackout": null,
+            "release-date": "2016-11-16T16:00:00.000Z",
+            "video-type": "cinematic",
+            "featured-champions": [
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                }
+            ],
+            "related-champions": [
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                }
+            ]
+        },
+        {
+            "slug": "卡利克塞",
+            "type": "story-preview",
+            "title": "卡利克塞",
+            "subtitle": "",
+            "description": "六个小伙子加一头骆驼，小伙子们的命要更贱一些。他们有的是孤儿，有的是逃跑的奴隶，但大多都是弃子 —— 因为家里太穷而被抛弃的青少年。当沙伊布过来招工的时候，贾耶已经好几天没吃饭了。<br><br>",
+            "story-slug": "reksai-color-story",
+            "featured-image": {
+                "title": "reksai-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blta50d60e9cdac9abf-RekSai_0.jpg",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 728,
+                "y": 193,
+                "featured-champions": []
+            },
+            "background": {
+                "title": "shurima-homecoming",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt72f879d794c9f5d2-shurima-homecoming.jpg",
+                "encoding": "image/jpeg",
+                "width": 1920,
+                "height": 885,
+                "x": 1493,
+                "y": 529,
+                "featured-champions": []
+            },
+            "release-date": "2016-03-31T15:00:00.000Z",
+            "featured-champions": [
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                }
+            ],
+            "minutes-to-read": 5,
+            "url": "/zh_cn/story/reksai-color-story"
+        },
+        {
+            "slug": "reksai-image-gallery",
+            "type": "image-gallery",
+            "section-title": "",
+            "isFanArt": false,
+            "fan-art-url": "",
+            "featured-image": "",
+            "title": "",
+            "subtitle": "",
+            "assets": [
+                {
+                    "title": "雷克塞早期概念图",
+                    "subtitle": "",
+                    "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt50fa8746b1565f53-rek_sai_burrower_concept.jpg",
+                    "encoding": "image/jpeg",
+                    "width": 1722,
+                    "height": 918,
+                    "x": 1546,
+                    "y": 737,
+                    "featured-champions": []
+                },
+                {
+                    "title": "雷克塞模型概念图",
+                    "subtitle": "",
+                    "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/bltb8ca87f216ae44b5-rek_sai_the_burrower.jpg",
+                    "encoding": "image/jpeg",
+                    "width": 1842,
+                    "height": 1022,
+                    "x": 1459,
+                    "y": 491,
+                    "featured-champions": []
+                }
+            ],
+            "featured-champions": [
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                }
+            ]
+        },
+        {
+            "slug": "reksai-login",
+            "type": "featured-video",
+            "section-title": "",
+            "featured-image": {
+                "title": "reksai-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blta50d60e9cdac9abf-RekSai_0.jpg",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 728,
+                "y": 193,
+                "featured-champions": []
+            },
+            "title": "虚空遁地兽雷克塞登录界面",
+            "subtitle": "",
+            "description": "",
+            "uri": "https://v.qq.com/x/page/z0365o0oo1j.html",
+            "video": {
+                "type": "video",
+                "title": "",
+                "subtitle": "",
+                "description": [],
+                "uri": "https://v.qq.com/x/page/z0365o0oo1j.html",
+                "width": "",
+                "height": "",
+                "x": "",
+                "y": "",
+                "featured-champions": []
+            },
+            "blackout": null,
+            "release-date": "2014-12-11T16:00:00.000Z",
+            "video-type": "champ-login-music",
+            "featured-champions": [
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                }
+            ],
+            "related-champions": [
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                }
+            ]
+        }
+    ]
+}

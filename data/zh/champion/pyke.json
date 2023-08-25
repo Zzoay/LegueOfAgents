@@ -1,0 +1,450 @@
+{
+    "id": "pyke",
+    "name": "派克",
+    "title": "血港鬼影",
+    "locale": "zh_cn",
+    "champion": {
+        "type": "champion",
+        "release-date": "2018-05-31T00:00:00.000Z",
+        "name": "派克",
+        "title": "血港鬼影",
+        "section-title": "派克",
+        "slug": "pyke",
+        "associated-faction": "",
+        "associated-faction-slug": "bilgewater",
+        "image": {
+            "title": "pyke-splash",
+            "subtitle": "",
+            "description": "",
+            "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt359f81b2f47d8434-champion-pyke-splash.jpg",
+            "encoding": "image/jpeg",
+            "width": 1920,
+            "height": 1080,
+            "x": 949,
+            "y": 240,
+            "featured-champions": []
+        },
+        "background": {
+            "title": "pyke-splash",
+            "subtitle": "",
+            "description": "",
+            "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt359f81b2f47d8434-champion-pyke-splash.jpg",
+            "encoding": "image/jpeg",
+            "width": 1920,
+            "height": 1080,
+            "x": 949,
+            "y": 240,
+            "featured-champions": []
+        },
+        "url": "/zh_cn/champion/pyke",
+        "video": {
+            "title": "pyke-splashvideo-webm",
+            "subtitle": "",
+            "description": "",
+            "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt741ebea413d1c60d-pyke-splashvideo.webm",
+            "encoding": "video/webm",
+            "width": 1920,
+            "height": 1071,
+            "x": 964,
+            "y": 124,
+            "featured-champions": []
+        },
+        "races": [],
+        "roles": [
+            {
+                "name": "辅助",
+                "slug": "support"
+            }
+        ],
+        "role": [
+            {
+                "name": "辅助",
+                "slug": "support"
+            }
+        ],
+        "game-info-url": "",
+        "biography": {
+            "full": "<p>年轻时的派克和大多数比尔吉沃特人一样，都是从屠宰码头开始混的。每一天，从深海捕捞到的怪兽就码放在岸边，等着送进屠宰间拆解处理，终日不休。他干活的地方名叫血港，因为即使是海浪也冲不干净木板条间源源不竭的油腻血水。</p><p>他越来越看清了这是怎样的一种交易——腥臊恶臭的工作，换来微薄不堪的薪水。一次又一次地，派克看着船长和船员们收下一袋袋沉甸甸的金币，靠的都是他和他的手下把骇人的海怪尸体切成了方便出售的肉块。他不再满足于自己口袋里的寥寥几个铜板，便想办法说服船员带他上了船。很少有人敢用来自蟒行群岛的传统方式捕猎：飞身扑向猎物，徒手将拖钩捅进怪兽的身体，然后开始活剖。派克悍不畏死，技巧过人，所以这位鱼叉手的身价涨得很快，没有一枚金海妖根本免谈。他很清楚，海怪的血肉其实价钱一般，真正值钱的东西是更大个头、更加危险的怪兽身上的某些器官……某些需要活取的器官。</p><p>根据捕猎难度的高低，每一种海怪都有各自不同的价格，而最受比尔吉沃特的商人欢迎的就是琢珥鱼。从它剑齿密布的口中取出的青囊可以提纯出不同的魔法精粹，因而在符文之地无人不为之垂涎，一小瓶发光的青油就足够买下十艘大船外加船员还绰绰有余。但是，当派克跟一个经验不足的船长出海捕猎时，他才知道了什么叫做血肉淋漓的人生。</p><p>出航几天后，他们遇到了一条巨大的琢珥，大张的血口里露出了成排的青囊。虽然这条琢珥比派克见过的都大得多也老得多，几支带索的鱼叉一控住巨兽，派克就毫不犹豫地跳进了它口中。</p><p>正当他准备开工的时候，怪兽幽深的喉管尽头传来一股低沉的颤动。继而，海面上泡沫翻腾，出现了一大群琢珥，赶来往船身上撞。船长吓坏了，切断了派克的救生索。可悲的鱼叉手，在怪兽合上下颌之前看到的最后景象就是船员们惊惧万分的表情——他们就这样看着他被怪兽活活吞了下去。</p><p>但派克的故事没有结束。</p><p>在不可知的大洋的最深处，头上是千钧的水压，身体仍然困在琢珥的嘴里，但他重新睁开了眼睛。到处都是蓝色的光点，成千上万，似乎在看着他。一种久远而神秘的回声颤抖着充斥了他的脑海，挤压着他的意识，向他展现出曾经所拥有过，但被其他事物逐渐挤占进而失却的画面。</p><p>一种新的饥饿攫取了派克的意念，急不可耐地想要复仇和惩罚世人。他将用背叛了自己的人的尸体，填满最深的海沟。</p><p>回到比尔吉沃特，起初没人在意这些谋杀——这么危险的一个地方，偶尔的血色并不出奇。但是几周过去了，几个月过去了，人们开始发现某种规律。许多船长的尸身在黎明时被发现，身体遍布伤口。酒馆的熟客们低声风传着一个鬼魂杀手的故事，说他被人在海上抛弃，现在回来要杀光那艘惊惧号上的船员。曾经代表着尊重与名声的问候——“船长大人？”如今变成了一句警告。</p><p>很快就轮到了补船工，然后是大副、贸易官、放债人……实际上，任何一个与屠宰码头的血腥生意有关系的人都跑不掉。赏金布告板上出现了一个新名字：臭名昭著的血港鬼影，一千枚海妖币。</p><p>记忆被深渊扭曲的派克做到了很多人没能做到的事情——将恐惧深深地刺进了那些奸商、杀手和无赖们的心底，虽然没有任何人找到过一艘名为惊惧号的舰船曾在比尔吉沃特靠岸的记录。一座因捕猎怪物而自豪的城市如今发觉自己却成了狩猎的目标，而派克似乎完全没有收手的意思。</p>",
+            "short": "在比尔吉沃特的屠宰码头，颇有名气的鱼叉手派克葬身在一条巨大的琢珥鱼腹内……然而，他却回来了。他在家乡的阴街陋巷中徘徊着，用超自然的手段干脆残忍地解决那些鱼肉他人的恶棍——一座因捕猎怪物而自豪的城市如今发觉自己却成了狩猎的目标。",
+            "quote": "“海底给每个人都准备好了地方…...”",
+            "quote-author": "派克"
+        },
+        "headerImage": null
+    },
+    "related-champions": [
+        {
+            "type": "champion",
+            "release-date": "2009-08-19T00:00:00.000Z",
+            "name": "普朗克",
+            "title": "海洋之灾",
+            "section-title": "普朗克",
+            "slug": "gangplank",
+            "associated-faction": "",
+            "associated-faction-slug": "bilgewater",
+            "image": {
+                "title": "gangplank-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt36342e427842cf72-Gangplank_0.jpg",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 838,
+                "y": 6,
+                "featured-champions": []
+            },
+            "background": {
+                "title": "gangplank-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt36342e427842cf72-Gangplank_0.jpg",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 838,
+                "y": 6,
+                "featured-champions": []
+            },
+            "url": "/zh_cn/champion/gangplank",
+            "video": null,
+            "races": [],
+            "roles": [
+                {
+                    "name": "战士",
+                    "slug": "fighter"
+                }
+            ],
+            "role": [
+                {
+                    "name": "战士",
+                    "slug": "fighter"
+                }
+            ],
+            "game-info-url": "https://lol.qq.com/web201310/info-defail.shtml?id=Gangplank",
+            "biography": {
+                "full": "<p>诡计多端、心狠手辣的普朗克自封为强盗之王，他用威慑、暴力和权谋统治着比尔吉沃特。他所到之处，定会留下死亡和废墟，所以，他声名狼藉、臭名远扬，只要他的黑帆刚刚露出海平面，无论多么老练的船队水手都会手忙脚乱。</p><p>普朗克是从十二海域的贸易航路上抢劫商船起家的，因此与他结仇的劲敌为数甚多。在艾欧尼亚，他洗劫了蛇刀庙，由此惹火上身，激怒了杀人不眨眼的影流教派。而且据说，诺克萨斯大将军本人发誓要亲眼看到普朗克被碎尸万段，因为他偷走了“利维坦号”，那可是斯维因的战舰，也是诺克萨斯海军的骄傲。</p><p>虽然普朗克是许多人的心头大患，他们派出刺客、赏金猎人甚至武装舰队，都无法将他绳之以法。他的残忍乐趣就在于看着自己头上的赏金奖励持续走高。每次他满载而归地回到比尔吉沃特，都会将自己最新的通缉令钉在比尔吉沃特的悬赏告示栏上，让所有人都能看到。</p><p>最近，普朗克却被赏金猎人厄运小姐的诡计摆了一道。他的海盗船在比尔吉沃特全城居民众目睽睽之下被摧毁了，手下的船员也被杀害，他战无不胜的无敌神话也被彻底粉碎。现在，比尔吉沃特的各个帮派看到普朗克大势已去，纷纷趁乱崛起，在纷争中抢夺这座港口城市的控制权。</p><p>虽然普朗克在爆炸中受了重伤，但他侥幸活了下来。他的身上遍布着支离破碎的伤疤，一条手臂也被截去。但他装上了铁铸的义肢，并决心重建自己的威望。普朗克立誓要夺回曾经拥有的一切，并毫不留情地惩处所有冒犯过他的人。</p>",
+                "short": "诡计多端、心狠手辣的普朗克是被废黜的强盗之王，他令人恐惧的名号广达远至。他一度是港口城市比尔吉沃特的统治者。虽然现在他的威权已经不再，但人们相信这只会让他变得更加可怖。普朗克若是知道有人要从他手中抢走比尔吉沃特，必然会大肆血洗这座城市。而如今有了火枪、弯刀，还有一桶桶的火药，他决心要夺回自己失去的东西。",
+                "quote": "“老子杀人越货大闹诺克萨斯海军的时候，你还穿开裆裤呢。你可别惹我。”",
+                "quote-author": "普朗克"
+            },
+            "headerImage": null
+        },
+        {
+            "type": "champion",
+            "release-date": "2010-09-08T00:00:00.000Z",
+            "name": "厄运小姐",
+            "title": "赏金猎人",
+            "section-title": "厄运小姐",
+            "slug": "missfortune",
+            "associated-faction": "",
+            "associated-faction-slug": "bilgewater",
+            "image": {
+                "title": "missfortune-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/bltc6e788b11a9c8245-MissFortune_0.jpg",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 983,
+                "y": 231,
+                "featured-champions": []
+            },
+            "background": {
+                "title": "missfortune-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/bltc6e788b11a9c8245-MissFortune_0.jpg",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 983,
+                "y": 231,
+                "featured-champions": []
+            },
+            "url": "/zh_cn/champion/missfortune",
+            "video": null,
+            "races": [],
+            "roles": [
+                {
+                    "name": "射手",
+                    "slug": "marksman"
+                }
+            ],
+            "role": [
+                {
+                    "name": "射手",
+                    "slug": "marksman"
+                }
+            ],
+            "game-info-url": "https://lol.qq.com/web201310/info-defail.shtml?id=MissFortune",
+            "biography": {
+                "full": "<p>和大部分在比尔吉沃特错综复杂、尔虞我诈的迷局中获得赫赫恶名的大人物们一样，厄运小姐的双手上不乏鲜血……</p><p>作为著名女枪械师艾比盖尔•福琼的爱女，莎拉的快乐童年大部分时间都是在一座近海小岛上的工坊里度过的。小莎拉学着安装转轮锁扣、调校扳机轴距，甚至还会参与定制手枪的试射。她妈妈在制枪手艺界是一个传奇人物，许许多多巨商船长的收藏里都能找到她定做的手枪。</p><p>但时不时地，她的枪也会被一些图谋不轨、心术不正的人惦记。</p><p>这类人之中，就有一个当时刚刚崭露头角比尔吉沃特强盗，他的手下都叫他普朗克。他的实力让他自信和自负，要求莎拉的母亲为他制作一对手枪，必须无人能及。她最终不情愿地接受了订单，整一年后的同一天，普朗克回来了。他并不打算交钱，所以用一块肮脏的围巾遮住脸——他是来明抢的。</p><p>艾比盖尔制作的这副双枪堪称大师级杰作，不仅威力强大、精密准确，而且造型优雅、独具匠心。她大声呵斥，如此优秀的武器，他不配。她可以看出，普朗克已经成为泯灭人性的恶棍。普朗克盛怒之下夺过双枪，用她自己制造的武器射杀了她，然后又把枪口对准了她的丈夫和幼小的莎拉。然后，没有其他理由，只是出于单纯的恶意，他将工坊点燃，并将双枪摔在石头上，要让福琼打造的一切彻底从符文之地上消失。</p><p>莎拉被剧痛唤醒。虽然她伤势严重，但却还是从燃烧着的废墟中爬了出来，两把残破的手枪紧紧护在自己胸前。她的身体逐渐治愈，但梦魇和惊厥将继续折磨她许多年。</p><p>即便如此，她还是将一切抗了下来，决心复仇。她修好了母亲的双枪，打探了一切关于那个蒙面凶手的消息。那个人后来自封为比尔吉沃特的新任强盗之王，即便是那些最有影响力的船长也被迫承认他的地位。</p><p>他闹得多欢都无所谓。当莎拉再次与他见面，她将做好万全准备。</p><p>她坐船来到比尔吉沃特，在踏上码头以后几分钟内，她就完成了人生中的第一次杀人。那是一名醉酒的水手，肚子里有一加仑麦龙黑啤，脑袋价值一大笔悬赏。莎拉把他的尸体拖到了悬赏告示板官员那里，然后又撕下了十多张悬赏令，大步走进城中。</p><p>不到一周，十多张悬赏令全都交付兑现，只要被莎拉盯上就是交了厄运，最后要么伏法要么服刑。她很快就在比尔吉沃特的酒馆和赌场里成为了热议人物，得名“厄运小姐”。普朗克不可能注意到她。他的城里有那么多赏金猎人，多一个又怎样？</p><p>随后的几年中，厄运小姐的猎头事迹越传越远，每个新故事都比上一次更加夸张。她曾用自己失窃的朗姆酒桶把“绸刀海盗团”的老大淹死。她曾教训一个手脚不干净的船长，夺走了他的“塞壬号”。她还曾追查疯狂的荡妇开膛手”，在屠宰码头上半截海怪肚子里找到了他的老巢，并在他逃跑的时候命中后背。</p><p>虽然已经有这么大能耐，但普朗克还是太过强大，凶狠的铁钩帮还总是在他身旁寸步不离，所以不能公开向他挑战——厄运小姐也知道，直接杀掉普朗克太便宜他了。只有让他忍受奇耻大辱、同时把他盗取的一切烧成灰烬，才能让那个死在母亲工坊中的女孩心满意足。</p><p>于是，她日积月累，在自己身边聚集了一群规模不大但却忠心耿耿的骨干，他们最后将助她彻底摆脱旧日的心魔。</p><p>厄运小姐豁出一切展开对抗普朗克的行动。环环相扣的计策让他的<i>冥渊号</i>在港湾里化为熊熊燃烧的残骸，而那位暴虐的强盗之王也被推翻。最棒的是，比尔吉沃特的所有人都目睹了他的陨落。这是莎拉最大的希望，一切都如她计划一般。</p><p>一切都在片刻间结束了。</p><p>没了普朗克，敌对船长们立刻陷入了纷争，都想执掌这座城市。原本就无法无天的比尔吉沃特一瞬间变得更加混乱，无数安分守己的平民都被帮派之间的争斗所波及。无奈之下，厄运小姐站了出来——在她手下的拥护下，以<i>塞壬号</i>船长之名，多方磋商，达成了脆弱的停火协议，奇迹般地一直持续到了今天。</p><p>但在这座港口城市中，几乎没什么是永久的，成为海上女帝的厄运小姐忽然发现，自己不得不面对一个个强盗、帮派老大和潜藏的威胁，并对其贯彻她定的规矩。</p><p>比尔吉沃特真正的争霸战才刚刚开始。</p>",
+                "short": "以美貌闻名，但却以无情立命的莎拉是一位比尔吉沃特的船长，她在这座港镇的强硬犯罪集团中塑造了不容轻视的形象。在她还是个孩子的时候，亲眼目睹了海盗之王普朗克谋杀了自己的家人。多年以后她残忍地报仇雪恨，把他和他的旗舰连人带船一同炸飞。所有低估她的人都会发现，自己面对的是一个极具欺骗性的狡黠对手，还有可能要处理肚子里的一两颗子弹。",
+                "quote": "“风险多多，赏金多多。”",
+                "quote-author": "厄运小姐"
+            },
+            "headerImage": null
+        }
+    ],
+    "explore-champions": [
+        {
+            "type": "champion",
+            "release-date": "2010-02-02T00:00:00.000Z",
+            "name": "潘森",
+            "title": "不屈之枪",
+            "section-title": "潘森",
+            "slug": "pantheon",
+            "associated-faction": "",
+            "associated-faction-slug": "mount-targon",
+            "image": {
+                "title": "pantheon-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt8c02ab1e736da4a3-pantheon_splash.jpg",
+                "encoding": "image/jpeg",
+                "width": 1080,
+                "height": 637,
+                "x": 556,
+                "y": 230,
+                "featured-champions": []
+            },
+            "background": {
+                "title": "pantheon-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt8c02ab1e736da4a3-pantheon_splash.jpg",
+                "encoding": "image/jpeg",
+                "width": 1080,
+                "height": 637,
+                "x": 556,
+                "y": 230,
+                "featured-champions": []
+            },
+            "url": "/zh_cn/champion/pantheon",
+            "video": null,
+            "races": [],
+            "roles": [
+                {
+                    "name": "战士",
+                    "slug": "fighter"
+                },
+                {
+                    "name": "刺客",
+                    "slug": "assassin"
+                }
+            ],
+            "role": [
+                {
+                    "name": "战士",
+                    "slug": "fighter"
+                },
+                {
+                    "name": "刺客",
+                    "slug": "assassin"
+                }
+            ],
+            "game-info-url": "http://gameinfo.na.leagueoflegends.com/en/game-info/champions/pantheon",
+            "biography": {
+                "full": "<p>阿特瑞斯出生在巨神峰的险山峻岭上，他得名于夜空中的一颗星，而那颗星是战神星座“潘森”的一部分。</p><p>从很小的年纪起，他就知道战斗是自己的天命。他和部落里的许多孩子一样接受训练，目标是加入拉阔尔的军事教团，“拉霍拉克”。阿特瑞斯从来都不是力量最大或者技艺最高超的武士，但他却以某种方式坚持着，在每一回合的较量后，都带着血痕和淤青站起来。一段时间后，他与同辈的新兵派拉斯产生了激烈的对抗气氛。但无论阿特瑞斯多少次被摔在石面上，他都再次站了起来。他不依不饶的韧劲让派拉斯另眼相看，他们在训练场上挥洒的鲜血，筑成了真正的兄弟情义。</p><p>阿特瑞斯和派拉斯在一次巡逻中遭遇了野蛮人的入侵，整支拉阔尔人巡逻队只有他们两人幸存。而当烈阳星灵拒绝讨伐这些入侵者时，阿特瑞斯和派拉斯发誓要亲自夺得星灵的力量，他们决定去攀登巨神峰之巅。</p><p>和许多前人一样，他们也低估了这次攀登的残酷程度。派拉斯在抵达峰顶之前，他的生命如同风中的残烛，最终轻颤一下便化为了乌有。当天空敞开，只有阿特瑞斯还在，他将成为神圣星灵的载体，他将拥有报仇雪恨的力量。</p><p>但后来回到拉阔尔部族的并不是人，而是长枪闪耀、圆盾烨烁的战争星灵——<i>潘森</i>本尊。他判定阿特瑞斯不具资格，因为他是一名屡战屡败的武士，所以它彻底夺走了他的身体，用于实现自己的目标——一项对凡人来说过于艰巨的任务。</p><p>阿特瑞斯被封进了自己脑海中最遥远的角落，只能通过模糊的景象看到这位星灵踏遍世界，搜寻着暗裔——那些远古时代被创造出来的活体武器。</p><p>后来，盛怒之下的潘森加入了巨神峰不远处的一次战斗，等待他的是正在追寻神峰之巅的暗裔剑魔亚托克斯。那场战斗从地面打到天上，横扫下方人类的大军……最后不可能的事情发生了。暗裔的弑神之刃刺入了潘森的胸膛，在天空中的战争星座上刻下了一剑。</p><p>但随着星灵渐渐消散，阿特瑞斯，那个被它认为弱小的人，再次苏醒。他被亚托克斯的剑刃贯穿，星灵武器的力量正在衰退，而他则抽了一口气，冲着那个暗裔的脸啐了一口。亚托克斯冷笑了一下，把阿特瑞斯留在原地等死。</p><p>几小时以后，当乌鸦开始落下来的时候，阿特瑞斯忍住痛苦再次站起来，踉跄着返回拉阔尔部族，身后留下一条血染的路。饱尝一生的失败以后，他求生的意志以及遭背叛的愤怒已经足够延缓他的死亡，纵使那死亡已将战神本尊夺走。</p><p>阿特瑞斯在派拉斯的家中醒来，派拉斯的遗孀伊乌拉为他养伤。在那里，阿特瑞斯明白了，他一生都在仰望星空，却从未思考星空下的世界。凡人不同于天神，凡人之所以战斗是因为他们<i>别无选择</i>，因为他们知道死亡始终在等待。他在一切生命中都看到了这股韧劲，因为死亡的威胁永无终结。</p><p>的确如此，野蛮人入侵者现在就在威胁着拉阔尔人北边的定居点，其中也包括伊乌拉的农场。虽然阿特瑞斯要想举起长枪还需要休养数月，但他还是决定亲自终结这场灾祸。最终，他拿着星灵留下的暗淡武器出发了。</p><p>然而，当他抵达的时候，他发现自己不共戴天的仇敌已经遭到袭击。从他们的惨叫声和那股浓重的血腥味……阿特瑞斯知道，他们面对的是亚托克斯。</p><p>阿特瑞斯意识到，将这群野蛮人驱赶到巨神峰的正是亚托克斯。虽然他曾把他们视作仇敌，但他们和拉阔尔人并无二致——他们都是被夹在两个更庞大的力量之间、饱受纷争摧残的凡人。阿特瑞斯对暗裔和星灵抱有同样的愤恨。它们都一样。它们都是问题本身。</p><p>阿特瑞斯站在了野蛮人与亚托克斯之间。那个暗裔认出了伤痕累累的盾牌和长枪属于那个陨落的星灵，于是对他冷嘲热讽——如今阿特瑞斯没有了潘森的力量，何来希望？他在亚托克斯的攻击下双膝跪地，但当阿特瑞斯听到身边人们的喊叫时，他的意志点燃了星灵的长枪。随着一记奋力的飞跃，他一击斩下了暗裔持剑的手臂。</p><p>剑和暗裔都倒在了地上，只有阿特瑞斯毅然挺立，他看到与自己同名的那颗星在天空中重新焕发生机。</p><p>虽然阿特瑞斯经常挂念着想要回到伊乌拉的农场，但他那天曾许下誓言，要对抗星灵、飞升者、恶魔以及任何力量过分强大的存在，因为它们只会破坏。他抛弃了自己的原名，成为了<i>新的</i>潘森——星灵的武具如今被灌注了新的战斗意志，唯有直面死亡时方可熊熊燃烧。</p><p>潘森的神性已经离去，战神必须在凡人中重生。</p>",
+                "short": "曾被战争星灵附体的阿特瑞斯，在体内的天界力量被抹杀之时，便以凡人的身份活了下来。即便是那裂空摘星的一击，也无法让他屈服。在那不久以后，他学会了拥抱自身的凡性，以及凡性之中那股顽强的韧劲。如今的阿特瑞斯以潘森之名重生，与神性抗争，他坚不可摧的意志在战场上化为火焰，注入那些曾经属于星灵的武具中。",
+                "quote": "“这将是我不朽的时刻……一个众神都会铭记的日子!”",
+                "quote-author": ""
+            },
+            "bioImage": null,
+            "headerImage": null
+        },
+        {
+            "type": "champion",
+            "release-date": "2022-02-01T09:00:00.000Z",
+            "name": "烈娜塔·戈拉斯克",
+            "title": "炼金男爵",
+            "section-title": "烈娜塔·戈拉斯克",
+            "slug": "renataglasc",
+            "associated-faction": "",
+            "associated-faction-slug": "zaun",
+            "image": {
+                "title": "renata-splash.jpg",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/bltbd6dd8aaf7e19b67-renata-splash.jpg",
+                "encoding": "image/jpeg",
+                "width": 1920,
+                "height": 1080,
+                "x": 1000,
+                "y": 150,
+                "featured-champions": []
+            },
+            "background": {
+                "title": "renata-splash.jpg",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/bltbd6dd8aaf7e19b67-renata-splash.jpg",
+                "encoding": "image/jpeg",
+                "width": 1920,
+                "height": 1080,
+                "x": 1000,
+                "y": 150,
+                "featured-champions": []
+            },
+            "url": "/zh_cn/champion/renataglasc",
+            "video": null,
+            "races": [],
+            "roles": [
+                {
+                    "name": "辅助",
+                    "slug": "support"
+                }
+            ],
+            "role": [
+                {
+                    "name": "辅助",
+                    "slug": "support"
+                }
+            ],
+            "biography": {
+                "full": "<p>命运并非从来都对烈娜塔·戈拉斯克有所善待。</p>\n<p>她的父母曾经是杰出的炼金师，专精于医药方剂的创新。他们把所有心血都献给了自己的研究和祖安的街坊邻里，将药剂和关怀送给任何有需要的人……不管对方是否能付得起相应的费用。烈娜塔自幼便习惯了饿着肚子上床，对父母的执念满腹怨言，但又对自己的处境无能为力。她常常梦见皮尔特沃夫的日之门，还有从那道运河中驶过的船只，想象着自己掌舵，前往人生的新航向——目标就是世界各地的财富。</p><p>后来，等到烈娜塔长大到可以参与家族事业的年纪时，她在炼金术方面的平庸才能很快就暴露了出来。不过，她在盈利的手段上倒是有很多想法。烈娜塔人生中第一次推销，就成功说服了自己的父母。<em>只要</em>他们肯收治那些较为富裕的祖安人，他们就不再需要为患者付不起诊费而发愁。忠实的患者们纷纷向地位更高的人称赞戈拉斯克家的制剂，而烈娜塔面向富人制定的收费标准很快就足以贴补他们的慈善开支。</p><p>可是，格拉斯克家并没有从此过上殷实的生活，而是把余裕的资金用来开发一种高度精纯的炼金科技秘药，给最危重的病人延长寿命。无论他们如何改良，这种秘药总是会出现不良的副作用——比如会让患者变得言听计从，或者变得狂躁暴戾，于是他们坚持不懈地改良配方。只不过烈娜塔另有所想，她不甘心看到自己出主意赚来的钱被父母这样使用，同时非常好奇这个配方如果不加改良，是不是也能派上用场。</p><p>上面的皮尔特沃夫城中，有一些精英家族的族长们一直都靠着祖安城的医用廉价替代品攫取利益。他们听闻了格拉斯克家的研究，不能容忍自己的底线遭到威胁，于是就收买了几个打手去“收拾一下”。那一晚，烈娜塔在父母的惨叫声中惊醒，家中一片火海。她搭进去了一条胳膊，也没能成功救出父母。</p><p>留给烈娜塔的只有家族的名号和灰烬中残存的研究成果，她发誓不再重蹈父母的覆辙，绝不舍己为人。于是，她开始埋头苦干，要用这微薄的遗产造就一番大业，带给她从未拥有过的一切——金钱、权力和势力。她要缔造自己的<em>帝国</em>。</p><p>随后几年间，她在幕后谋划了几场小规模行动，同时也经营着城中的人脉，拉拢了几个肮脏丑恶但却举足轻重的人物。她会帮人安排工作，会拿钱借他们救急，也会拿药给他们的孩子治病，但绝不是无偿的。如果他们无钱还债，那就要为她卖命做事。</p><p>烈娜塔很快就意识到，天才的头脑是祖安城里最稀缺也是最暴利的商品，所以她想出了一个计划，她要投资那些穷困落魄的年轻人，挖掘他们的创新才干。她可以提供一个工作的空间和稳定的家庭居所，而作为回报，那些雇工必须永无止境地工作。困苦绝境会让人别无选择。烈娜塔就此掌握了大量创意来源，再也不缺新鲜独特的产品设计，以及她父母留下的炼金科技秘药的全新用途。她的利润一飞冲天。后来她收购了一家工厂，正式创立了戈拉斯克工业。再后来，陆陆续续有几十家工厂被她收购，全都用来生产她的高端炼金科技产品。</p><p>戈拉斯克工业在祖安城里迅速扩张，从炼金科技采矿作业，到舞厅，再到精炼厂等等。版图之大，自然惹怒了一些原本在行业中一家独大的男爵。不过，烈娜塔逐个说服了他们开展合作。就这样，烈娜塔可以说是全凭自身本事达到了与炼金男爵齐平的地位，没有谁能违逆她，因为所有人都怕自己的现金流受到影响。戈拉斯克工业蓬勃发展，烈娜塔本人则继续留在幕后，等待时机做出下一步决策。</p><p>一场炼金工厂事故带来了她渴盼的时机。剧毒的烟雾弥漫在祖安的大街小巷，让这座城市遭遇了数十年来最惨烈的灾难。在灰色的毒雾中，格拉斯克工业向城中的每个人提供了基础呼吸装置和替换用的滤芯……这一次是无偿的。这下，祖安全体居民都认识了烈娜塔•格拉斯克。她的慈爱名声也因此不胫而走。她赢得了全祖安的忠心。</p><p>她的慷慨义举也传遍了皮尔特沃夫。商铺店主们这才第一次认真审视烈娜塔优雅绝伦、精炼至极的炼金科技产品，不多久就将她的产品纷纷摆上货架。</p><p>如今，每个时髦的皮城人都会拥有至少一件戈拉斯克工业的产品。有些财大气粗的富人还会竞价角逐，只为能在各种新潮的庆典和剧场演出时与烈娜塔同席。不过烈娜塔的计划从来都不是成为祖安的炼金男爵，也不是成为皮尔特沃夫的商界宠儿。</p><p>她要把皮尔特沃夫的财力之源据为己有，她要的是儿时梦境中经常出现的——日之门。因为谁掌握了日之门，谁就掌握了贸易的流向；谁掌握了贸易，谁就掌握了世界。销往皮城和祖安的每一件戈拉斯克产品里，都藏有一个秘密夹层，内部封存着她父母的炼金科技秘药，只要她下达指令，随时都可以释放——副作用立刻生效。要不了多久，<em>所有人</em>都将听命于烈娜塔•戈拉斯克。</p>",
+                "short": "<p>烈娜塔•格拉斯克从童年家宅的灰烬中走出，仅凭自己的名字和父母的炼金术研究成果白手起家。在后来的几十年里，她成为了祖安炼金男爵中的首富，通过利益捆绑积累人脉。与她合作，就将获得难以计量的奖赏。与她作对，就将捶胸顿足悔不当初。但到最后，所有人都会成为她的附庸。</p>",
+                "quote": "“你不必与我为敌。我可以改变你的想法。”",
+                "quote-author": ""
+            },
+            "bioImage": {
+                "title": "renata-splash.jpg",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/bltbd6dd8aaf7e19b67-renata-splash.jpg",
+                "encoding": "image/jpeg",
+                "width": 0,
+                "height": 0,
+                "x": 0,
+                "y": 0,
+                "featured-champions": []
+            },
+            "headerImage": null
+        }
+    ],
+    "modules": [
+        {
+            "slug": "audio-drama-pyke",
+            "type": "featured-video",
+            "section-title": "",
+            "featured-image": {
+                "title": "audio-drama-bg",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/bltb62cc5b7e07c70b9-audio-drama-bg.jpg",
+                "encoding": "image/jpeg",
+                "width": 1920,
+                "height": 1080,
+                "x": 0,
+                "y": 0,
+                "featured-champions": []
+            },
+            "title": "Legends of Bilgewater: Pyke, the Drowned Man",
+            "subtitle": "",
+            "description": "Listen as Lars spins a tale of four Bilgewater legends - Nautilus, Fizz, Tahm Kench, and Pyke - and discovers the terrifying fact woven into his fiction.",
+            "uri": "https://youtu.be/eFRwP9lsLEo",
+            "video": {
+                "type": "video",
+                "title": "",
+                "subtitle": "",
+                "description": [],
+                "uri": "https://youtu.be/eFRwP9lsLEo",
+                "width": "",
+                "height": "",
+                "x": "",
+                "y": "",
+                "featured-champions": []
+            },
+            "blackout": null,
+            "release-date": "2018-05-31T15:00:00.000Z",
+            "video-type": "video",
+            "featured-champions": [],
+            "related-champions": []
+        },
+        {
+            "slug": "然后，牙齿",
+            "type": "story-preview",
+            "title": "然后，牙齿",
+            "subtitle": "作者： Matt Dunn",
+            "description": "玛奇耶四肢摊开，躺在朽烂的木板上。海浪拍打着下方的礁石。她的心跳渐渐变慢，泵出的鲜血流进了海里。她瞪着眼睛，一眨不眨，望着高处的棚屋，和遥远的星辰。<br><br>",
+            "story-slug": "pyke-color-story",
+            "featured-image": {
+                "title": "pyke-color-bg",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt09a53910b3d2d593-pyke-color-bg.jpg",
+                "encoding": "image/jpeg",
+                "width": 1921,
+                "height": 1080,
+                "x": 949,
+                "y": 240,
+                "featured-champions": []
+            },
+            "background": {
+                "title": "pyke-color-bg",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt09a53910b3d2d593-pyke-color-bg.jpg",
+                "encoding": "image/jpeg",
+                "width": 1921,
+                "height": 1080,
+                "x": 949,
+                "y": 240,
+                "featured-champions": []
+            },
+            "release-date": "2018-05-31T15:00:00.000Z",
+            "featured-champions": [
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                }
+            ],
+            "minutes-to-read": 5,
+            "url": "/zh_cn/story/pyke-color-story"
+        },
+        {
+            "slug": "pyke-teaser-cg",
+            "type": "featured-video",
+            "section-title": "",
+            "featured-image": {
+                "title": "pyke-teaser-image",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt95bb9c3c2ad30971-pyke-teaser-image.jpg",
+                "encoding": "image/jpeg",
+                "width": 1921,
+                "height": 1080,
+                "x": 949,
+                "y": 240,
+                "featured-champions": []
+            },
+            "title": "Pyke: The Bloodharbor Ripper",
+            "subtitle": "",
+            "description": "Pyke’s shipmates watched him drown. In his eyes, all of Bilgewater is guilty.",
+            "uri": "https://www.youtube.com/watch?v=UjX7FAwc7lw",
+            "video": {
+                "type": "video",
+                "title": "",
+                "subtitle": "",
+                "description": [],
+                "uri": "https://www.youtube.com/watch?v=UjX7FAwc7lw",
+                "width": "",
+                "height": "",
+                "x": "",
+                "y": "",
+                "featured-champions": []
+            },
+            "blackout": null,
+            "release-date": "2018-05-10T15:00:00.000Z",
+            "video-type": "animation",
+            "featured-champions": [],
+            "related-champions": []
+        }
+    ]
+}

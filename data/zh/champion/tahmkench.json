@@ -1,0 +1,774 @@
+{
+    "id": "tahmkench",
+    "name": "塔姆",
+    "title": "河流之王",
+    "locale": "zh_cn",
+    "champion": {
+        "type": "champion",
+        "release-date": "2015-07-09T00:00:00.000Z",
+        "name": "塔姆",
+        "title": "河流之王",
+        "section-title": "塔姆",
+        "slug": "tahmkench",
+        "associated-faction": "",
+        "associated-faction-slug": "unaffiliated",
+        "image": {
+            "title": "tahmkench-splash",
+            "subtitle": "",
+            "description": "",
+            "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/bltcb65957e0e85d55b-TahmKench_0.jpg",
+            "encoding": "image/jpeg",
+            "width": 1215,
+            "height": 717,
+            "x": 1025,
+            "y": 338,
+            "featured-champions": []
+        },
+        "background": {
+            "title": "tahmkench-splash",
+            "subtitle": "",
+            "description": "",
+            "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/bltcb65957e0e85d55b-TahmKench_0.jpg",
+            "encoding": "image/jpeg",
+            "width": 1215,
+            "height": 717,
+            "x": 1025,
+            "y": 338,
+            "featured-champions": []
+        },
+        "url": "/zh_cn/champion/tahmkench",
+        "video": {
+            "title": "tahmkench-splashvideo-webm",
+            "subtitle": "",
+            "description": "",
+            "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt5cc483102cdccab1-tahmkench-splashvideo.webm",
+            "encoding": "video/webm",
+            "width": 1280,
+            "height": 720,
+            "x": 1025,
+            "y": 338,
+            "featured-champions": []
+        },
+        "races": [],
+        "roles": [
+            {
+                "name": "辅助",
+                "slug": "support"
+            },
+            {
+                "name": "坦克",
+                "slug": "tank"
+            }
+        ],
+        "role": [
+            {
+                "name": "辅助",
+                "slug": "support"
+            },
+            {
+                "name": "坦克",
+                "slug": "tank"
+            }
+        ],
+        "game-info-url": "https://lol.qq.com/web201310/info-defail.shtml?id=TahmKench",
+        "biography": {
+            "full": "<p>瓦洛兰的水道由来已久，但是恶魔塔姆·肯奇的来历更加久远。从蟒河流域泥泞的帐篷赌档，穿过比尔吉沃特盐霜板结的赌博大厅，再到皮尔特沃夫和祖安镀金的赌桌上——任何一个对旁人的财富投去垂涎目光的人都会知道，与河流之王相遇后心里泛起的饥渴是什么样的滋味。</p><p>关于这家伙最早的传说来自于一群在蟒河流域来往的流民。他们提到过一条硕大的鱼，嘴巴又阔又深，引诱着欲壑难填的人。有个故事说的就是一个诚实著称的年轻人。虽然他生来就是做撑船人的命，但他已经看腻了贫瘠的河岸，向往着更好的生活。河流之王向他许诺，只要他撒一次小谎，就会给他一份难忘的经历。看起来是白给的好处，所以撑船人就和自己的兄弟在聊天时就说了大话。那天晚上，这个恶魔冒出来向他指了一条河汊，而他之前从来没发现过。顺着汊道，他来到了一处外地人的营地。他们端来吃喝，跟他称兄道弟。天快亮时，撑船人已经吃饱喝足，准备回家。恶魔这时又来了，许诺说要是他再撒一次谎，就有更开心的体验。他被勾起了兴趣，于是同意了这笔交易，骗了自己的雇主。河水再次分出新路，他顺流而下，度过了更为奢侈的一夜。如是再三，夜复一夜，这个曾经诚实的撑船人如今扯起谎来不费吹灰之力。</p><p>等到河道最终淌入了大海，他发觉自己孤身一人，不知所措——再没有人给他骗了。这么多次愚昧的选择，都是他咎由自取，再也找不到回家的路。</p><p>大陆上苦涩的河水将河流之王的故事传到了蓝焰岛。随着传闻越来越盛，人们给他起了个名字——塔姆·肯奇。在比尔吉沃特，有人暴富，有人赤贫。潮水起起落落，财富也随之来去。很多酒馆里的故事都会提到老塔姆，说他是个活在水里的恶魔，最嗜赌博，永不满足。于是，这个多话的家伙就变成了城里许多赌窝和犯罪之所的标志。</p><p>日之门的开启让比尔吉沃特和皮尔特沃夫便利地通商，塔姆·肯奇的故事在进化之城以及下方的祖安也越来越广为人知。孩子们知道他叫“两件大衣”，因为这条鱼实在胖得过分，所以要把两件大衣缝在一起才穿得进去。他戴着一顶自鸣得意的礼帽，一张大嘴笑起来简直比整个城市还宽。他撩动着年轻技工们的嫉妒心。据说某一次进化日的时候，他找到了皮城里一个正在纠结的发明家，给她出了个主意，保证能让一个富裕的家族注意到。他要求的回报只是一束她的头发。这个野心勃勃的女人一口应允，而且确实，她的作品给她带来了一份丰厚的合同。但一件发明可不够，两件大衣晃悠悠地又来了。这一次他要的是她全部的秀发。为了不让自己的新雇主失望，发明家又同意了——塔姆立刻一口吞下了头发。可是，女人还是做不出名扬天下的发明。恶魔再次现身，索要的代价是一个指尖。一周后，他要了一只耳朵。过了一年，女人已经没什么能给出去的了。最后，她自己唤来了两件大衣，恳求他停止这一切。</p><p>他大笑着张开了大嘴，说他会帮她一了百了地解决问题，然后立即把她整个儿吞了下去。</p><p>河流之王。大晃悠。大哈欠。两件大衣。塔姆·肯奇有很多名字，但凡是叫出过这些名字的人都明白了一个道理：无论他的花言巧语多么诱人，在他的嘴里你必将迷失。</p>",
+            "short": "塔姆在历史上有许多不同的名字，他游历于符文之地的各条水道，用大意之人的悲惨喂养自己贪得无厌的食欲。虽然他的外表可能富有古怪的魅力和得意，但他在物质领域的漫游只是为了寻找毫无戒心的猎物。他的舌头像巨大的鞭子，即使是全副武装的重甲士兵也会被他从十几步以外的距离击晕，而如果跌入了他隆隆作响的肚子里，就相当于掉进了九死一生的绝命深渊。",
+            "quote": "“世界，就是一条河流，而我，是它的国王。”",
+            "quote-author": "塔姆"
+        },
+        "headerImage": null
+    },
+    "related-champions": [
+        {
+            "type": "champion",
+            "release-date": "2009-05-01T00:00:00.000Z",
+            "name": "伊芙琳",
+            "title": "痛苦之拥",
+            "section-title": "伊芙琳",
+            "slug": "evelynn",
+            "associated-faction": "",
+            "associated-faction-slug": "unaffiliated",
+            "image": {
+                "title": "evelynn-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/bltcc9c3d044c357629-evelynn-rework-splash.jpg",
+                "encoding": "image/jpeg",
+                "width": 1920,
+                "height": 1133,
+                "x": 983,
+                "y": 132,
+                "featured-champions": []
+            },
+            "background": {
+                "title": "evelynn-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/bltcc9c3d044c357629-evelynn-rework-splash.jpg",
+                "encoding": "image/jpeg",
+                "width": 1920,
+                "height": 1133,
+                "x": 983,
+                "y": 132,
+                "featured-champions": []
+            },
+            "url": "/zh_cn/champion/evelynn",
+            "video": null,
+            "races": [],
+            "roles": [
+                {
+                    "name": "刺客",
+                    "slug": "assassin"
+                },
+                {
+                    "name": "法师",
+                    "slug": "mage"
+                }
+            ],
+            "role": [
+                {
+                    "name": "刺客",
+                    "slug": "assassin"
+                },
+                {
+                    "name": "法师",
+                    "slug": "mage"
+                }
+            ],
+            "game-info-url": "https://lol.qq.com/web201310/info-defail.shtml?id=Evelynn",
+            "biography": {
+                "full": "<p>在符文之地的黑暗裂缝中，恶魔伊芙琳一直在搜寻着下一个目标。她披着人类女性的撩人外表，勾引猎物。只要有人陷入了她的魅惑，伊芙琳就会显露出真正的形态。她会施加难以言喻的折磨，从而让自己在猎物的疼痛中获得满足。对于这个恶魔来说，这样的欢愉只是无心无邪的滥情。但是对于符文之地上的其他人，听到的则是血肉模糊的传说，提醒着人们肉欲的危险和纵欲的代价。</p><p>伊芙琳并不是天生技术高超的女猎手。她起始于无比古老的时代，是某种原生的生命，没有形态，只有最模糊的自我意识。这生于暗影的精怪只是简单蒙昧地存在着，数百年间始终麻木无觉，对任何外部刺激都毫无反应。它本可能会一直这样下去，但是这世界却因为一场纷争而天翻地覆。这场被后世称为符文战争的浩劫，将世界推入了前所未有的苦难时代。</p><p>当时，整个符文之地上的人们都在经历各种各样的磨难、痛苦和失落，于是，黑影被搅动了。它长久以来认知的虚无被痛苦世界中的躁狂和悸动所填满了。这个生物激动地颤抖了起来。</p><p>随着符文战争不断升级，这世界的磨难变得越来越惨烈，甚至让这团暗影觉得自己几乎要爆裂开来。它畅饮着符文之地的疼痛，体验到了逍遥无边的愉悦。这种感受令它甘之如饴。久而久之，它变成了某种更高级的东西。它成了一个恶魔，一个贪婪的灵体寄生虫，吞噬着最原始的人类情感。</p><p>当战争终于结束，世界的苦难也渐渐消退。这个恶魔发现自己变得越来越绝望。它所能体会的唯一乐趣，便来源于其他生物的悲苦。没有了外界的痛苦，它什么都感受不到，就像它诞生之初的状态。</p><p>如果这世界无法满足这个恶魔对于痛苦和成长的需求，那么它就只能自己制造痛苦。它需要将痛苦施加到其他活物身上，这样才能再次体验到那股狂喜。</p><p>最初，捕捉猎物对于这个恶魔来说并不简单。虽然它可以不动声色地以暗影形态进行移动，但是要想抓住一个人类，它必须显现成为某种可触碰的东西。它曾多次尝试使用自己来自暗影的血肉化成实体的身躯，但每次尝试的结果都比上一次更加狰狞，无一例外地吓跑了自己的猎物。</p><p>这个恶魔意识到自己需要一种令人类无法抗拒的形体，不仅要将他们引诱到自己的魔爪之下，而且还要满足他们自身的欲望，让他们获得极大的快乐。这样一来，他们的痛苦就会更加甜美。</p><p>它潜藏于暗影之中，开始观察自己想要捕食的猎物。它照着他们的喜好裁出一副肉体，学会了在他们听来最动人的话语，走出他们眼中窈窕的步伐。</p><p>几个星期后，这个恶魔就造出了一副完美的身躯，吸引了数十名神魂颠倒的猎物，然后亲手折磨致死。虽然她总是会细细品味每一个猎物身上每一丝精致的痛苦，但她总是觉得自己还想要更多。每个人类的欲望都太狭小，可以用来把玩的时间也太短暂。他们的痛苦总是稍纵即逝，给她带来的欣快也不过是聊胜清汤寡水的滋味，勉强够她坚持到下一餐。</p><p> 她渴望未来有一天，她可以将这世界投入彻底的混沌，这样她就可以找回曾经的存在状态，充满纯粹而又销魂的狂喜。</p>",
+                "short": "在符文之地的黑暗裂缝中，恶魔伊芙琳一直在搜寻着下一个目标。她披着人类女性的撩人外表，勾引她的猎物。只要有人被她魅惑，伊芙琳就会显露出真正的形态。她会施加难以言喻的折磨，从而让自己在猎物的疼痛中获得满足。对于这个恶魔来说，这样的欢愉只是无心无邪的滥情。但是对于符文之地上的其他人，听到的则是血肉模糊的传说，提醒着人们肉欲的危险和纵欲的代价。",
+                "quote": "“今晚有空吗？要不要和我一起，掘开你身体里那口痛苦的源泉？”",
+                "quote-author": "伊芙琳"
+            },
+            "headerImage": null
+        },
+        {
+            "type": "champion",
+            "release-date": "2011-11-15T00:00:00.000Z",
+            "name": "菲兹",
+            "title": "潮汐海灵",
+            "section-title": "菲兹",
+            "slug": "fizz",
+            "associated-faction": "",
+            "associated-faction-slug": "unaffiliated",
+            "image": {
+                "title": "fizz-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/bltf6341c794f5cefbd-Fizz_0.jpg",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 1180,
+                "y": 104,
+                "featured-champions": []
+            },
+            "background": {
+                "title": "fizz-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/bltf6341c794f5cefbd-Fizz_0.jpg",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 1180,
+                "y": 104,
+                "featured-champions": []
+            },
+            "url": "/zh_cn/champion/fizz",
+            "video": null,
+            "races": [],
+            "roles": [
+                {
+                    "name": "刺客",
+                    "slug": "assassin"
+                },
+                {
+                    "name": "战士",
+                    "slug": "fighter"
+                }
+            ],
+            "role": [
+                {
+                    "name": "刺客",
+                    "slug": "assassin"
+                },
+                {
+                    "name": "战士",
+                    "slug": "fighter"
+                }
+            ],
+            "game-info-url": "https://lol.qq.com/web201310/info-defail.shtml?id=Fizz",
+            "biography": {
+                "full": "<p>在久远的过去，符文之地的海洋便远在陆地之前孕育了文明。如今被称为守望者之海的深处曾经存在过一座宏伟的城市——也是约德尔人菲兹定居的地方。他与这个高傲尊贵的族群中的工匠和战士们生活在一起。虽然菲兹和他们并非同类，他们对待他却没有任何偏见。加上他古灵精怪的脾性，还有在广阔海域中令人称奇的冒险经历，任何聚会只要有他都会充满了欢乐。</p><p>但世事变迁，海洋变得越来越温暖，引动了最深处海沟里凶暴的掠食者们。各处的定居点都失去了联系，但这座城市里的统治者们却还在争执该如何应对危险。菲兹自告奋勇出发去寻找幸存者，或是任何知道详情的人。</p><p>然后有一天，龙鲨来了。</p><p>这些身形庞大的怪兽会用尖利的啸声震晕猎物，宏伟都市的街道很快便布满了红云。短短几个小时内，成千上万的人死去了。龙鲨兴奋地捕食，狂热地横冲直撞，摧毁了城中的高塔和神庙。菲兹闻到了水中的血腥，便疾奔回来，想要加入战斗，保护这座城市。</p><p>太迟了。城里已经没有什么可以保护的东西了。等到混乱平复，没有任何人幸存，也没有一处不是残垣断壁。饥饿的龙鲨群已经远去。在冰冷的深海中，孤身一人的菲兹陷入了无望的悲痛。他任由自己随着洋流漂荡，约德尔人的魔力也开始消散，最终沉入了长寐，一梦便过了千年……</p><p>唤醒他的完全是一个意外。海面上游过一条木头做的大鱼，撒下了一把铜币，散落在尾迹附近的海床上。这当然不是龙鲨，可菲兹还是警觉起来他对上面的世界知之甚少，但肯定没有一条鱼能在水面上生活吧？他冒险往上游去，第一次探出了头，嗅到了咸涩的海风。</p><p>有人。他们生活在海洋之外，搭乘着大大小小的木头鱼在水上来回。菲兹感到又害怕又兴奋，但他们往水里扔下了神奇的礼物，说明他们肯定是想和他做朋友。于是，菲兹及时跟上了他们航行的轨迹，一路来到了港口城市比尔吉沃特。</p><p>在那个法外之地的居民口中，这个古怪又滑腻的生物很快成为了一个传说——潮汐海灵，来自海洋的精怪。据说他能召唤巨大的怪兽为己所用，在船壳上用他的海石三叉戟凿洞，而且在陆地上和海水中都能呼吸。许多不听话的小孩子都在月黑风高时听到警告：“快去睡觉，不然海灵就会把你捉去喂鱼……”</p><p>菲兹心地不坏，但哪怕是按约德尔人的标准来看也是淘气得过分。他很喜欢捉弄比尔吉沃特的居民。经验最老到的渔民知道，就好比大海会潮起潮落一样，潮汐海灵既能让他们一无所获，也能让他们的渔船满仓归来。即使如此，菲兹对贪婪或是自私的人毫不留情。那些傲慢的船长，一心想要赚笔快钱，却发觉自己的船在神秘的指引下抵达的不是港湾，而是灾难。</p>",
+                "short": "菲兹是一名水陆两栖的约德尔人，生活在比尔吉沃特周围的群礁之间。他会经常把迷信的船长们抛进海中的什一税捡起来物归原主。不过即使是最粗鲁的水手也知道不要招惹他，因为这里流传着的各种教训，都是因为低估了这个小鬼。经常有人误会他的行为只是海洋精灵的任性举动，而事实上他可以号令来自深渊的巨型猛兽，而且不管是盟友还是敌人他都喜欢捉弄。",
+                "quote": "“你们这些人居然没法在水里呼吸。你们真无聊。”",
+                "quote-author": "菲兹"
+            },
+            "headerImage": null
+        },
+        {
+            "type": "champion",
+            "release-date": "2012-02-14T00:00:00.000Z",
+            "name": "诺提勒斯",
+            "title": "深海泰坦",
+            "section-title": "诺提勒斯",
+            "slug": "nautilus",
+            "associated-faction": "",
+            "associated-faction-slug": "bilgewater",
+            "image": {
+                "title": "nautilus-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt758bc6307b613946-Nautilus_0.jpg",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 1075,
+                "y": 4,
+                "featured-champions": []
+            },
+            "background": {
+                "title": "nautilus-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt758bc6307b613946-Nautilus_0.jpg",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 1075,
+                "y": 4,
+                "featured-champions": []
+            },
+            "url": "/zh_cn/champion/nautilus",
+            "video": null,
+            "races": [],
+            "roles": [
+                {
+                    "name": "坦克",
+                    "slug": "tank"
+                },
+                {
+                    "name": "战士",
+                    "slug": "fighter"
+                }
+            ],
+            "role": [
+                {
+                    "name": "坦克",
+                    "slug": "tank"
+                },
+                {
+                    "name": "战士",
+                    "slug": "fighter"
+                }
+            ],
+            "game-info-url": "https://lol.qq.com/web201310/info-defail.shtml?id=Nautilus",
+            "biography": {
+                "full": "<p>想要搞明白诺提勒斯的传说，就必须首先了解这个人——哪怕是在最夸张的酒馆奇谈中，他也确实是一个人类。</p><p>虽然潮水已经早已带走了他的本名，但很多人都记得诺提勒斯从前不单单是个水手，还是一个打捞人。在蓝焰岛最南边的海域有一片船墓，据说这支船队是为了寻找一座福光庇佑的岛屿，用财富换取永生的秘密，却最终沉没于此。晴朗的天气里，人们能够从水面上看到船墓里闪烁的光亮。很多船队都在找人打捞这些遗失的宝藏，但没有谁的潜水技术能够与肌肉健硕的诺提勒斯相提并论。</p><p>诺提勒斯吸一口气就足够让一艘大帆船失去风力，所以他更喜欢自由潜水。虽然他总能从水底给船员们带回可观的金子和珠宝，但他却并不要求什么特别的奖赏——只是要求船长在每次出航前一定要将一枚硬币扔进海里，算是给广阔的大海献上的贡品。这当然是水手的迷信，但许多远航的船队都会如此进贡，求的就是平安的归航。</p><p>经过数年的打捞，这笔来得轻巧的财富逐渐见底，每次下水的收成越来越少。直到有一天，大家发现整个船队已经连人带船都被转手给了下家。</p><p>新来的船长登船那天，黎明猩红如血。他出身自某个外地的港口，带来了一件硕大的用黄铜和精铁铸成的潜水装。他盯上了诺提勒斯——实际上，他买这条船也就是为了诺提勒斯。这个船长显然是看中了一处特别的沉船，即使是在晴天时也笼罩在一片黑暗里。潜水装可以比任何人类更加长时间地承受海床的压力，足够捞干净那片诡异的阴翳。</p><p>船员们都觉得有活儿干总比挨饿强，所以诺提勒斯就被塞进了潜水装里，压得木头甲板都发出了呻吟。这时他意识到，船员们并没有钱缴纳什一税。恐慌扼住了他的喉头。外来的船长大笑着，看着诺提勒斯被放进水里。他跟船员们保证，无论胡子女士藏着的秘密是什么，都会让他们一夜暴富。那点儿愚蠢的税贡等到诺提勒斯上来以后再缴就是了。</p><p>诺提勒斯沉进海里，上方的光渐渐暗淡，一切寂静，只剩下他的呼吸声回荡在铁制的潜水装里。然后，有什么东西从深处探了出来，拉着他往下拖。诺提勒斯头一次感觉到恐惧像溶液一样浆住了心脏。这下面不是什么船长渴望的宝藏，而是某种沉睡中的可怕力量。</p><p>诺提勒斯抓住船锚的铁链——这是他和人间的唯一联系，拼命地往上爬，同时海底的东西仍在拉扯着他。可是重量太大了。他硕大的手指头差一点儿就要露出水面时，铁链断了。可没人能听得到诺提勒斯在潜水装里的惨叫。他绝望地抱紧怀里的铁锚，翻滚着跌进了漆黑如墨的漩涡。黑暗的触角缠住他的身躯，他只能看到船身隐约的轮廓逐渐淡去。再然后，一切落入黑暗。</p><p>等到诺提勒斯在海床上醒来时，他已经变得……不一样了。黑暗已经不再让他感到疼痛。巨大的潜水装已经和他融为一体变成了外壳，掩藏起他被原生的力量所侵蚀的灵魂。他被困在了暗无天日的海底，只剩下一个记忆——新来的船长食言了。</p><p>诺提勒斯当下发誓，所有人都要向大海缴税。他会亲自监督。</p><p>诺提勒斯被这个念头驱使着，朝海岸跋涉而去。但等他来到了比尔吉沃特，已经过去了好些年，船长和船员早已无处可寻。他既没有办法重生，也没有办法报仇。他没有回到海底，而是将怒火发泄到那些贪婪的人身上，用手中伟岸的铁锚砸烂他们的舰船。</p><p>有时候，在起伏的波涛间，遥远的记忆会自行浮现……但身为诺提勒斯的他却总是潜伏在水面之下。</p>",
+                "short": "早在比尔吉沃特立起第一座码头的时候，就有一个孤独的传说。身着铁甲的巨人诺提勒斯在蓝焰岛附近的黑暗水域中徘徊。他心里记恨着一桩不可原谅的背叛，毫无预警地出手。他甩动巨大的船锚，拯救落难的可怜虫，或是将贪婪的人拖进末日。据说，没有缴“比尔吉沃特什一税”的人就是他的目标。他会带着他们和自己一起沉入波涛——相当于一个铁板钉钉的提醒，没人能逃脱深海的制裁。",
+                "quote": "“被无边的黑暗吞噬时，除了向前，别无他法。”",
+                "quote-author": "诺提勒斯"
+            },
+            "headerImage": null
+        },
+        {
+            "type": "champion",
+            "release-date": "2018-05-31T00:00:00.000Z",
+            "name": "派克",
+            "title": "血港鬼影",
+            "section-title": "派克",
+            "slug": "pyke",
+            "associated-faction": "",
+            "associated-faction-slug": "bilgewater",
+            "image": {
+                "title": "pyke-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt359f81b2f47d8434-champion-pyke-splash.jpg",
+                "encoding": "image/jpeg",
+                "width": 1920,
+                "height": 1080,
+                "x": 949,
+                "y": 240,
+                "featured-champions": []
+            },
+            "background": {
+                "title": "pyke-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt359f81b2f47d8434-champion-pyke-splash.jpg",
+                "encoding": "image/jpeg",
+                "width": 1920,
+                "height": 1080,
+                "x": 949,
+                "y": 240,
+                "featured-champions": []
+            },
+            "url": "/zh_cn/champion/pyke",
+            "video": {
+                "title": "pyke-splashvideo-webm",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt741ebea413d1c60d-pyke-splashvideo.webm",
+                "encoding": "video/webm",
+                "width": 1920,
+                "height": 1071,
+                "x": 964,
+                "y": 124,
+                "featured-champions": []
+            },
+            "races": [],
+            "roles": [
+                {
+                    "name": "辅助",
+                    "slug": "support"
+                }
+            ],
+            "role": [
+                {
+                    "name": "辅助",
+                    "slug": "support"
+                }
+            ],
+            "game-info-url": "",
+            "biography": {
+                "full": "<p>年轻时的派克和大多数比尔吉沃特人一样，都是从屠宰码头开始混的。每一天，从深海捕捞到的怪兽就码放在岸边，等着送进屠宰间拆解处理，终日不休。他干活的地方名叫血港，因为即使是海浪也冲不干净木板条间源源不竭的油腻血水。</p><p>他越来越看清了这是怎样的一种交易——腥臊恶臭的工作，换来微薄不堪的薪水。一次又一次地，派克看着船长和船员们收下一袋袋沉甸甸的金币，靠的都是他和他的手下把骇人的海怪尸体切成了方便出售的肉块。他不再满足于自己口袋里的寥寥几个铜板，便想办法说服船员带他上了船。很少有人敢用来自蟒行群岛的传统方式捕猎：飞身扑向猎物，徒手将拖钩捅进怪兽的身体，然后开始活剖。派克悍不畏死，技巧过人，所以这位鱼叉手的身价涨得很快，没有一枚金海妖根本免谈。他很清楚，海怪的血肉其实价钱一般，真正值钱的东西是更大个头、更加危险的怪兽身上的某些器官……某些需要活取的器官。</p><p>根据捕猎难度的高低，每一种海怪都有各自不同的价格，而最受比尔吉沃特的商人欢迎的就是琢珥鱼。从它剑齿密布的口中取出的青囊可以提纯出不同的魔法精粹，因而在符文之地无人不为之垂涎，一小瓶发光的青油就足够买下十艘大船外加船员还绰绰有余。但是，当派克跟一个经验不足的船长出海捕猎时，他才知道了什么叫做血肉淋漓的人生。</p><p>出航几天后，他们遇到了一条巨大的琢珥，大张的血口里露出了成排的青囊。虽然这条琢珥比派克见过的都大得多也老得多，几支带索的鱼叉一控住巨兽，派克就毫不犹豫地跳进了它口中。</p><p>正当他准备开工的时候，怪兽幽深的喉管尽头传来一股低沉的颤动。继而，海面上泡沫翻腾，出现了一大群琢珥，赶来往船身上撞。船长吓坏了，切断了派克的救生索。可悲的鱼叉手，在怪兽合上下颌之前看到的最后景象就是船员们惊惧万分的表情——他们就这样看着他被怪兽活活吞了下去。</p><p>但派克的故事没有结束。</p><p>在不可知的大洋的最深处，头上是千钧的水压，身体仍然困在琢珥的嘴里，但他重新睁开了眼睛。到处都是蓝色的光点，成千上万，似乎在看着他。一种久远而神秘的回声颤抖着充斥了他的脑海，挤压着他的意识，向他展现出曾经所拥有过，但被其他事物逐渐挤占进而失却的画面。</p><p>一种新的饥饿攫取了派克的意念，急不可耐地想要复仇和惩罚世人。他将用背叛了自己的人的尸体，填满最深的海沟。</p><p>回到比尔吉沃特，起初没人在意这些谋杀——这么危险的一个地方，偶尔的血色并不出奇。但是几周过去了，几个月过去了，人们开始发现某种规律。许多船长的尸身在黎明时被发现，身体遍布伤口。酒馆的熟客们低声风传着一个鬼魂杀手的故事，说他被人在海上抛弃，现在回来要杀光那艘惊惧号上的船员。曾经代表着尊重与名声的问候——“船长大人？”如今变成了一句警告。</p><p>很快就轮到了补船工，然后是大副、贸易官、放债人……实际上，任何一个与屠宰码头的血腥生意有关系的人都跑不掉。赏金布告板上出现了一个新名字：臭名昭著的血港鬼影，一千枚海妖币。</p><p>记忆被深渊扭曲的派克做到了很多人没能做到的事情——将恐惧深深地刺进了那些奸商、杀手和无赖们的心底，虽然没有任何人找到过一艘名为惊惧号的舰船曾在比尔吉沃特靠岸的记录。一座因捕猎怪物而自豪的城市如今发觉自己却成了狩猎的目标，而派克似乎完全没有收手的意思。</p>",
+                "short": "在比尔吉沃特的屠宰码头，颇有名气的鱼叉手派克葬身在一条巨大的琢珥鱼腹内……然而，他却回来了。他在家乡的阴街陋巷中徘徊着，用超自然的手段干脆残忍地解决那些鱼肉他人的恶棍——一座因捕猎怪物而自豪的城市如今发觉自己却成了狩猎的目标。",
+                "quote": "“海底给每个人都准备好了地方…...”",
+                "quote-author": "派克"
+            },
+            "headerImage": null
+        }
+    ],
+    "explore-champions": [
+        {
+            "type": "champion",
+            "release-date": "2016-05-18T00:00:00.000Z",
+            "name": "塔莉垭",
+            "title": "岩雀",
+            "section-title": "塔莉垭",
+            "slug": "taliyah",
+            "associated-faction": "",
+            "associated-faction-slug": "shurima",
+            "image": {
+                "title": "taliyah-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/bltbfab44d1f475186f-Taliyah_0.jpg",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 1063,
+                "y": 0,
+                "featured-champions": []
+            },
+            "background": {
+                "title": "taliyah-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/bltbfab44d1f475186f-Taliyah_0.jpg",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 1063,
+                "y": 0,
+                "featured-champions": []
+            },
+            "url": "/zh_cn/champion/taliyah",
+            "video": {
+                "title": "taliyah-splashvideo-webm",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt3eb0ae366eaeee4c-taliyah-splashvideo.webm",
+                "encoding": "video/webm",
+                "width": 1280,
+                "height": 720,
+                "x": 1063,
+                "y": 0,
+                "featured-champions": []
+            },
+            "races": [],
+            "roles": [
+                {
+                    "name": "法师",
+                    "slug": "mage"
+                },
+                {
+                    "name": "辅助",
+                    "slug": "support"
+                }
+            ],
+            "role": [
+                {
+                    "name": "法师",
+                    "slug": "mage"
+                },
+                {
+                    "name": "辅助",
+                    "slug": "support"
+                }
+            ],
+            "game-info-url": "http://gameinfo.na.leagueoflegends.com/en/game-info/champions/taliyah",
+            "biography": {
+                "full": "<p>塔莉垭来自恕瑞玛，怀有操纵岩石的能力。身为一名流浪法师，她洋溢着饱满的热情，天真而又坚定。她在年幼的憧憬与成人的责任之间苦苦求索，踏遍了瓦洛兰的山山水水，只为寻得控制己身异能的法门。据传说，已驾崩无数纪元的皇帝现已重生，她毅然决定返回故乡，保护自己的族人免遭恕瑞玛的沙暴吞没。有些人把她的温柔善意当做是懦弱的表现，最终也为自己的愚鲁付出了代价。塔莉垭青春稚嫩的举止背后，是一颗敢于移山填海的雄心，和一个堪能倾世的灵魂。</p><p>塔莉垭出生在岩石嶙峋的恕瑞玛丘陵地区，与艾卡西亚险恶的阴影相接壤。她的童年时光，便是在流浪织匠的部落里放羊度过的。在许多外乡人眼中，恕瑞玛不过是一片贫瘠的无垠黄沙，但她的家庭却把她抚养成了沙漠的女儿，让她真切领略到这块土地丰盛的美丽。塔莉垭最为着迷的就是掩藏在沙丘下的岩石。当她还在蹒跚学步的时候，她的族人时常随着季节性变化的水源迁徙，而她一路上都在忙着收集彩色的石子。随着年岁渐长，大地也越来越听从她的召唤，跟随着她在沙海中的足迹，成环成拱。</p><p>在她十六岁那年的盛夏，为了一头走失的羊羔，塔莉垭毫不犹豫地离开了自己的聚落前去寻找。她的父亲是部落的头领，也是最受敬重的牧人，她不想让他失望。她追随着羊羔的足迹踏入了茫茫黑夜，沿着一条干涸的溪流走进了一座陡峭的峡谷。在一处高壁上，她发现那头羊羔正困在山石间进退不得。</p><p>砂石在冥冥中呼唤着她，峭壁上似乎伸出了一双双手臂欢迎着她。塔莉垭犹豫地把手贴在岩石上，一心想要救下瑟瑟发抖的小羊。元素的伟力不由分说地席卷而来，如同一阵暴雨吞没了她。她不禁张开了双臂，毫无保留地迎向扑面而来的魔力。岩石接连崩碎，跳向她的指尖，河谷的岩壁带着羊羔一起，朝着她轰然倒下。</p><p>第二天早晨，塔莉垭惊慌失措的父亲循着微弱的羊叫声找到了她。当他看到自己的女儿掩埋在厚厚的一层土石下时，当场就跪在了地上。悲痛难言之下，他带着塔莉垭回到了部落。</p><p>高烧梦呓了两天之后，塔莉垭才在巴巴扬的帐篷里醒来。她对着这位部落里的老祖母和自己的双亲讲述了，那天晚上峡谷里岩石是如何呼唤着她。巴巴扬安抚着她的家人，告诉他们那些碎石摆出的图案透露出的正是织母的旨意。这位神秘的守护神备受游牧部落的敬奉，正是她守护着他们的女儿。那一刻，她看到父母的脸上深切的忧虑，于是决定隐瞒那天晚上的真相：催动了岩石的是她——而不是织母。</p><p>在塔莉垭的部落，当孩子们长到一定年纪时，就会对着织母的象征——一轮满月跳起舞蹈。这支舞为的是庆祝孩子们的禀赋，也预示着他们在成年后会给部落所带来的贡献。舞蹈结束后，每个孩子都会成为某位师傅的学徒，这也正是他们个人修行的起点。</p><p>塔莉垭一直刻意压制着自己与日俱增的力量，因为她把这份秘密当成一种威胁，而不是上天的恩赐。她看到幼年的玩伴们将羊毛纺成绒线，让部落的夜晚免于寒冷的侵扰。他们展示着自己的纺纱和印染技巧，或是将部落的传奇故事织成精美的图画。无数个夜里，身体内搅动不安的能量让塔莉垭躺在床上辗转无眠，直到天光大亮，炭火燃尽成灰。</p><p>终于，塔莉垭迎来了自己的月下之舞。人们都觉得她要么会继承父亲的才干，成为一名牧人，或是像母亲一样的织女，但她深深地恐惧着自己的舞蹈所揭露的真相。塔莉垭在沙地上站定，身旁摆放着族人们常用的工具——牧羊人的节杖、纺锤还有织布机。她努力地把精神集中到手边的任务上，但远方的岩石和大地上层叠的色彩却在呼唤着她。塔莉垭闭上双眼，开始了舞蹈。能量流过她的躯体把她彻底吞没，她仿佛是一支旋转的线轴，牵起的却是脚下的土地。</p><p>惊恐的尖叫打破了塔莉垭的冥想。一根尖利的石柱拔地而起，迎着月光冲上了高空。塔莉垭看到周围人群震惊的表情，意念不禁一松。石柱失去了依凭，开始倒塌。塔莉垭的母亲奔过来，想要保护自己唯一的女儿。当烟尘散去时，塔莉垭才看清自己织就的灾难，和族人脸上的警惕神色。不过，她的母亲只是脸上留下了几道擦伤而已，让她感到些许安慰。虽然伤口并不严重，塔莉垭却在那一刻明白，对于自己在世上深爱的这些亲人来说，她的存在不啻于威胁。她跑进茫茫夜色，心中仿佛压着一口巨石，让脚下的土地也随之颤抖。</p><p>又是她的父亲在沙漠里找到了她。他们坐在初生的曙光下，塔莉垭抽泣着袒露了自己的秘密。而父亲所做的也是天下父母最正常不过的：他紧紧抱住了自己的女儿。他告诉塔莉垭，她无从逃避自己的力量，她必须完成舞蹈，才能看到自己真正的道路所在。唯一能够伤害她父母的，就是背弃织母所赐予的天赋，他们将会为此心碎。</p><p>塔莉垭跟着父亲回到了部落。她睁大眼睛，加入到舞者们围成的圆圈中。这一回，她把石头织成了一条缎带，每一处的颜色和纹理都来自于她关于周围人的记忆。</p><p>舞蹈结束了，部落众人坐在地上，弥漫着一股敬畏的气氛。塔莉垭紧张地等待着，等待某位族人站起身来，宣布收她为自己的学生。塔莉垭感到如雷的心跳，每两拍之间都有如亘古般漫长。她听见碎石摩擦的声音，父亲站了起来。紧接着，是她的母亲。然后是巴巴扬、染娘、大纺师。眨眼之间，整个部落的人都站了起来。他们全都站在了这个能够编织石头的女孩身旁。</p><p>塔莉垭看着他们每一个人。她知道自己所获得的天赋已经很多年，甚至很多个世纪都没人见过了。他们现在与她站在一起，怀着爱和无比的信任，但他们的忧虑也如实地写在脸上。没有人像她那样听到过大地的呼唤。虽然她深爱着他们，但她却看不到任何一个人能够教会她如何控制这份涌动的元素之力。她知道如果自己留在部落之中，就等于是拿他们的生命在冒险。所以，尽管所有人都很痛苦，塔莉垭还是告别了她的双亲和族人，独自踏上了远途。</p><p>她朝着远处的巨神峰一路西行，与岩石的天然联系，将她引向那些可摘星辰的高峰。但是，在恕瑞玛的北部边境，一群举着诺克萨斯军旗的人首先发现了她的能力。他们告诉她，在诺克萨斯，她的魔力是值得庆祝的才能，甚至备受尊崇。他们承诺会给她找一位老师。</p><p>要说塔莉垭成长的土地还教会了她什么，那就是毫无戒心的信任。所以，在诺克萨斯人轻巧的承诺和熟练的假笑面前，她根本无从招架。很快，沙漠里长大的女孩便走在了一条平直的大路上，穿过了无数座雄伟的铁门扉——人们将其称为诺克斯托拉，用以标帝国征服所得的土地。</p><p>对于沙漠里的岩雀来说，首都的拥挤和复杂的政治关系无疑让她感到窒息般的恐惧。塔莉垭就像被游街示众一样，在诺克萨斯的魔法团体中逐层接受检阅。很多人对她的能力及潜力表现出了兴趣。但是一个堕落的军官最终开出了让她信服的条件。他发誓会带她出海，去到无人之境尽情地试炼和挥洒自己的能力。她欣然接受了年轻军官的提议，乘上了开往艾欧尼亚的大船。然而，当船只抛锚停下时，她才明白自己不过是一把替人脸上贴金的兵器，让那位歇斯底里的军官可以重新夺回自己在诺克萨斯海军中的高阶军衔。清晨，军官给了她两个选择：一是活埋那些还在熟睡的人们，二是葬身大海。</p><p>塔莉垭扫视着海湾，村庄的炉膛仍在沉眠，不见一丝炊烟。这与她跋涉山水所求的学问大不相符。塔莉垭拒绝了，军官毫不犹豫地将她抛出了甲板。</p><p>她逃过了汹涌的海浪和海岸上的战斗，却发现自己迷失在了艾欧尼亚寒冷的群山间。而她就在这里找到了自己真正的老师。他的剑刃可以操纵疾风，并且深知元素的本质，熟稔平衡的真意。塔莉垭跟着他经历了一段时间的训练，逐渐开始学会控制自己的力量，这正是她寻觅已久的东西。</p><p>在一处偏僻的酒馆小憩时，塔莉垭听到消息说，恕瑞玛的飞升帝王已经回到了自己的黄沙王国。传闻这位帝王已经成神，他将会聚集曾经的子民，统一已经分异的部落，将他们重新变成自己的奴隶。虽然她的训练还没完满，但她别无选择。塔莉垭知道自己必须回到家人的身边，保护他们不受奴役。她满怀悲伤，与她的导师分道扬镳。</p><p>塔莉垭回到了沙丘漫漫的恕瑞玛。顶着酷烈阳光的鞭打，她闯进了沙漠的深处，打定主意要找到她的亲人。她的心志坚如磐石，为了保护自己的家庭和部落而愿意付出任何代价，即使是面对着地平线尽头正在酝酿的危险。</p>",
+                "short": "塔莉垭是一位来自恕瑞玛的游牧民族的法师，孩子的好奇与大人的责任两股力量同时拉扯着她。她曾踏遍瓦洛兰的山山水水，只为寻得控制己身异能的法门，不过最近，她已经回到了故乡，保护生她养她的部族。有些人把她的温柔善意当做是懦弱的表现，最终也为自己的愚鲁付出了代价。塔莉垭青春稚嫩的举止背后，是一颗敢于移山填海的雄心，和一个堪能倾世的灵魂。",
+                "quote": "“这个世界是我们所亲自织造的一幅挂毯。”",
+                "quote-author": ""
+            },
+            "bioImage": null,
+            "headerImage": null
+        },
+        {
+            "type": "champion",
+            "release-date": "2009-08-19T00:00:00.000Z",
+            "name": "塔里克",
+            "title": "瓦洛兰之盾",
+            "section-title": "塔里克",
+            "slug": "taric",
+            "associated-faction": "",
+            "associated-faction-slug": "mount-targon",
+            "image": {
+                "title": "taric-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/bltd6031c92be7eafe7-Taric_0.jpg",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 1061,
+                "y": 41,
+                "featured-champions": []
+            },
+            "background": {
+                "title": "taric-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/bltd6031c92be7eafe7-Taric_0.jpg",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 1061,
+                "y": 41,
+                "featured-champions": []
+            },
+            "url": "/zh_cn/champion/taric",
+            "video": {
+                "title": "taric-splashvideo-webm",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt7cc2cbf2b7f8a00e-taric-splashvideo.webm",
+                "encoding": "video/webm",
+                "width": 1280,
+                "height": 720,
+                "x": 1061,
+                "y": 41,
+                "featured-champions": []
+            },
+            "races": [],
+            "roles": [
+                {
+                    "name": "辅助",
+                    "slug": "support"
+                },
+                {
+                    "name": "战士",
+                    "slug": "fighter"
+                }
+            ],
+            "role": [
+                {
+                    "name": "辅助",
+                    "slug": "support"
+                },
+                {
+                    "name": "战士",
+                    "slug": "fighter"
+                }
+            ],
+            "game-info-url": "https://lol.qq.com/web201310/info-defail.shtml?id=Taric",
+            "biography": {
+                "full": "<p>对于德玛西亚高贵的守护者来说，日常生活就是对国王与国家崇高理想的专注、无私、奉献。在世代参军的家族传统感召下，塔里克从没有幻想过逃避这些责任，只不过他不愿意限定自己想要保护的<i>人</i>与<i>物</i>的范围。</p>\n\n<p>这名年轻的战士训练刻苦，武艺高超。但在他为数不多的自由时间里，他会寻求其他为祖国效力的方式。他自愿与光照者们同行，照料病患或者帮助洪水过后的重建。他发挥自己的创意天赋，帮助石匠和工匠树立起大大小小的丰碑，刻画出飞翼保护神的荣光，以及它所代表的崇高理念。</p>\n\n<p>艺术作品。陌生人的安危。正是这些东西让德玛西亚成为一个值得为之战斗的国度。塔里克在每一个人和物之中都看得到美、脆弱、以及拯救的价值。</p>\n\n<p>幸运的是，他友善的举止和发自内心的温暖为他扫清了来自战友和长官的批评。他的军衔渐渐攀升，甚至有机会与年轻的盖伦•冕卫并肩作战。</p>\n\n<p>讽刺的是，正因为塔里克的稳步攀升，才导致了他最后的衰落——至少以德玛西亚的标准可以这样评判。</p>\n\n<p>他晋升到了首屈一指的无畏先锋，突然之间必须遵守更高标准的行为守则。他的许多做法都不再被纪律容许：比如跑到森林里寻找珍禽异兽的踪影；缺席练兵比武，坐在酒馆里聆听吟游诗人的上口民谣；或者在道路巡查期间骑马外出，观赏银灰色的夜幕渐渐降在郊外村庄。塔里克开始感到不自在，很快就被视为不服从命令的士兵，受到特殊关注。</p>\n\n<p>盖伦劝他紧张起来履行自己的使命。他可以看出，塔里克有潜力跻身成为瓦洛兰上最伟大的英雄之列——然而他似乎并不敬畏命运，甚至是自己的祖国。</p>\n\n<p>为了不让他遭到贬黜，塔里克被指派临时担任先锋团剑尉长的随行助理，他们二人对此都心存不满。然而，当老剑尉长连同其他随行人员战死的时候，塔里克却在擅离职守……有传闻称他当时正在附近某片被遗忘的神庙废墟中的回廊上闲逛。</p>\n\n<p>没什么可辩驳的。十多名战士死了，塔里克必须被送上刽子手的砧板。</p>\n\n<p>然而，为了给朋友寻求最后的仁慈，盖伦插手了。作为剑尉长的继任者，他宣判塔里克将被处以“石冠之刑”——根据德玛西亚最古老的传统，他将被送去攀登巨神峰，几乎无人能在登顶的过程中活下来。</p>\n\n<p>虽然石冠之刑通常都是在默许那些丧失尊严的人逃离德玛西亚、自我流放并重获新生，但是塔里克却登上了第一艘南下的船，他发誓<i>真的</i>要以此弥补自己的过失。</p>\n\n<p>攀登巨神峰的旅途几乎吞噬了他，令他身心俱焚，无数次倒下又爬起。但是塔里克突破了疼痛的界限，突破了自己亡故战友的鬼魂以及巨峰施加给他的其他考验。随着他接近顶峰，一轮新来的景象围绕在他身边，他满目失落与毁灭……</p>\n\n<p><i>他看见阿尔巴斯德图书馆被深渊和火焰吞噬……但却毅然地冲进炼狱之火，想要救出桐创作的诗篇。他看见冰霜守卫将世界上最后仅存的幻梦鹿赶下嚎哭深渊……自己也奋不顾身地跟着跳下去想要拯救它。在不朽堡垒的大门前，塔里克看到盖伦的残破尸首在绞刑架上悠荡……他无力地跪倒，然后举起盾牌，义无反顾地冲向前方严阵以待的诺克萨斯大军。</i></p>\n\n<p>当一切景象褪去，塔里克发现自己正站在巨神峰的最高点，而且他并非孤身一人。他的面前，某种显为人形的东西站在那里，水晶般的面孔发出群星的光芒，声音如同千声低语，像刀刃一样割开塔里克。</p>\n\n<p>它向他诉说世间真相，但不知为何，他觉得自己一直都知道那一切。它还讲述了他此生一直都在浑然不觉中准备着一副衣钵，他的一切决定和行为都是为了让他能在此刻站在此地，巨神峰之巅。</p>\n\n<p>接下来他将成为瓦罗兰之盾，在尚未到来的伟大战争中挺立不倒。</p>\n\n<p>塔里克重生成为了保护者星灵，他被赋予了凡人不可想象的力量与意义，并欣然接受了这全新的感召——担当整个<i>世界</i>的坚毅守护者。</p>",
+                "short": "塔里克是保护者星灵的宿主，用超乎寻常的力量守护着符文之地的生命、仁爱以及万物之美。塔里克曾因渎职而被放逐，离开了祖国德玛西亚，前去攀登巨神峰寻找救赎，但他找到的却是来自群星的更高层的召唤。现在的塔里克获得了天界的神力，“瓦罗兰之盾”将永不疲倦地警醒着，为这个世界上的人们提防任何威胁。",
+                "quote": "“最强的武器必然最美。”",
+                "quote-author": "塔里克"
+            },
+            "headerImage": null
+        }
+    ],
+    "modules": [
+        {
+            "slug": "audio-drama-tahmkench",
+            "type": "featured-video",
+            "section-title": "",
+            "featured-image": {
+                "title": "audio-drama-bg",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/bltb62cc5b7e07c70b9-audio-drama-bg.jpg",
+                "encoding": "image/jpeg",
+                "width": 1920,
+                "height": 1080,
+                "x": 0,
+                "y": 0,
+                "featured-champions": []
+            },
+            "title": "Legends of Bilgewater: Tahm Kench & The Gambler’s Woe",
+            "subtitle": "",
+            "description": "Listen as Lars spins a tale of four Bilgewater legends - Nautilus, Fizz, Tahm Kench, and Pyke - and discovers the terrifying fact woven into his fiction.",
+            "uri": "https://youtu.be/u00fZC1Z5Rc",
+            "video": {
+                "type": "video",
+                "title": "",
+                "subtitle": "",
+                "description": [],
+                "uri": "https://youtu.be/u00fZC1Z5Rc",
+                "width": "",
+                "height": "",
+                "x": "",
+                "y": "",
+                "featured-champions": []
+            },
+            "blackout": null,
+            "release-date": "2018-05-31T15:00:00.000Z",
+            "video-type": "video",
+            "featured-champions": [],
+            "related-champions": []
+        },
+        {
+            "slug": "tahmkench-promo",
+            "type": "featured-video",
+            "section-title": "",
+            "featured-image": {
+                "title": "featuredvideocover-tahmkench-promo",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt52010c3cace53a9c-tahmkench-promo.jpg",
+                "encoding": "image/jpeg",
+                "width": 1920,
+                "height": 1080,
+                "x": 557,
+                "y": 670,
+                "featured-champions": []
+            },
+            "title": "河流之王",
+            "subtitle": "",
+            "description": "非常时期需用非常手段。我这有个不错的买卖……但是你得愿意补偿我才行。",
+            "uri": "https://v.qq.com/x/page/d0016u5mfxy.html?start=1",
+            "video": {
+                "type": "video",
+                "title": "",
+                "subtitle": "",
+                "description": [],
+                "uri": "https://v.qq.com/x/page/d0016u5mfxy.html?start=1",
+                "width": "",
+                "height": "",
+                "x": "",
+                "y": "",
+                "featured-champions": []
+            },
+            "blackout": null,
+            "release-date": "2015-06-18T15:00:00.000Z",
+            "video-type": "cinematic",
+            "featured-champions": [
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                }
+            ],
+            "related-champions": [
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                }
+            ]
+        },
+        {
+            "slug": "赌徒的悲叹",
+            "type": "story-preview",
+            "title": "赌徒的悲叹",
+            "subtitle": "作者： Anthony Reynolds",
+            "description": "我的天，好大一袋子钱呐你！赌桌上赢来的，对不对？行，祝你身体健康。干杯。<br><br>",
+            "story-slug": "tahmkench-color-story",
+            "featured-image": {
+                "title": "audio-drama-bg",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/bltb62cc5b7e07c70b9-audio-drama-bg.jpg",
+                "encoding": "image/jpeg",
+                "width": 1920,
+                "height": 1080,
+                "x": 0,
+                "y": 0,
+                "featured-champions": []
+            },
+            "background": {
+                "title": "audio-drama-bg",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/bltb62cc5b7e07c70b9-audio-drama-bg.jpg",
+                "encoding": "image/jpeg",
+                "width": 1920,
+                "height": 1080,
+                "x": 0,
+                "y": 0,
+                "featured-champions": []
+            },
+            "release-date": "2018-05-31T15:00:00.000Z",
+            "featured-champions": [
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                }
+            ],
+            "minutes-to-read": 5,
+            "url": "/zh_cn/story/tahmkench-color-story"
+        },
+        {
+            "slug": "tahmkench-image-gallery",
+            "type": "image-gallery",
+            "section-title": "",
+            "isFanArt": false,
+            "fan-art-url": "",
+            "featured-image": "",
+            "title": "",
+            "subtitle": "",
+            "assets": [
+                {
+                    "title": "塔姆概念图",
+                    "subtitle": "",
+                    "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/bltd3f65497c23b8838-tahm_kench_fish_tank.jpg",
+                    "encoding": "image/jpeg",
+                    "width": 1514,
+                    "height": 951,
+                    "x": 513,
+                    "y": 108,
+                    "featured-champions": []
+                },
+                {
+                    "title": "早期塔姆概念图",
+                    "subtitle": "",
+                    "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt49c17729dcf5330a-tahm_kench_fishtank_earlypitch.jpg",
+                    "encoding": "image/jpeg",
+                    "width": 1203,
+                    "height": 1080,
+                    "x": 762,
+                    "y": 570,
+                    "featured-champions": []
+                }
+            ],
+            "featured-champions": [
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                }
+            ]
+        },
+        {
+            "slug": "tahmkench-devblog",
+            "type": "link-out",
+            "section-title": "Dev Blog",
+            "title": "Champion Insights: Tahm Kench, the River King",
+            "description": "We sat down with the champion ideation team to hear about the process that took an idea - Fish Tank - and turned it into Tahm Kench.",
+            "url": "http://na.leagueoflegends.com/en/news/champions-skins/champion-preview/champion-insights-tahm-kench-river-king",
+            "featured-image": null,
+            "background": {
+                "title": "tahmkench-devblog",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/bltd9398a6620c60eb9-tahmkench_devblog.jpg",
+                "encoding": "image/jpeg",
+                "width": 1280,
+                "height": 720,
+                "x": 705,
+                "y": 17,
+                "featured-champions": []
+            },
+            "cta": "",
+            "blackout": null,
+            "isFanArt": false,
+            "isComic": false
+        },
+        {
+            "slug": "tahmkench-login",
+            "type": "featured-video",
+            "section-title": "",
+            "featured-image": {
+                "title": "tahmkench-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/bltcb65957e0e85d55b-TahmKench_0.jpg",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 1025,
+                "y": 338,
+                "featured-champions": []
+            },
+            "title": "河流之王塔姆登录界面",
+            "subtitle": "",
+            "description": "",
+            "uri": "https://v.qq.com/x/page/r0363z27hms.html",
+            "video": {
+                "type": "video",
+                "title": "",
+                "subtitle": "",
+                "description": [],
+                "uri": "https://v.qq.com/x/page/r0363z27hms.html",
+                "width": "",
+                "height": "",
+                "x": "",
+                "y": "",
+                "featured-champions": []
+            },
+            "blackout": null,
+            "release-date": "2015-07-09T15:00:00.000Z",
+            "video-type": "champ-login-music",
+            "featured-champions": [
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                }
+            ],
+            "related-champions": [
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                }
+            ]
+        }
+    ]
+}

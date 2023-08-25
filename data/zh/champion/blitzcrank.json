@@ -1,0 +1,637 @@
+{
+    "id": "blitzcrank",
+    "name": "布里茨",
+    "title": "蒸汽机器人",
+    "locale": "zh_cn",
+    "champion": {
+        "type": "champion",
+        "release-date": "2009-09-02T00:00:00.000Z",
+        "name": "布里茨",
+        "title": "蒸汽机器人",
+        "section-title": "布里茨",
+        "slug": "blitzcrank",
+        "associated-faction": "",
+        "associated-faction-slug": "zaun",
+        "image": {
+            "title": "blitzcrank-splash",
+            "subtitle": "",
+            "description": "",
+            "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt1487c53fac3d6842-Blitzcrank_0.jpg",
+            "encoding": "image/jpeg",
+            "width": 1215,
+            "height": 717,
+            "x": 953,
+            "y": 113,
+            "featured-champions": []
+        },
+        "background": {
+            "title": "blitzcrank-splash",
+            "subtitle": "",
+            "description": "",
+            "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt1487c53fac3d6842-Blitzcrank_0.jpg",
+            "encoding": "image/jpeg",
+            "width": 1215,
+            "height": 717,
+            "x": 953,
+            "y": 113,
+            "featured-champions": []
+        },
+        "url": "/zh_cn/champion/blitzcrank",
+        "video": null,
+        "races": [],
+        "roles": [
+            {
+                "name": "坦克",
+                "slug": "tank"
+            },
+            {
+                "name": "战士",
+                "slug": "fighter"
+            }
+        ],
+        "role": [
+            {
+                "name": "坦克",
+                "slug": "tank"
+            },
+            {
+                "name": "战士",
+                "slug": "fighter"
+            }
+        ],
+        "game-info-url": "https://lol.qq.com/web201310/info-defail.shtml?id=Blitzcrank",
+        "biography": {
+            "full": "<p>祖安是一个充满可能性的地方，无论是新奇的实验项目，还是热闹斑斓的生活都可以在这里实现——但不是没有代价的。无限的创意背后，这座地下都市中遍布着废料、破坏和苦难，数量之多、散布之广，即使是专门用于减灾救援的机器，也难逃被腐蚀的下场。</p><p>为了清理那些占据了大片居住区的剧毒废料，人们设计了笨重的机器人，让它们在极端毒害环境中进行作业。有这样一个机器人，和同伴们一起劳作，执行自己的程序，为人类夺回祖安。但它们的工作环境腐蚀性太强，很快就损耗了它健硕的外表，不久后，它就丧失了行动能力，被当成废品抛弃了。</p><p>所有人都把它当废品，除了一个人。发明家维克托发现了这个被抛弃的机器人，而且在它冰冷的外壳内部看到了潜力。灵感由此迸发。维克托开始了一系列实验，试图引入新的元素改进这个机器人，让它到达新的高度，远超它最初诞生时的设计意图。</p><p>那就是海克斯科技。</p><p>维克托将一颗出土自恕瑞玛沙漠的无价海克斯水晶植入了这个被遗弃的机器人内部。他屏息凝神，看着这台机器轰隆隆地活了起来。</p><p>维克托给这个机器人取名为布里茨，取自他外壳上跳动的电弧的声音——这是海克斯水晶植入的意外副作用。随后，维克托派他前往祖安毒性最强的地区。布里茨不仅和其他蒸汽机器人同胞一样能干，而且还大幅提升了速度和效率，一天天过去，维克托观察到奇迹逐渐发生……</p><p>他的造物正在<i>学习</i>。</p><p>布里茨学会了创新，对自己的日常指令进行了理解和推演。结果就是，他的行为不再局限于为祖安人服务，而是开始与他们进行频繁的互动。看到自己的机器人进化出了明显的自我意识，维克托试图重复这一成就，但却屡屡挫败。布里茨绽放出神志的关键他始终琢磨不透。</p><p>然而，布里茨的成长并不总是令人欣喜的。他完全不懂什么叫适可而止，什么叫毫厘之差，布里茨的任何行动都会倾注全部力量，否则就干脆不做。他偶尔会对祖安人的需求过度执行或者彻底误解，比如为了帮助一个弄丢了钥匙的居民，他会把一整面墙都砸开。</p><p>又或者，捣毁一整座工厂。</p><p>布里茨被维克托派去清理一处居民区的有毒炼金废料，他顺着苛性废液的痕迹找到了排放的来源。经过理性推演，要想防止污染继续发生，最有效的方式就是终结<i>污染源</i>。于是布里茨破坏了这座工厂。他迸发着闪电的铁拳无休无止，直到最后工厂变成了一地的碎石和废铁。</p><p>经营这座工厂的炼金男爵勃然大怒，找到了维克托头上，命令他毁掉那个机器人，否则就用鲜血支付一笔更高额的赔偿。这对维克托来说是晴天霹雳，他早已将布里茨看做是一个活生生的人，而不仅仅是听命于他的工具。他密谋将自己的造物偷偷运往安全之所，也准备好接受这一行为的风险和后果——然而当他回到自己的实验室准备执行计划时，却发现布里茨已经不见了。</p><p>布里茨对自己源程序的进化和超越并没有止步于此。他已完全获得了自我维护的能力，所以决定独立行动，不再依赖自己的创造者。有消息疯传，这个机器人已经开始对自己的身体进行升级改造，同时还在没日没夜地帮助和解救祖安人，从不会因为等待指示而暂停。</p><p>如今，他在这座地下都市里巡逻，自主决定着如何带领祖安成为瓦洛兰最伟大的城市。</p>",
+            "short": "锃亮的金属、滚烫的蒸汽和噼啪作响的闪电组成了铁巨人布里茨，他不知疲倦地走在祖安的街道上，努力改善这座地下都市并帮助困境中的人。他最初被创造出来是为了进入祖安城内最危险恶劣的环境中处理有害废料，但他的进化已经远超源程序的设计范围，因为他有一位天才发明者，还有海克斯科技的神秘力量。",
+            "quote": "“一枚齿轮的运转足以影响一切的运行。”",
+            "quote-author": "布里茨"
+        },
+        "headerImage": null
+    },
+    "related-champions": [
+        {
+            "type": "champion",
+            "release-date": "2011-06-01T00:00:00.000Z",
+            "name": "奥莉安娜",
+            "title": "发条魔灵",
+            "section-title": "奥莉安娜",
+            "slug": "orianna",
+            "associated-faction": "",
+            "associated-faction-slug": "piltover",
+            "image": {
+                "title": "orianna-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt8bde2f92f5419aa3-Orianna_0.jpg",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 1080,
+                "y": 0,
+                "featured-champions": []
+            },
+            "background": {
+                "title": "orianna-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt8bde2f92f5419aa3-Orianna_0.jpg",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 1080,
+                "y": 0,
+                "featured-champions": []
+            },
+            "url": "/zh_cn/champion/orianna",
+            "video": null,
+            "races": [],
+            "roles": [
+                {
+                    "name": "法师",
+                    "slug": "mage"
+                },
+                {
+                    "name": "辅助",
+                    "slug": "support"
+                }
+            ],
+            "role": [
+                {
+                    "name": "法师",
+                    "slug": "mage"
+                },
+                {
+                    "name": "辅助",
+                    "slug": "support"
+                }
+            ],
+            "game-info-url": "https://lol.qq.com/web201310/info-defail.shtml?id=Orianna",
+            "biography": {
+                "full": "<p>在皮尔特沃夫五花八门的商店街上，有一间工坊属于大名鼎鼎的发明家科林•李维克。他最著名的就是制作精巧义肢的手艺，科林用复杂巧妙的黄铜部件，把假肢做的精美绝伦，甚至常常比原来的肉身更出色。他的女儿奥莉安娜也在店里做学徒，和蔼友善而且好学爱问的她非常适合经营工坊，她很快也成为了独具一格的能工巧匠。</p><p>奥莉安娜拥有一颗热爱探索冒险的心，但她的父亲却担心她的安全，从不让她离开自己家的街区。作为补偿，他会带她去剧院看戏，看舞者们用跳跃和旋转讲述来自远方的故事。奥莉安娜梦想着亲自游历那些陌生而又神奇的地方，而她每次看完戏都急忙回家，制作自己的发条舞者。</p><p>地下城市祖安发生灾害的消息传到了他们的工坊中。一起爆炸事故破坏了一条炼金物质输送管线，剧毒的气雾从中涌出。奥莉安娜坚持认为他们应该去救助受害者，但科林却不允许。因为祖安实在是太危险了。</p><p>于是，奥莉安娜就带上尽可能多的物资，趁着夜色偷偷溜了出去，乘着海克斯压力升降机下到了地底深处。</p><p>受灾之地令人触目惊心。街道上依然散落着瓦砾，祖安人在毒雾中行走，脸上最多只用一块油渍斑驳的破布遮盖。夜复一夜，奥莉安娜在祖安修理呼吸设备，安装气管过滤器。她甚至把自己的面罩给了一个几乎喘不上气的孩子。</p><p>她的父亲怒不可遏，但奥莉安娜回家没多久，就染上了重病。她的双肺遭到了侵害，已经没有康复的希望。科林不愿接受这个事实，他将全部心血都投入到了他最伟大的项目中：制造一套功能完备的人工机械肺。</p><p>经过数周的不眠不休，他完成了这项孤注一掷的任务，并亲自为她进行手术。为了让女儿不再离家太远，这双肺只能使用一把特殊的钥匙上发条，而这把钥匙被科林锁在自己的保险箱里。</p><p奥莉安娜恢复了过来，但毒物却继续继续在她体内扩散。这对父女没日没夜地开发新的植入体和义体，紧随着每个器官衰竭的脚步，逐个替换。于是奥莉安娜的身体被一点点改变，从血肉之躯变成了机械之物，到最后，只有她的心还是自己的。这个漫长且昂贵的过程耗尽了科林的财产，迫使他将产业置换到祖安……但他拯救了女儿的生命。在那段日子里，他们是幸福的。></p><p>渐渐地，奥莉安娜开始感觉与曾经的自己产生距离。旧时的回忆感觉像是别人的故事。就连她的创造力也开始变弱，她最喜爱的发条舞者也都不再是艺术作品，而只是一件件制作精美的机械装置。</p><p>虽然时间似乎为奥莉安娜停下了脚步，但却带着她的父亲继续前进。</p><p>漫长而贫苦的岁月让科林患上了胸疼的顽症，他已经无法继续操劳，奥莉安娜不得不承担起养家的重任。她已经颇为精通人偶的制作，哪怕在她回忆起这些创意的源头时，不再感到快乐。这些人偶换来了不少收入，但却永远无法买下一样东西——奥莉安娜认知中唯一能够拯救父亲的东西。而为了这样东西，她向一位炼金男爵寻求帮助。</p><p>奥莉安娜从没过问他是如何弄到一颗海克斯水晶的。她只是支付了他提出的价码。但还没等她开始使用，那个炼金男爵就回来索要第二笔尾款。然后是第三笔。当奥莉安娜花光了积蓄，她知道下一次追款必定会是灭顶之灾。她看着那台水晶仪器，它还尚未完成、过于粗糙，人类的身体无法承受它的能量。于是她看到了唯一符合逻辑的解决方案：她已经不需要自己的人类心脏了，而科林需要一颗对他永远不弃不离的心。他需要她的心。</p><p>她花费数周进行准备，打造了一个发条和齿轮的球体，同时将它与自己的机械装置进行整合，准备用它承载那枚水晶，用它在自己未来的旅途中防身。她给父亲喂下安眠药，然后执行了手术。</p><p>科林深爱着的女儿献出了自己最后的东西，让它与父亲合为一体。奥莉安娜一整夜都在聆听父亲安稳的心跳，而那个精密优美的球体则在她身边发出海克斯科技特有的宁静低鸣。直到那个时候，她才意识到自己已经蜕去了最后一缕人性——但她感觉不到恐惧和懊悔，只有平静的接受。她成为了一个全新的人，一个发条魔灵，而她接下来需要找到自己在世界这个庞大的机器上恰当的安放位置。</p><p>黎明时分，她拿上了自己人工肺的发条钥匙。她的球型魔偶轻轻一震，将钥匙紧紧插在她的背后。然后，她永远地离开了。</p><p>科林醒来后发现自己的工坊里摆满了上百个机械人偶。不过有一个人偶，他发誓永远不会出售：一个旋转起舞、永不停歇的金色舞娘，不需要上发条。</p>",
+                "short": "奥莉安娜浑身上下全部由发条和齿轮构成，是一个科技的奇观，但她并非生来如此——她也曾是一个拥有血肉之躯的好奇女孩。由于祖安下层街区的一次事故，让奥莉安娜患上不治之症，她日渐衰竭的身体必须被一点点替换成精密的人造器官。如今的奥莉安娜带着一个非凡的黄铜球体，里面安放着她的海克斯心脏，她终于获得了自由，可以尽情探索皮尔特沃夫，以及更远处的奇景。",
+                "quote": "“飞蛾破蛹而出之时，是否还保留着蠕虫的回忆？”",
+                "quote-author": "奥莉安娜"
+            },
+            "headerImage": null
+        },
+        {
+            "type": "champion",
+            "release-date": "2011-12-29T00:00:00.000Z",
+            "name": "维克托",
+            "title": "机械先驱",
+            "section-title": "维克托",
+            "slug": "viktor",
+            "associated-faction": "",
+            "associated-faction-slug": "zaun",
+            "image": {
+                "title": "viktor-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt68b21a4007b1ffdf-Viktor_0.jpg",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 908,
+                "y": 23,
+                "featured-champions": []
+            },
+            "background": {
+                "title": "viktor-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt68b21a4007b1ffdf-Viktor_0.jpg",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 908,
+                "y": 23,
+                "featured-champions": []
+            },
+            "url": "/zh_cn/champion/viktor",
+            "video": null,
+            "races": [],
+            "roles": [
+                {
+                    "name": "法师",
+                    "slug": "mage"
+                }
+            ],
+            "role": [
+                {
+                    "name": "法师",
+                    "slug": "mage"
+                }
+            ],
+            "game-info-url": "http://gameinfo.na.leagueoflegends.com/en/game-info/champions/viktor",
+            "biography": {
+                "full": "<p>他是崭新科技时代的领路先驱，将自己毕生精力奉献给人类的进步。他是寻求人性启迪的理想主义者，信奉着唯有光荣进化才能实现人类全部的潜能。在钢铁与科学加持之下，维克托狂热地追求着自己理想中的光明未来。</p><p>维克托出生在祖安中层的边界，受到能工巧匠父母的熏陶，对发明和制造充满热情。他将醒着的每一分钟都投入到学习和研究中，恨不得不眠不休，不吃不喝。更让他讨厌的是，他经常被迫要搬家，因为祖安会发生各种化学泄露、意外爆炸或是炼金毒气的侵蚀。让他丢下工作，哪怕只有一小会儿，对他来说都像是被夺走了信念。</p><p>为了给自己的世界带来更好的秩序和确定性，维克托对祖安的意外事故展开了大量研究。他发现几乎所有事故的原因都是人为的失误，而非机械本身的故障。他向附近的商铺主动请缨，想要为他们发明新的机械，创造更加安全的工作环境。大多数商铺都回绝了他，但有一家——弗雷德尔森炼金工坊——决定给这个诚恳的年轻人一次机会。</p><p>维克托发明的自动化装置将工坊的事故率降至零点，前后只用了不到一个月。很快，其他机构也开始求购他的作品。不久，维克托的设计成果就遍布祖安，他的每一次创新都能消除某道工序中的人为失误，从而提高工作效率。终于，在十九岁那年，他惊喜地收到了祖安著名学府——科学魔法学院的聘用邀请。不过维克托的成果同时也引来了皮尔特沃夫的斯坦威克教授的注意，他说服维克托离开祖安前往皮尔特沃夫的学院。在那里，他的工作环境将是最先进的实验室，他的研究资源将以皮城为平台。被单独特招的殊荣让维克托激动万分，他接受了邀请并搬到了皮城居住，在那里他精练自己的技艺，完善自己的理想，要让进步的恩泽惠及所有人。</p><p>维克托的同僚都是皮尔特沃夫的顶尖智库；其中有一位不可一世的天才，名叫杰斯。二人在才智上旗鼓相当，但相比之下维克托更加有条不紊、逻辑缜密，而杰斯则显得华而不实、盲目自信。二人经常一起工作，但却从未成为真正的朋友。很多时候，他们两人都会在发明的过程中针锋相对，在直觉和逻辑的矛盾观点上各执一词，但他们之间却逐渐产生了敬意，因为他们互相在对方身上看到的是瑕不掩瑜的才华。</p><p>维克托在皮城深造研习期间，祖安发生了一场大型炼金物质泄漏事故，贻害祖安全城，维克托回到了故乡参与救援行动。他在现有的自动机械技术基础上植入了一系列认知学习的循环指令，并打造了一台特殊定制的机器人，布里茨，用于废料的清理回收。布里茨帮助拯救了数十人的生命，而且还表现出了一定水平的自我认知，远远超出维克托的设想。</p><p>虽然炼金泄漏已经得到控制，但维克托依然选择留在祖安帮助那些遭到毒物创伤的人。在布里茨的帮助下，他曾尝试使用科学魔法学院的创新手段拯救那些由于泄漏事件而生命垂危的人。他们的尝试最终没能成功阻止死亡的发生，此后他便和布里茨分道扬镳。虽然维克托因为祖安居民的不幸灰心丧气，但他通过这次行动充分研究了将人体解剖结构与科技部件的结合技巧，并且懂得了平凡的身体应该如何接受科技的强化。</p><p>维克托回到皮尔特沃夫已经是几周以后的事了，他发现斯坦威克教授正在组织一场关于布里茨的学术研讨会，他堂而皇之地以自己的名义展示着原本属于维克托的研究成果。维克托向学院的主管们提出了严正的控诉，强调布里茨是自己的设计，但他过于激进的言辞却被人置若罔闻。他求助杰斯为自己作证，但这位同行却拒绝开口，愈发加深了二人之间的隔阂。最后，这次申诉的结果让斯坦威克占尽了便宜。</p><p>心有不甘，但却只能逆来顺受，维克托回到了自己的研习中，他知道，自己的终极目标始终都是为人类带来幸福，让人性得到增强。项目被剽窃也好，自尊受打击也罢，怎么可能让他放弃？他锲而不舍，不断探索出新的方式消除自己的设计中人为的失误和缺陷。他的研究思路也主导了他的思维方式。他认为任何一个发展过程中，人类的参与都是影响效率的负面因素——这一观点让他遭到了许多同行和教授的反感，他们认为维克托想要消除的东西恰恰是人类智慧和创造力的源泉。</p><p>矛盾的爆发点出现在他与杰斯的一次勉为其难的合作项目中。他们要改良一种潜水工作服，专门用于清理皮城码头附近的水下残骸和炼金废料残留。维克托和杰斯强化后的潜水服可以让穿戴者潜得更深，停留更久，举起更重的物体。但许多潜水员都表示，他们在水下看到了泛着幽光的死尸幻影，或者饱受炼金毒物的致幻作用折磨。当潜水员出现这种症状的时候，他们会惊慌失措，害死自己甚至其他潜水员。维克托认为这不是技术上的问题，而是潜水员在深水黑暗中的精神崩溃。他设计出了一顶炼金特种头盔，可以由一名操作员在水面指导，无视潜水员的恐惧反应，相当于是完全控制了潜水员。维克托和杰斯展开了一场关于自由意志和精神奴役的激烈争辩，结果言语过激，险些大打出手，最后两人发誓永远都不会再次合作。</p><p>杰斯向学院的主管们报告了这件事，维克托因为违背基本人权而受到审查。不过在他眼里，自己的设计可以拯救许多条生命。随后他被学院开除，返回了自己在祖安的老实验室，心中对皮城人的目光浅薄嫌恶不已。在祖安深处，维克托陷入了深深的抑郁之中，经历了长达数周的心理创伤和自我反省。道德上的两难境地让他陷入与自己的斗争，随后他发现妨碍自己的又是人类的情感和弱点。他一直都想帮助人类，强化血肉之躯超越自然的限制，消除错误拯救生命。他醍醐灌顶般地意识到自己也受到了这些情绪的左右，他天真地相信善良的初衷能够冲破根深蒂固的偏见，结果却对人类的错误视而不见。维克托知道他不能指望别人无条件地跟随，而是要自己创下榜样，所以他瞒着所有人，拿自己做手术，切除了血肉和心灵中依赖及承载情绪的部分。</p><p>手术完成以后，那个曾经前往皮尔特沃夫的年轻人几乎已经荡然无存了。他身体的大部分结构都经过了机械化增强，人格和个性也发生了改变。他改善人类社会的希望经过了淬炼，转化成了一种新的痴迷，他称之为“光荣进化”。维克托现在将自己视为瓦洛兰未来的先驱——他的梦想愿景是所有人类放弃血肉之躯寻求更高等的海克斯科技增强体。这样一来人类将彻底告别致命的错误和痛苦，当然，维克托知道这个使命绝非轻而易举，也非指日可待。</p><p>他轰轰烈烈地投身于这一项伟大的事业。他使用科技增强体帮助那些在事故中受伤的祖安人，改良呼吸装置，不知疲倦地工作着，将肉体与情绪剥离从而减少人性的干扰。他的技艺拯救了上百条人命，但维克托的帮助也伴随着风险，因为他的手段经常会带来预料之外的后果。</p><p>可是，如果你已经走投无路，那么维克托是你唯一的选择。</p><p>在祖安，有人听说了他理论体系的只言片语，看见了他的成功，于是就将他视作救世主般的宗教人物。维克托对这种人不胜其烦，对他们半宗教式的小团体也感到不可理喻，因为这正是他要彻底终结的情绪缺陷，是他迫切希望消除的对于无法证实的事物的盲目信仰。</p><p>有一次地沟区发生了剧毒泄漏事故，工坊林区上百名居民都变成了狂犬精神病人，维克托不得不使用了一种强大的催眠剂来平息受害者，随后将他们带回了实验室，尝试修复精神和肉体所受到的损伤。当时毒素已经开始侵蚀病人的大脑，但维克托可以减缓恶化的速度。他切开颅骨，用机械装置缓慢过滤血液中的毒素。然而他现有的技术无法胜任这项工作，如果不能大幅提升毒素透析装置的工作效率，将会有许多人因此丧命。</p><p>他正在全力挽救这些人，这时他探测到了皮城方向传来的海克斯科技能量潮涌，立刻就意识到这就是他所需要的能源。他跟随波动来到了能量的源头。</p><p>杰斯的实验室。</p><p>维克托要求杰斯交出能量的来源——一枚微光脉动的出土自恕瑞玛沙漠的水晶。但是这位曾经的同事断然回绝，让维克托别无选择只能强抢。他回到祖安，将这块奇异的水晶挂载到自己的装置上，另外还为每个受伤的人准备了一架蒸汽机器人，以防万一他们的身体在处理过程中不堪重负而彻底崩溃。有了新水晶的力量，维克托的装置开始了运转，毒素的损伤效果开始逐渐逆转。他可以拯救所有这些人——至少是某种意义上的拯救——如果维克托还有一丝人性尚存，他一定会庆祝一番。而这时的他，能够容忍的庆祝方式仅仅是脸上难以察觉的笑意。</p><p>还没等整个过程进行完毕，前来寻仇的杰斯就破门而入，轮着一柄能量铁锤在他的实验室里一通乱砸。他知道杰斯这种狂妄自大的傻瓜永远不可能听进去道理，于是维克托命令那些机器人杀掉杰斯。战斗残酷凶猛凶狠，最后杰斯打碎了维克托夺走的水晶，将整个工坊变成一堆钢铁与石块的废墟。那些维克托想要拯救的人也在这场破坏中尸骨无存。而造成这一切的杰斯，却回到了皮尔特沃夫，被人们奉为英雄。</p><p>维克托从毁坏的实验室中逃了出来，回到了改善人性、解决毁坏性情绪冲动的使命中。在维克托看来，杰斯鲁莽的攻击行为证明了他目标的正确性，同时也让他更加渴望帮助人类解除血肉之躯的负担。维克托的确曾在不久后派出过炼金增强的恶棍袭击杰斯的实验室。但这次袭击——维克托告诉自己——不是为了复仇，而是为了弄清是否还有更多恕瑞玛水晶的碎片可以用于人类的进步。袭击没有成功，然而，维克托已经不再把杰斯放在心上了。</p><p>相反，他更加努力地寻找新的途径，引领人类超越自己的情绪缺陷，走入崭新的、更理性的进化阶段。他的研究有的时候会打破皮尔特沃夫（甚至包括祖安）在伦理道德上可容忍的界限，但这些全都是必要阶段，只有这样才能最终带来维克托的“光荣进化”。</p>",
+                "short": "他是崭新科技时代的领路先驱，将自己毕生精力奉献给了人类的进步。他是寻求人性启迪的理想主义者，信奉着唯有光荣进化才能实现人类全部的潜能。在钢铁与科学的加持之下，维克托狂热地追求着自己理想中的光明未来。",
+                "quote": "“机械化的心脏永不停搏，也不受制于情绪。那为什么人还要将性命托付于脆弱的血肉心肌？”",
+                "quote-author": ""
+            },
+            "headerImage": null
+        }
+    ],
+    "explore-champions": [
+        {
+            "type": "champion",
+            "release-date": "2014-05-12T00:00:00.000Z",
+            "name": "布隆",
+            "title": "弗雷尔卓德之心",
+            "section-title": "布隆",
+            "slug": "braum",
+            "associated-faction": "",
+            "associated-faction-slug": "freljord",
+            "image": {
+                "title": "braum-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt4bc5fffe8811bf6a-Braum_0.jpg",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 1077,
+                "y": 26,
+                "featured-champions": []
+            },
+            "background": {
+                "title": "braum-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt4bc5fffe8811bf6a-Braum_0.jpg",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 1077,
+                "y": 26,
+                "featured-champions": []
+            },
+            "url": "/zh_cn/champion/braum",
+            "video": {
+                "title": "braum-splashvideo-webm",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/bltfa80911d16967199-braum-splashvideo.webm",
+                "encoding": "video/webm",
+                "width": 1280,
+                "height": 720,
+                "x": 1077,
+                "y": 26,
+                "featured-champions": []
+            },
+            "races": [],
+            "roles": [
+                {
+                    "name": "辅助",
+                    "slug": "support"
+                },
+                {
+                    "name": "坦克",
+                    "slug": "tank"
+                }
+            ],
+            "role": [
+                {
+                    "name": "辅助",
+                    "slug": "support"
+                },
+                {
+                    "name": "坦克",
+                    "slug": "tank"
+                }
+            ],
+            "game-info-url": "https://lol.qq.com/web201310/info-defail.shtml?id=Braum",
+            "biography": {
+                "full": "<p>布隆从很小的时候，个头就比其他孩子大许多，但他的母亲教导他永远不要依仗自己高大壮硕就恐吓或者欺凌别人。因为她出身自一个自豪的牧民家族，她相信真正的勇气不是将力量用于统治，而是用于保护无助的人。</p><p>布隆还没长大的时候，一群冰巨人摧毁了临近的一个部族。那个部族一直都在劫掠布隆族人的牧群，但他的母亲却毫不犹豫地带着毛皮衣物、食物和药物穿过苔原营救幸存者。起初，布隆不理解她为什么要帮助敌人——但她的行动挽救了许多性命，让他们成为了毕生的同盟。他终于明白了母亲常说的：弗雷尔卓德人都是一家人。于是从那天起，布隆就发誓要让这个大家庭团聚。</p><p>布隆一天天长大，他高贵的寒冰血脉逐渐显现，而且即使以寒冰血脉的标准衡量，他的力量和元素耐受力也堪称传奇。他成了方圆几十里的英雄，常常救援跌落冰裂缝的孩童、带回被困暴风雪的旅人、保护手无寸铁的平民对抗肆虐的狂爪兽。只要他一出现，人们就知道自己得救了。他是希望的象征，无人不知他充沛的活力、开朗的笑声和广交好友的豪爽。</p><p>最后，布隆意识到还有更多地方需要他，所以他要离开这片生他养他的土地。对母亲含泪告别后，他踏上了遍迹弗雷尔卓德的旅途。</p><p>后来的那些年里，无数个关于布隆英勇事迹的故事开始流传。虽然大多数的故事内核都是真实事件，但这些故事越传越离奇，愈发神乎其神——比如传说中他一夜之间就徒手荡平了一座森林，还说他在一次火山爆发中为了拯救一座孤立无援的农场，把它整个扛了起来跑到了高处。</p><p>在最新的布隆事迹中，讲述了他如何找到了一面巨大的羊头盾牌。故事里讲，这座盾牌是一扇附了魔法的宝藏大门，打造于远古，嵌于山石之中。布隆听到里面传来哭声，但他却无法打破大门。不服输的他，用拳头击穿了石壁，救出了被困在里面的巨魔男孩。他把那扇坚不可摧的门板从折叶上扯了下来，后来就一直带在身上。</p><p>和其他故事一样，布隆第一次听到这个关于自己的传说时也哄然大笑——不过他并没有反驳这样的故事，而是<i>欣然接受</i>。既然这些故事能够激励其他人的慷慨与善意之举，那为什么还要用真相泼冷水呢？</p><p>他究竟如何找到这面盾牌并不重要，总之随后他便启程前往圣地拉克斯塔克，许多部族都已经聚集在那里，恭听阿瓦罗萨部族战母艾希的演讲——人们说她是阿瓦罗萨本尊的转世化身。在那里，他看到了野蛮人泰达米尔，正在不顾一切地证明自己的价值，疯狂发出挑战并击败任何敢同他交手的人。</p><p>布隆观察着，他看到泰达米尔变得愈发失控。在一次对决中，他深陷自己的怒火，明明胜负已分，却依然要对败者下杀手。布隆决定不能再看下去了，他坚定地站在败者身前，举起盾，随后泰达米尔对着那面坚不可摧的壁垒狂劈猛砍。当这名野蛮人的怒意终于消退，布隆用幽默赢得了他的友谊，没过多久，二人就开怀大笑，为彼此的健康祝酒畅饮。甚至有人说是布隆将泰达米尔介绍给了艾希。这名野蛮人后来与艾希成婚，成为她唯一的血盟眷侣。</p><p>布隆并不效忠于任何特定的部族，因为他认为弗雷尔卓德的土地上全都是兄弟姐妹。话虽如此，他在艾希身上看到了闪光，认为她有能力终结数百年来弗雷尔卓德部族之间的纷争，而阿瓦罗萨部族也已非正式地认他为同族。就像布隆常和那些崇拜他的孩子们讲的那样，他的梦想，是有朝一日弗雷尔卓德能够团结成一个大家庭……到那个时候，他就可以告老还乡，当一个普普通通的魄罗牧民。</p><p>虽然在布隆看来任何人都不是敌人，但自从他拿起这面盾牌以来，已经与霜卫部族有过好几次碰撞。他不明白为自己怎么招惹了他们，也不明白为何他们对他手里的东西那么感兴趣……</p>",
+                "short": "拥有大块肌肉和更大颗心脏的布隆，是一位受人爱戴的弗雷尔卓德冰裔英雄。凝霜港以北的任何一家蜜酒坊里都有人会致敬他传奇般的强壮，讲述他的事迹，例如在一夜之间扫平一整片橡树森林，还有用拳头把一整座山打成碎石子。一扇附有魔法的秘库大门被他拿在手中当做盾牌，布隆是游荡在在北方的冻土上快乐的保护者，帮助所有危难之中的人，一步步迈向他的梦想：一个和平安定的弗雷尔卓德。",
+                "quote": "“今天我们彼此为敌，而明天我们可能会并肩作战”",
+                "quote-author": "布隆"
+            },
+            "headerImage": null
+        },
+        {
+            "type": "champion",
+            "release-date": "2011-11-01T00:00:00.000Z",
+            "name": "希瓦娜",
+            "title": "龙血武姬",
+            "section-title": "希瓦娜",
+            "slug": "shyvana",
+            "associated-faction": "",
+            "associated-faction-slug": "demacia",
+            "image": {
+                "title": "shyvana-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt5b30a904d3564cd1-Shyvana_0.jpg",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 951,
+                "y": 0,
+                "featured-champions": []
+            },
+            "background": {
+                "title": "shyvana-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt5b30a904d3564cd1-Shyvana_0.jpg",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 951,
+                "y": 0,
+                "featured-champions": []
+            },
+            "url": "/zh_cn/champion/shyvana",
+            "video": null,
+            "races": [],
+            "roles": [
+                {
+                    "name": "战士",
+                    "slug": "fighter"
+                },
+                {
+                    "name": "坦克",
+                    "slug": "tank"
+                }
+            ],
+            "role": [
+                {
+                    "name": "战士",
+                    "slug": "fighter"
+                },
+                {
+                    "name": "坦克",
+                    "slug": "tank"
+                }
+            ],
+            "game-info-url": "https://lol.qq.com/web201310/info-defail.shtml?id=Shyvana",
+            "biography": {
+                "full": "<p>虽然极为罕见，但符文之地现在确实还存在几处元素巨龙的栖息地。</p><p>在恕瑞玛帝国陨落很久以后，在一座无人知晓的火山底部的岩洞中，名为伊瓦的远古巨兽在那里守护着她为数不多的龙蛋。龙蛋不仅是亚龙想要破坏的东西，同时也是超乎凡人想象的无价之宝，所以有许多无所畏惧或不长脑子的人想要来试试运气。许多年来，几十个甚至更多觊觎龙蛋的窃贼都成伊瓦口中焦黑的美餐……但最后有一个人成功了。</p><p>这个突然交了好运的法师紧紧抱着巨大的龙蛋，逃出了那片山脉，他沿途经过的丛林都被伊瓦的怒火点燃。不可能的事情发生了，他成功抵达了海岸，巨龙只能悻悻归巢。她已经失去了一枚龙蛋。不能再有闪失。</p><p>这名法师去到了北方的皮尔特沃夫，但还没等他找到买家，龙蛋就开始孵化了。不知是因为它被人搬离了龙巢，还是因为秋季的最后一轮明月预示了冬季的到来，总之有什么东西变了。破壳而出的不是幼龙，而是清清楚楚的一个人形女婴，浑身惨白的皮肤透着紫红。那名法师发现自己无法狠心抛弃她，于是把女婴当成自己的孩子养大，给她取名“希瓦娜”，致敬她生母伊瓦的黑暗传奇。</p><p>希瓦娜逐渐开始显现出超越凡人的本质。从很小的年纪开始，她的外形就能变化成某种类似古神话中半龙的怪异存在。这就让她难以生活在普通瓦洛兰居民之中，而麻烦还不止于此。有一件事可以肯定：伊瓦与她失踪的女儿之间存在某种连接，而且随时间推移越来越强烈。当其他幼龙终于振翅起飞，伊瓦也离开了空巢，飞跃海洋，追寻希瓦娜的下落。</p><p>这片土地正在受到激烈的边境战争的摧残，但无论是军队还是村民，都在巨龙来临之际四散而逃。正在一座农舍废墟中寻找安身之所的希瓦娜，眼睁睁看着自己的养父在伊瓦低空掠过的同时被烈火吞噬。年轻的希瓦娜把他拖到了附近的森林中，但除此以外她已无能为力。她在一颗大橡树下草草安葬了养父，然后孤身一人启程出发。</p><p>在野外游移躲藏了数周以后，希瓦娜在树丛中嗅到了微弱的血味。她找到了一个受伤的战士，生命垂危，她知道这个人是她<i>可以</i>拯救的。</p><p>她没有顾忌自己正在被愤怒的巨龙猎捕，立刻就变成半龙的形态，将那个昏迷中的人带走，来到了远处德玛西亚边境的一个前哨站。</p><p>在伦沃尔的城堡中，希瓦娜发现她带回来的不是别人，而是嘉文四世——德玛西亚国王的独子，王位的继承人。虽然在此驻守的士兵都因她的紫色皮肤和奇怪举止而疑心重重，但责任使然，他们还是迎接了希瓦娜。看起来，德玛西亚人永远都会互相照应，而她在镇里度过了此生中最平和的一段时光。</p><p>但和平并未能持久。希瓦娜在风中感知到了黑暗。伊瓦来了。</p><p>逐渐康复的皇子知道自己必须负责伦沃尔守军的指挥，所以组织惊恐中的居民躲进了要塞内，为即将到来的战斗做好了准备。即便如此，希瓦娜还是准备继续逃离此处。嘉文拦住了她，于是她承认那只猎捕她的巨龙其实是她的亲人。她无法容许自己的私事害死其他无辜的人。</p><p>嘉文拒绝让她离开。希瓦娜救了他的命，所以他理应在这种时候与她并肩作战。他的坚持打动了希瓦娜，她接受了他的提议。</p><p>伊瓦出现在空中，德玛西亚的弓箭手进行了一轮又一轮齐射，不断干扰伊瓦。作为反击，她用火焰洗礼了一个个城垛，用强大的爪子撕扯石墙，将身穿铠甲的战士们扫下墙边的护栏。就在这时，希瓦娜向前跨越，在空中变身，对自己的生母发出了挑战的咆哮。这番景象自从符文战争之后就在瓦洛兰大陆上鲜有见闻：两条巨龙针锋相对，尖牙利爪在伦沃尔的上空铿锵冲撞。</p><p>最后，遍体鳞伤、血流如注的希瓦娜将伊瓦拖到了地面，在坚硬的石板上拧断了巨龙的脖颈。</p><p>皇子亲自嘉奖了希瓦娜的英勇表现，并承诺只要希瓦娜与他一同回到父王的宫殿，他身边就永远都有她一席之地。他们带上伊瓦的头骨作为胜利的证明，共同启程返回德玛西亚雄都。</p><p>希瓦娜得知，国王嘉文三世的疆域正在分裂——人民对于法师和魔法的不信任导致他们偏离了德玛西亚创建之初的高尚理想。她作为皇子最信任的守卫中的一员，虽然得到了一定程度的接纳，但她不禁好奇，如果她真正的本质被广为人知的话，自己是否还能受到一如既往的对待。</p>",
+                "short": "希瓦娜是超越凡人的生物，心中燃烧着纯粹的元素魔法。虽然她平时以人的形象出现，但在必要的时候，她能显露出真正的形态，变为一条威猛的巨龙，用龙息烈焰吞噬敌人。希瓦娜曾拯救过皇子嘉文四世的性命，如今她心神不安地在皇子的卫队中效力，力图在多疑的德玛西亚人中求得接纳。",
+                "quote": "“我来自两个世界，却不属于任何一处。”",
+                "quote-author": "希瓦娜"
+            },
+            "headerImage": null
+        }
+    ],
+    "modules": [
+        {
+            "slug": "the-climb-cinematic",
+            "type": "featured-video",
+            "section-title": "",
+            "featured-image": {
+                "title": "the-climb-cg-thumbnail",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt07e77f414a5bf204-the-climb-cg-thumbnail.jpg",
+                "encoding": "image/jpeg",
+                "width": 1920,
+                "height": 1080,
+                "x": 1020,
+                "y": 481,
+                "featured-champions": []
+            },
+            "title": "登峰",
+            "subtitle": "",
+            "description": "2018赛季已经到来。迈步前进，登峰起行。",
+            "uri": "https://lol.qq.com/v/detail.shtml?id=79416&e_code=lolweb.videoofficialindex.r7",
+            "video": {
+                "type": "video",
+                "title": "",
+                "subtitle": "",
+                "description": [],
+                "uri": "https://lol.qq.com/v/detail.shtml?id=79416&e_code=lolweb.videoofficialindex.r7",
+                "width": "",
+                "height": "",
+                "x": "",
+                "y": "",
+                "featured-champions": []
+            },
+            "blackout": null,
+            "release-date": "2018-01-18T16:00:00.000Z",
+            "video-type": "cinematic",
+            "featured-champions": [
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                },
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                },
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                },
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                },
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                },
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                },
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                },
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                }
+            ],
+            "related-champions": [
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                },
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                },
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                },
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                },
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                },
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                },
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                },
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                }
+            ]
+        },
+        {
+            "slug": "结为一体",
+            "type": "story-preview",
+            "title": "结为一体",
+            "subtitle": "作者： Rayla Heide",
+            "description": "我面前是尖啸升降机硕大圆润的肚皮，里面装满了无数个齿轮和精密铁艺结构。有人说它名字里的“尖啸”是因为海克斯压力机的顶端有一座铁铸的孤狼塑像正在嚎叫；另外有人信誓旦旦地说有一位黑色面纱的侍者在客舱里阴魂不散，每当他随着升降机远离祖安和他的爱人，他的哀恸嚎哭就会就会撼动机器的金属内核。但大多数皮尔特沃夫人则不以为然，他们根据声音断定这个名字指的不过是城市下方大裂谷中吹过的冷风。<br><br>",
+            "story-slug": "blitzcrank-color-story",
+            "featured-image": {
+                "title": "zaun-collecttechmaturgy",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt6b4d247398248289-zaun-collecttechmaturgy.jpg",
+                "encoding": "image/jpeg",
+                "width": 824,
+                "height": 1080,
+                "x": 478,
+                "y": 564,
+                "featured-champions": []
+            },
+            "background": {
+                "title": "zaun-collecttechmaturgy",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt6b4d247398248289-zaun-collecttechmaturgy.jpg",
+                "encoding": "image/jpeg",
+                "width": 824,
+                "height": 1080,
+                "x": 478,
+                "y": 564,
+                "featured-champions": []
+            },
+            "release-date": "2016-12-02T16:00:00.000Z",
+            "featured-champions": [
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                }
+            ],
+            "minutes-to-read": 5,
+            "url": "/zh_cn/story/blitzcrank-color-story"
+        },
+        {
+            "slug": "blitzcrank-image-gallery",
+            "type": "image-gallery",
+            "section-title": "",
+            "isFanArt": false,
+            "fan-art-url": "",
+            "featured-image": "",
+            "title": "",
+            "subtitle": "",
+            "assets": [
+                {
+                    "title": "布里茨概念图速写",
+                    "subtitle": "",
+                    "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt7ad3a66734087a01-blitzcrank_golem_four.jpg",
+                    "encoding": "image/jpeg",
+                    "width": 785,
+                    "height": 1080,
+                    "x": 392,
+                    "y": 220,
+                    "featured-champions": []
+                },
+                {
+                    "title": "布里茨概念图速写",
+                    "subtitle": "",
+                    "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt50cf4a9a93fcaaf4-blitzcrank_golum_one.jpg",
+                    "encoding": "image/jpeg",
+                    "width": 835,
+                    "height": 1080,
+                    "x": 452,
+                    "y": 278,
+                    "featured-champions": []
+                },
+                {
+                    "title": "布里茨概念图速写",
+                    "subtitle": "",
+                    "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blte2ed7ab5d76cdfda-blitzcrank_golum_two.jpg",
+                    "encoding": "image/jpeg",
+                    "width": 835,
+                    "height": 1080,
+                    "x": 481,
+                    "y": 316,
+                    "featured-champions": []
+                },
+                {
+                    "title": "布里茨概念图速写",
+                    "subtitle": "",
+                    "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/bltb99baeaebe73b6f5-blitzcrank_golum_scan_three.jpg",
+                    "encoding": "image/jpeg",
+                    "width": 835,
+                    "height": 0,
+                    "x": 278,
+                    "y": 248,
+                    "featured-champions": []
+                }
+            ],
+            "featured-champions": [
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                }
+            ]
+        }
+    ]
+}

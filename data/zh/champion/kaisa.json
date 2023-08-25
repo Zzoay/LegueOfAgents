@@ -1,0 +1,380 @@
+{
+    "id": "kaisa",
+    "name": "卡莎",
+    "title": "虚空之女",
+    "locale": "zh_cn",
+    "champion": {
+        "type": "champion",
+        "release-date": "2018-03-02T00:00:00.000Z",
+        "name": "卡莎",
+        "title": "虚空之女",
+        "section-title": "卡莎",
+        "slug": "kaisa",
+        "associated-faction": "",
+        "associated-faction-slug": "void",
+        "image": {
+            "title": "kaisa-splash",
+            "subtitle": "",
+            "description": "",
+            "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/bltd8de2cd9f955bffc-kaisa-splash.jpg",
+            "encoding": "image/jpeg",
+            "width": 1920,
+            "height": 1133,
+            "x": 950,
+            "y": 200,
+            "featured-champions": []
+        },
+        "background": {
+            "title": "kaisa-splash",
+            "subtitle": "",
+            "description": "",
+            "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/bltd8de2cd9f955bffc-kaisa-splash.jpg",
+            "encoding": "image/jpeg",
+            "width": 1920,
+            "height": 1133,
+            "x": 950,
+            "y": 200,
+            "featured-champions": []
+        },
+        "url": "/zh_cn/champion/kaisa",
+        "video": {
+            "title": "kaisa-splashvideo-webm",
+            "subtitle": "",
+            "description": "",
+            "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt352d2a744be227df-kaisa-splashvideo.webm",
+            "encoding": "video/webm",
+            "width": 1915,
+            "height": 1074,
+            "x": 902,
+            "y": 201,
+            "featured-champions": []
+        },
+        "races": [],
+        "roles": [
+            {
+                "name": "射手",
+                "slug": "marksman"
+            }
+        ],
+        "role": [
+            {
+                "name": "射手",
+                "slug": "marksman"
+            }
+        ],
+        "game-info-url": "https://na.leagueoflegends.com/en/featured/champion-reveal-kaisa",
+        "biography": {
+            "full": "<p>关于勇猛的虚空猎手卡莎，最值得称道的可能要数她不值一提的出身。她并不是饱经战斗洗礼的部族战士的后裔，也不是响应召唤远道而来，对抗恕瑞玛地下不可知邪魔的勇者。相反，曾经的她只是个普通的小女孩。虽然生在南部沙漠的残酷环境里，但父母的关爱给予了她温暖。白天，她和伙伴们玩耍嬉闹；夜里，她憧憬着自己将来在这世上的位置。</p><p>凯莎的命运，在她十岁那年夏天永远地改变了。如果她年纪再大一点，可能就会更容易注意到村子中正在发生不寻常的事情——每一天，她的妈妈都强迫她待在家里，提防那些在附近游荡的陌生人。他们向人索要贡物，祭祀地底的黑暗力量。起初凯莎和她的朋友们都不相信，但直到那天晚上，他们碰见了一栏从游牧部落手里买来用作牺牲的山羊。凯莎掏出她八岁生日时父亲送给她的匕首割断了绳索，将牲口们放到了附近的山谷中。原本只是小孩子无心的恶作剧，但随后却引来了不可想象的事情。大地开始震颤，灼热的闪光划破天空，孩子们落荒而逃。</p><p>虚空被唤醒了。大地的基岩裂开一道深谷，将凯莎的村落和里面所有人一起吞了下去。只留下如夜般漆黑的扭曲石柱，穿透了大漠的黄沙。</p><p>凯莎醒来时发现自己被困在了地底。恐惧让她动弹不得，但并没有完全绝望——还可以听到其他幸存者的哭喊。他们虚弱地呼唤彼此，像诵经一样一遍遍地重复着各自的名字。三天过去，只剩下她自己的声音。朋友和家人全都不在了，留下黑暗中孤身一人的她。</p><p>正是在这一切都已流落的时刻，她看到了光。</p><p>她跟随光亮，一直向下。</p><p>她一路上找到了零星的食物。坍塌留下的废墟中偶然能看到散落的水袋、腐坏的桃子——任何可以果腹的东西都弥足珍贵。但最终，凯莎的饥饿再次被恐惧替代。她发现自己来到了一个巨大的洞穴中，鬼魅的紫色微光作为照明，而且她不再是独自一人。</p><p>深渊之中聚集着窸窸窣窣的大群生物。一只体型和她一般大小的生物扑上来。她双手紧握着匕首，竭力想要保护自己。虚灵将她扑倒在地，但同时她也将刀刃刺进了它微光脉动的心脏，双双滚下深渊的更深处。</p><p>这只生物看起来已经死了，但它奇异的外皮却牢牢地贴在她的手臂上。这层黑暗的甲壳令人刺痛，但摸上去却和钢铁一样坚硬。凯莎想要剥掉甲壳，慌乱之下却弄断了匕首。但当更大的怪兽扑过来的时候，她用这层硬壳作为掩护，成功地逃脱了。</p><p>很快，她意识到这层甲壳已经成为了她的一部分。每一天的艰难求生，延展成漫长的年岁。新生的第二层皮肤和她一同成长，她的意志也变得越来越顽强。</p><p>现在，凯莎拥有的不仅仅是希望，还有了一个计划。</p><p>全力战斗。活下去。找到回家的路。</p><p>她变了，从一个惊恐的小女孩变成一个无畏的求生者，从猎物变成了猎人。将近十年的时间里，她在两个世界之间的夹缝中生活，努力划清两个世界间的界限——虚空想要吞噬的不仅是恕瑞玛零星的村落，而是整个符文之地。她绝不允许。</p><p>虽然无数虚空生物都死在了她手里，但她也知道自己所保护的人们大多视她为怪物。的确，她的名字已经化进了传说。来自艾卡西亚废墟的远古恐惧，与其一同回响。</p><p>不再有凯莎了，剩下的只是卡莎。</p>",
+            "short": "在孩童时期就被虚空掠夺走的卡莎，凭着顽强的意志力活了下来。那些经历，让她成为了一位夺命猎手——或许有人会称她为“黑暗未来的使者”。如今，卡莎与一副活着的虚空生物甲壳形成了一种微妙的共生状态，但很快她就将面临一个重大的抉择：究竟是原谅那些称她为怪物的凡人，与之共同抵御虚空压境的黑暗……还是干脆忘记，放任虚空吞噬这个已将她抛弃的世界。",
+            "quote": "“我的外表可能会吓到你，但请搞清楚——我和你是一伙的，而且我们将血战到底。”",
+            "quote-author": ""
+        },
+        "bioImage": null,
+        "headerImage": null
+    },
+    "related-champions": [
+        {
+            "type": "champion",
+            "release-date": "2010-06-01T00:00:00.000Z",
+            "name": "玛尔扎哈",
+            "title": "虚空先知",
+            "section-title": "玛尔扎哈",
+            "slug": "malzahar",
+            "associated-faction": "",
+            "associated-faction-slug": "void",
+            "image": {
+                "title": "malzahar-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/bltce9a57d8c8420d0d-Malzahar_0.jpg",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 851,
+                "y": 0,
+                "featured-champions": []
+            },
+            "background": {
+                "title": "malzahar-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/bltce9a57d8c8420d0d-Malzahar_0.jpg",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 851,
+                "y": 0,
+                "featured-champions": []
+            },
+            "url": "/zh_cn/champion/malzahar",
+            "video": null,
+            "races": [],
+            "roles": [
+                {
+                    "name": "法师",
+                    "slug": "mage"
+                },
+                {
+                    "name": "刺客",
+                    "slug": "assassin"
+                }
+            ],
+            "role": [
+                {
+                    "name": "法师",
+                    "slug": "mage"
+                },
+                {
+                    "name": "刺客",
+                    "slug": "assassin"
+                }
+            ],
+            "game-info-url": "https://lol.qq.com/web201310/info-defail.shtml?id=Malzahar",
+            "biography": {
+                "full": "<p>在恕瑞玛烈日的照耀下，总是会出现那些天生拥有预见未来的能力的人。作为一位年迈杂货小贩的独生子，玛尔扎哈发现自己天赋的时候，父母已经身患绝症。年幼的男孩失魂落魄，在阿玛克拉的街道上自行谋生。他在贫民区为人占卜，换几个零钱或几片面包。<br><br>随着占卜越来越准确，他的名声也开始响亮起来。他利用自己的第二视野预测骆驼骑手的婚娶对象，或者集市上赌博游戏中的飞刀落点。很快，来光顾他的人的穿着就从沾满灰泥的草鞋，变成了镶有珠宝的拖鞋。<br><br>然而即使这样，玛尔扎哈始终都看不清他自己的命运。他的未来被掩盖了。<br><br>他的成功越来越让他看清真相，他观察到了财富分配的不均，目睹了那些对自己生活不满的人用恶意和暴力你争我抢。在他眼中，人类注定会陷入永无止境的痛苦轮回，而且通常都是自作自受，即使是再有希望的预言也无法打破这种诅咒。玛尔扎哈很快就感到一种空虚，最后舍弃了自己所有身外之物，离开了阿玛克拉，一了百了。<br><br>随后的几年中，他在这片土地上游荡着，足迹遍及小塞沙漠无路可寻的荒地，以及古恕瑞玛的废墟。离群索居的生活终于让他得以静心凝神地冥想。他预见到的不仅是人类究竟能够麻木不仁到何种地步，也看到了这世界堕落腐败的极致。狂热的幻象开始侵扰他清醒时的视线，同时他还听到异界的低语讲述着战争、冲突、还有无尽的苦难。<br><br>他越走越远，直到沙子变成了盐粒，他不知道自己已经来到了艾卡西亚，来到这座沦陷于远古战争的城市。在那里他凝视着崎岖深渊的深处，打开了自己摇摆不定的思绪，不顾一切地渴望开悟。<br><br>然后虚空回应了他。<br><br>换做是其他故事，到这里就已经结束了，但是玛尔扎哈却奇迹般地活了下来。深渊之下的某种存在轻抚着这位支离破碎的先知的灵魂，一刹那，奇异且不可知的能量灌满了他的思维。<br><br>一个孤零零的人影最后走出了艾卡西亚，但他已不再是单纯的人类，而是某种更强大的东西。玛尔扎哈在深渊中看到了他所见过的一切尘世苦难的终结。他意识到自己之所以始终看不到自己的未来，是因为这个幻象才是他真正的召唤：要让这个世界早日进入注定的湮灭。他必须回到人群中，告诉世人，神圣的虚无将会欣然接纳所有人，无论相信还是否认，一视同仁。他将成为这伟大救赎的先驱。<br><br>在沙漠深处的游牧部落中，他找到了自己第一批信徒。在人们惊异的目光下，他使用虚空赐予自己的新能力裂开了大地，召唤出梦魇般的生物，怪叫着带走任何胆敢否认他的人。不出几个月，商队就开始带着奇怪的传闻四处奔波，传闻中人们欣然将自己作为活祭品献给无形的力量，还说强大的地震撕开了恕瑞玛的基岩，形成了绵延数里的断层。<br><br>从那以后卡玛尔扎哈的传说在短短几年内就传到了最北方的港口。“先知”的追随者们数量大增，据说附近的定居者纷纷感受到凶煞的幻象攫取自己的心脏，恐惧之中猜疑疯长——即使是最偏远的荒原上最坚强的村民，如今也会献上家畜作为牲礼，用以满足地下的虚灵。<br><br>他们不知道的是，这样做只是在帮助玛尔扎哈一步步迎来世界的末日。</p>",
+                "short": "玛尔扎哈是一名狂热的先知，将自己的全部奉献给一切生命的大一统。他坚信，近来新出现的虚空就是符文之地的救赎。在恕瑞玛的沙漠荒原上，他曾一度追随着脑海中的窃窃私语，一路来到古艾卡西亚。在这片废墟中，他窥见了虚空深处的黑暗核心，被赋予了新的力量和目标。玛尔扎哈现在视自己为迷途羔羊的牧人，将其他人带进畜栏，或是放出藏身地下的虚灵生物。",
+                "quote": "“我们亘古不变。我们要求牺牲。”",
+                "quote-author": "玛尔扎哈"
+            },
+            "headerImage": null
+        }
+    ],
+    "explore-champions": [
+        {
+            "type": "champion",
+            "release-date": "2009-08-07T00:00:00.000Z",
+            "name": "卡萨丁",
+            "title": "虚空行者",
+            "section-title": "卡萨丁",
+            "slug": "kassadin",
+            "associated-faction": "",
+            "associated-faction-slug": "void",
+            "image": {
+                "title": "kassadin-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/bltd1b80f3e64d47c14-Kassadin_0.jpg",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 973,
+                "y": 108,
+                "featured-champions": []
+            },
+            "background": {
+                "title": "kassadin-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/bltd1b80f3e64d47c14-Kassadin_0.jpg",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 973,
+                "y": 108,
+                "featured-champions": []
+            },
+            "url": "/zh_cn/champion/kassadin",
+            "video": null,
+            "races": [],
+            "roles": [
+                {
+                    "name": "刺客",
+                    "slug": "assassin"
+                },
+                {
+                    "name": "法师",
+                    "slug": "mage"
+                }
+            ],
+            "role": [
+                {
+                    "name": "刺客",
+                    "slug": "assassin"
+                },
+                {
+                    "name": "法师",
+                    "slug": "mage"
+                }
+            ],
+            "game-info-url": "https://lol.qq.com/web201310/info-defail.shtml?id=Kassadin",
+            "biography": {
+                "full": "<p>卡萨丁最初只是个低贱的弃婴，在大塞的沙漠上受雇于商队，保护他们贵重的货物，充当诱饵将掠食者引开。他曾多次侥幸活着穿越沙漠，于是不再是单纯的诱饵，而逐渐成为了商队的向导。<br><br>每当有说外语的人要寻求他的协助，都会说“卡斯-塞-阿-迪恩？”意思是“沙漠认得谁？”但是他们的恕瑞玛语总是含混不清，于是他就被亲切地唤为卡萨丁，成为卑尔居恩小巷和市场上的招牌。他花费了数年时间探索自己故土的古代废墟，让他的雇主们赚得盆满钵满，但直到他参与了泽瑞玛附近的一次挖掘工作，才找到了属于他自己的至宝——他爱上了一个来自沙漠部族的女人。<br><br>卡萨丁带着自己的妻子和襁褓之中的女儿，在南方一个岩石山谷中的小村子里安家落户。他经常在外奔波，经常需要将非常贵重的古代遗物押送给远方的资助者。然而，无论他旅行到什么地方，卡萨丁总能带着故事归来，讲述世界另一头的精彩见闻。<br><br>在一次从皮尔特沃夫回家的路上，卡萨丁和商队的同伴正在一处绿洲饮牲口。一批惊魂未定的幸存者踉踉跄跄走出沙漠，说家园受了大灾，就像是地下世界张开大口，吞噬了一切。他们勉强活着逃了出来。<br><br>担心妻小安危的卡萨丁甩下了其他人，日夜兼程，几乎把坐骑累到脱力。当他终于回到村子曾经所在的地点时，找到的只有流沙和碎石。他在废墟上挖到双手流血，不停嘶嚎着妻子和女儿的名字，但没有任何回应。几天后，卡萨丁的同伴们赶上了他，这时的他已彻底崩溃，精神恍惚、眼神空洞地在烈日下流泪。<br><br>他们把他拖回了泽瑞玛，但卡萨丁不愿再走了。随后的几年中，他曾借酒消愁，成为无家可归的流浪汉……直到镇子上开始出现“先知”的传闻。<br><br>莫可名状的恐怖藏在地下深处，以它们的名义献上的祭品，种种传闻让卡萨丁感到刺骨的恐惧。他非常了解古艾卡西亚的传说，也知道那个诅咒之地所遭遇的命运——如果虚空被人别有用心地再次引向恕瑞玛，那么很有可能就是它吞噬了他的村子，以及无数其他村庄。他也知道，世上只有很少人，甚至没有人，能够对抗虚空。<br><br>那一刻，卡萨丁发誓要为自己的妻子和女儿复仇，他要消灭这个为虎作伥的“先知”，同时一举消灭他黑暗力量的来源。他赖以谋生的本事，就是在凶险之地找到安全的道路，所以决心将自己全副武装起来。他找到瓦洛兰已知最玄奥的尖兵利器，融入祖安的独创设计，再配以艾欧尼亚疗魂者的祝福。他动用了一切人情关系，从考古学者到鸡鸣狗盗之徒，在他们的帮助下……得到，他想要的东西。许多人都说他疯了，认为这将是最后一次看到这位老朋友活着的样子——但卡萨丁只是感谢他们的关心，与他们道了珍重。他将独自面对虚空。<br><br>最后，他偷到了霍洛克的冥界之刃，这把剑曾在一个帝国的末期诛杀过上千的诡术欺诈者。他能够感到刀锋上浸着湮灭的寒意，但他早已将自己的生死置之度外，而且这样的生活早就没有什么可以失去的了。<br><br>他身着长袍，打扮成朝圣者，已有十多年未曾涉足这片荒废的土地。卡萨丁进入了艾卡西亚，他将前往人类的禁地。<br><br>他一定会报仇雪恨，即使付出生命也在所不惜。</p>",
+                "short": "在世界上最黑暗的地方，卡萨丁切出了一道燃烧的裂口，他知道自己已经时日无多。他曾是恕瑞玛地区的向导和冒险家，后来选择在恕瑞玛南方平静的部落中安家落户——直到那一天，他的村庄被虚空吞噬。卡萨丁发誓要报仇雪恨，于是整合了许多秘法器物和禁忌之术，以便应对前方的险阻。最后，卡萨丁动身前往艾卡西亚的废土，准备面对任何虚空的造物，寻找那位自封的先知，玛尔扎哈。",
+                "quote": "“鲜少有人能够跋涉于不同的世界之间。”",
+                "quote-author": "卡萨丁"
+            },
+            "headerImage": null
+        },
+        {
+            "type": "champion",
+            "release-date": "2016-11-28T00:00:00.000Z",
+            "name": "卡蜜尔",
+            "title": "青钢影",
+            "section-title": "卡蜜尔",
+            "slug": "camille",
+            "associated-faction": "",
+            "associated-faction-slug": "piltover",
+            "image": {
+                "title": "camille-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/bltbd386a184535b43d-camille_splash.jpg",
+                "encoding": "image/jpeg",
+                "width": 1024,
+                "height": 616,
+                "x": 969,
+                "y": 6,
+                "featured-champions": []
+            },
+            "background": {
+                "title": "camille-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/bltbd386a184535b43d-camille_splash.jpg",
+                "encoding": "image/jpeg",
+                "width": 1024,
+                "height": 616,
+                "x": 969,
+                "y": 6,
+                "featured-champions": []
+            },
+            "url": "/zh_cn/champion/camille",
+            "video": {
+                "title": "camille-splashvideo-webm",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/bltc0c4aed8182f7029-camille-splashvideo.webm",
+                "encoding": "video/webm",
+                "width": 1280,
+                "height": 720,
+                "x": 969,
+                "y": 6,
+                "featured-champions": []
+            },
+            "races": [],
+            "roles": [
+                {
+                    "name": "战士",
+                    "slug": "fighter"
+                }
+            ],
+            "role": [
+                {
+                    "name": "战士",
+                    "slug": "fighter"
+                }
+            ],
+            "game-info-url": "https://lol.qq.com/web201310/info-defail.shtml?id=Camille",
+            "biography": {
+                "full": "<p>菲罗斯家族懂得牺牲。</p><p>家族的大部分财富都源自一种珍稀的水晶。这种水晶取自一种恕瑞玛生物——壳人族。而这种海克斯水晶，也被称作“原初水晶”，其中蕴含的力量通常只能在那些有魔法天赋的人手中发挥作用。卡蜜尔的曾姑祖母在当年的探索活动中失去了一条胳膊，她的牺牲精神成为了菲罗斯的家族格言：<i>“为我家人，我愿奉献。”</i></p><p>壳人族是一种有限的资源，所以卡蜜尔的家族必须想办法增殖他们已经找到的水晶。菲罗斯家在符文炼金和化工科技方面进行了一些隐秘的投资，最终开发出了威力较小，但可供量产的合成海克斯水晶。</p><p>有得必有失，水晶合成工业一直都被认为是祖安灰霾的主要成因。不仅如此，菲罗斯家族只能通过间谍活动、威逼恐吓和谋害暗杀才保住了自己对这种无价商品的垄断地位，同时也在祖安稳住了水晶的生产，维护了家族在皮尔特沃夫光鲜的蓝熏庄园中的地位。</p><p>作为菲罗斯家主膝下没有夭折的、最年长的孩子，卡蜜尔接受了最优异的教育。她的所有私人教师都是杰出之士。她不仅掌握了多种异乡语言，而且还是一位足以举办独奏音乐会的大提琴家。此外，卡蜜尔还在奥迪恩峡谷帮助父亲进行采掘工作时学会了读写古恕瑞玛语。</p><p>按照传统，家族里会从年轻后辈中选出一人，作为首席密探来辅佐家主，不计任何代价地维护家族的长久繁盛。然而，卡蜜尔的弟弟斯蒂万生来体弱，于是卡蜜尔代替了他。斯蒂万眼见姐姐获得了更多的教导和训练，心里的嫉妒开始不断滋长。而她则变得越来越善于战斗、潜行和审讯。</p><p>卡蜜尔二十五岁那年，她和父亲被一伙经过增强改造的祖安歹徒袭击了，他们要偷走价值连城的商业秘密。卡蜜尔的父亲伤势过重不治身亡，她的母亲悲痛欲绝，不久也撒手人寰。斯蒂万成为了家主，他加倍投入资源进行人体海克斯科技增强的研究，一心想证明自己是强有力的领袖。</p><p>在一整年的哀悼之后，在斯蒂万的主持下，哈基姆·内德里完成了入职流程，成为了菲罗斯家族的首席技工。这是一位来自恕瑞玛滨海城市卑尔居恩的晶体学家，年轻有为，前途无量。</p><p>卡蜜尔要求哈基姆为她进行海克斯增强手术，打破作为人类所无法突破的极限。哈基姆则对她一见钟情，两人一同工作，一同在深夜讲述恕瑞玛的故事，情谊也愈发地深厚……最后，卡蜜尔回应了哈基姆的感情。两人之间的恋情一发不可收拾，因为他们知道，手术完成就意味着分别。哈基姆会继续进行其他研究项目，而卡蜜尔也会再次全身心地投入到密探的职责当中。除此之外，哈基姆更担心的是他在切除卡蜜尔的心脏时，有可能会连同她的人性也一起摧毁。</p><p>卡蜜尔接受手术的前几天，哈基姆向卡蜜尔求婚，并恳求她和自己一起私奔。有生以来头一次，卡蜜尔动摇了。</p><p>斯蒂万可没有这种纠结，他只需要卡蜜尔的执行力来实现自己的愿景。当他得知这次秘密求婚后，心生一计——当卡蜜尔与哈基姆再度团聚的时候，斯蒂万导演了一场针对自己的袭击。当卡蜜尔看到弟弟遍体鳞伤、血迹斑斑的时候，她意识到，当一个密探的注意力被分散时，这就是后果。</p><p>哈基姆苦苦哀求卡蜜尔，但她听不进去。“为我家人，我愿奉献。”她结束了与哈基姆的恋情，坚持要求手术按计划进行。</p><p>只有哈基姆才能确保手术万无一失，于是他亲手剜出了她的心脏，换成了海克斯核心——然后他便辞职了。卡蜜尔醒来时，只看到她和哈基姆曾经一起工作过的实验室人去屋空。</p><p>卡蜜尔投入了工作中。她又进行了更多强化，包括腿刃、钩索和其他装置，一些人开始怀疑，究竟这位小姐身上还剩下多少人类的部分。随着菲罗斯家族的财富和权势日益隆盛，卡蜜尔执行的任务也越来越黑暗、越来越血腥。</p><p>得益于海克斯心脏，卡蜜尔青春永驻。然而岁月对她的弟弟就没有这么宽容了。虽然身体愈加虚弱，但斯蒂万对家族的把持却愈加牢固。</p><p>终于有一天，卡蜜尔发现了斯蒂万的无耻背叛，也意识到他的伎俩已经不再代表家族的最高利益。那一刻，她抛弃了自己对弟弟的最后一丝情感。</p><p>卡蜜尔将自己最喜爱的侄孙女扶植为新任家主，自己则实际上同时掌握了家族的公共事宜和秘密行动。她作为解决<i>棘手问题</i>的专家，已经完全接受了自己出离人类范畴的身体改造，以及随之而来的生杀大权。只不过，她海克斯心脏中萦绕着的哀泣，或许是那令人难安的过往的证明。</p><p>不管怎样，卡蜜尔不愿安坐家中，她的乐趣在于精准执行的间谍行动、一杯新泡的茶，还有在灰霾中长久的漫步。</p>",
+                "short": "卡蜜尔是菲罗斯家族的首席密探，也是一台精密的人形兵器。她游走于法律已然失效的边缘地带，小心地维护着皮尔特沃夫这台机器和其下的祖安，保证一切都能顺畅地运转。头脑灵活、行动精准，在她眼中任何浮皮潦草的技术都是必须被禁绝的丑陋行径。卡蜜尔的心智和她随身的刀刃一样锐利，她追求极致，对自己进行了大幅度的海克斯人体增强手术。这也让很多人不禁怀疑，如今的她究竟是一台机器还是一个女人。",
+                "quote": "“精准与否，就是屠宰和手术的区别。”",
+                "quote-author": "卡蜜尔"
+            },
+            "headerImage": null
+        }
+    ],
+    "modules": [
+        {
+            "slug": "回来的女孩",
+            "type": "story-preview",
+            "title": "回来的女孩",
+            "subtitle": "作者： Michael McCarthy",
+            "description": "“听我说，”我告诉小女孩。她在深坑旁边找到了我。“我要你听好，时间不多了。”<br><br>",
+            "story-slug": "kaisa-color-story",
+            "featured-image": {
+                "title": "kaisa-colortext-bg",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt415afd71a2b0f32c-kaisa-colortext-bg.jpg",
+                "encoding": "image/jpeg",
+                "width": 4000,
+                "height": 1748,
+                "x": 3338,
+                "y": 1335,
+                "featured-champions": []
+            },
+            "background": {
+                "title": "kaisa-colortext-bg",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt415afd71a2b0f32c-kaisa-colortext-bg.jpg",
+                "encoding": "image/jpeg",
+                "width": 4000,
+                "height": 1748,
+                "x": 3338,
+                "y": 1335,
+                "featured-champions": []
+            },
+            "release-date": "2018-03-02T16:00:00.000Z",
+            "featured-champions": [
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                }
+            ],
+            "minutes-to-read": 5,
+            "url": "/zh_cn/story/kaisa-color-story"
+        },
+        {
+            "slug": "百密一疏",
+            "type": "story-preview",
+            "title": "百密一疏",
+            "subtitle": "作者：Dana Luery Shaw",
+            "description": "<p>卡莎贴着隧道口向外张望，感觉自己正站在世界的尽头。</p>",
+            "story-slug": "hollowspun",
+            "featured-image": {
+                "title": "hollowspun-splash.jpg",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt965876e10ff47d4a-hollowspun-splash.jpg",
+                "encoding": "image/jpeg",
+                "width": 1920,
+                "height": 1080,
+                "x": 1100,
+                "y": 500,
+                "featured-champions": []
+            },
+            "background": {
+                "title": "hollowspun-splash.jpg",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt965876e10ff47d4a-hollowspun-splash.jpg",
+                "encoding": "image/jpeg",
+                "width": 1920,
+                "height": 1080,
+                "x": 1100,
+                "y": 500,
+                "featured-champions": []
+            },
+            "release-date": "2022-01-07",
+            "featured-champions": [
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                },
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                }
+            ],
+            "minutes-to-read": 5,
+            "url": "/zh_cn/story/hollowspun"
+        }
+    ]
+}

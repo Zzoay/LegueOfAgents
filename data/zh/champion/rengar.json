@@ -1,0 +1,1169 @@
+{
+    "id": "rengar",
+    "name": "雷恩加尔",
+    "title": "傲之追猎者",
+    "locale": "zh_cn",
+    "champion": {
+        "type": "champion",
+        "release-date": "2012-08-21T00:00:00.000Z",
+        "name": "雷恩加尔",
+        "title": "傲之追猎者",
+        "section-title": "雷恩加尔",
+        "slug": "rengar",
+        "associated-faction": "",
+        "associated-faction-slug": "ixtal",
+        "image": {
+            "title": "rengar-splash",
+            "subtitle": "",
+            "description": "",
+            "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt4c3e514b7691fbf8-Rengar_0.jpg",
+            "encoding": "image/jpeg",
+            "width": 1215,
+            "height": 717,
+            "x": 900,
+            "y": 141,
+            "featured-champions": []
+        },
+        "background": {
+            "title": "rengar-splash",
+            "subtitle": "",
+            "description": "",
+            "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt4c3e514b7691fbf8-Rengar_0.jpg",
+            "encoding": "image/jpeg",
+            "width": 1215,
+            "height": 717,
+            "x": 900,
+            "y": 141,
+            "featured-champions": []
+        },
+        "url": "/zh_cn/champion/rengar",
+        "video": {
+            "title": "rengar-splashvideo-webm",
+            "subtitle": "",
+            "description": "",
+            "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt6b1397ed85d0ca6a-rengar-splashvideo.webm",
+            "encoding": "video/webm",
+            "width": 1280,
+            "height": 720,
+            "x": 900,
+            "y": 141,
+            "featured-champions": []
+        },
+        "races": [
+            {
+                "name": "瓦斯塔亚",
+                "slug": "vastaya"
+            }
+        ],
+        "roles": [
+            {
+                "name": "刺客",
+                "slug": "assassin"
+            },
+            {
+                "name": "战士",
+                "slug": "fighter"
+            }
+        ],
+        "role": [
+            {
+                "name": "刺客",
+                "slug": "assassin"
+            },
+            {
+                "name": "战士",
+                "slug": "fighter"
+            }
+        ],
+        "game-info-url": "https://lol.qq.com/web201310/info-defail.shtml?id=Rengar",
+        "biography": {
+            "full": "<p>瓦斯塔亚的雷恩加尔是一名凶残的猎手。他的人生意义就是追寻猎杀危险生物带来的快感。他寻遍整个世界，只为寻找最可怕的野兽，特别是任何关于卡兹克的踪迹。这头来自虚空的野兽弄瞎了他的一只眼睛。雷恩加尔追寻着猎物，不为捕食也不为荣耀，只是为了纯粹的猎杀所带来的剧烈快意。</p><p>雷恩加尔出生在位于恕瑞玛的一个瓦斯塔亚的肉齿兽部落。这个部落崇尚猎杀，以高超的狩猎水平为莫大的荣耀。雷恩加尔是部落酋长庞加夫的幼子。他天生身材瘦小，因此庞加夫认为他不可能成为一个有价值的猎手。他遗弃了雷恩加尔，任其自生自灭。</p><p>最后，年轻的雷恩加尔逃离了部落的营地。父亲的遗弃令他既失望又羞耻。他靠着虫子和植物苟活了几个星期，直到有一天，他差点儿被一个名叫马尔孔的传奇猎人给杀死。马尔孔看到雷恩加尔的可怜模样，同情他的遭遇，放了他一条生路。另一方面来讲，马尔孔也不认为任何一个瓦斯塔亚人有资格成为他的猎物。</p><p>几个月，雷恩加尔都跟随着马尔孔，依靠他杀掉的猎物的尸体果腹。雷恩加尔心中仍然想着有朝一日能重新回到部落。所以，他也在留心观察马尔孔是如何狩猎的。</p><p>过了不久，马尔孔厌烦了身后总是有个可怜兮兮的肉齿兽跟着他。他掏出一把小刀，架在雷恩加尔的脖子上，告诉他说想成为猎人，唯一的途径就是去狩猎。他丢给雷恩加尔一把剑，把他踢下了峡谷，逼着他去完成第一次杀戮，以求自保。</p><p>从那以后，雷恩加尔经年累月地狩猎，把自己逼迫到了极限。他走遍恕瑞玛各地，完成各种艰难危险的狩猎。尽管他的体型还是不如其他肉齿兽人庞大，但他的凶残是他那些同族人的两倍。时光荏苒，他带回营地的再也不是流着血的伤疤，而是各种战利品。他把一头沙鹫的头骨磨得锃亮，把尖啸兽的牙齿编在了辫子里。</p><p>之后，他觉得是回家的时候了。他回到他的部落，准备好作为一个真正的猎手被族人接纳。</p><p>然而，庞加夫却对雷恩加尔和他的战利品嗤之以鼻。他宣布只有当雷恩加尔把那神出鬼没的虚空怪兽的头颅带回来的时候，这个部落才会重新欢迎他回来。</p><p>雷恩加尔被回家的念想冲昏了头，结果在和这凶狠的野兽战斗时落了下风，被他弄伤了一只眼睛逃走了。雷恩加尔只能懊恼地向庞加夫承认自己的失败。正如他所料，父亲严厉地斥责了他。</p><p>庞加夫说着话时，雷恩加尔却注意到父亲房间里的所有战利品都已经沾满灰尘，老旧不堪。这个部落的酋长已经很长时间没有狩猎了──他让雷恩加尔去狩猎卡兹克，很可能是因为他自己不敢去。 </p><p>雷恩加尔打断了父亲的训斥，直言他就是个懦夫。肉齿兽部落的人们拥有健壮的身躯，享受着舒适的居所。而雷恩加尔恰恰相反，他生来就面临着死亡的威胁。他只能自己教自己如何去狩猎，去夺取自己的战利品以及必然随之而来的伤疤。而他血肉模糊的眼窝，恰恰证明了雷恩加尔尽管先天不足，但他从未屈服过。</p><p>雷恩加尔纵身跃向他的父亲，把他开膛破肚。部落里最凶猛的猎手们为他献上了火蔷薇，标志着他加冕为这个部落的新酋长。</p><p>但此时，雷恩加尔已经不需要这个部落的肯定了。他只需要追逐猎物时，肾上腺素在血管中奔涌的快感。雷恩加尔离开了这个部落，庞加夫留下的战利品，他一点都不感兴趣──这个酋长不值得人们记住，而值得记住的，是那个想要弄瞎他的凶猛生物。雷恩加尔踏上了征途，下定决心要找到它，然后杀死它。</p><p>这杀戮，无关部落的赞赏，而只是为了自我的满足。</p>",
+            "short": "瓦斯塔亚的雷恩加尔是一名声名远扬又凶残无比的猎手。他的人生充满着追寻猎杀危险的生物的快感。他寻遍整个世界，只为寻找他能找到的最可怕的野兽，特别是寻找任何关于卡兹克的踪迹。这头来自虚空的野兽弄瞎了他的一只眼睛。雷恩加尔追寻着猎物，不为捕食也不为荣耀，只是为了纯粹的猎杀所带来的激烈美感。",
+            "quote": "“猎杀弱者，能让你延续生命；猎杀强者，能让你享受人生。”",
+            "quote-author": "雷恩加尔"
+        },
+        "headerImage": null
+    },
+    "related-champions": [
+        {
+            "type": "champion",
+            "release-date": "2012-09-27T00:00:00.000Z",
+            "name": "卡兹克",
+            "title": "虚空掠夺者",
+            "section-title": "卡兹克",
+            "slug": "khazix",
+            "associated-faction": "",
+            "associated-faction-slug": "void",
+            "image": {
+                "title": "khazix-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt619b602796c258c4-Khazix_0.jpg",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 983,
+                "y": 231,
+                "featured-champions": []
+            },
+            "background": {
+                "title": "khazix-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt619b602796c258c4-Khazix_0.jpg",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 983,
+                "y": 231,
+                "featured-champions": []
+            },
+            "url": "/zh_cn/champion/khazix",
+            "video": {
+                "title": "khazix-splashvideo-webm",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blta12c28e47273ac3d-khazix-splashvideo.webm",
+                "encoding": "video/webm",
+                "width": 1280,
+                "height": 720,
+                "x": 983,
+                "y": 231,
+                "featured-champions": []
+            },
+            "races": [],
+            "roles": [
+                {
+                    "name": "刺客",
+                    "slug": "assassin"
+                },
+                {
+                    "name": "战士",
+                    "slug": "fighter"
+                }
+            ],
+            "role": [
+                {
+                    "name": "刺客",
+                    "slug": "assassin"
+                },
+                {
+                    "name": "战士",
+                    "slug": "fighter"
+                }
+            ],
+            "game-info-url": "https://lol.qq.com/web201310/info-defail.shtml?id=Khazix",
+            "biography": {
+                "full": "一头来自虚空、名为卡兹克的恶毒掠食者渗入了瓦洛兰，准备吞噬这块大陆上最有潜力的生物们。每次猎杀后，他都会吸收掉猎物的力量，让自己进化得更加强大。卡兹克最渴望征服和吞噬的对象是雷恩加尔，一只与他实力在伯仲之间的野兽。<br><br>当卡兹克刚刚穿越到这个世界时，他非常地脆弱和饥饿。他最先遇到的一批动物实在是太弱小了，难以为他的快速进化提供给养。于是，卡兹克将他的目光转移到他所能找到的最为危险的生物上，即便冒着生命危险，也要满足进化所需的给养。每次击杀都让他大快朵颐，焕然一新，变成更强更快的掠食者。很快，卡兹克便开始用无止境的掠食欲来追杀他的猎物，并相信他已经无人能挡。一天，当他正在享用新鲜的猎物时，不幸被黄雀在后了。从遮蔽物后扑出来一只带着獠牙和铁器的生物，猛地将他按在地上。它当着他的面咆哮，又撕又抓，而卡兹克第一次感到他的血喷洒了出来。伴随着愤怒的狂啸，他划破了这头畜生的一只眼睛作为还击。他们从日落战到日出。最后，奄奄一息的他们才不情愿地分开。在他的伤口愈合后，卡兹克开始为吞噬掉这个实力堪比与虚空生物的猎物的想法所煎熬。他重新开始用加倍精力来研究这强大的猎物。终有一日，卡兹克会将雷恩加尔大卸八块，好好品尝。<br><br>",
+                "short": "虚空在成长，虚空在不断适应。在众多虚空生物中，没有哪种比卡兹克更能体现这一特性。进化的动力让这种恐怖不断变异，本能地求生并弑杀强者。只要它遇到了障碍，就会进化出新的、更有效的方法反制并杀掉猎物。卡兹克最初只是个愚钝的野兽，然而它的智力和它的形态一样获得了发展。现在，这只生物会提前计划狩猎行动，甚至懂得在猎物心中制造最真实的恐惧。",
+                "quote": "“杀掉。吃掉。吸收掉。”",
+                "quote-author": "卡兹克"
+            },
+            "headerImage": null
+        },
+        {
+            "type": "champion",
+            "release-date": "2009-12-17T00:00:00.000Z",
+            "name": "奈德丽",
+            "title": "狂野女猎手",
+            "section-title": "奈德丽",
+            "slug": "nidalee",
+            "associated-faction": "",
+            "associated-faction-slug": "ixtal",
+            "image": {
+                "title": "nidalee-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blta65bbcd489ac4d4e-Nidalee_0.jpg",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 1019,
+                "y": 11,
+                "featured-champions": []
+            },
+            "background": {
+                "title": "nidalee-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blta65bbcd489ac4d4e-Nidalee_0.jpg",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 1019,
+                "y": 11,
+                "featured-champions": []
+            },
+            "url": "/zh_cn/champion/nidalee",
+            "video": null,
+            "races": [],
+            "roles": [
+                {
+                    "name": "刺客",
+                    "slug": "assassin"
+                },
+                {
+                    "name": "战士",
+                    "slug": "fighter"
+                }
+            ],
+            "role": [
+                {
+                    "name": "刺客",
+                    "slug": "assassin"
+                },
+                {
+                    "name": "战士",
+                    "slug": "fighter"
+                }
+            ],
+            "game-info-url": "https://lol.qq.com/web201310/info-defail.shtml?id=Nidalee",
+            "biography": {
+                "full": "<p>在大塞荒漠遥远的彼端，越过稀树大草原和层峦的山丘，坐落着恕瑞玛的东部大雨林。这片神秘气息笼罩的地方树木葱郁，生机勃勃，哺育着许多神奇的野生动物。但即便这里的美景难以置信，却也潜伏着难以想象的危险和死亡。</p><p>没人知道奈德丽为何被独自留在雨林的深处。当时她还是个襁褓中的婴儿，独自坐在覆满落叶的泥地上，身上盖着褴褛的破布，哭喊声回荡在林间。</p><p>毫无疑问，就是这哭声唤来了美洲狮。</p><p>一头正带着幼崽们游荡的母狮接近了这个被遗弃的女婴，可能是嗅到了某种熟悉的味道……或者至少是某种不该丢下的东西。她毫不犹豫地接纳了奈德丽，半引半拽地把她带回了自己的巢穴。</p><p>女孩融入了野兽的生活，与新的兄弟姐妹们一起觅食游玩。她从未接触过自己的同类，完全脱离了凡人的社会。美洲狮一家将奈德丽当做森林中的一员抚养长大，随着年龄的增长，她成为了一位强大的女猎手——只不过她的看护者喜欢用牙齿和利爪，奈德丽却学会了利用周围的环境。她用蜜糖果实制作出治疗药膏，搜寻奇异的夜光花朵照亮黑夜，甚至还使用会爆裂种子把盘踞领地的暗影狼炸飞。</p><p>即便如此，有的时候奈德丽还是会失去对自己身体的控制。她的手脚会毫无征兆地在人类和野兽的形态之间变换。她偶尔会发起高烧，恍惚间跟随两个模糊的陌生身影跌跌撞撞地爬出巢穴——他们在她耳边低语，声音含混不清，却又温柔款款。他们给奈德丽带来了慰藉和温暖的感觉，虽然美洲狮早就教训过她要提防外来者。</p><p>提防不是没有缘由的。</p><p>那是在一场夏日的暴雨之中，她首次遇到了肉齿兽。这些瓦斯塔亚的猎人每个季节都会进入森林游猎，寻找能够带来荣耀的目标，用战利品展示他们的力量。奈德丽的养母想要将他们赶走，但却被刀剑和长矛所伤，倒地不起。</p><p>就在肉齿兽即将了结这只年迈的美洲狮的时候，奈德丽从灌木丛中冲了出来。有什么东西发生了改变。她感受到自己体内的林猫之灵，变换成了前所未有的样子。她像野兽一样扑杀，剃刀般锋利的爪子扑倒了最近的一名猎人，然后如旋风般回身再次变为人形，抓起了敌人的长矛。另一名肉齿兽见状发出了怒吼和嘶嚎，令奈德丽惊讶的是，她发现自己能够听懂他们一部分语言。</p><p>他们咒骂她，喊出了他们瓦斯塔亚霞瑞祖先的名字，然后落荒而逃，空手而归。</p><p>奈德丽把长矛扔到一边，轻轻拥抱那只奄奄一息的美洲狮。她的兄弟姐妹对她依然抱有忌惮。但随着母亲的离世，他们接受了这位换形者作为新的领袖——从那一天起，她就发誓要保护这个收养她的家，对抗任何企图侵犯的人。</p><p>日积月累，她已经学会更好地控制自己的力量，可以在两个形态之间自如地变换。或许是出于追寻同类的渴望，她找到了变色龙似的游荡者妮蔻，二人一起度过了一段亲密无二的时光。奈德丽愉快地教导这个好奇的新同伴，她们满心欢喜地一起探索了雨林中的许多奇观，但最后妮蔻还是决定离开这里，去恕瑞玛海岸的彼端寻找属于自己的命运。</p><p>即使是现在，这片茂密的森林依然是已知世界中最后一片未被驯服的土地，也是所有人认知中的谜团，甚至连奈德丽也无法揭开。但在极少数安静的时刻，这位女猎手发现自己始终还在思考关于自己的身世——以及她与肉齿兽的那次遭遇——她不知道自己能否有朝一日得知背后的真相。</p>",
+                "short": "在密林深处长大的奈德丽是一位追猎大师，她可以变换形态，成为一只凶猛的美洲狮。她既不是真正的人类，也不是真正的野兽，但她会用精心布置的陷阱和灵活自如的标枪，凶狠地捍卫自己的领地不被任何人侵犯。她会先打击猎物的行动能力，然后再以大猫的形态上前扑杀。只有很少数人曾侥幸逃脱并活下来讲述一个狂野女猎手的故事，讲述她锐利的猎手本能，以及更加锐利的爪子。",
+                "quote": "“野生生物从来不知道什么是害怕。”",
+                "quote-author": "奈德丽"
+            },
+            "headerImage": null
+        },
+        {
+            "type": "champion",
+            "release-date": "2014-08-14T00:00:00.000Z",
+            "name": "纳尔",
+            "title": "迷失之牙",
+            "section-title": "纳尔",
+            "slug": "gnar",
+            "associated-faction": "",
+            "associated-faction-slug": "freljord",
+            "image": {
+                "title": "gnar-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt257549813773c72c-Gnar_0.jpg",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 1036,
+                "y": 485,
+                "featured-champions": []
+            },
+            "background": {
+                "title": "gnar-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt257549813773c72c-Gnar_0.jpg",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 1036,
+                "y": 485,
+                "featured-champions": []
+            },
+            "url": "/zh_cn/champion/gnar",
+            "video": {
+                "title": "gnar-splashvideo-webm",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/bltc3157ad5ca2940ea-gnar-splashvideo.webm",
+                "encoding": "video/webm",
+                "width": 1280,
+                "height": 720,
+                "x": 1036,
+                "y": 485,
+                "featured-champions": []
+            },
+            "races": [],
+            "roles": [
+                {
+                    "name": "战士",
+                    "slug": "fighter"
+                },
+                {
+                    "name": "坦克",
+                    "slug": "tank"
+                }
+            ],
+            "role": [
+                {
+                    "name": "战士",
+                    "slug": "fighter"
+                },
+                {
+                    "name": "坦克",
+                    "slug": "tank"
+                }
+            ],
+            "game-info-url": "https://lol.qq.com/web201310/info-defail.shtml?id=Gnar",
+            "biography": {
+                "full": "<p>早在弗雷尔卓德得名于冰雪以前，曾有过一片充满奇迹的土地——至少，是在纳尔的眼中。</p><p>作为一个拥有无限精力的约德尔孩童，纳尔和其他同类公开生活在北方部落的坚强人民之中。虽然他矮小的身材刚刚足够在雪地上留下脚印，但他的脾气可不输十倍于他大小的野兽，而且只要他发现任何不妥，就会破口大骂，吐出一连串脏话。所以，他还是比较愿意亲近一种更大更聪明的生物，他们始终与凡人保持着距离。对纳尔来说，他们看上去就像是特大号的白毛约德尔人，而这样的外形已经足够让他满意了。</p><p>当人类的部落在冰原上采摘野莓和地衣的时候，纳尔则在收藏更加重要的东西，比如石块、鹅卵石、带泥的死鸟等等。而他最珍贵的宝藏是一块居瓦斯克野猪下颌骨。当他从冰冷的土地中挖出这块骨头的时候，发出了开心的尖叫并把它扔向最远处。</p><p>它飞了回来并落在了两步开外的地方。</p><p>这次小小的成功让他心潮澎湃，随后纳尔无论去哪里都会带着他的“回旋镖”。这个世界努力向他献出新的至宝——闪闪的线绳、甜美的蜜露，圆的东西——但没什么能够比得上扔出再接回他的宝贝武器的乐趣。现在他认为自己是一名猎手，追踪那些不理睬自己的野兽群。</p><p>但即使是他，也感受到了这片土地正在改变。天空似乎变暗了。风似乎变冷了。凡人的部落曾经一起觅食，现在却各自狩猎。</p><p>那些大白约德尔人应该会知道怎么办。纳尔应该去找他们。</p><p>他使出所有狩猎技巧，跟着他们的踪迹上到了一座大山的雪顶山巅，跑得比以往任何时候都快。他的接近没有引起任何人注意，而他却看到了数不清的凡人。这场面太刺激了，但似乎其他人全都没有为此感到高兴。</p><p>然后大地开始摇晃，裂开了一个大沟。纳尔一生中第一次看到，似乎除了自己以外的<i>所有人</i>都在大发脾气。那些凡人在喊叫。那些大号约德尔人也在咆哮。</p><p>但那只怪物的到来让他们全都静了下来。</p><p>一只怪兽从刚刚裂开的深渊中升了上来，它长着巨大的角，拍打着触手，睁着一只独眼，燃烧着的异光让纳尔背后的毛倒立。有一些凡人见状立刻逃跑，而纳尔则感到胸口一阵奇怪的疼痛——就像是让他想到失去自己的回旋镖，或者永远都无法再被拥抱。这个恐怖的东西想要伤害他的新朋友们。</p><p>所以他很生气。那一刻，纳尔<i>真的</i>发怒了。</p><p>他的眼中只有那个怪兽。一瞬间，他跳到了空中，向它飞去。一只爪子中握着一个雪球……或者说是他以为的雪球。事实上，他握着的是从山边掘出的巨石，因为纳尔已经长得和那些大白约德尔人一样巨大。他要让这只怪兽从哪来回哪去，通过砸脸的方式告诉它！</p><p>但是他这一下永远都没能砸出去。纳尔感到一股比寒冬还冷的凉气，似乎要把空气冻成冰——这种元素魔法将他冻结在原地，穿透了他蓬乱的毛发。周围的一切，包括那只怪兽，全都没有了声音。这个约德尔人的力量和愤怒融化消解。一种深重的倦意爬进了他的四肢，然后他陷入了软绵绵的安睡。</p><p>纳尔小憩了很长时间。当他终于苏醒过来，抖落肩膀上的冰霜，费力地喘过气，其他人已经全部消失了。没有需要打的怪兽，也没有需要保护的朋友，他再度感到自己的渺小和孤单。</p><p>这片土地也变了。<i>到处</i>都是雪，他视线所及的地方全都铺上了白毯。虽然如此，当他看到自己心爱的回旋镖就在身边的时候，还是发出了欢快的叫声，然后带着回旋镖小跑着寻找可以狩猎的东西。</p><p>即便是现在，纳尔也还是完全不知道那决定命运的一天发生了什么。他只是对面前的世界赞叹不已，有那么多新奇的东西可以收集，那么多地方可以探索。<br></p>",
+                "short": "<p>纳尔是个稍微一碰就一惊一乍的约德尔人，他的古怪和顽皮一瞬间就能爆发成稚嫩的愤怒，将他变成巨大的猛兽肆虐破坏。他被封在臻冰中沉睡了千年，如今这只充满好奇的生物重获自由，而这个历经沧桑巨变的世界在他眼中新奇而壮丽。纳尔把危险视为乐趣，对他的敌人扔出手中的任何东西，可能是他的骨齿回旋镖，也可能是连根拔起的大树。</p>",
+                "quote": "“呐啊！”",
+                "quote-author": "纳尔"
+            },
+            "headerImage": null
+        }
+    ],
+    "explore-champions": [
+        {
+            "type": "champion",
+            "release-date": "2017-04-11T19:43:26.000Z",
+            "name": "霞",
+            "title": "逆羽",
+            "section-title": "霞",
+            "slug": "xayah",
+            "associated-faction": "",
+            "associated-faction-slug": "ionia",
+            "image": {
+                "title": "xayah-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt64407be80c57da40-xayah-splash.jpg",
+                "encoding": "image/jpeg",
+                "width": 2792,
+                "height": 1080,
+                "x": 1857,
+                "y": 256,
+                "featured-champions": []
+            },
+            "background": {
+                "title": "xayah-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt64407be80c57da40-xayah-splash.jpg",
+                "encoding": "image/jpeg",
+                "width": 2792,
+                "height": 1080,
+                "x": 1857,
+                "y": 256,
+                "featured-champions": []
+            },
+            "url": "/zh_cn/champion/xayah",
+            "video": null,
+            "races": [
+                {
+                    "name": "瓦斯塔亚",
+                    "slug": "vastaya"
+                }
+            ],
+            "roles": [
+                {
+                    "name": "射手",
+                    "slug": "marksman"
+                },
+                {
+                    "name": "坦克",
+                    "slug": "tank"
+                }
+            ],
+            "role": [
+                {
+                    "name": "射手",
+                    "slug": "marksman"
+                },
+                {
+                    "name": "坦克",
+                    "slug": "tank"
+                }
+            ],
+            "game-info-url": "https://lol.qq.com/act/a20170331rakanxayah/index.htm?e_code=313826&atm_cl=ad&atm_pos=16605&idata_id=126255",
+            "biography": {
+                "full": "<p>小时候，霞极爱听父亲吟唱古代瓦斯塔亚英雄们的古老民谣。萦绕耳畔的悠扬旋律会将她带回久远的从前。那个时候，葵林岛上的魔法自由奔放，赋予洛特兰部族无穷的力量。</p>\n\n<p>然而世世代代的人类都在不断进犯，蚕食着瓦斯塔亚自古以来居住的土地，打破他们的原始精萃。许多部族都开始衰退，他们与初生之土的精神连接渐渐被切断，也因此失去了活力。他们不得不与对立的凡人进行谈判交涉。</p>\n\n<p>霞无奈地看到，她们的<i>犹罗阿</i>使节与凡人们商定的条约总是很快就被打破，次次如此。最令她担忧的是，人类发现了巨型石阵“琨珑”的奥秘，利用它们控制住了艾欧尼亚的自然魔法，从而保护他们不断扩张的聚集地。</p>\n\n<p>虽然霞和其他志同道合的族人呼吁反击，但洛特兰族却自我封闭起来，逃避凡人的世界，固守自己所剩无几的土地。但这样也还是无法换来保护，最后他们被赶出了自己的家园。</p>\n\n<p>洛特兰变成了漂泊的游牧民族。霞变成了自由的战士。</p>\n\n<p>她并非独自一人。艾欧尼亚各地纷纷出现了瓦斯塔亚的反叛，他们要对凡人复仇。和平谈判的机会早已荡然无存。霞决定把自己夺命的羽毛用在战斗中，释放这片土地的野生魔法。</p>\n\n<p>她在严密把守的城堡要塞之中来去翻飞，所过之处留下一连串的尸体，并因此得来“紫鸦”的诨名。她对这项事业的赤诚无与伦比，她所关心的只有下一个任务，以及解放同胞的下一阶段行动。虽然她珍爱叛军中的战友，但通常都独来独往，因为她相信自己比任何人都更优秀。</p>\n\n<p>但后来她遇到了那个将改变她一生的瓦斯塔亚。</p>\n\n<p>一次，她前往翁库沃的一座偏远山镇找寻一件失窃的古物，在那里看到了一群嘈杂的人类。人群前方的舞台上站着一个羽翼浮夸、艳如烈焰的表演者，唱着瓦斯塔亚古老的歌谣，歌声悠扬令人沉醉。歌曲将尽，他又使出几个让人眼花缭乱的俗套花招，人群欢声雷动，反复高呼他的名字：“洛！洛！洛！”</p>\n\n<p>他夸张地鞠了一躬。霞不以为意，觉得他只是个丑角。虽然他同为洛特兰的族人，但这个洛只不过是个愚蠢的<i>穆鞑袴。</i></p>\n\n<p>霞决心不再理睬他，继续完成自己的任务……不过她也不能否认，多亏了洛干扰了当地人的注意力，她的任务轻松了不少。</p>\n\n<p>还没等霞逃进野外，洛先找了上来。他先是进行了一番赞美，想要迷住她却徒劳无果，然后这名没头没脑的瓦斯塔亚询问了洛特兰部族的消息。当她告诉他部族已经失去了家园，他的羽翼暗淡了，他的震怒令她感到意外。或许这个洛比她想象的更复杂。</p>\n\n<p>当她对他讲述自己的真正事业，他请求加入她的行列。别的不行，他制造干扰的本领还是有的，于是霞同意了。</p>\n\n<p>他们的旅途开始了，对她来说洛是一个可用之才，就是有点烦人。这个喜欢卖弄的战舞舞者能够在敌军之中轻松闪转腾挪，制造混乱，然后让霞轻易将他们击倒。不得不说，这种作战风格<i>几乎</i>弥补了他那记不住霞的精密计划的臭记性。</p>\n\n<p>洛也在其他方面帮助了霞。她心直口快、说话带刺；而他则富有洞见和感染力。原本她只能诉诸暴力的问题，他却能用魅力和说辞解决。她觉得他有一种不可思议的能力，能察言观色，判断一个人是否值得信任。有时候她会质疑洛对凡人的同情心，但她却从不怀疑他对反叛大业的忠诚。</p>\n\n<p>最后，霞意识到自己对洛的感情变了。他自由不羁的精神和做派有一种说不出的明快，让她越来越着迷。时间久了，她已经习惯他的陪伴，而且尽管一开始她耻于承认，但茫茫天地不再如从前一般无望而孤单。他们变得密不可分。</p>\n\n<p>在随后的多年间，他们两个成为了令人闻风丧胆的瓦斯塔亚英雄，关于他们的事迹开始在四面八方流传。诺克萨斯侵略战争结束后，艾欧尼亚人已经变得更有侵略性和危险性，尤其是纳沃利地区的人，还有四处结仇的“影流”。虽然如此，但变局也让霞和洛得以召集数不尽的瓦斯塔亚加入他们的行列，他们的反叛梦想即将结出果实。</p>\n\n<p>他们将一起奋战，夺回初生之土，让所有瓦斯塔亚部族再次繁荣。</p>",
+                "short": "身为瓦斯塔亚的志士，霞要掀起一场革命来拯救她的族群。她身法敏捷又慧心独具，凭借锋芒逼人的羽刃，扫除任何异己。霞与她的灵魂伴侣洛并肩作战，共同守护他们日渐衰落的部族，同时韬光养晦，希望终有一天能率领全族重夺昔日荣光。",
+                "quote": "“你知道羽毛能有多锋利么？”",
+                "quote-author": "霞"
+            },
+            "headerImage": null
+        },
+        {
+            "type": "champion",
+            "release-date": "2012-05-08T00:00:00.000Z",
+            "name": "韦鲁斯",
+            "title": "惩戒之箭",
+            "section-title": "韦鲁斯",
+            "slug": "varus",
+            "associated-faction": "",
+            "associated-faction-slug": "ionia",
+            "image": {
+                "title": "varus-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blta3a77808520e8966-varus-splash.jpg",
+                "encoding": "image/jpeg",
+                "width": 1920,
+                "height": 1133,
+                "x": 1034,
+                "y": 0,
+                "featured-champions": []
+            },
+            "background": {
+                "title": "varus-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blta3a77808520e8966-varus-splash.jpg",
+                "encoding": "image/jpeg",
+                "width": 1920,
+                "height": 1133,
+                "x": 1034,
+                "y": 0,
+                "featured-champions": []
+            },
+            "url": "/zh_cn/champion/varus",
+            "video": null,
+            "races": [
+                {
+                    "name": "暗裔",
+                    "slug": "darkin"
+                }
+            ],
+            "roles": [
+                {
+                    "name": "射手",
+                    "slug": "marksman"
+                },
+                {
+                    "name": "法师",
+                    "slug": "mage"
+                }
+            ],
+            "role": [
+                {
+                    "name": "射手",
+                    "slug": "marksman"
+                },
+                {
+                    "name": "法师",
+                    "slug": "mage"
+                }
+            ],
+            "game-info-url": "https://lol.qq.com/web201310/info-defail.shtml?id=Varus",
+            "biography": {
+                "full": "<p>无论后来他变成了什么样子，韦鲁斯都曾是忠诚与荣誉的楷模。身为古恕瑞玛帝国的熟练弓手，他被指派守护东部地区的一座神庙，而他将此看作至高无上的职责。</p><p>在艾卡西亚战争初期，韦鲁斯的家乡虽然与那片诅咒之地相距甚远，却依然遭到了袭击。其他守卫纷纷离岗前去防守周边的村镇，但韦鲁斯却一个人留在了神庙里。每一支射出的箭矢都伴随着他痛彻心扉的怒吼——因为他选择坚守誓言，而没有返乡保护自己的家人。</p><p>飞升之团的使者们找到他时，只见他跪在遍地的敌人尸体之间肃穆地冥想。据说，他冰冷的凝视就连天神战士也会感到不安。尽管如此，为了表彰他可贵的奉献，他们邀请韦鲁斯加入飞升者的行列。</p><p>作为伟大的飞升者之一，他满心的念头却只是为了向艾卡西亚和虚空寻仇。似乎韦鲁斯并没有理解恕瑞玛最终赢下了那场战争，几百年后也并不完全清楚帝国是如何陷落的，他的心智变得无比地扭曲。一桩桩接连不断的暴行，让他成为了一个孤僻、冷血的杀手。堕落的同胞们将他一次次地送进战场。</p><p>而他们的名字在当今世界令人闻之丧胆。</p><p>暗裔。</p><p>他们一边内斗，一边毁灭任何胆敢与之为敌的人。韦鲁斯手中的水晶长弓专门用于刺杀敌军的长官和英雄，让暗裔更加轻松地剿灭凡人的军团。</p><p>最后，一位披着黄金铠甲的瓦洛兰武后麾下的瓦斯塔亚追月者以及人类法师团将韦鲁斯逼到了绝境。他们将他封印在了那把长弓之中，任凭他如困兽一般嚎哭不止。彼时，暗裔的腐化力量已经为人所知，但这位武后在战争的最后阶段还是决定亲自使用这把致命的武器，她为了伟大的胜利而毅然牺牲了自己。</p><p>之后过了数月，武后带着韦鲁斯来到了初生之土——后来人们称之为艾欧尼亚。此时，弓上的力量已经让她变得可怖不堪，她最后的命令就是让随行者将她活埋在一口无光的井底，深藏在俯瞰着帕拉斯的高山庙宇中。</p><p>韦鲁斯被艾欧尼亚的自然魔力和神庙守卫的仪轨牢牢禁锢着。</p><p>长弓深藏了数百年，无人知晓，无人触及，已被遗忘。直到诺克萨斯人入侵了初生之土。两位怪兽猎人，瓦尔茂和灵犀之侣凯伊，在帕拉斯神庙与第一批登陆的侵略者作战。虽然他们勇气可嘉，也击退了来犯的敌人，但凯伊也受到了致命伤。悲痛万分的瓦尔茂把他背进神庙，希望井中的禁忌魔力能够挽救凯伊的生命。</p><p>但这座神庙只会带来诅咒。两人都被释放出来的暗裔之力侵蚀了。他们的身体分崩离析，然后相互缠结成一具新的躯壳。这具躯壳正好可以将韦鲁斯从禁锢中解脱。从井中爬出的是一个完形生物，苍白而非人般地优美，一部分是人类，一部分是暗裔。经过上千年的等待，韦鲁斯重生了。</p><p>即便如此，在这具不完美的躯壳里，人类和暗裔的精魂此起彼伏，每一方都能短暂地占据上风，然后又被对方压过。韦鲁斯只想让两个凡人的灵魂永远地沉默，然后为他的同胞们报仇。同时，凯伊和瓦尔茂奋力地抵抗着韦鲁斯的恶意，希望彼此间的眷恋能够最终征服暗裔的仇恨。</p><p>到底他们能与韦鲁斯抗衡多久，没人能够确定。但是如果这个酷虐又自大的杀手完全掌控了这具身体，他就会想办法与自己的同胞重聚，再将符文之地化作遍布灰烬的荒原。</p>",
+                "short": "<p>韦鲁斯是一名来自远古的暗裔。身为一名冷血的杀手，他最爱的就是用箭矢折磨敌人。先让他们失心发疯，再了结他们的性命。韦鲁斯虽然在暗裔大战结束后便遭囚禁，但却在几百年后成功逃脱，寄宿于两位艾欧尼亚猎人再造的血肉之躯中。这二人无意之间释放了韦鲁斯，从此便背上了那把蕴含着韦鲁斯精魄的长弓。如今的韦鲁斯寻找着那些囚禁他的人，急欲施行报复，但体内的两个灵魂却在阻挠他的每一步行动。</p>",
+                "quote": "“你们没有把我们彻底毁灭，这个失误带来了你们的末日。”",
+                "quote-author": "韦鲁斯"
+            },
+            "headerImage": null
+        }
+    ],
+    "modules": [
+        {
+            "slug": "new-dawn",
+            "type": "featured-video",
+            "section-title": "影片",
+            "featured-image": {
+                "title": "featuredvideocover-new-dawn",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blteebf080253c3eca1-new-dawn.jpg",
+                "encoding": "image/jpeg",
+                "width": 1920,
+                "height": 1080,
+                "x": 1229,
+                "y": 350,
+                "featured-champions": []
+            },
+            "title": "新的曙光",
+            "subtitle": "",
+            "description": "黎明跨过炽热的鲜血和冰冷的钢铁组成的土地。第一缕曙光照耀之际已是开战之时。",
+            "uri": "https://v.qq.com/x/page/h0150c77woq.html",
+            "video": {
+                "type": "video",
+                "title": "",
+                "subtitle": "",
+                "description": [],
+                "uri": "https://v.qq.com/x/page/h0150c77woq.html",
+                "width": "",
+                "height": "",
+                "x": "",
+                "y": "",
+                "featured-champions": []
+            },
+            "blackout": null,
+            "release-date": "2014-07-22T15:00:00.000Z",
+            "video-type": "cinematic",
+            "featured-champions": [
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                },
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                },
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                },
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                },
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                },
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                },
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                },
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                },
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                },
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                }
+            ],
+            "related-champions": [
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                },
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                },
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                },
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                },
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                },
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                },
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                },
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                },
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                },
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                }
+            ]
+        },
+        {
+            "slug": "猎",
+            "type": "story-preview",
+            "title": "猎",
+            "subtitle": "作者：Anthony Burch",
+            "description": "以恐惧为食的野兽，与从不知害怕的猎手。注定是你死我活的结局。",
+            "story-slug": "rengar-prey",
+            "featured-image": {
+                "title": "rengar-vastaya-sketch",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt41dc291c5f29d61f-rengar-vastaya-sketch.jpg",
+                "encoding": "image/jpeg",
+                "width": 2500,
+                "height": 1707,
+                "x": 1340,
+                "y": 560,
+                "featured-champions": []
+            },
+            "background": {
+                "title": "rengar-vastaya-sketch",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt41dc291c5f29d61f-rengar-vastaya-sketch.jpg",
+                "encoding": "image/jpeg",
+                "width": 2500,
+                "height": 1707,
+                "x": 1340,
+                "y": 560,
+                "featured-champions": []
+            },
+            "release-date": "2017-04-23T15:00:00.000Z",
+            "featured-champions": [
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                }
+            ],
+            "minutes-to-read": 5,
+            "url": "/zh_cn/story/rengar-prey"
+        },
+        {
+            "slug": "艾都华·桑唐基罗的瓦斯塔亚田园调查手记",
+            "type": "story-preview",
+            "title": "艾都华·桑唐基罗的瓦斯塔亚田园调查手记",
+            "subtitle": null,
+            "description": "杂合的人类血脉？古老的灵力魔法？在我微不足道的探索过程中撞到了更伟大的问题……这次一定能成就一套非凡的丛书。一套冠军畅销书。<br><br>‘’艾都华桑唐基罗，皮尔特沃夫绅士，艾欧尼亚的探明者，艾欧尼亚荒野之中奇异瓦斯塔亚人的发现者。‘’我已经能听到他们给第一版出的宣传口号了。<br><br>",
+            "story-slug": "vastaya-field-journal",
+            "featured-image": {
+                "title": "vastaya-journal-long",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/bltc3da01bfcac91a39-vastaya-journal-long.jpg",
+                "encoding": "image/jpeg",
+                "width": 1124,
+                "height": 322,
+                "x": 718,
+                "y": 133,
+                "featured-champions": []
+            },
+            "background": {
+                "title": "vastaya-journal-long",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/bltc3da01bfcac91a39-vastaya-journal-long.jpg",
+                "encoding": "image/jpeg",
+                "width": 1124,
+                "height": 322,
+                "x": 718,
+                "y": 133,
+                "featured-champions": []
+            },
+            "release-date": "2017-04-04T15:00:00.000Z",
+            "featured-champions": [
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                }
+            ],
+            "minutes-to-read": 5,
+            "url": "/zh_cn/story/vastaya-field-journal"
+        },
+        {
+            "slug": "rengar-image-gallery",
+            "type": "image-gallery",
+            "section-title": "",
+            "isFanArt": false,
+            "fan-art-url": "",
+            "featured-image": "",
+            "title": "",
+            "subtitle": "",
+            "assets": [
+                {
+                    "title": "雷恩加尔影视用模型",
+                    "subtitle": "",
+                    "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blta16d6236e292b575-rengar_textured_model.jpg",
+                    "encoding": "image/jpeg",
+                    "width": 1909,
+                    "height": 664,
+                    "x": 2,
+                    "y": 36,
+                    "featured-champions": []
+                },
+                {
+                    "title": "雷恩加尔线稿",
+                    "subtitle": "",
+                    "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/bltaf5b550cc42be327-rengar_clothed_turn.jpg",
+                    "encoding": "image/jpeg",
+                    "width": 1920,
+                    "height": 646,
+                    "x": 918,
+                    "y": 368,
+                    "featured-champions": []
+                },
+                {
+                    "title": "雷恩加尔概念图",
+                    "subtitle": "",
+                    "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt333aecb8ab7ad11f-rengar_concept.jpg",
+                    "encoding": "image/jpeg",
+                    "width": 1920,
+                    "height": 873,
+                    "x": 342,
+                    "y": 386,
+                    "featured-champions": []
+                },
+                {
+                    "title": "雷恩加尔终版彩色版",
+                    "subtitle": "",
+                    "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt180b18546d433c23-rengar_final.jpg",
+                    "encoding": "image/jpeg",
+                    "width": 1500,
+                    "height": 1080,
+                    "x": 447,
+                    "y": 186,
+                    "featured-champions": []
+                },
+                {
+                    "title": "雷恩加尔原画概念图",
+                    "subtitle": "",
+                    "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt42492fb68ff7796d-rengar_splash_sketches.jpg",
+                    "encoding": "image/jpeg",
+                    "width": 890,
+                    "height": 1080,
+                    "x": 578,
+                    "y": 82,
+                    "featured-champions": []
+                }
+            ],
+            "featured-champions": [
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                }
+            ]
+        },
+        {
+            "slug": "rengar-fanart-gallery",
+            "type": "link-out",
+            "section-title": "Fan Art Showcase",
+            "title": "Rengar Fan Art Showcase",
+            "description": "Inspired by Rengar. Created by you.",
+            "url": "https://fanart.na.leagueoflegends.com/en_US/Rengar",
+            "featured-image": null,
+            "background": {
+                "title": "rengar-fan-art-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt39cda45f53b6f836-rengar-minerbill.jpg",
+                "encoding": "image/jpeg",
+                "width": 1024,
+                "height": 576,
+                "x": 543,
+                "y": 194,
+                "featured-champions": []
+            },
+            "cta": "",
+            "blackout": null,
+            "isFanArt": false,
+            "isComic": false
+        },
+        {
+            "slug": "rengar-artbook",
+            "type": "link-out",
+            "section-title": "",
+            "title": "英雄联盟瓦洛兰图志",
+            "description": "在我们的资料库中，你根本找不到雷恩加尔形象概念的迭代过程，因为他今天的形象与最初的概念设计基本上毫无二致。这位半人半猫的猎杀者的开发过程相当高效：从概念图到最终的发布，中间只过了不到五个月。当某些英雄随着游戏的更新而纷纷经历整容和修饰的时候，雷恩加尔却能够以最初的样貌一直神采焕发。",
+            "url": "https://lol.qq.com/act/export/artbook/index.html#chapter/champions/section/rengar",
+            "featured-image": null,
+            "subtitle": "短篇故事",
+            "background": {
+                "title": "rengar-artbook",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/bltcc086d9def102a17-rengar_artbook.jpg",
+                "encoding": "image/jpeg",
+                "width": 1095,
+                "height": 1142,
+                "x": 796,
+                "y": 357,
+                "featured-champions": []
+            },
+            "cta": "",
+            "blackout": null,
+            "isFanArt": false,
+            "isComic": false
+        },
+        {
+            "slug": "rengar-login",
+            "type": "featured-video",
+            "section-title": "",
+            "featured-image": {
+                "title": "rengar-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt4c3e514b7691fbf8-Rengar_0.jpg",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 900,
+                "y": 141,
+                "featured-champions": []
+            },
+            "title": "傲之追猎者雷恩加尔登录界面",
+            "subtitle": "",
+            "description": "",
+            "uri": "https://v.qq.com/x/page/z03639p3b5c.html",
+            "video": {
+                "type": "video",
+                "title": "",
+                "subtitle": "",
+                "description": [],
+                "uri": "https://v.qq.com/x/page/z03639p3b5c.html",
+                "width": "",
+                "height": "",
+                "x": "",
+                "y": "",
+                "featured-champions": []
+            },
+            "blackout": null,
+            "release-date": "2012-08-21T15:00:00.000Z",
+            "video-type": "champ-login-music",
+            "featured-champions": [
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                }
+            ],
+            "related-champions": [
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                }
+            ]
+        },
+        {
+            "slug": "bts-new-dawn",
+            "type": "featured-video",
+            "section-title": "电影幕后",
+            "featured-image": {
+                "title": "featuredvideocover-bts-new-dawn",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt0d32c3b5c40d011e-bts-new-dawn.png",
+                "encoding": "image/jpeg",
+                "width": 1911,
+                "height": 1079,
+                "x": 1495,
+                "y": 67,
+                "featured-champions": []
+            },
+            "title": "《新的曙光》：幕后花絮",
+            "subtitle": "",
+            "description": "了解我们如何进行角色、音乐、动画和音效的设计，让大家最喜欢的英雄登上银幕，为了荣誉，浴血奋战。",
+            "uri": "https://v.qq.com/x/page/g0140mih7dv.html",
+            "video": {
+                "type": "video",
+                "title": "",
+                "subtitle": "",
+                "description": [],
+                "uri": "https://v.qq.com/x/page/g0140mih7dv.html",
+                "width": "",
+                "height": "",
+                "x": "",
+                "y": "",
+                "featured-champions": []
+            },
+            "blackout": null,
+            "release-date": "2014-07-22T15:00:00.000Z",
+            "video-type": "behind-the-scenes",
+            "featured-champions": [
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                },
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                },
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                },
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                },
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                },
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                },
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                },
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                },
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                },
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                }
+            ],
+            "related-champions": [
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                },
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                },
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                },
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                },
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                },
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                },
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                },
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                },
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                },
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,648 @@
+{
+    "id": "nami",
+    "name": "娜美",
+    "title": "唤潮鲛姬",
+    "locale": "zh_cn",
+    "champion": {
+        "type": "champion",
+        "release-date": "2012-12-07T00:00:00.000Z",
+        "name": "娜美",
+        "title": "唤潮鲛姬",
+        "section-title": "娜美",
+        "slug": "nami",
+        "associated-faction": "",
+        "associated-faction-slug": "unaffiliated",
+        "image": {
+            "title": "nami-splash",
+            "subtitle": "",
+            "description": "",
+            "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt407f319931b9b1ec-Nami_0.jpg",
+            "encoding": "image/jpeg",
+            "width": 1215,
+            "height": 717,
+            "x": 1109,
+            "y": 110,
+            "featured-champions": []
+        },
+        "background": {
+            "title": "nami-splash",
+            "subtitle": "",
+            "description": "",
+            "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt407f319931b9b1ec-Nami_0.jpg",
+            "encoding": "image/jpeg",
+            "width": 1215,
+            "height": 717,
+            "x": 1109,
+            "y": 110,
+            "featured-champions": []
+        },
+        "url": "/zh_cn/champion/nami",
+        "video": {
+            "title": "nami-splashvideo-webm",
+            "subtitle": "",
+            "description": "",
+            "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt124a2f38379065f0-nami-splashvideo.webm",
+            "encoding": "video/webm",
+            "width": 1280,
+            "height": 720,
+            "x": 1109,
+            "y": 110,
+            "featured-champions": []
+        },
+        "races": [
+            {
+                "name": "瓦斯塔亚",
+                "slug": "vastaya"
+            }
+        ],
+        "roles": [
+            {
+                "name": "辅助",
+                "slug": "support"
+            },
+            {
+                "name": "法师",
+                "slug": "mage"
+            }
+        ],
+        "role": [
+            {
+                "name": "辅助",
+                "slug": "support"
+            },
+            {
+                "name": "法师",
+                "slug": "mage"
+            }
+        ],
+        "game-info-url": "https://lol.qq.com/web201310/info-defail.shtml?id=Nami",
+        "biography": {
+            "full": "<p>娜美作为强大年轻的瓦斯塔亚海族，可以运用她神奇的唤潮者之杖改变浪潮的形态，保护她的族人免受危险。她是族中第一个离开海洋、踏上陆地的人。面对眼前无法想象的未知局面，她咬紧牙关，怀着无比决心和无所畏惧的斗志一往无前。</p><p>在巨神峰的西边海域，有一个瓦斯塔亚的部族被称为鲛人族。很久以前，这些生物发现了一道在海底深渊里的裂缝。这道深不见底的裂缝里，有着令人恐惧且不断向外蔓延的黑暗，要把所有生物灭绝。</p><p>在鲛人族村落的中心，鲛人放置了一颗散发光芒的月石。传说这颗月石拥有天堂灌注的星辰魔力，它圣洁的光芒能够击退深处的黑暗，守护着鲛人的安全。每过一百年左右，月石会开始逐渐暗淡。在那时候，族人会挑选最强的战士，赋予他唤潮者的名号。</p><p>要获得唤潮者的称号，必须要潜入寒冷刺骨的深渊，克服种种可怕的障碍 ，带回一颗深海珍珠。如果成功，唤潮者就会代表鲛人族到海岸，与来自巨神峰之巅的光辉浪游者交易，以珍珠交换月石。对唤潮者来说，这是一场艰巨的过程，他背负着所有族人的命运，为遏止黑暗中的生物付上全力。过往鲛人族曾派出精英部队去深渊收集珍珠，但他们发现派遣越多人的时候，那些黑暗生物就越难缠，仿佛它们会因应对手的力量调节自身强弱。奇怪的是，当部队落得全军覆没的下场时，独自手持传奇魔杖的唤潮者却有可能避过深渊的危险，带着珍珠回归。</p><p>娜美一直以来的志向是成为唤潮者，她是个强悍的战士，但太年轻鲁莽了。她在族中是出了名的固执，因此尝过不少苦头。当她成年时，月石在一百年间首次变暗。她参加了唤潮者的选拔 。但由于她过分冲动的性格，最后，长老们却挑选了一个名叫拉夏的战士，他为人谨慎，在战争里能保持冷静，是他们理想的唤潮者。</p><p>拉夏潜入深渊后，整整一个月都再没有了音讯。历史上从来没有唤潮者失败的例子。</p><p>在等候中，月石的光芒快将消逝了，长老们起了争执。娜美知道，这时候必须<strong>有人</strong>挺身而出，担起唤潮者的任务，否则，大家会一同步向灭亡。</p><p>这个人，也许就是她。</p><p>娜美拿起母亲的深海魔杖，然后潜入了深渊。几天后，她回来了，虽然找到了珍珠与陨落的唤潮者魔杖，但在她的眼睛里可以看见隐隐的恐惧。 尽管对娜美的斗胆行事感到不满，长老们还是很钦佩她的勇气，并正式任命她为唤潮者。 她上升到地表世界，驾着潮浪到岸边与光辉浪游者见面。</p><p>但是，岸上并没有浪游者的踪影。只有一个老妇人站在沙滩上等待。</p><p>老妇人说自己的祖父母曾目睹过上一次唤潮者的交易。她来是为了告诉鲛人，这次没有月石了。唯一能用魔法变出月石的月亮星灵，已经逃离了巨神峰。</p><p>娜美对这个消息不敢置信。为了拯救族人的性命，她立譬要找到月亮星灵，寻回月石。</p><p>透过操控海潮的神奇力量，她在鱼尾下凝聚了一池永不干涸的流水，首次踏上陆地继续她的任务。</p><p>抱着不成功便成仁的决心，唤潮者向未知的世界游去。</p>",
+            "short": "娜美是一名强大年轻的瓦斯塔亚海族。当鲛人族与巨神族之间自古订立的契约被打破，她是第一个离开海洋、踏上陆地的人。她别无选择，只能挺身而出担此重任，完成神圣的仪式从而确保族人的安全。在这崭新时代的混乱浪潮中，娜美用无比的决心和无畏的斗志面对未知的明天，用手中的唤潮者之杖召唤来自海洋的力量。",
+            "quote": "“潮浪带来什么，由我决定。”",
+            "quote-author": "娜美"
+        },
+        "headerImage": null
+    },
+    "related-champions": [
+        {
+            "type": "champion",
+            "release-date": "2011-11-15T00:00:00.000Z",
+            "name": "菲兹",
+            "title": "潮汐海灵",
+            "section-title": "菲兹",
+            "slug": "fizz",
+            "associated-faction": "",
+            "associated-faction-slug": "unaffiliated",
+            "image": {
+                "title": "fizz-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/bltf6341c794f5cefbd-Fizz_0.jpg",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 1180,
+                "y": 104,
+                "featured-champions": []
+            },
+            "background": {
+                "title": "fizz-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/bltf6341c794f5cefbd-Fizz_0.jpg",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 1180,
+                "y": 104,
+                "featured-champions": []
+            },
+            "url": "/zh_cn/champion/fizz",
+            "video": null,
+            "races": [],
+            "roles": [
+                {
+                    "name": "刺客",
+                    "slug": "assassin"
+                },
+                {
+                    "name": "战士",
+                    "slug": "fighter"
+                }
+            ],
+            "role": [
+                {
+                    "name": "刺客",
+                    "slug": "assassin"
+                },
+                {
+                    "name": "战士",
+                    "slug": "fighter"
+                }
+            ],
+            "game-info-url": "https://lol.qq.com/web201310/info-defail.shtml?id=Fizz",
+            "biography": {
+                "full": "<p>在久远的过去，符文之地的海洋便远在陆地之前孕育了文明。如今被称为守望者之海的深处曾经存在过一座宏伟的城市——也是约德尔人菲兹定居的地方。他与这个高傲尊贵的族群中的工匠和战士们生活在一起。虽然菲兹和他们并非同类，他们对待他却没有任何偏见。加上他古灵精怪的脾性，还有在广阔海域中令人称奇的冒险经历，任何聚会只要有他都会充满了欢乐。</p><p>但世事变迁，海洋变得越来越温暖，引动了最深处海沟里凶暴的掠食者们。各处的定居点都失去了联系，但这座城市里的统治者们却还在争执该如何应对危险。菲兹自告奋勇出发去寻找幸存者，或是任何知道详情的人。</p><p>然后有一天，龙鲨来了。</p><p>这些身形庞大的怪兽会用尖利的啸声震晕猎物，宏伟都市的街道很快便布满了红云。短短几个小时内，成千上万的人死去了。龙鲨兴奋地捕食，狂热地横冲直撞，摧毁了城中的高塔和神庙。菲兹闻到了水中的血腥，便疾奔回来，想要加入战斗，保护这座城市。</p><p>太迟了。城里已经没有什么可以保护的东西了。等到混乱平复，没有任何人幸存，也没有一处不是残垣断壁。饥饿的龙鲨群已经远去。在冰冷的深海中，孤身一人的菲兹陷入了无望的悲痛。他任由自己随着洋流漂荡，约德尔人的魔力也开始消散，最终沉入了长寐，一梦便过了千年……</p><p>唤醒他的完全是一个意外。海面上游过一条木头做的大鱼，撒下了一把铜币，散落在尾迹附近的海床上。这当然不是龙鲨，可菲兹还是警觉起来他对上面的世界知之甚少，但肯定没有一条鱼能在水面上生活吧？他冒险往上游去，第一次探出了头，嗅到了咸涩的海风。</p><p>有人。他们生活在海洋之外，搭乘着大大小小的木头鱼在水上来回。菲兹感到又害怕又兴奋，但他们往水里扔下了神奇的礼物，说明他们肯定是想和他做朋友。于是，菲兹及时跟上了他们航行的轨迹，一路来到了港口城市比尔吉沃特。</p><p>在那个法外之地的居民口中，这个古怪又滑腻的生物很快成为了一个传说——潮汐海灵，来自海洋的精怪。据说他能召唤巨大的怪兽为己所用，在船壳上用他的海石三叉戟凿洞，而且在陆地上和海水中都能呼吸。许多不听话的小孩子都在月黑风高时听到警告：“快去睡觉，不然海灵就会把你捉去喂鱼……”</p><p>菲兹心地不坏，但哪怕是按约德尔人的标准来看也是淘气得过分。他很喜欢捉弄比尔吉沃特的居民。经验最老到的渔民知道，就好比大海会潮起潮落一样，潮汐海灵既能让他们一无所获，也能让他们的渔船满仓归来。即使如此，菲兹对贪婪或是自私的人毫不留情。那些傲慢的船长，一心想要赚笔快钱，却发觉自己的船在神秘的指引下抵达的不是港湾，而是灾难。</p>",
+                "short": "菲兹是一名水陆两栖的约德尔人，生活在比尔吉沃特周围的群礁之间。他会经常把迷信的船长们抛进海中的什一税捡起来物归原主。不过即使是最粗鲁的水手也知道不要招惹他，因为这里流传着的各种教训，都是因为低估了这个小鬼。经常有人误会他的行为只是海洋精灵的任性举动，而事实上他可以号令来自深渊的巨型猛兽，而且不管是盟友还是敌人他都喜欢捉弄。",
+                "quote": "“你们这些人居然没法在水里呼吸。你们真无聊。”",
+                "quote-author": "菲兹"
+            },
+            "headerImage": null
+        },
+        {
+            "type": "champion",
+            "release-date": "2012-02-14T00:00:00.000Z",
+            "name": "诺提勒斯",
+            "title": "深海泰坦",
+            "section-title": "诺提勒斯",
+            "slug": "nautilus",
+            "associated-faction": "",
+            "associated-faction-slug": "bilgewater",
+            "image": {
+                "title": "nautilus-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt758bc6307b613946-Nautilus_0.jpg",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 1075,
+                "y": 4,
+                "featured-champions": []
+            },
+            "background": {
+                "title": "nautilus-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt758bc6307b613946-Nautilus_0.jpg",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 1075,
+                "y": 4,
+                "featured-champions": []
+            },
+            "url": "/zh_cn/champion/nautilus",
+            "video": null,
+            "races": [],
+            "roles": [
+                {
+                    "name": "坦克",
+                    "slug": "tank"
+                },
+                {
+                    "name": "战士",
+                    "slug": "fighter"
+                }
+            ],
+            "role": [
+                {
+                    "name": "坦克",
+                    "slug": "tank"
+                },
+                {
+                    "name": "战士",
+                    "slug": "fighter"
+                }
+            ],
+            "game-info-url": "https://lol.qq.com/web201310/info-defail.shtml?id=Nautilus",
+            "biography": {
+                "full": "<p>想要搞明白诺提勒斯的传说，就必须首先了解这个人——哪怕是在最夸张的酒馆奇谈中，他也确实是一个人类。</p><p>虽然潮水已经早已带走了他的本名，但很多人都记得诺提勒斯从前不单单是个水手，还是一个打捞人。在蓝焰岛最南边的海域有一片船墓，据说这支船队是为了寻找一座福光庇佑的岛屿，用财富换取永生的秘密，却最终沉没于此。晴朗的天气里，人们能够从水面上看到船墓里闪烁的光亮。很多船队都在找人打捞这些遗失的宝藏，但没有谁的潜水技术能够与肌肉健硕的诺提勒斯相提并论。</p><p>诺提勒斯吸一口气就足够让一艘大帆船失去风力，所以他更喜欢自由潜水。虽然他总能从水底给船员们带回可观的金子和珠宝，但他却并不要求什么特别的奖赏——只是要求船长在每次出航前一定要将一枚硬币扔进海里，算是给广阔的大海献上的贡品。这当然是水手的迷信，但许多远航的船队都会如此进贡，求的就是平安的归航。</p><p>经过数年的打捞，这笔来得轻巧的财富逐渐见底，每次下水的收成越来越少。直到有一天，大家发现整个船队已经连人带船都被转手给了下家。</p><p>新来的船长登船那天，黎明猩红如血。他出身自某个外地的港口，带来了一件硕大的用黄铜和精铁铸成的潜水装。他盯上了诺提勒斯——实际上，他买这条船也就是为了诺提勒斯。这个船长显然是看中了一处特别的沉船，即使是在晴天时也笼罩在一片黑暗里。潜水装可以比任何人类更加长时间地承受海床的压力，足够捞干净那片诡异的阴翳。</p><p>船员们都觉得有活儿干总比挨饿强，所以诺提勒斯就被塞进了潜水装里，压得木头甲板都发出了呻吟。这时他意识到，船员们并没有钱缴纳什一税。恐慌扼住了他的喉头。外来的船长大笑着，看着诺提勒斯被放进水里。他跟船员们保证，无论胡子女士藏着的秘密是什么，都会让他们一夜暴富。那点儿愚蠢的税贡等到诺提勒斯上来以后再缴就是了。</p><p>诺提勒斯沉进海里，上方的光渐渐暗淡，一切寂静，只剩下他的呼吸声回荡在铁制的潜水装里。然后，有什么东西从深处探了出来，拉着他往下拖。诺提勒斯头一次感觉到恐惧像溶液一样浆住了心脏。这下面不是什么船长渴望的宝藏，而是某种沉睡中的可怕力量。</p><p>诺提勒斯抓住船锚的铁链——这是他和人间的唯一联系，拼命地往上爬，同时海底的东西仍在拉扯着他。可是重量太大了。他硕大的手指头差一点儿就要露出水面时，铁链断了。可没人能听得到诺提勒斯在潜水装里的惨叫。他绝望地抱紧怀里的铁锚，翻滚着跌进了漆黑如墨的漩涡。黑暗的触角缠住他的身躯，他只能看到船身隐约的轮廓逐渐淡去。再然后，一切落入黑暗。</p><p>等到诺提勒斯在海床上醒来时，他已经变得……不一样了。黑暗已经不再让他感到疼痛。巨大的潜水装已经和他融为一体变成了外壳，掩藏起他被原生的力量所侵蚀的灵魂。他被困在了暗无天日的海底，只剩下一个记忆——新来的船长食言了。</p><p>诺提勒斯当下发誓，所有人都要向大海缴税。他会亲自监督。</p><p>诺提勒斯被这个念头驱使着，朝海岸跋涉而去。但等他来到了比尔吉沃特，已经过去了好些年，船长和船员早已无处可寻。他既没有办法重生，也没有办法报仇。他没有回到海底，而是将怒火发泄到那些贪婪的人身上，用手中伟岸的铁锚砸烂他们的舰船。</p><p>有时候，在起伏的波涛间，遥远的记忆会自行浮现……但身为诺提勒斯的他却总是潜伏在水面之下。</p>",
+                "short": "早在比尔吉沃特立起第一座码头的时候，就有一个孤独的传说。身着铁甲的巨人诺提勒斯在蓝焰岛附近的黑暗水域中徘徊。他心里记恨着一桩不可原谅的背叛，毫无预警地出手。他甩动巨大的船锚，拯救落难的可怜虫，或是将贪婪的人拖进末日。据说，没有缴“比尔吉沃特什一税”的人就是他的目标。他会带着他们和自己一起沉入波涛——相当于一个铁板钉钉的提醒，没人能逃脱深海的制裁。",
+                "quote": "“被无边的黑暗吞噬时，除了向前，别无他法。”",
+                "quote-author": "诺提勒斯"
+            },
+            "headerImage": null
+        }
+    ],
+    "explore-champions": [
+        {
+            "type": "champion",
+            "release-date": "2012-07-24T00:00:00.000Z",
+            "name": "婕拉",
+            "title": "荆棘之兴",
+            "section-title": "婕拉",
+            "slug": "zyra",
+            "associated-faction": "",
+            "associated-faction-slug": "ixtal",
+            "image": {
+                "title": "zyra-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt8f56250bca8202a9-Zyra_0.jpg",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 1070,
+                "y": 38,
+                "featured-champions": []
+            },
+            "background": {
+                "title": "zyra-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt8f56250bca8202a9-Zyra_0.jpg",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 1070,
+                "y": 38,
+                "featured-champions": []
+            },
+            "url": "/zh_cn/champion/zyra",
+            "video": {
+                "title": "zyra-splashvideo-webm",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt59ff15e0667a9108-zyra-splashvideo.webm",
+                "encoding": "video/webm",
+                "width": 1280,
+                "height": 720,
+                "x": 1070,
+                "y": 38,
+                "featured-champions": []
+            },
+            "races": [],
+            "roles": [
+                {
+                    "name": "法师",
+                    "slug": "mage"
+                },
+                {
+                    "name": "辅助",
+                    "slug": "support"
+                }
+            ],
+            "role": [
+                {
+                    "name": "法师",
+                    "slug": "mage"
+                },
+                {
+                    "name": "辅助",
+                    "slug": "support"
+                }
+            ],
+            "game-info-url": "https://lol.qq.com/web201310/info-defail.shtml?id=Zyra",
+            "biography": {
+                "full": "<p>婕拉的记忆很久远，而且和大地的根脉一样深厚。她记得自己的族类还很年轻的时候，符文战争席卷世界，凡人的军队互相征战，争夺造物的关键。</p><p>在库莽古南方的密林中，分割东部恕瑞玛的两条大河之间，隐藏着传说中的婕露花园。元素魔法以奇异无常的方式改变了这片土地，养育了凶猛的食肉植物。任何靠近的迷途生物都是它们的猎物。它们在这里生长、吞食，毫不在意凡人之间的争吵，只要藤条不断爬过森林和沼泽，就能让它们心满意足。从它们的角度来说，它们<i>全都是<i>婕拉……食物和营养十分丰富，即使在战乱下也不受影响。<p><p>有一小群士兵，他们所效忠的势力现已遗失在时间中，当时他们穿越这片土地是为了寻找怎样的战利品，现在也已无人记得。带领他们的是一位野心勃勃的女法师——但他们却远离家乡，注定要葬身于这片诅咒之地的毒雾和孢粉之中。</p><p>花园的居民袭向他们，带刺的触须抽打在铠甲和血肉上，轻而易举地撕裂。虽然他们英勇抵抗，但这群战士知道自己坚持不了多久，于是向他们的女法师求助。她唤起力量，制造了一次强力的爆炸。空气中燃烧着符文的印记，发出诡异的光，此时丛生的荆棘已经开始包围逼近。</p><p>就在那一瞬间，一个失控的火花点燃了弥漫的沼气，导致爆炸抹杀了方圆几里之内的一切生灵。散落在各地的符文战争的幸存者中，没有任何人知道婕露花园最终遭遇的命运。</p><p>几百年过去了。曾作为战场的土地表面空旷死寂……但在地下的深处，<i>有东西<i>被搅动了。爆发的能量早已沉淀、凝结，在魔爆异尘的滋养下，一个种荚胀开了，脉动着非自然的生命力。最后，一个生物爬了出来，大口喘息，充满疑惑。<p><p>它看到一个破碎的、不一样的世界，身体中洋溢着新的活力和新的想法。它的脑海中混杂着矛盾的记忆，是它脚下的沃土给了它记忆，强行灌输到这个刚刚诞生的自我意识当中。它能记起太阳的温暖、雨露的甘甜、力量的言辞还有上百个凡人死亡的痛苦。</p><p>出于某个它自己也不理解的理由，它——<i>她<i>——将自己称为婕拉。<p><p>她踏出诞生地，走向外面的旷野，婕拉知道自己和遇到的其他生物截然不同。凡人让她觉得可怕和不悦，而那些缥缈的灵体则往往反复无常，或者狂妄自大。这些生灵似乎全都不尊重自己所生存的领域，只要存在就要无度地掠夺。这样的生灵让婕拉充满愤怒与鄙夷。她踏足过的土地上，新的生命肆无忌惮地萌发出来——全都是贪婪的植物，在她的注视下不断改变与进化，能够射出剧毒的倒刺，或者以可怕的速度萌发出藤蔓触须。</p><p>不再受根系所限的婕拉开始了游荡，她带着夺命的果实种籽不断捕食和成长，绞杀世界上的一切其他生命。她曾让耕地凋零，侵占整座定居点，并碾碎那些对抗她的勇者或者蠢人，所到之处全都变成可怕的奇花异草的展廊。</p><p>随着恕瑞玛的河流再度充沛，河岸上出现了陌生的植被，每个季节都在慢慢向东蔓延。无论是被连根拔起还是被烈火焚烧，生长的速度都丝毫不见减缓……</p>",
+                "short": "婕拉诞生于一次远古的巫术灾难，她是获得了实体形态的自然之怒，是拥有诱人外观的植物与人类的混合体。她的每一个脚步都在点燃新的生命。在她眼里，瓦洛兰的众多凡人都只不过是供她播种的猎物，用夺命的尖刺杀死他们也是一件不值一提的小事。虽然她的真正目的还是个谜，但婕拉一直在世界上流浪，肆意放纵自己占领土地的欲望，同时扼杀自己领地上的所有其他生命。",
+                "quote": "“你的朋友哪去了？我的朋友可就在旁边……”",
+                "quote-author": "婕拉"
+            },
+            "headerImage": null
+        },
+        {
+            "type": "champion",
+            "release-date": "2011-07-26T00:00:00.000Z",
+            "name": "孙悟空",
+            "title": "齐天大圣",
+            "section-title": "孙悟空",
+            "slug": "monkeyking",
+            "associated-faction": "",
+            "associated-faction-slug": "ionia",
+            "image": {
+                "title": "monkeyking-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/bltac6dc4d0af9fd20e-MonkeyKing_0.jpg",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 852,
+                "y": 132,
+                "featured-champions": []
+            },
+            "background": {
+                "title": "monkeyking-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/bltac6dc4d0af9fd20e-MonkeyKing_0.jpg",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 852,
+                "y": 132,
+                "featured-champions": []
+            },
+            "url": "/zh_cn/champion/monkeyking",
+            "video": null,
+            "races": [
+                {
+                    "name": "瓦斯塔亚",
+                    "slug": "vastaya"
+                }
+            ],
+            "roles": [
+                {
+                    "name": "战士",
+                    "slug": "fighter"
+                },
+                {
+                    "name": "坦克",
+                    "slug": "tank"
+                }
+            ],
+            "role": [
+                {
+                    "name": "战士",
+                    "slug": "fighter"
+                },
+                {
+                    "name": "坦克",
+                    "slug": "tank"
+                }
+            ],
+            "game-info-url": "https://lol.qq.com/web201310/info-defail.shtml?id=MonkeyKing",
+            "biography": {
+                "full": "<p>在艾欧尼亚的魔法森林中，栖息着一支瓦斯塔亚群落，名叫思猕猿。他们是一群小心谨慎的居民，认为生命便是一场在智慧之树上的攀援，因此他们相信自己死后会变成石头，回归土地，重新开始生命的攀援。</p><p>年轻气盛的空是思猕猿中的异类、他鲁莽冲动、机灵滑头而且总是百无聊赖。在无数个年岁里，他们一直都在忍受他的恶作剧……直到有一天，他急匆匆地赶来，坚称有一只巨大的元素龙要来焚毁他们的丛林家园。</p><p>但当整个部落都开始逃窜的时候，空却在咯咯笑。他们意识到自己再次被空愚弄，他们的耐心也终于到了极限，于是思猕猿群落将他流放了。对于这件事，空自己倒是觉得有利也有弊。他决定要去外面寻找更有幽默感的人。</p><p>他基本上靠招摇撞骗讨生活，自称“猴王”，经常向人类发出挑战，进行决斗或者狡猾的博弈。他号称百战百胜——直到他在芝云内陆遇见了一个诺克萨斯刽子手。那个诺克萨斯人和战友们追逐这个美猴王一直追到荒郊野外，追到他躲藏起来、无处可寻。等到那些入侵者彻底离开初生之土以后，他才再次现身。</p><p>随着时间流逝，空看到了诺克萨斯对他的家园犯下的暴行。</p><p>他启程去寻找传说中的格斗大师，无极一派，但却发现他们的村落已被夷为平地。唯一一个活着的灵魂，是一个静坐在废墟中的人，于是空挑战他进行一场和平的比试。那个人只用了一个动作，站起来，把这名瓦斯塔亚打倒，然后便回到自己的冥想中。</p><p>接下来的数周里，空一次次地返回，决心要击败这个死板的男人，但无论这位美猴王出击的角度是从后、从上还是从下，都总是略逊一筹。即使这名瓦斯塔亚用<i>滑稽至极</i>的笑话干扰他，这位武士也依然能在任何时刻预感到空的攻击。甚至当空在他的茶里掺入令人昏厥的烈酒，他也能不动声色地拒绝饮茶。</p><p>最后，这位美猴王心悦诚服地跪在这个人面前，祈求学习他的武道。空想要成为最强大的战士，但他还想成就更伟大的事，只是他不知道如何用语言去描述。</p><p>这个人看到了空的谦卑，他知道这个瓦斯塔亚已经准备好了。他报上了自己的名号，易，无极的最后一位师父。他也同意向空传授克己和耐心的真谛。他可以帮助空将鲁莽和冲动转化成为夺命的迅猛和出其不意的招式。</p><p>这二人彼此获得了对方的尊重，但易却一直不愿提起自己的过去，以及他为何不肯离开这片村庄废墟。空向易提出了一个提议，二人展开一场友好的切磋。如果空获胜，易就必须告诉他自己为何不再战斗。如果易获胜，空在未来四季里都不准说话。</p><p>易欣然接受了。</p><p>当空最初来到无极的时候，曾途经过一片烟雾罂粟花田，于是他在这次比试的时候把师父引了过去。每次易出手进攻，身边的花朵都会炸开——直到最后他在微光的粉尘中<i>以为</i>自己逮到了空并果断出击，结果却击中的是稻草扎成的诱饵。空抓住机会，把易擒在地上。</p><p>终于，易对空讲出了实情。他和同门弟子在战争期间去前线保卫艾欧尼亚，却使得诺克萨斯拿无极泄愤。他恨自己害死了村里的所有人，于是为了忏悔，守望着这片废墟。</p><p>空意识到，这就是他所追寻的。虽然被自己的部落流放，但他还是想要保卫思猕猿，因为那曾是他长久的避风港，也是他追寻智慧与启迪的起点。易为自己的学生感到自豪，他也获得了全新的目标感——他赠给空一根附魔的长棍，这根长棍由传奇的工匠多兰打造，只有无极之道最杰出的弟子才有资格接受这一荣誉的象征。</p><p>从那天开始，空有了新的名字，悟空。</p><p>虽然战争早已结束，但诺克萨斯留下的影响却依然残害着艾欧尼亚。远古森林中被开出了道路，自封的“税官”向一无所有的老实人伸手索取，复苏的重大祭典也逐年衰退。</p><p>但悟空和易大师这两位伟大的武士已经准备好了。他们并肩前行，在初生之土上云游四方，他们要惩恶扬善、行侠仗义。</p>",
+                "short": "悟空是一个瓦斯塔亚族的机灵鬼，用自己的力量、灵敏和机智迷惑对手并抢得先机。机缘巧合让他结识了一位剑客并与之成为一生的挚友，这位剑客被人称作易大师。后来，悟空就成为了古老武术门派“无极”的最后一位弟子。如今，附魔长棍傍身的悟空，目标是让艾欧尼亚免遭崩溃的命运。",
+                "quote": "“我的游记才刚刚开始……”",
+                "quote-author": "孙悟空"
+            },
+            "headerImage": null
+        }
+    ],
+    "modules": [
+        {
+            "slug": "nami-intotheabyss",
+            "type": "link-out",
+            "section-title": "",
+            "title": "娜美：深潜",
+            "description": "<p>在符文之地深邃的大洋中，月石的光芒守卫着鲛人族的平安。</p><p>通过古老的仪式，鲛人们会选出一名勇士潜进更深的海渊取回一粒深渊珍珠，再与陆行者交换一颗新的月石。</p><p>但他们选中的唤潮者却没有回来。</p><p>鲛人族里有个任性的女孩名叫娜美，她决定自己潜入那片深沉的黑暗中，趁着月石的光芒还未彻底黯淡之前……</p>",
+            "url": "/zh_CN/comic/nami/intotheabyss",
+            "featured-image": null,
+            "subtitle": "短篇故事",
+            "background": {
+                "title": "nami-intotheabyss",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/bltc469c2d76df0a304-nami-intotheabyss-cover.jpg",
+                "encoding": "image/jpeg",
+                "width": 1920,
+                "height": 1251,
+                "x": 1352,
+                "y": 480,
+                "featured-champions": []
+            },
+            "cta": "",
+            "blackout": null,
+            "isFanArt": false,
+            "isComic": true
+        },
+        {
+            "slug": "第一步",
+            "type": "story-preview",
+            "title": "第一步",
+            "subtitle": null,
+            "description": "未经世事的她带来了灭亡的警告。恐惧难当的人们却举起了火把。",
+            "story-slug": "nami-first-steps",
+            "featured-image": {
+                "title": "vastaya-sketch-nami",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/bltadf362cc83378250-nami-vastaya-sketch.jpg",
+                "encoding": "image/jpeg",
+                "width": 3000,
+                "height": 2255,
+                "x": 763,
+                "y": 502,
+                "featured-champions": []
+            },
+            "background": {
+                "title": "vastaya-sketch-nami",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/bltadf362cc83378250-nami-vastaya-sketch.jpg",
+                "encoding": "image/jpeg",
+                "width": 3000,
+                "height": 2255,
+                "x": 763,
+                "y": 502,
+                "featured-champions": []
+            },
+            "release-date": "2017-04-23T15:00:00.000Z",
+            "featured-champions": [
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                }
+            ],
+            "minutes-to-read": 5,
+            "url": "/zh_cn/story/nami-first-steps"
+        },
+        {
+            "slug": "艾都华·桑唐基罗的瓦斯塔亚田园调查手记",
+            "type": "story-preview",
+            "title": "艾都华·桑唐基罗的瓦斯塔亚田园调查手记",
+            "subtitle": null,
+            "description": "杂合的人类血脉？古老的灵力魔法？在我微不足道的探索过程中撞到了更伟大的问题……这次一定能成就一套非凡的丛书。一套冠军畅销书。<br><br>‘’艾都华桑唐基罗，皮尔特沃夫绅士，艾欧尼亚的探明者，艾欧尼亚荒野之中奇异瓦斯塔亚人的发现者。‘’我已经能听到他们给第一版出的宣传口号了。<br><br>",
+            "story-slug": "vastaya-field-journal",
+            "featured-image": {
+                "title": "vastaya-journal-long",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/bltc3da01bfcac91a39-vastaya-journal-long.jpg",
+                "encoding": "image/jpeg",
+                "width": 1124,
+                "height": 322,
+                "x": 718,
+                "y": 133,
+                "featured-champions": []
+            },
+            "background": {
+                "title": "vastaya-journal-long",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/bltc3da01bfcac91a39-vastaya-journal-long.jpg",
+                "encoding": "image/jpeg",
+                "width": 1124,
+                "height": 322,
+                "x": 718,
+                "y": 133,
+                "featured-champions": []
+            },
+            "release-date": "2017-04-04T15:00:00.000Z",
+            "featured-champions": [
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                }
+            ],
+            "minutes-to-read": 5,
+            "url": "/zh_cn/story/vastaya-field-journal"
+        },
+        {
+            "slug": "nami-image-gallery",
+            "type": "image-gallery",
+            "section-title": "",
+            "isFanArt": false,
+            "fan-art-url": "",
+            "featured-image": "",
+            "title": "",
+            "subtitle": "",
+            "assets": [
+                {
+                    "title": "娜美动画研究",
+                    "subtitle": "",
+                    "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt9b2d113aa2c1f4fa-nami_animationstudies.jpg",
+                    "encoding": "image/jpeg",
+                    "width": 1484,
+                    "height": 1080,
+                    "x": 693,
+                    "y": 141,
+                    "featured-champions": []
+                },
+                {
+                    "title": "娜美概念艺术",
+                    "subtitle": "",
+                    "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt61e8f1f0ce859124-nami_orthos.jpg",
+                    "encoding": "image/jpeg",
+                    "width": 1719,
+                    "height": 1080,
+                    "x": 92,
+                    "y": 422,
+                    "featured-champions": []
+                },
+                {
+                    "title": "娜美肖像探索",
+                    "subtitle": "",
+                    "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt314f943f73b19c10-nami_portrait.jpg",
+                    "encoding": "image/jpeg",
+                    "width": 1134,
+                    "height": 1080,
+                    "x": 312,
+                    "y": 64,
+                    "featured-champions": []
+                },
+                {
+                    "title": "鲨鱼玩笑",
+                    "subtitle": "",
+                    "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/bltab1bbb83d6685e24-nami_sharkjoke.jpg",
+                    "encoding": "image/jpeg",
+                    "width": 1019,
+                    "height": 1080,
+                    "x": 496,
+                    "y": 64,
+                    "featured-champions": []
+                },
+                {
+                    "title": "娜美概念艺术",
+                    "subtitle": "",
+                    "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt5d0b5b8f05b1a27e-nami_the_tidecaller.jpg",
+                    "encoding": "image/jpeg",
+                    "width": 1601,
+                    "height": 1080,
+                    "x": 1177,
+                    "y": 873,
+                    "featured-champions": []
+                }
+            ],
+            "featured-champions": [
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                }
+            ]
+        },
+        {
+            "slug": "nami-fanart-gallery",
+            "type": "link-out",
+            "section-title": "Fan Art Showcase",
+            "title": "Nami Fan Art Showcase",
+            "description": "Inspired by Nami. Created by you.",
+            "url": "https://fanart.na.leagueoflegends.com/en_US/Nami",
+            "featured-image": null,
+            "background": {
+                "title": "nami-fan-art-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blte535fb59d512bf62-sea-witch-nami.jpg",
+                "encoding": "image/jpeg",
+                "width": 1900,
+                "height": 1131,
+                "x": 1464,
+                "y": 311,
+                "featured-champions": []
+            },
+            "cta": "",
+            "blackout": null,
+            "isFanArt": false,
+            "isComic": false
+        },
+        {
+            "slug": "nami-song",
+            "type": "featured-video",
+            "section-title": "英雄联盟音乐专辑",
+            "featured-image": {
+                "title": "featuredvideocover-nami-song",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt0822923e58002d63-nami-song.jpg",
+                "encoding": "image/jpeg",
+                "width": 1280,
+                "height": 720,
+                "x": 616,
+                "y": 387,
+                "featured-champions": []
+            },
+            "title": "唤潮鲛姬",
+            "subtitle": "",
+            "description": "",
+            "uri": "https://v.qq.com/x/page/u0145un1ni2.html",
+            "video": {
+                "type": "video",
+                "title": "",
+                "subtitle": "",
+                "description": [],
+                "uri": "https://v.qq.com/x/page/u0145un1ni2.html",
+                "width": "",
+                "height": "",
+                "x": "",
+                "y": "",
+                "featured-champions": []
+            },
+            "blackout": null,
+            "release-date": "2015-01-27T16:00:00.000Z",
+            "video-type": "song-visualization",
+            "featured-champions": [
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                }
+            ],
+            "related-champions": [
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                }
+            ]
+        }
+    ]
+}

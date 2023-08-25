@@ -1,0 +1,552 @@
+{
+    "id": "ornn",
+    "name": "奥恩",
+    "title": "山隐之焰",
+    "locale": "zh_cn",
+    "champion": {
+        "type": "champion",
+        "release-date": "2017-08-22T00:00:00.000Z",
+        "name": "奥恩",
+        "title": "山隐之焰",
+        "section-title": "奥恩",
+        "slug": "ornn",
+        "associated-faction": "",
+        "associated-faction-slug": "freljord",
+        "image": {
+            "title": "ornn-splash",
+            "subtitle": "",
+            "description": "",
+            "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/bltdf55bc487bced1a5-ornn-splash.jpg",
+            "encoding": "image/jpeg",
+            "width": 1920,
+            "height": 1080,
+            "x": 949,
+            "y": 328,
+            "featured-champions": []
+        },
+        "background": {
+            "title": "ornn-splash",
+            "subtitle": "",
+            "description": "",
+            "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/bltdf55bc487bced1a5-ornn-splash.jpg",
+            "encoding": "image/jpeg",
+            "width": 1920,
+            "height": 1080,
+            "x": 949,
+            "y": 328,
+            "featured-champions": []
+        },
+        "url": "/zh_cn/champion/ornn",
+        "video": null,
+        "races": [],
+        "roles": [
+            {
+                "name": "坦克",
+                "slug": "tank"
+            },
+            {
+                "name": "战士",
+                "slug": "fighter"
+            }
+        ],
+        "role": [
+            {
+                "name": "坦克",
+                "slug": "tank"
+            },
+            {
+                "name": "战士",
+                "slug": "fighter"
+            }
+        ],
+        "game-info-url": "https://lol.qq.com/act/a20170807ornn/",
+        "biography": {
+            "full": "<p>在将来被称为弗雷尔卓德的土地上，奥恩的名字曾经无人不晓。人们普遍相信，奥恩是旧时半神中第一位降生的。他塑造了大地，也带来了初雪。</p><p>相比其他半神，奥恩更喜欢隐逸世外。他习惯独来独往，心无旁骛。在一座沉眠的火山上，披挂着远古时期的爆发所留下的累累疤痕，奥恩就在山底下随心所欲地锻造打磨，日夜不分。结果就是创造出了相当数量的无价之宝，从诞生之初就被赋予了传奇的命运。有些非常幸运的家伙碰巧偶遇了这些神器，都会被它们极高的品质震慑。有些人说，布隆的大盾就是奥恩几千年前的作品，因为这扇巨盾永远光亮如新，仿佛昨天才刚刚出炉一般。</p><p>不过没人敢拍胸脯保证，因为没人能找到这位神仙，亲口问问他。几乎所有有关他的传说都在历史中湮灭了，有的是因为他的敌人，而有的则单纯是因为漫漫的时间。</p><p>如今，只有极少的一些断章仍在一小撮部落中流传。这些部落可以一直上溯到一种独属于铁匠、工匠和酿酒大师的文化，然而也早已失落。这群绝迹了的先民被称作炉家人。慕奥恩之名，他们从世界各地跋涉而至，在炉乡山下定居，一心希望能掌握奥恩那般精湛的技艺。</p><p>尽管这群人对奥恩崇仰有加，但他们自己从来不觉得自己是炉家人的守护神。当他们呈上各自的作品时，奥恩只会微微点头或者皱一下眉。而炉家人也会欣然接受，并且更加坚定了磨炼自身技艺的决心。因此，他们能够造出最精巧的工具，最坚固的房屋，还酿出了世上最美味的麦芽酒。奥恩对炉家人坚持不懈的努力和不断提高的渴望产生了发自心底的赞许。</p><p>但是，灾难在某天夜晚降临了。出于凡人不知的缘由，奥恩和他的兄弟沃利贝尔在山巅大打出手，也连带着毁掉了炉家人辛苦创造的一切。火焰、灰烬和闪电从天而降，卷起可怕的风暴，哪怕你身在十道地平线之外都能看见。等到尘埃落定，炉乡成了一个冒着烟的火山口，而炉家人全都粉身碎骨，血肉骨髓混在余烬里慢慢沉寂。</p><p>虽然奥恩口头上永远不会承认，但他完全垮了。他在炉家人身上曾经瞥见了凡间生命喷薄的潜能，但这些生命却在不朽者一视同仁的暴怒之下眨眼间彻底毁灭。巨大的内疚感让他五内俱焚，他孤单地回到了工坊里，闭关埋头苦修，从此不见世事。</p><p>但是现在，他感觉到外面的世界已经一脚踏入了新的时代。有一些他的兄弟姐妹再次化成了实体，他们的追随者们也变得越来越狂热冲动。弗雷尔卓德四分五裂，群龙无首，远古的恐怖正潜伏在阴影中，窥伺着大举入侵的机会。空前的动乱即将到来。</p><p>无论是未雨绸缪，还是战后的重建，奥恩知道弗雷尔卓德——还有整个符文之地，都急需一位手艺超凡的好铁匠。</p>",
+            "short": "奥恩是弗雷尔卓德的一位半神，主掌着锻造和工艺。他在名为炉乡的火山下的溶洞中凿出了一座雄伟的工坊，独自一人在里头干活。他摆弄着熔岩沸腾的坩埚，提炼矿石，打造出无与伦比的精良物件。当其他神灵——尤其是沃利贝尔，在大地上行走并且介入了凡间的事务时，奥恩就会出面，将这些鲁莽的家伙劝回各自的位置上。要么是用手里可靠的锤子，要么就是群山的烈火。",
+            "quote": "“我说完了。”",
+            "quote-author": "奥恩"
+        },
+        "headerImage": null
+    },
+    "related-champions": [
+        {
+            "type": "champion",
+            "release-date": "2011-11-29T00:00:00.000Z",
+            "name": "沃利贝尔",
+            "title": "不灭狂雷",
+            "section-title": "沃利贝尔",
+            "slug": "volibear",
+            "associated-faction": "",
+            "associated-faction-slug": "freljord",
+            "image": {
+                "title": "volibear-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/bltbf16308b8376a69b-volibear-splash.jpg",
+                "encoding": "image/jpeg",
+                "width": 1922,
+                "height": 1131,
+                "x": 1113,
+                "y": 50,
+                "featured-champions": []
+            },
+            "background": {
+                "title": "volibear-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/bltbf16308b8376a69b-volibear-splash.jpg",
+                "encoding": "image/jpeg",
+                "width": 1922,
+                "height": 1131,
+                "x": 1113,
+                "y": 50,
+                "featured-champions": []
+            },
+            "url": "/zh_cn/champion/volibear",
+            "video": null,
+            "races": [],
+            "roles": [
+                {
+                    "name": "战士",
+                    "slug": "fighter"
+                },
+                {
+                    "name": "坦克",
+                    "slug": "tank"
+                }
+            ],
+            "role": [
+                {
+                    "name": "战士",
+                    "slug": "fighter"
+                },
+                {
+                    "name": "坦克",
+                    "slug": "tank"
+                }
+            ],
+            "game-info-url": "https://lol.qq.com/web201310/info-defail.shtml?id=Volibear",
+            "biography": {
+                "full": "<p>在一些人心中，他是雷霆咆哮，是滚雷风暴，是瓦尔海尔。另一些人心中，他是荒芜，是受过千万刀枪的巨熊，还是屹立者。但在那些依然遵循旧习古道的部族中，他被称为沃利贝尔。</p><p>破坏、力量、还有化为实体的风暴，沃利贝尔代表了所有不可阻挡的力量，也代表着弗雷尔卓德这片土地本身的怒火。早在凡尘种族来到世上之前，沃利贝尔和他的半神同胞们塑造了这片土地，并称之为<i>沃尔瑞加德</i>。传说中，他一掌下去，撕出了“五岔峡湾”；他与岩浆巨蟒<i>隆德</i>展开的史诗之战形成了无数条峡谷与沟壑；沃利贝尔最终击败了那只野兽，它流出的鲜血成为了弗雷尔卓德上的第一条河流，它留下的巨大骸骨形成了飞龙背山脉。</p><p>在先民部族的时代，野性的魔法汹涌奔放。沃利贝尔受到所有人的崇敬与膜拜，因为人们都需要他不羁的力量才能够生存。大战一次次打响，沃利贝尔每次都会带着自己的追随者冲上战场，他们身穿着刻有符文的战甲，铸造者正是他的兄长，熔炉的半神，奥恩。当时，兄弟俩情同钢铁，经常并肩作战，只不过奥恩从来都没那么渴望战斗。沃利贝尔在攻坚克难后的胜利中欣喜若狂，后来献给他的血祭越来越多，他的力量也越来越膨胀。</p><p>不多时日，沃利贝尔就和他的同胞们渐渐疏离，醉心于各自不同的追求。即便如此，他们之间并没有真正的分歧……直到后来新的思想开始取代古老的信仰。</p><p>三姐妹的势力崛起了，她们要掌控弗雷尔卓德并带来秩序。应当如何应对，诸位半神无法达成一致。以艾尼维亚为首的几位，倾向于跟三姐妹合作，而沃利贝尔和铁山猪则想要摧毁她们。其他半神则打算置之不理，因为这些渺小的生物终有一死，世世代代皆无例外。</p><p>沃利贝尔的目光看向了他的追随者——极为野蛮残暴的熊人族。只要有他们，他就能击败三姐妹。备战期间，他找到了奥恩，请他为自己麾下的战士们打造神兵利器。</p><p>但奥恩拒绝了。他不赞成熊人族的凶残，于是两位半神之间爆发了一场战斗。激战过后，沃利贝尔咒骂着自己兄长的名字，扔下了他刻有符文的战甲。从那以后，他只愿用尖牙、利爪、蛮力和雷霆作为武器。他并未因此而变得脆弱，恰恰相反，沃利贝尔发现自己释放出了全部的力量。</p><p>带着新生的怒火，他正面挑战了三姐妹其中之一，这个女人想要盗取半神的力量，为己所用。在她的整支军队面前，他将那个女人击倒，还令她永远失明——但他却无法阻止她早已推动的计谋。</p><p>几百年过去，虽然沃利贝尔奋力反抗，但人类的部族纷纷抛弃旧神，开始崇敬并膜拜三姐妹。</p><p>许多古老的习俗都已被遗忘。他看到人类部族躲藏在石墙的背后，而不是直面自然的严酷。他看到农民在土地上耕作，在牧场上放牧，而不是采集与狩猎。他看到一条条大河被水坝围堵，无法自由奔流。于是他发出愤怒的呼号。这不是<i>他的</i>弗雷尔卓德。这些改变发生得很缓慢——就像冰川的移动。但沃利贝尔终于意识到，人类的部族已经与这片土地的狂野灵魂彻底断绝，他们已经变得怯懦、顺从、软弱。这些弱者已经不再遵从古道，也不再崇敬古神。</p><p>愤怒与决心在他体内隆隆作响。他发誓要撕碎一切人类文明的痕迹，让弗雷尔卓德重返古态，回归真正的野性。人类将再次变得强壮。他将再次获得所有人的敬畏。</p><p>沃利贝尔的呼唤回荡于北地的群山与旷野，越来越多的弗雷尔卓德人开始响应。慢慢地，旧习与古道正在被人们记起并遵循，每当新的追随者加入，他的力量都在增长。</p><p>一场鲜血的清算在等待……而沃利贝尔正在向着那一刻狂奔。</p>",
+                "short": "对于那些敬畏旧神的人，沃利贝尔是风暴的实体化身。他充满怪力、野性和倔强的坚毅，早在凡人行走于弗雷尔卓德的冻土苔原之前，他就已经存在。这片土地由他和他的半神同胞们共同创造，是他要拼死保护的东西。人类的文明以及随之而来的软弱让他积怨已久，如今他为了旧习古道而战——要让这片土地回归野性，让鲜血畅流无阻。他渴望迎战任何反对者，亮出他的尖牙、利爪和雷霆般的压制力。",
+                "quote": "“他们已经忘记了古道。古道没有忘记他们。”",
+                "quote-author": "沃利贝尔"
+            },
+            "headerImage": null
+        },
+        {
+            "type": "champion",
+            "release-date": "2009-07-10T00:00:00.000Z",
+            "name": "艾尼维亚",
+            "title": "冰晶凤凰",
+            "section-title": "艾尼维亚",
+            "slug": "anivia",
+            "associated-faction": "",
+            "associated-faction-slug": "freljord",
+            "image": {
+                "title": "anivia-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt564c38e619cc505c-Anivia_0.jpg",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 715,
+                "y": 162,
+                "featured-champions": []
+            },
+            "background": {
+                "title": "anivia-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt564c38e619cc505c-Anivia_0.jpg",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 715,
+                "y": 162,
+                "featured-champions": []
+            },
+            "url": "/zh_cn/champion/anivia",
+            "video": null,
+            "races": [],
+            "roles": [
+                {
+                    "name": "法师",
+                    "slug": "mage"
+                },
+                {
+                    "name": "辅助",
+                    "slug": "support"
+                }
+            ],
+            "role": [
+                {
+                    "name": "法师",
+                    "slug": "mage"
+                },
+                {
+                    "name": "辅助",
+                    "slug": "support"
+                }
+            ],
+            "game-info-url": "https://lol.qq.com/web201310/info-defail.shtml?id=Anivia",
+            "biography": {
+                "full": "<p>艾尼维亚是来自弗雷尔卓德的古代半神，代表生、死与复生的永恒轮回，如同喻示着季节的更迭一般。对于那些崇敬她的人，她是弗雷尔卓德的永恒灵魂——象征着希望，也催驱着变革。</p><p>历经无数年岁传唱未衰的故事里，讲述了她如何奖励那些善良和谦逊的人。根据极少数见过——或者至少是<i>自称</i>见过她的人的描述，她是一只高贵的冰霜灵鸟，晶莹的双翼荡阔苍天，凛锐的鸣啼刺破龙卷。</p><p>在名为诺台的游牧氏族中，流传着艾尼维亚为世间带来第一场雪的歌谣。当她从巨大的冰霜之卵中破壳而出，冰壳的碎屑被掀上云霄，其后化作不绝的飞雪从天而降。而根据殇鸦部族的传说，席卷弗雷尔卓德大地的罡风，就是她初次拍打双翼所卷起的冽息。</p><p>艾尼维亚确实能够指使凛冬的全部力量。任何妄图亵渎她故土的人，都将饱尝残酷的反击。一旦她被激怒，无论是铜墙铁壁还是崇山峻岭都会在她的冲击下化作纸帛，即使是再坚韧的钢铁都会在她召唤的暴风雪中崩裂脆断。</p><p>在众多流传已久且被人深信不疑的故事中，有一个最受崇敬的说法，认为艾尼维亚带给弗雷尔卓德最伟大的礼物，是她创造了臻冰。这是一种纯粹且沉蕴的物质，被注入了元素魔法，永不消融。那些最伟大的先知和冰霜法师们自古就对它不倦求索，利用臻冰的碎片使他们的力量倍增。而哪怕是一丝一毫的臻冰，如果能铸炼于武器之上，就能变成超乎想象的夺命神兵。</p><p>凡人首次出现在弗雷尔卓德时，艾尼维亚便接纳了他们。她看到他们无法抵御寒冷，就引他们来到避风的深谷，扎根定居，在磨练中适应这里的元素之力。她精心哺育，帮助凡人度过了最为凶险的最初几百年——而凡人则为此而膜拜、崇敬她。</p><p>艾尼维亚希望，这些新出现的部族能够一直联合下去，共同保卫弗雷尔卓德免遭外界入侵……然而渐渐地，内斗和仇恨开始孳生，入侵已是迟早的问题。据传说讲述，一名贪婪的南方国王带着军队跨过崇山，企图占据这片土地，并将这里的狂野魔法禁锢起来凭他驱使。这群异邦人的傲慢与不敬令艾尼维亚勃然大怒。为了笞挞他们，她降下冰雪暴，持续了百年零一日。如今在浣石平原上散落孑立的岩块依然随处可见，据当地人说，这些是那支古代军队唯一残留下来的痕迹。</p><p>还有许多其他传说，比如阿瓦罗萨部族关于乌拉·裂枪的传奇故事。她是一名冰裔战母，因为从霜齿狼口中救下了一只幼小的隼鹰而受到了艾尼维亚的眷顾。乌拉其后一生始终受到冰晶凤凰的护佑，而当她看遍了一百季寒冬，最后在战斗中倒下之时，据说艾尼维亚张开双翼迎接了她。</p><p>如果这些传奇故事都是真的，那么艾尼维亚一定已经见证了<i>无数</i>个凡人文明的起落。虽然那些古老的时代依然留下了些许残迹，但大多数都已被彻底遗忘，封存于千年的寒冰之下。</p><p>不过，死亡无法触及艾尼维亚本尊。传说她在历史上多次被击倒并弑杀，但她总是能重生——因为只要弗雷尔卓德还存在，她的灵魂就是不朽的。虽然她的苏生崛起需要等待成百甚至上千年，但每次复活都与新纪元的到来不谋而合。因此，她的出现虽然被认为是奇迹与赐福，但却时常预示着某种可怕的事物即将来临。</p><p>据说，她曾为了阻拦一群身形高耸的祸麟而牺牲了自己。艾尼维亚知道她无法杀死这种巨大的生物，于是便撞向它们脚下的冰面，自己粉身碎骨的同时，也埋葬了它们。</p><p>最近，有人声称艾尼维亚已经再一次从卵中孵化，还说她出现在了阿瓦罗萨部族新任领袖——战母艾希的面前。或许，艾尼维亚终于在她身上看到了弗雷尔卓德再次统一的希望。</p><p>越来越多的萨满和兽灵行者都在奔走相告，冰晶凤凰已经重返大地。但如果真是这样，那就有一个不可回避的问题：艾尼维亚的重生，意味着何等巨大的威胁呢？</p>",
+                "short": "艾尼维亚是一个充满仁慈的飞禽形态灵体，曾经历过无数次诞生、死亡与重生的轮回，始终眷顾着弗雷尔卓德。她是生于凛冽冰风中的半神，可以操控冰雪的元素之力，阻挡那些胆敢侵犯她家园的人。艾尼维亚指引并保护着北方贫瘠土地上的人类部落，而这些人类也将她奉为希望的象征和重大变革的预兆。她的每一次奋战都不遗余力，因为她知道，自己的记忆将会超越牺牲，长久地留存，而她也将在崭新的明天中重生。",
+                "quote": "“我是暴雪之怒，寒风之噬，极冰之寒。我就是弗雷尔卓德。”",
+                "quote-author": "艾尼维亚"
+            },
+            "headerImage": null
+        },
+        {
+            "type": "champion",
+            "release-date": "2014-05-12T00:00:00.000Z",
+            "name": "布隆",
+            "title": "弗雷尔卓德之心",
+            "section-title": "布隆",
+            "slug": "braum",
+            "associated-faction": "",
+            "associated-faction-slug": "freljord",
+            "image": {
+                "title": "braum-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt4bc5fffe8811bf6a-Braum_0.jpg",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 1077,
+                "y": 26,
+                "featured-champions": []
+            },
+            "background": {
+                "title": "braum-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt4bc5fffe8811bf6a-Braum_0.jpg",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 1077,
+                "y": 26,
+                "featured-champions": []
+            },
+            "url": "/zh_cn/champion/braum",
+            "video": {
+                "title": "braum-splashvideo-webm",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/bltfa80911d16967199-braum-splashvideo.webm",
+                "encoding": "video/webm",
+                "width": 1280,
+                "height": 720,
+                "x": 1077,
+                "y": 26,
+                "featured-champions": []
+            },
+            "races": [],
+            "roles": [
+                {
+                    "name": "辅助",
+                    "slug": "support"
+                },
+                {
+                    "name": "坦克",
+                    "slug": "tank"
+                }
+            ],
+            "role": [
+                {
+                    "name": "辅助",
+                    "slug": "support"
+                },
+                {
+                    "name": "坦克",
+                    "slug": "tank"
+                }
+            ],
+            "game-info-url": "https://lol.qq.com/web201310/info-defail.shtml?id=Braum",
+            "biography": {
+                "full": "<p>布隆从很小的时候，个头就比其他孩子大许多，但他的母亲教导他永远不要依仗自己高大壮硕就恐吓或者欺凌别人。因为她出身自一个自豪的牧民家族，她相信真正的勇气不是将力量用于统治，而是用于保护无助的人。</p><p>布隆还没长大的时候，一群冰巨人摧毁了临近的一个部族。那个部族一直都在劫掠布隆族人的牧群，但他的母亲却毫不犹豫地带着毛皮衣物、食物和药物穿过苔原营救幸存者。起初，布隆不理解她为什么要帮助敌人——但她的行动挽救了许多性命，让他们成为了毕生的同盟。他终于明白了母亲常说的：弗雷尔卓德人都是一家人。于是从那天起，布隆就发誓要让这个大家庭团聚。</p><p>布隆一天天长大，他高贵的寒冰血脉逐渐显现，而且即使以寒冰血脉的标准衡量，他的力量和元素耐受力也堪称传奇。他成了方圆几十里的英雄，常常救援跌落冰裂缝的孩童、带回被困暴风雪的旅人、保护手无寸铁的平民对抗肆虐的狂爪兽。只要他一出现，人们就知道自己得救了。他是希望的象征，无人不知他充沛的活力、开朗的笑声和广交好友的豪爽。</p><p>最后，布隆意识到还有更多地方需要他，所以他要离开这片生他养他的土地。对母亲含泪告别后，他踏上了遍迹弗雷尔卓德的旅途。</p><p>后来的那些年里，无数个关于布隆英勇事迹的故事开始流传。虽然大多数的故事内核都是真实事件，但这些故事越传越离奇，愈发神乎其神——比如传说中他一夜之间就徒手荡平了一座森林，还说他在一次火山爆发中为了拯救一座孤立无援的农场，把它整个扛了起来跑到了高处。</p><p>在最新的布隆事迹中，讲述了他如何找到了一面巨大的羊头盾牌。故事里讲，这座盾牌是一扇附了魔法的宝藏大门，打造于远古，嵌于山石之中。布隆听到里面传来哭声，但他却无法打破大门。不服输的他，用拳头击穿了石壁，救出了被困在里面的巨魔男孩。他把那扇坚不可摧的门板从折叶上扯了下来，后来就一直带在身上。</p><p>和其他故事一样，布隆第一次听到这个关于自己的传说时也哄然大笑——不过他并没有反驳这样的故事，而是<i>欣然接受</i>。既然这些故事能够激励其他人的慷慨与善意之举，那为什么还要用真相泼冷水呢？</p><p>他究竟如何找到这面盾牌并不重要，总之随后他便启程前往圣地拉克斯塔克，许多部族都已经聚集在那里，恭听阿瓦罗萨部族战母艾希的演讲——人们说她是阿瓦罗萨本尊的转世化身。在那里，他看到了野蛮人泰达米尔，正在不顾一切地证明自己的价值，疯狂发出挑战并击败任何敢同他交手的人。</p><p>布隆观察着，他看到泰达米尔变得愈发失控。在一次对决中，他深陷自己的怒火，明明胜负已分，却依然要对败者下杀手。布隆决定不能再看下去了，他坚定地站在败者身前，举起盾，随后泰达米尔对着那面坚不可摧的壁垒狂劈猛砍。当这名野蛮人的怒意终于消退，布隆用幽默赢得了他的友谊，没过多久，二人就开怀大笑，为彼此的健康祝酒畅饮。甚至有人说是布隆将泰达米尔介绍给了艾希。这名野蛮人后来与艾希成婚，成为她唯一的血盟眷侣。</p><p>布隆并不效忠于任何特定的部族，因为他认为弗雷尔卓德的土地上全都是兄弟姐妹。话虽如此，他在艾希身上看到了闪光，认为她有能力终结数百年来弗雷尔卓德部族之间的纷争，而阿瓦罗萨部族也已非正式地认他为同族。就像布隆常和那些崇拜他的孩子们讲的那样，他的梦想，是有朝一日弗雷尔卓德能够团结成一个大家庭……到那个时候，他就可以告老还乡，当一个普普通通的魄罗牧民。</p><p>虽然在布隆看来任何人都不是敌人，但自从他拿起这面盾牌以来，已经与霜卫部族有过好几次碰撞。他不明白为自己怎么招惹了他们，也不明白为何他们对他手里的东西那么感兴趣……</p>",
+                "short": "拥有大块肌肉和更大颗心脏的布隆，是一位受人爱戴的弗雷尔卓德冰裔英雄。凝霜港以北的任何一家蜜酒坊里都有人会致敬他传奇般的强壮，讲述他的事迹，例如在一夜之间扫平一整片橡树森林，还有用拳头把一整座山打成碎石子。一扇附有魔法的秘库大门被他拿在手中当做盾牌，布隆是游荡在在北方的冻土上快乐的保护者，帮助所有危难之中的人，一步步迈向他的梦想：一个和平安定的弗雷尔卓德。",
+                "quote": "“今天我们彼此为敌，而明天我们可能会并肩作战”",
+                "quote-author": "布隆"
+            },
+            "headerImage": null
+        }
+    ],
+    "explore-champions": [
+        {
+            "type": "champion",
+            "release-date": "2010-06-09T00:00:00.000Z",
+            "name": "奥拉夫",
+            "title": "狂战士",
+            "section-title": "奥拉夫",
+            "slug": "olaf",
+            "associated-faction": "",
+            "associated-faction-slug": "freljord",
+            "image": {
+                "title": "olaf-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt121dcc1ff9f83f58-Olaf_0.jpg",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 815,
+                "y": 67,
+                "featured-champions": []
+            },
+            "background": {
+                "title": "olaf-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt121dcc1ff9f83f58-Olaf_0.jpg",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 815,
+                "y": 67,
+                "featured-champions": []
+            },
+            "url": "/zh_cn/champion/olaf",
+            "video": null,
+            "races": [],
+            "roles": [
+                {
+                    "name": "战士",
+                    "slug": "fighter"
+                },
+                {
+                    "name": "坦克",
+                    "slug": "tank"
+                }
+            ],
+            "role": [
+                {
+                    "name": "战士",
+                    "slug": "fighter"
+                },
+                {
+                    "name": "坦克",
+                    "slug": "tank"
+                }
+            ],
+            "game-info-url": "https://lol.qq.com/web201310/info-defail.shtml?id=Olaf",
+            "biography": {
+                "full": "大多数人会说，死亡是一件可怕的事情；这些人中肯定没有奥拉夫。这个狂战士只为战争的怒吼和钢铁的交鸣而活。对荣誉的渴求和无名之死的虚无诅咒驱使着奥拉夫，让他一往无前地投入每一场战斗。奥拉夫听从他血脉深处的嗜血欲望的摆布，并且他只有在鬼门关外拼杀时才真正活着。<br><br>洛克法是一块沿海半岛，位于弗雷尔卓德最为荒蛮的地区当中。在那里，怒火是唯一一种能让冻僵的骨头变暖的火焰，血液是唯一一种能够自由流动的液体，并且没有什么事情，能比变老、变弱和被遗忘更加糟糕的了。奥拉夫曾是一名洛克法的战士，不缺过人荣耀，也不吝与人分享。某个傍晚，当他和族人在一个刚被夷平的村庄的余烬里大吹大擂时，一名年长的战士对奥拉夫的吹牛产生了厌倦。这名老战士用激将法，让奥拉夫去卜一卦，看看他的命运是否符合他的沾沾自喜。这个挑战给奥拉夫壮了胆。他嘲弄了那个年长的战士，然后将已死野兽的肘骨投出，好预测他的死亡是否能达到荣誉的巅峰。在族人们阅读预言时，所有欢笑都汇聚在了一起：根据卦象，奥拉夫会很长寿，并且一生都波澜不惊。<br><br>感到愤怒的奥拉夫冲进了夜幕中，并决定通过找到并杀死洛克法可怕的怪兽，冰霜之蛇，来证明预言是错误的。这头怪兽已经在它漫长的生命里吞吃了数以千计的人类和舰船之类的东西，并且对于所有战士来说，只要想迎来生命的终点，都会去挑战这头怪兽。当奥拉夫让自己冲进它阴暗的胃部时，他的意识陷入了黑化状态。刺骨的冰水将他从黑暗中唤醒，而他的旁边漂浮着那头野兽满是伤痕的尸体。虽然很有挫败感，但奥拉夫没有死心，而是再次启程，前去猎杀每一头带有利爪和尖牙的传奇生物，并希望下一场战斗能成为他的在最后一战。每当他朝着梦寐以求的死亡进行猛冲时，都会受到狂暴之血的拯救，并把他带出死亡的边缘。<br><br>奥拉夫断定，没有什么野兽能够让他死得符合战士的身份。他的解决方法是，去挑战弗雷尔卓德里最为可怕的部族：凛冬之爪。瑟庄妮被奥拉夫只身挑战她的战团的行为给逗乐了，但他的胆大妄为不会为他赢得任何怜悯之举。她让手下发起冲锋，并且准备为击倒奥拉夫的战士们记功。但他们一个接一个地倒下了，然后奥拉夫再次在嗜血欲望中迷失了自己，毫不费劲地砍出一条通向凛冬之爪首领的血路。瑟庄妮摇动冰川，而尽管奥拉夫看上去不可阻挡，瑟庄妮仍然与他战到筋疲力尽。当他们陷入僵局时，瑟庄妮的怒视穿透了奥拉夫的狂战阴霾，而在此之前没有任何武器能做到这点。他的狂暴消退了，而瑟庄妮终于可以对他提出建议：瑟庄妮发誓，她能带奥拉夫找到属于他的荣耀之死，但条件是，他和他的斧子要为她的征服之旅出力。从那时起，奥拉夫郑重宣告，他会将遗产刻入弗雷尔卓德。<br><br>",
+                "short": "奥拉夫是一股无坚不摧的毁灭之力，战斧在手的他别无所求，只想光荣地死在战斗中。奥拉夫来自弗雷尔卓德的海岸半岛洛克法，他曾在一次占卜预言中听闻自己将安详地死去——这是懦夫的命运，也是对他们族人的莫大侮辱。于是，为了追寻另外一种结局，他在狂怒的驱动下在这片土地上暴跳横行，屠杀了数十名伟大的战士和传说中的野兽，希望能够找到能够阻止自己的对手。如今他是凛冬之爪部族残酷的执法者，希望在即将到来的大战中找到自己的终结。",
+                "quote": "“当你们见到自己的祖先时，别忘了告诉他们，是奥拉夫送你们去的。”",
+                "quote-author": "奥拉夫"
+            },
+            "headerImage": null
+        },
+        {
+            "type": "champion",
+            "release-date": "2016-03-24T00:00:00.000Z",
+            "name": "奥瑞利安·索尔",
+            "title": "铸星龙王",
+            "section-title": "奥瑞利安·索尔",
+            "slug": "aurelionsol",
+            "associated-faction": "",
+            "associated-faction-slug": "unaffiliated",
+            "image": {
+                "title": "aurelionsol-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/bltac9e6a0df59a974e-AurelionSol_0.jpg",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 687,
+                "y": 2,
+                "featured-champions": []
+            },
+            "background": {
+                "title": "aurelionsol-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/bltac9e6a0df59a974e-AurelionSol_0.jpg",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 687,
+                "y": 2,
+                "featured-champions": []
+            },
+            "url": "/zh_cn/champion/aurelionsol",
+            "video": {
+                "title": "aurelionsol-splashvideo-webm",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blta13a38f6e83de0ec-aurelionsol-splashvideo.webm",
+                "encoding": "video/webm",
+                "width": 1280,
+                "height": 720,
+                "x": 687,
+                "y": 2,
+                "featured-champions": []
+            },
+            "races": [],
+            "roles": [
+                {
+                    "name": "法师",
+                    "slug": "mage"
+                },
+                {
+                    "name": "战士",
+                    "slug": "fighter"
+                }
+            ],
+            "role": [
+                {
+                    "name": "法师",
+                    "slug": "mage"
+                },
+                {
+                    "name": "战士",
+                    "slug": "fighter"
+                }
+            ],
+            "game-info-url": "https://lol.qq.com/web201310/info-defail.shtml?id=AurelionSol",
+            "biography": {
+                "full": "<p>一道彗星的现世，常常预兆着动荡与剧变。随着躁动的彗尾拂过天际，人世间新王频立，旧主俱薨，就连九天之上的烁烁星光也会黯淡消失……</p><p>而真相，或许比人们看到的更加阴暗。</p><p>全知全能的奥瑞利安•索尔，在符文之地上的凡类开始繁衍之前就已是远古的存在了。自从降生于太息之初，他和他的同类就开始在广袤空无的原始天界领域遨游，力图在这宽广无垠的画布上绘满奇迹，让闪烁的光谱为所有见证者带来成就与欣喜。</p><p>在奥瑞利安•索尔的漫游途中，很少遇到能与他比肩的同等存在。那些永恒的星灵个个都漠然寡情，对事物的存在鲜有贡献，只满足于构想那些以自我为中心的、关于创造本身的哲学理论。</p><p>然而后来，在他无数纪元之前铸造的一颗普普通通的太阳周边，他有了惊奇的发现。一个星球。多个重叠的领域。</p><p>他并不清楚是谁创造了这个世界，也不清楚出于什么目的——他只清楚这不是自己的作品。</p><p>那些星灵似乎对这个世界有着不同寻常的关注，他们恳求他靠近些。这里孕育着生命、魔法，还有襁褓中的文明啼哭着寻求更高级智慧的指引。有新的观众瞻仰他的无上至尊，令奥瑞利安•索尔沾沾自喜，他化身为星间的凶猛巨龙降入凡尘，沐浴在凡类的奉承之中。</p><p>在一片名为“苣申”的平凡土地上，渺小的居民们用他所赐予的金光为他命名，于是那些星灵就命令他们奉上相应的贡品。凡人们爬上了他们最高的山峰，为他呈上了一顶华美的王冠，上面附有精妙诡秘的魔法，镌刻着天界领域不可思议的图案。</p><p>而当这顶王冠被奥瑞利安•索尔戴上眉梢的时候，他才知道这根本就不是贡品。</p><p>它是被诅咒的邪物，用不可想象的力量箍在他的头上，甚至让他无法摘掉，随后他感觉到，自己关于太阳以及太阳创生的那些知识被偷走、被查阅、被那些低级的智能玷污。更糟糕的是，王冠的力量把他抛回到了天界，而且让他无法靠近这个世界。</p><p>他只能眼睁睁看着那些奸诈的星灵自封为“巨神”，差遣凡人建造巨大的金光圆盘。通过这种方式，他们抽取了<i>他</i>的天界力量，塑造出不朽的天神战士，为的则是迎接某种尚未发生的冲突斗争。</p><p>怒不可遏的奥瑞利安•索尔还看到，由于缺少照料与护理，苍穹中的其他星宿开始黯淡，于是他竭力摆脱王冠的控制。是他在宇宙中诞下了光明！而如今，他为何要被星灵和他们卑贱的棋子所束缚？当他看到那座太阳圆盘坍塌的时候发出了欢喜的咆哮……然而随后看到的却是第二座更强大的圆盘取而代之。最后，放弃抵抗命运的他，看到那些天神战士屠杀敌人，然后是窸窣的纯粹黑暗生物，最后他们自相残杀。</p><p>再后来，星辰巨龙眨眼的瞬息之间，这个世界被接二连三的巫术灾难席卷，这时奥瑞利安•索尔终于看到了，巨神和那些他痛恨的星灵全都破绽大开。他小心翼翼地徘徊靠近，他意识到束缚自己的魔法正在衰退。他的王冠上剥脱下了金屑，每一片都像彗星一样在空中留下火焰的轨迹。</p><p>近在咫尺的自由与复仇引诱着奥瑞利安•索尔，如今的他带着炽热、永恒的怒火睥睨符文之地。毫无疑问，在这颗星球上，宇宙的平衡将再次向他倾斜——届时，这个宇宙将成为他的见证者，见证那些胆敢从铸星龙王身上窃取力量的窃贼迎来怎样的下场。</p>",
+                "short": "奥瑞利安•索尔创造了奇迹般的群星，为无垠的荒芜太空布下他宏伟的恩典，但却遭到巨神星灵的算计，揭示了一颗他所铸造的太阳的秘密。他的神力被抽走，并制造出不朽的天神战士，用来保护那个无足轻重的星球——符文之地。如今，为了重新掌控宇宙，奥瑞利安•索尔誓要夺回属于自己的自由。哪怕召星降怒，倾覆众生。",
+                "quote": "“瑟缩，崇拜，惊叹。人之常态，概莫能外。”",
+                "quote-author": "奥瑞利安·索尔"
+            },
+            "headerImage": null
+        }
+    ],
+    "modules": [
+        {
+            "slug": "炉谕",
+            "type": "story-preview",
+            "title": "炉谕",
+            "subtitle": "作者： Matt Dunn",
+            "description": "没人知道是谁点起了火，但我们老远就看到了大团的浓烟。<br><br>",
+            "story-slug": "ornn-color-story",
+            "featured-image": {
+                "title": "ornn-colortext-bg",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt69e46ecdb3e8fa7d-ornn-colortext-bg.jpg",
+                "encoding": "image/jpeg",
+                "width": 1920,
+                "height": 1080,
+                "x": 923,
+                "y": 335,
+                "featured-champions": []
+            },
+            "background": {
+                "title": "ornn-colortext-bg",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt69e46ecdb3e8fa7d-ornn-colortext-bg.jpg",
+                "encoding": "image/jpeg",
+                "width": 1920,
+                "height": 1080,
+                "x": 923,
+                "y": 335,
+                "featured-champions": []
+            },
+            "release-date": "2017-08-23T15:00:00.000Z",
+            "featured-champions": [
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                },
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                }
+            ],
+            "minutes-to-read": 5,
+            "url": "/zh_cn/story/ornn-color-story"
+        },
+        {
+            "slug": "奥恩的失落传说",
+            "type": "story-preview",
+            "title": "奥恩的失落传说",
+            "subtitle": "Matthew Dunn著",
+            "description": "<i>“我从来没有见过这位被人遗忘的神明。这些故事是我的祖母告诉我的，但她也没见过这位遗落的神。甚至是她的祖母、祖母的祖母……往上数哪怕一千次，都没有人见过。人们只有在噼啪的火堆和烤鱼做的晚餐旁才会讲起他的传说。要是我们追溯到更久远的祖先，这些传说就会变得真实起来。”<br><br>",
+            "story-slug": "tales-of-ornn",
+            "featured-image": {
+                "title": "ornn-portrait",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt0a1655291145dc06-ornn_portrait.jpg",
+                "encoding": "image/jpeg",
+                "width": 1920,
+                "height": 1200,
+                "x": 1125,
+                "y": 422,
+                "featured-champions": []
+            },
+            "background": {
+                "title": "ornn-portrait",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt0a1655291145dc06-ornn_portrait.jpg",
+                "encoding": "image/jpeg",
+                "width": 1920,
+                "height": 1200,
+                "x": 1125,
+                "y": 422,
+                "featured-champions": []
+            },
+            "release-date": "2017-08-23T15:00:00.000Z",
+            "featured-champions": [
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                },
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                },
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                },
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                }
+            ],
+            "minutes-to-read": 5,
+            "url": "/zh_cn/story/tales-of-ornn"
+        }
+    ]
+}

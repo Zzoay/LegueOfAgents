@@ -1,0 +1,1300 @@
+{
+    "id": "alt-universe-browse",
+    "name": "Alt Universe Browse",
+    "locale": "zh_cn",
+    "type": "alt-universe",
+    "title": "奥德赛",
+    "subtitle": "宇宙需要英雄。",
+    "description": "<p>从高度城市化的核心星球到银河系最外围的边缘，冒险故事在等待！<p>伟大的德玛锡安帝国几乎拥有每一个有生命居住的星系，全然不顾古老的圣骑士团和罪犯辛迪加等势力的反对，追寻着神奇的欧拉宝藏。这种神秘的金色物质提取自星辰之间巡游着的一种巨大生物，是所有文明的命脉，但同时也蕴藏着无人言说的力量，很多人都企图将其据为己有…...</p>",
+    "hero": {
+        "images": [
+            {
+                "type": "desktop",
+                "src": {
+                    "title": "odyssey-hero",
+                    "subtitle": "",
+                    "description": "",
+                    "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/bltf7d19372448e08fd-odyssey-hero.png",
+                    "encoding": "image/jpeg",
+                    "width": 0,
+                    "height": 0,
+                    "x": 0,
+                    "y": 0,
+                    "featured-champions": []
+                }
+            },
+            {
+                "type": "mobile",
+                "src": {
+                    "title": "odyssey-hero",
+                    "subtitle": "",
+                    "description": "",
+                    "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/bltf7d19372448e08fd-odyssey-hero.png",
+                    "encoding": "image/jpeg",
+                    "width": 0,
+                    "height": 0,
+                    "x": 0,
+                    "y": 0,
+                    "featured-champions": []
+                }
+            }
+        ],
+        "videos": [
+            {
+                "src": {
+                    "uri": null
+                },
+                "type": "video/webm"
+            },
+            {
+                "src": {
+                    "title": "odyssey-hero-mp4",
+                    "subtitle": "",
+                    "description": "",
+                    "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt40f4b3da073cba06-odyssey-hero.mp4",
+                    "encoding": "video/webm",
+                    "width": 0,
+                    "height": 0,
+                    "x": 0,
+                    "y": 0,
+                    "featured-champions": []
+                },
+                "type": "video/mp4"
+            }
+        ]
+    },
+    "logo": {
+        "title": "odyssey-logo-zh_cn",
+        "subtitle": "",
+        "description": "",
+        "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/bltd691a7474c20a905-odyssey_zh_cn.png",
+        "encoding": "image/jpeg",
+        "width": null,
+        "height": null,
+        "x": null,
+        "y": null,
+        "featured-champions": []
+    },
+    "sections": [
+        {
+            "slug": "odyssey-trailer",
+            "type": "featured-video",
+            "section-title": "动画预告片",
+            "featured-image": {
+                "title": "odyssey-animated-trailer",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/bltc997fbeed1e861a5-odyssey-animated-trailer.jpg",
+                "encoding": "image/jpeg",
+                "width": 0,
+                "height": 0,
+                "x": 0,
+                "y": 0,
+                "featured-champions": []
+            },
+            "title": "欢迎上船！",
+            "subtitle": "",
+            "description": "",
+            "uri": "https://lol.qq.com/v/detail.shtml?e_code=438238&id=95973&idataid=228995",
+            "video": {
+                "type": "video",
+                "title": "",
+                "subtitle": "",
+                "description": [],
+                "uri": "https://lol.qq.com/v/detail.shtml?e_code=438238&id=95973&idataid=228995",
+                "width": "",
+                "height": "",
+                "x": "",
+                "y": "",
+                "featured-champions": []
+            },
+            "blackout": null,
+            "release-date": "2018-09-11T15:00:00.000Z",
+            "video-type": "animation",
+            "featured-champions": [],
+            "related-champions": []
+        },
+        {
+            "slug": "odyssey-conceptart",
+            "type": "image-gallery",
+            "section-title": "概念画&静态图",
+            "isFanArt": false,
+            "fan-art-url": "",
+            "featured-image": "",
+            "title": "奥德赛艺术插图",
+            "subtitle": "",
+            "assets": [
+                {
+                    "subtitle": "",
+                    "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt7de3373e5a9dc4f9-odyssey-splash-jinx.jpg",
+                    "encoding": "image/jpeg",
+                    "width": 0,
+                    "height": 0,
+                    "x": 0,
+                    "y": 0,
+                    "featured-champions": []
+                },
+                {
+                    "subtitle": "",
+                    "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt6c7307a608b83e33-odyssey-splash-yasuo.jpg",
+                    "encoding": "image/jpeg",
+                    "width": 0,
+                    "height": 0,
+                    "x": 0,
+                    "y": 0,
+                    "featured-champions": []
+                },
+                {
+                    "subtitle": "",
+                    "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/bltd7fd7a921ce4cf60-odyssey-splash-ziggs.jpg",
+                    "encoding": "image/jpeg",
+                    "width": 0,
+                    "height": 0,
+                    "x": 0,
+                    "y": 0,
+                    "featured-champions": []
+                },
+                {
+                    "subtitle": "",
+                    "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blta1b067a8f135fcce-odyssey-splash-sona.jpg",
+                    "encoding": "image/jpeg",
+                    "width": 5000,
+                    "height": 2823,
+                    "x": 1234,
+                    "y": 289,
+                    "featured-champions": []
+                },
+                {
+                    "subtitle": "",
+                    "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt3acfde2ff1a053ce-odyssey-splash-kayn.jpg",
+                    "encoding": "image/jpeg",
+                    "width": 0,
+                    "height": 0,
+                    "x": 0,
+                    "y": 0,
+                    "featured-champions": []
+                },
+                {
+                    "subtitle": "",
+                    "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt7c8e2e812907d4db-odyssey-splash-malphite.jpg",
+                    "encoding": "image/jpeg",
+                    "width": 0,
+                    "height": 0,
+                    "x": 0,
+                    "y": 0,
+                    "featured-champions": []
+                },
+                {
+                    "subtitle": "",
+                    "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blteedbca74ee3d7f35-odyssey-splash.jpg",
+                    "encoding": "image/jpeg",
+                    "width": 0,
+                    "height": 0,
+                    "x": 0,
+                    "y": 0,
+                    "featured-champions": []
+                },
+                {
+                    "subtitle": "",
+                    "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/bltaa5ec4e0711e55ef-odyssey-alien-plants.jpg",
+                    "encoding": "image/jpeg",
+                    "width": 0,
+                    "height": 0,
+                    "x": 0,
+                    "y": 0,
+                    "featured-champions": []
+                },
+                {
+                    "subtitle": "",
+                    "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt19d98e20c3f755b4-odyssey-animatic-01.jpg",
+                    "encoding": "image/jpeg",
+                    "width": 0,
+                    "height": 0,
+                    "x": 0,
+                    "y": 0,
+                    "featured-champions": []
+                },
+                {
+                    "subtitle": "",
+                    "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/bltb833f1ace7e9df2f-odyssey-animatic-02.jpg",
+                    "encoding": "image/jpeg",
+                    "width": 0,
+                    "height": 0,
+                    "x": 0,
+                    "y": 0,
+                    "featured-champions": []
+                },
+                {
+                    "subtitle": "",
+                    "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt8bf7b8cdad9bc450-odyssey-animatic-03.jpg",
+                    "encoding": "image/jpeg",
+                    "width": 0,
+                    "height": 0,
+                    "x": 0,
+                    "y": 0,
+                    "featured-champions": []
+                },
+                {
+                    "subtitle": "",
+                    "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/bltd8a18c1a4f946804-odyssey-book-cover.jpg",
+                    "encoding": "image/jpeg",
+                    "width": 0,
+                    "height": 0,
+                    "x": 0,
+                    "y": 0,
+                    "featured-champions": []
+                },
+                {
+                    "subtitle": "",
+                    "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt17a96c3986adfc86-odyssey-composites.jpg",
+                    "encoding": "image/jpeg",
+                    "width": 0,
+                    "height": 0,
+                    "x": 0,
+                    "y": 0,
+                    "featured-champions": []
+                },
+                {
+                    "subtitle": "",
+                    "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt6a4b473c2b242b90-odyssey-concept-alien-creature.jpg",
+                    "encoding": "image/jpeg",
+                    "width": 0,
+                    "height": 0,
+                    "x": 0,
+                    "y": 0,
+                    "featured-champions": []
+                },
+                {
+                    "subtitle": "",
+                    "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/bltc4df080526260c1e-odyssey-concept-board-game.jpg",
+                    "encoding": "image/jpeg",
+                    "width": 0,
+                    "height": 0,
+                    "x": 0,
+                    "y": 0,
+                    "featured-champions": []
+                },
+                {
+                    "subtitle": "",
+                    "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt4e6347f57e9b6156-odyssey-concept-camera.jpg",
+                    "encoding": "image/jpeg",
+                    "width": 0,
+                    "height": 0,
+                    "x": 0,
+                    "y": 0,
+                    "featured-champions": []
+                },
+                {
+                    "subtitle": "",
+                    "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blte2618b2d1f3432d6-odyssey-concept-character-lineup.jpg",
+                    "encoding": "image/jpeg",
+                    "width": 0,
+                    "height": 0,
+                    "x": 0,
+                    "y": 0,
+                    "featured-champions": []
+                },
+                {
+                    "subtitle": "",
+                    "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blteb1cf1dbc172db1a-odyssey-concept-command.jpg",
+                    "encoding": "image/jpeg",
+                    "width": 0,
+                    "height": 0,
+                    "x": 0,
+                    "y": 0,
+                    "featured-champions": []
+                },
+                {
+                    "subtitle": "",
+                    "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt286d510f8d8cdaf1-odyssey-concept-morningstar-a.jpg",
+                    "encoding": "image/jpeg",
+                    "width": 0,
+                    "height": 0,
+                    "x": 0,
+                    "y": 0,
+                    "featured-champions": []
+                },
+                {
+                    "subtitle": "",
+                    "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt6e27d2b35da841e2-odyssey-concept-morningstar-b.jpg",
+                    "encoding": "image/jpeg",
+                    "width": 0,
+                    "height": 0,
+                    "x": 0,
+                    "y": 0,
+                    "featured-champions": []
+                },
+                {
+                    "subtitle": "",
+                    "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt9e61a339d6b5d92a-odyssey-concept-operations.jpg",
+                    "encoding": "image/jpeg",
+                    "width": 0,
+                    "height": 0,
+                    "x": 0,
+                    "y": 0,
+                    "featured-champions": []
+                },
+                {
+                    "subtitle": "",
+                    "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt8c456fa5d8806e7a-odyssey-concept-planet-surface.png",
+                    "encoding": "image/jpeg",
+                    "width": 0,
+                    "height": 0,
+                    "x": 0,
+                    "y": 0,
+                    "featured-champions": []
+                },
+                {
+                    "subtitle": "",
+                    "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt64dc9242672ac466-odyssey-concept-sona-face.jpg",
+                    "encoding": "image/jpeg",
+                    "width": 0,
+                    "height": 0,
+                    "x": 0,
+                    "y": 0,
+                    "featured-champions": []
+                },
+                {
+                    "subtitle": "",
+                    "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/bltfc587fca066beddd-odyssey-concept-tv.jpg",
+                    "encoding": "image/jpeg",
+                    "width": 0,
+                    "height": 0,
+                    "x": 0,
+                    "y": 0,
+                    "featured-champions": []
+                },
+                {
+                    "subtitle": "",
+                    "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt3228df619faa9c2b-odyssey-concept-yasuo-face.jpg",
+                    "encoding": "image/jpeg",
+                    "width": 0,
+                    "height": 0,
+                    "x": 0,
+                    "y": 0,
+                    "featured-champions": []
+                },
+                {
+                    "subtitle": "",
+                    "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/bltf330e0b786896662-odyssey-final-ship.jpg",
+                    "encoding": "image/jpeg",
+                    "width": 0,
+                    "height": 0,
+                    "x": 0,
+                    "y": 0,
+                    "featured-champions": []
+                },
+                {
+                    "subtitle": "",
+                    "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/bltb4df7047d6df994e-odyssey-monkey.jpg",
+                    "encoding": "image/jpeg",
+                    "width": 0,
+                    "height": 0,
+                    "x": 0,
+                    "y": 0,
+                    "featured-champions": []
+                },
+                {
+                    "subtitle": "",
+                    "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt5a9454ff6529c786-odyssey-yasuo-creature.jpg",
+                    "encoding": "image/jpeg",
+                    "width": 0,
+                    "height": 0,
+                    "x": 0,
+                    "y": 0,
+                    "featured-champions": []
+                }
+            ],
+            "featured-champions": []
+        },
+        {
+            "slug": "odyssey-merch",
+            "type": "link-out",
+            "section-title": "",
+            "title": "穿戴好冒险的装备！",
+            "description": "探索官方奥德赛周边商品，见证晨星号勇敢船员的冒险。",
+            "url": "merch.riotgames.com?utm_source=Universe&utm_medium=Learn-More&utm_campaign=Odyssey&utm_content=Jinx-Jacket",
+            "featured-image": {
+                "title": "odyssey-merch-bg",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt8e7de6b3cc0de9f4-odyssey-merch-bg.svg",
+                "encoding": "image/jpeg",
+                "width": 0,
+                "height": 0,
+                "x": 0,
+                "y": 0,
+                "featured-champions": []
+            },
+            "subtitle": "短篇故事",
+            "background": {
+                "title": "odyssey-merch",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blte365229eddd09d2f-odyssey-merch.png",
+                "encoding": "image/jpeg",
+                "width": 0,
+                "height": 0,
+                "x": 0,
+                "y": 0,
+                "featured-champions": []
+            },
+            "cta": "查看更多奥德赛周边商品",
+            "blackout": null,
+            "isFanArt": false,
+            "isComic": false
+        }
+    ],
+    "modules": {
+        "title": "Modules",
+        "background": {
+            "uri": null
+        },
+        "data": [
+            {
+                "slug": "odyssey-short-story",
+                "type": "link-out",
+                "section-title": "短篇故事",
+                "title": "诱饵",
+                "description": "<p>顺位者悉达•凯隐飞射到一个平凡得不能再平凡的边缘星球，艾欧楠，追踪一队圣骑士武装人员。这些帝国的敌人显然是在寻找某种重要的东西……不过究竟是什么东西呢？</p>",
+                "url": "//yz.lol.qq.com/zh_CN/story/the-lure",
+                "featured-image": null,
+                "subtitle": "短篇故事",
+                "background": {
+                    "title": "odyssey-short-story",
+                    "subtitle": "",
+                    "description": "",
+                    "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt6bafa9fa0ec879d4-odyssey-short-story.jpg",
+                    "encoding": "image/jpeg",
+                    "width": 0,
+                    "height": 0,
+                    "x": 0,
+                    "y": 0,
+                    "featured-champions": []
+                },
+                "cta": "阅读故事",
+                "blackout": null,
+                "isFanArt": false,
+                "isComic": false
+            },
+            {
+                "slug": "odyssey-quiz",
+                "type": "link-out",
+                "section-title": "获得你的岗位",
+                "title": "奥德赛性格测试",
+                "description": "<p>欢迎来到晨星号，飞行员。完成这个华丽的太空测试，根据结果分配给你船上的工作，还会发给你一个炫酷的呼叫代号。</p>",
+                "url": "https://lol.qq.com/act/a20180925quiz/index.html#!/",
+                "featured-image": null,
+                "subtitle": "",
+                "background": {
+                    "title": "odyssey-quiz",
+                    "subtitle": "",
+                    "description": "",
+                    "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt1cd3e73559d175a7-odyssey-quiz.jpg",
+                    "encoding": "image/jpeg",
+                    "width": 0,
+                    "height": 0,
+                    "x": 0,
+                    "y": 0,
+                    "featured-champions": []
+                },
+                "cta": "点火升空",
+                "blackout": "",
+                "isFanArt": false,
+                "isComic": false
+            }
+        ]
+    },
+    "champions": [
+        {
+            "attributes": {
+                "bloodtype": {
+                    "label": "血型",
+                    "value": "超棒",
+                    "machine_name": "bloodtype",
+                    "_metadata": {
+                        "uid": "cse11bf8d114bc9b20"
+                    }
+                },
+                "hobby": {
+                    "label": "爱好",
+                    "value": "看愚蠢的爱情小说",
+                    "machine_name": "hobby",
+                    "_metadata": {
+                        "uid": "csbcb9b283f86eeacb"
+                    }
+                },
+                "personal": {
+                    "label": "女朋友",
+                    "value": "传说是有的，可能现在是生气了",
+                    "machine_name": "personal",
+                    "_metadata": {
+                        "uid": "cs9600db7a2b038dc4"
+                    }
+                },
+                "randomfact": {
+                    "label": "肩上蜥蜴状态",
+                    "value": "很可爱",
+                    "machine_name": "randomfact",
+                    "_metadata": {
+                        "uid": "cs4cd73d5302ececf4"
+                    }
+                },
+                "solaryear": {
+                    "label": "太阳年",
+                    "value": "1",
+                    "machine_name": "solaryear",
+                    "_metadata": {
+                        "uid": "cs249e6a127e7dc856"
+                    }
+                },
+                "weapon": {
+                    "label": "颂，以及太空蜥蜴",
+                    "value": "<p>亚索的剑名叫“颂”，没什么特别的原因。只是因为他觉得这样听起来很酷，所以就这么着了。这把剑也不是什么传世宝物，是他在商店里买的。</p><p>但是，一把普普通通的激光剑并不能满足富贵名流们的炫耀心理。所以现在这把剑已经被奥能进行了深度的改造，几乎完全看不出原来的形制了。这把剑可以创造出纯粹能量构成的屏障以及发射等离子体飞弹，所以即使是在生手手中也能施展出威力，更何况亚索本人可是老手中的老手。</p><p>此外，在他肩膀上还挂着一只太空蜥蜴。<i>晨星号</i>的船员还没有给它起一个正经的名字，也可能根本就不起了，因为这蜥蜴是他们从一个安保措施最高等级的自然保护区里偷出来的，打算卖出一笔相当大的价钱。但是它会吹泡泡，所以亚索很喜欢。</p>",
+                    "machine_name": "weapon",
+                    "_metadata": {
+                        "uid": "csbc4fd6cf25d8bd20"
+                    }
+                },
+                "name": {
+                    "label": "乐队成员",
+                    "value": "亚索"
+                },
+                "bio": {
+                    "label": "英雄传记",
+                    "value": "<p>亚索出生的地方，高楼巨宇、流光溢彩，是中心世界最宏伟的都市。他英俊聪敏，衣食无忧，早已无欲无求。亚索后来成了一名专门服务社会名流和帝国高官的私人保镖，每晚醉眼朦胧漫无目的地出没于各家高级夜总会。他本可能就这样满不在乎地度过一生——直到他被陷害成残忍杀害自己哥哥的凶手。</p><p>正当一群德玛锡安的执法官和独立特工开始包围他时，他在一家酒吧里拉上几个人事不省的疯子，然后劫了架飞船，溜之大吉。</p><p>从那一天起他就开始了流亡。对他来说倒不算坏事，毕竟之前他唯一的问题是每天怎么把裤子穿上。</p><p>亚索很难说是一名够格的船长，他对别人的要求几乎充耳不闻。但他身手很好，而且除了娑娜之外没人知道，他掌握着为哥哥报仇的关键——他将打开传说中的奥能之门，拯救全宇宙。也许这不是他应有的命运，但或迟或早，他终归会坦然接受。</p>"
+                },
+                "eightfacts": {}
+            },
+            "background": null,
+            "avatar": {
+                "title": "odyssey-avatar-yasuo",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt681f7ae82132de80-odyssey-avatar-yasuo.jpg",
+                "encoding": "image/jpeg",
+                "width": null,
+                "height": null,
+                "x": null,
+                "y": null,
+                "featured-champions": []
+            },
+            "splash": {
+                "title": "odyssey-splash-cropped-yasuo",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt1025c9553a2668ec-odyssey-splash-cropped-yasuo.png",
+                "encoding": "image/jpeg",
+                "width": null,
+                "height": null,
+                "x": null,
+                "y": null,
+                "featured-champions": []
+            },
+            "header-image": {
+                "title": "odyssey-splash-cropped-yasuo",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt1025c9553a2668ec-odyssey-splash-cropped-yasuo.png",
+                "encoding": "image/jpeg",
+                "width": null,
+                "height": null,
+                "x": null,
+                "y": null,
+                "featured-champions": []
+            },
+            "profile-image": {
+                "title": "odyssey-avatar-yasuo",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt681f7ae82132de80-odyssey-avatar-yasuo.jpg",
+                "encoding": "image/jpeg",
+                "width": null,
+                "height": null,
+                "x": null,
+                "y": null,
+                "featured-champions": []
+            },
+            "blurred-image": null,
+            "bio": "<p>亚索出生的地方，高楼巨宇、流光溢彩，是中心世界最宏伟的都市。他英俊聪敏，衣食无忧，早已无欲无求。亚索后来成了一名专门服务社会名流和帝国高官的私人保镖，每晚醉眼朦胧漫无目的地出没于各家高级夜总会。他本可能就这样满不在乎地度过一生——直到他被陷害成残忍杀害自己哥哥的凶手。</p><p>正当一群德玛锡安的执法官和独立特工开始包围他时，他在一家酒吧里拉上几个人事不省的疯子，然后劫了架飞船，溜之大吉。</p><p>从那一天起他就开始了流亡。对他来说倒不算坏事，毕竟之前他唯一的问题是每天怎么把裤子穿上。</p><p>亚索很难说是一名够格的船长，他对别人的要求几乎充耳不闻。但他身手很好，而且除了娑娜之外没人知道，他掌握着为哥哥报仇的关键——他将打开传说中的奥能之门，拯救全宇宙。也许这不是他应有的命运，但或迟或早，他终归会坦然接受。</p>",
+            "name": "晨星号船长",
+            "type": null
+        },
+        {
+            "attributes": {
+                "bloodtype": {
+                    "label": "血型",
+                    "value": "亢奋",
+                    "machine_name": "bloodtype",
+                    "_metadata": {
+                        "uid": "cs626ebed5b9670911"
+                    }
+                },
+                "hobby": {
+                    "label": "爱好",
+                    "value": "挑衅死神",
+                    "machine_name": "hobby",
+                    "_metadata": {
+                        "uid": "csa55822452116406f"
+                    }
+                },
+                "personal": {
+                    "label": "最好的伙伴",
+                    "value": "墨菲特",
+                    "machine_name": "personal",
+                    "_metadata": {
+                        "uid": "csb913f633f9e5cc63"
+                    }
+                },
+                "randomfact": {
+                    "label": "古怪的暗恋",
+                    "value": "顺位者凯隐。——我知道，对吗？",
+                    "machine_name": "randomfact",
+                    "_metadata": {
+                        "uid": "cs237637dbcaa2f2f2"
+                    }
+                },
+                "solaryear": {
+                    "label": "太阳年",
+                    "value": "1",
+                    "machine_name": "solaryear",
+                    "_metadata": {
+                        "uid": "cs56480dda58fcf8a7"
+                    }
+                },
+                "weapon": {
+                    "label": "金克丝的武器库",
+                    "value": "<p>金克丝随时携带着大量武器，足够攻破一座小型到中型的德玛锡安战争工事。记录在案的武器包括：鱼骨头，一架一心保护主人周全的火箭发射器；砰砰枪，一把乐于破坏和杀戮的机枪；滋滋枪，一把生物有机电击枪，非常粗制滥造，随时可能炸掉自己；嚼火者手雷，形状与墨菲特的脑袋无比相似；以及超究极死亡彗星，这是金克丝当矿工的时候顺手带走的一座星际传送门，可以把富含矿物的小行星碎片扔到敌人脸上。轰的一声！</p><p>当然，这些武器都不会说话，也没有性格。它们是死物。</p><p>武器是死物。</p>",
+                    "machine_name": "weapon",
+                    "_metadata": {
+                        "uid": "csc7006c7cf2b6a3ba"
+                    }
+                },
+                "name": {
+                    "label": "乐队成员",
+                    "value": "金克丝"
+                },
+                "bio": {
+                    "label": "英雄传记",
+                    "value": "<p>为晨星号船员制造以及摧毁（主要是摧毁）各式各样突发奇想、极不稳定的武器，这是金克丝的强项。她驾驶着飞船，驰骋于险象环生的极端宇宙，经受无尽的战火洗礼。亚索雇佣她的原因不得而知，流言只提到了在卢敦星云的外旋象限中，两人曾有过一次四十八小时的交手。之后他们就成了坚定的盟友。</p><p>金克丝总是极度亢奋，躁动难安。她之前的雇主，有小行星矿主也有军火制造商，一听到她的大名就会引发创伤后应激障碍。金克丝喜欢硬着陆在敌对的星球上，还有“不小心”用晨星号的主炮将卫星炸成齑粉。并且，她对凯隐一点兴趣也没有，而后者正想尽办法要杀死所有船员。</p><p>她把墨菲特当作整个宇宙中自己最好的朋友……主要原因是她害墨菲特丢了之前的工作，但同时也是因为，他砸东西的力道真的，非常非常大。</p>"
+                },
+                "eightfacts": {}
+            },
+            "background": null,
+            "avatar": {
+                "title": "odyssey-avatar-jinx",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt18ff98a9340451ec-odyssey-avatar-jinx.jpg",
+                "encoding": "image/jpeg",
+                "width": null,
+                "height": null,
+                "x": null,
+                "y": null,
+                "featured-champions": []
+            },
+            "splash": {
+                "title": "odyssey-splash-cropped-jinx",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/bltb82bed7d104b206e-odyssey-splash-cropped-jinx.png",
+                "encoding": "image/jpeg",
+                "width": null,
+                "height": null,
+                "x": null,
+                "y": null,
+                "featured-champions": []
+            },
+            "header-image": {
+                "title": "odyssey-splash-cropped-jinx",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/bltb82bed7d104b206e-odyssey-splash-cropped-jinx.png",
+                "encoding": "image/jpeg",
+                "width": null,
+                "height": null,
+                "x": null,
+                "y": null,
+                "featured-champions": []
+            },
+            "profile-image": {
+                "title": "odyssey-avatar-jinx",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt18ff98a9340451ec-odyssey-avatar-jinx.jpg",
+                "encoding": "image/jpeg",
+                "width": null,
+                "height": null,
+                "x": null,
+                "y": null,
+                "featured-champions": []
+            },
+            "blurred-image": null,
+            "bio": "<p>为晨星号船员制造以及摧毁（主要是摧毁）各式各样突发奇想、极不稳定的武器，这是金克丝的强项。她驾驶着飞船，驰骋于险象环生的极端宇宙，经受无尽的战火洗礼。亚索雇佣她的原因不得而知，流言只提到了在卢敦星云的外旋象限中，两人曾有过一次四十八小时的交手。之后他们就成了坚定的盟友。</p><p>金克丝总是极度亢奋，躁动难安。她之前的雇主，有小行星矿主也有军火制造商，一听到她的大名就会引发创伤后应激障碍。金克丝喜欢硬着陆在敌对的星球上，还有“不小心”用晨星号的主炮将卫星炸成齑粉。并且，她对凯隐一点兴趣也没有，而后者正想尽办法要杀死所有船员。</p><p>她把墨菲特当作整个宇宙中自己最好的朋友……主要原因是她害墨菲特丢了之前的工作，但同时也是因为，他砸东西的力道真的，非常非常大。</p>",
+            "name": "晨星号飞行员",
+            "type": null
+        },
+        {
+            "attributes": {
+                "bloodtype": {
+                    "label": "血型",
+                    "value": "一点就炸",
+                    "machine_name": "bloodtype",
+                    "_metadata": {
+                        "uid": "cs5e5896bd2ea277ae"
+                    }
+                },
+                "hobby": {
+                    "label": "爱好",
+                    "value": "抱怨和发火",
+                    "machine_name": "hobby",
+                    "_metadata": {
+                        "uid": "cs1e82efbf93bccfcf"
+                    }
+                },
+                "personal": {
+                    "label": "资本主义",
+                    "value": "任何事",
+                    "machine_name": "personal",
+                    "_metadata": {
+                        "uid": "csa1bbb04ed8c1ec50"
+                    }
+                },
+                "randomfact": {
+                    "label": "气愤",
+                    "value": "后期阶段",
+                    "machine_name": "randomfact",
+                    "_metadata": {
+                        "uid": "cse911d42a393fbd94"
+                    }
+                },
+                "solaryear": {
+                    "label": "太阳年",
+                    "value": "1",
+                    "machine_name": "solaryear",
+                    "_metadata": {
+                        "uid": "csc0bcc008bcd27633"
+                    }
+                },
+                "weapon": {
+                    "label": "专利型爆炸混合物",
+                    "value": "<p>吉格斯独家研制的炸药利用了奥能易燃易爆的天然特性，所以爆炸效果强烈且集中，是开矿的绝佳选择。当时集团因此取得的领先地位可谓奇迹一般，但很快就引来了盲目跟风的财团。他们的武器专家往炸药里掺进了更便宜也更安全的替代品。吉格斯并不赞成。作为一个从来不肯被人压过一头的人，他在原有基础上紧急调配出了更加不稳定的制品，一心想要“让他们见识一下，嘻嘻嘻……”\n[sic]</p><p>吉格斯研发的炸药里混有十几种高粘性高毒性的生物及矿物原料，是他从星系的各个角落里搜集来的。哪怕是最轻微的触碰也会引爆。对这个问题他倒是显得无所谓，而且他捆在自己背上的巨型引爆器相当于是在警告太空中游荡的海盗们别想着插手他的事情。</p><p>你让吉格斯炸毛，吉格斯就把你炸了。公平得很。</p>",
+                    "machine_name": "weapon",
+                    "_metadata": {
+                        "uid": "csbaaee36d3be257af"
+                    }
+                },
+                "name": {
+                    "label": "乐队成员",
+                    "value": "吉格斯"
+                },
+                "bio": {
+                    "label": "英雄传记",
+                    "value": "<p>吉格斯曾经为奥能开采过程贡献过革命性的改进措施，但现在却已声名扫地，一文不名。只因为一个新来的家伙和她虎背熊腰的经理“不小心”把他的一件设备弄炸了，当场蒸发掉半个——</p><p>听着，你当时又不在场好吗？不用给我摆脸色。就给我一点时间，让我把吉格斯的事情全跟你讲一遍。并不多，他是个矮子。</p><p>他年轻的时候赚过不少钱，因为他在奥能开采、精炼、武器化——只要是能出名的项目，他一拍脑袋就能开始动手——方面是数一数二的专家。他一边接着承包项目，一边研究更高效的开采方法。吉格斯眼看就要取得重要进展的时候，天塌了。</p><p>或者准确地说，是他的卫星。</p><p>简单说来，他正在进行工程的小行星爆炸了，价值上百万亿货币单位的晶体化奥能瞬间蒸发殆尽。这位小个子工程师立刻成了替罪羊，他的财产和存款被立时剥夺，而他自己则被塞进了一艘破烂得几乎没法航行的采矿舰里，全身上下只有背包里的一袋子炸弹，和谁说话也不管用的恨意。</p><p>如今他苦大仇深、疯疯癫癫地在星系边缘的奥能热点之间流窜，进行着一场疯狂的赌博，只为赢回从前的优渥生活和地位……同时歇斯底里地祈祷着，无论是什么情况，自己永远永远不要再碰上那个新来的家伙和她的经理。呵呵。</p>"
+                },
+                "eightfacts": {}
+            },
+            "background": null,
+            "avatar": {
+                "title": "odyssey-avatar-ziggs",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt1659f637a18fe08c-odyssey-avatar-ziggs.jpg",
+                "encoding": "image/jpeg",
+                "width": null,
+                "height": null,
+                "x": null,
+                "y": null,
+                "featured-champions": []
+            },
+            "splash": {
+                "title": "odyssey-splash-cropped-ziggs",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt74fb8410435407e8-odyssey-splash-cropped-ziggs.png",
+                "encoding": "image/jpeg",
+                "width": null,
+                "height": null,
+                "x": null,
+                "y": null,
+                "featured-champions": []
+            },
+            "header-image": {
+                "title": "odyssey-splash-cropped-ziggs",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt74fb8410435407e8-odyssey-splash-cropped-ziggs.png",
+                "encoding": "image/jpeg",
+                "width": null,
+                "height": null,
+                "x": null,
+                "y": null,
+                "featured-champions": []
+            },
+            "profile-image": {
+                "title": "odyssey-avatar-ziggs",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt1659f637a18fe08c-odyssey-avatar-ziggs.jpg",
+                "encoding": "image/jpeg",
+                "width": null,
+                "height": null,
+                "x": null,
+                "y": null,
+                "featured-champions": []
+            },
+            "blurred-image": null,
+            "bio": "<p>吉格斯曾经为奥能开采过程贡献过革命性的改进措施，但现在却已声名扫地，一文不名。只因为一个新来的家伙和她虎背熊腰的经理“不小心”把他的一件设备弄炸了，当场蒸发掉半个——</p><p>听着，你当时又不在场好吗？不用给我摆脸色。就给我一点时间，让我把吉格斯的事情全跟你讲一遍。并不多，他是个矮子。</p><p>他年轻的时候赚过不少钱，因为他在奥能开采、精炼、武器化——只要是能出名的项目，他一拍脑袋就能开始动手——方面是数一数二的专家。他一边接着承包项目，一边研究更高效的开采方法。吉格斯眼看就要取得重要进展的时候，天塌了。</p><p>或者准确地说，是他的卫星。</p><p>简单说来，他正在进行工程的小行星爆炸了，价值上百万亿货币单位的晶体化奥能瞬间蒸发殆尽。这位小个子工程师立刻成了替罪羊，他的财产和存款被立时剥夺，而他自己则被塞进了一艘破烂得几乎没法航行的采矿舰里，全身上下只有背包里的一袋子炸弹，和谁说话也不管用的恨意。</p><p>如今他苦大仇深、疯疯癫癫地在星系边缘的奥能热点之间流窜，进行着一场疯狂的赌博，只为赢回从前的优渥生活和地位……同时歇斯底里地祈祷着，无论是什么情况，自己永远永远不要再碰上那个新来的家伙和她的经理。呵呵。</p>",
+            "name": "落魄企业家",
+            "type": null
+        },
+        {
+            "attributes": {
+                "bloodtype": {
+                    "label": "血型",
+                    "value": "不知道。魔法？",
+                    "machine_name": "bloodtype",
+                    "_metadata": {
+                        "uid": "cs2a5ffe7c90bf3efa"
+                    }
+                },
+                "hobby": {
+                    "label": "爱好",
+                    "value": "不说话",
+                    "machine_name": "hobby",
+                    "_metadata": {
+                        "uid": "cs7e0fa8feb751f701"
+                    }
+                },
+                "personal": {
+                    "label": "职业",
+                    "value": "月球法师！",
+                    "machine_name": "personal",
+                    "_metadata": {
+                        "uid": "cs784def539d516649"
+                    }
+                },
+                "randomfact": {
+                    "label": "节奏",
+                    "value": "开始摇摆",
+                    "machine_name": "randomfact",
+                    "_metadata": {
+                        "uid": "cse04f0584213c2700"
+                    }
+                },
+                "solaryear": {
+                    "label": "太阳年",
+                    "value": "1",
+                    "machine_name": "solaryear",
+                    "_metadata": {
+                        "uid": "cs8ec5de1d7f5769e3"
+                    }
+                },
+                "weapon": {
+                    "label": "奥能",
+                    "value": "<p>娑娜可以与奥能交流，也可以将奥能当作武器、盾牌和贴心的朋友。奥能会告诉她秘密（可能吧），也会八卦最近圣使们发生的事情（也是可能），有时候还会跟她讲另外两名圣使怎样用金色的能量流水般将巨型机器人一切两半。</p><p>更重要的是，娑娜使用奥能的方式与大多数智慧生命不同。她不需要植入增强体，也不需要接受危险又昂贵的身体改造手术——只需要请自己手中小小的光球帮个忙就好。这是现代科技的奇迹——也不能说是科技。<i>像</i>是科技，但更高级。</p>",
+                    "machine_name": "weapon",
+                    "_metadata": {
+                        "uid": "cs406e18983f3c1734"
+                    }
+                },
+                "name": {
+                    "label": "乐队成员",
+                    "value": "娑娜"
+                },
+                "bio": {
+                    "label": "英雄传记",
+                    "value": "<p>娑娜是一名神秘的圣使。她与一切文明的神圣命脉奥能有着奇异的亲和力。娑娜是教派中同辈之间最有天分的孩子，能够罕见地与冰冷深空中由奥能繁衍而来的生物群落直接交流。娑娜通过这些生物群落看到了一些奇怪的末日景象，于是便和另外两位圣使以及他们的手下一起出发前往边陲地区的艾欧南。在那里，一个不属于这个宇宙的上古生物从获得自由的第一天便开始了等待，还有它不为人知的黑暗行径……</p><p>不幸的是，他们一行人被德玛锡安帝国的机动骑兵们追上了，而娑娜藏在了一群蓬头垢面的民兵里才侥幸在交火中生还，随后便被关押了起来。已经被拉亚斯特影响颇深的顺位者悉达·凯隐下令将他们移交到轨迹舰队进行审问。娑娜虽然成功地逃脱了，但却付出了巨大的代价——凯隐亲手杀害了帮助她逃跑的永恩。</p><p>无处可去的娑娜最终找到了永恩的弟弟——经常惹是生非的亚索，加入了<i>晨星号</i>的这一班乌合之众，希望能阻止那场将会毁灭一切造物的灾难。</p><p>看完了金克丝的招募广告后，她至少有百分之八十五的信心认定，拯救宇宙仍然是正确的。</p>"
+                },
+                "eightfacts": {}
+            },
+            "background": null,
+            "avatar": {
+                "title": "odyssey-avatar-sona",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt4848f25244277e5f-odyssey-avatar-sona.jpg",
+                "encoding": "image/jpeg",
+                "width": null,
+                "height": null,
+                "x": null,
+                "y": null,
+                "featured-champions": []
+            },
+            "splash": {
+                "title": "odyssey-splash-cropped-sona",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blta9c976490f35c0ec-odyssey-splash-cropped-sona.png",
+                "encoding": "image/jpeg",
+                "width": null,
+                "height": null,
+                "x": null,
+                "y": null,
+                "featured-champions": []
+            },
+            "header-image": {
+                "title": "odyssey-splash-cropped-sona",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blta9c976490f35c0ec-odyssey-splash-cropped-sona.png",
+                "encoding": "image/jpeg",
+                "width": null,
+                "height": null,
+                "x": null,
+                "y": null,
+                "featured-champions": []
+            },
+            "profile-image": {
+                "title": "odyssey-avatar-sona",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt4848f25244277e5f-odyssey-avatar-sona.jpg",
+                "encoding": "image/jpeg",
+                "width": null,
+                "height": null,
+                "x": null,
+                "y": null,
+                "featured-champions": []
+            },
+            "blurred-image": null,
+            "bio": "<p>娑娜是一名神秘的圣使。她与一切文明的神圣命脉奥能有着奇异的亲和力。娑娜是教派中同辈之间最有天分的孩子，能够罕见地与冰冷深空中由奥能繁衍而来的生物群落直接交流。娑娜通过这些生物群落看到了一些奇怪的末日景象，于是便和另外两位圣使以及他们的手下一起出发前往边陲地区的艾欧南。在那里，一个不属于这个宇宙的上古生物从获得自由的第一天便开始了等待，还有它不为人知的黑暗行径……</p><p>不幸的是，他们一行人被德玛锡安帝国的机动骑兵们追上了，而娑娜藏在了一群蓬头垢面的民兵里才侥幸在交火中生还，随后便被关押了起来。已经被拉亚斯特影响颇深的顺位者悉达·凯隐下令将他们移交到轨迹舰队进行审问。娑娜虽然成功地逃脱了，但却付出了巨大的代价——凯隐亲手杀害了帮助她逃跑的永恩。</p><p>无处可去的娑娜最终找到了永恩的弟弟——经常惹是生非的亚索，加入了<i>晨星号</i>的这一班乌合之众，希望能阻止那场将会毁灭一切造物的灾难。</p><p>看完了金克丝的招募广告后，她至少有百分之八十五的信心认定，拯救宇宙仍然是正确的。</p>",
+            "name": "隐匿圣使",
+            "type": null
+        },
+        {
+            "attributes": {
+                "bloodtype": {
+                    "label": "血型",
+                    "value": "未知的异型",
+                    "machine_name": "bloodtype",
+                    "_metadata": {
+                        "uid": "cse3a29ad617e51a4d"
+                    }
+                },
+                "hobby": {
+                    "label": "爱好",
+                    "value": "在瓶子里造小船",
+                    "machine_name": "hobby",
+                    "_metadata": {
+                        "uid": "csdc3e969dfa914c8d"
+                    }
+                },
+                "personal": {
+                    "label": "最好的伙伴",
+                    "value": "金克丝",
+                    "machine_name": "personal",
+                    "_metadata": {
+                        "uid": "csb993e46f15e2b2d6"
+                    }
+                },
+                "randomfact": {
+                    "label": "始终想成为",
+                    "value": "一名医生",
+                    "machine_name": "randomfact",
+                    "_metadata": {
+                        "uid": "csb78f77028b9258f2"
+                    }
+                },
+                "solaryear": {
+                    "label": "太阳年",
+                    "value": "1",
+                    "machine_name": "solaryear",
+                    "_metadata": {
+                        "uid": "cs074b23f719d124e7"
+                    }
+                },
+                "weapon": {
+                    "label": "墨菲特本人",
+                    "value": "<p>墨菲特的皮肤和极有型的外套能够生出甲片，所以他可以承受巨量的伤害。之前的对手说他第一，“非常蠢笨”，第二，“几乎不可能被杀掉”，但很多人都不能意识到墨菲特真正的危险之处。他身边是一群愚蠢的乌合之众，自己的人生目标也被剥夺，还一手造成了自己的困境，所以只要有人或者东西胆敢鬼祟地瞅他一眼，墨菲特就会很愿意驱动庞大的身躯狠狠地撞过去。</p><p>一旦墨菲特动了起来，这个宇宙中就没有任何东西能够拦住他。</p>",
+                    "machine_name": "weapon",
+                    "_metadata": {
+                        "uid": "cs4db32d16bd0329d7"
+                    }
+                },
+                "name": {
+                    "label": "乐队成员",
+                    "value": "墨菲特"
+                },
+                "bio": {
+                    "label": "英雄传记",
+                    "value": "<p>墨菲特曾经是一家深空采矿集团的矿坑工头，但是后来金克丝把小行星炸成了两半，害得两人同时丢了工作。</p><p>他一直以来的梦想是去宇宙中最顶尖的医疗机构中进修内科。但是医学院近乎荒谬的昂贵学费迫使墨菲特不得已转而投身于矿工事业。他将自己收到的每一张支票都分出一半来为自己的梦想铺路……直到金克丝被派到了他的队伍里。不知道为什么，这两人发展出了深厚的友谊，哪怕他所有的钱都被没完没了地拿去用于修理金克丝破坏的设备。</p><p>两人亦步亦趋地（就看金克丝去哪儿）上了<i>晨星号</i>的船之后，墨菲特慢慢地发觉自己开始不能控制自己的情绪爆发。他说话很慢，走路很慢，只有要打架时、犯法时或是跟打架有关的犯法行动时才会打起精神。</p><p>他对某个“一看就知道是个神经病”的人极为忠诚，也因此陷入了无数次横跨星系的追击战，但他似乎并不在意。他诡异的身体构造赋予了他磐石般坚硬的甲壳和硕大的拳头，而你要是有了一双大拳头，生活对你的限制就小了许多。</p>"
+                },
+                "eightfacts": {}
+            },
+            "background": null,
+            "avatar": {
+                "title": "odyssey-avatar-malphite",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/bltaa0503b145cd6014-odyssey-avatar-malphite.jpg",
+                "encoding": "image/jpeg",
+                "width": null,
+                "height": null,
+                "x": null,
+                "y": null,
+                "featured-champions": []
+            },
+            "splash": {
+                "title": "odyssey-splash-cropped-malphite",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/bltfda4701d0160ba55-odyssey-splash-cropped-malphite.png",
+                "encoding": "image/jpeg",
+                "width": null,
+                "height": null,
+                "x": null,
+                "y": null,
+                "featured-champions": []
+            },
+            "header-image": {
+                "title": "odyssey-splash-cropped-malphite",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/bltfda4701d0160ba55-odyssey-splash-cropped-malphite.png",
+                "encoding": "image/jpeg",
+                "width": null,
+                "height": null,
+                "x": null,
+                "y": null,
+                "featured-champions": []
+            },
+            "profile-image": {
+                "title": "odyssey-avatar-malphite",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/bltaa0503b145cd6014-odyssey-avatar-malphite.jpg",
+                "encoding": "image/jpeg",
+                "width": null,
+                "height": null,
+                "x": null,
+                "y": null,
+                "featured-champions": []
+            },
+            "blurred-image": null,
+            "bio": "<p>墨菲特曾经是一家深空采矿集团的矿坑工头，但是后来金克丝把小行星炸成了两半，害得两人同时丢了工作。</p><p>他一直以来的梦想是去宇宙中最顶尖的医疗机构中进修内科。但是医学院近乎荒谬的昂贵学费迫使墨菲特不得已转而投身于矿工事业。他将自己收到的每一张支票都分出一半来为自己的梦想铺路……直到金克丝被派到了他的队伍里。不知道为什么，这两人发展出了深厚的友谊，哪怕他所有的钱都被没完没了地拿去用于修理金克丝破坏的设备。</p><p>两人亦步亦趋地（就看金克丝去哪儿）上了<i>晨星号</i>的船之后，墨菲特慢慢地发觉自己开始不能控制自己的情绪爆发。他说话很慢，走路很慢，只有要打架时、犯法时或是跟打架有关的犯法行动时才会打起精神。</p><p>他对某个“一看就知道是个神经病”的人极为忠诚，也因此陷入了无数次横跨星系的追击战，但他似乎并不在意。他诡异的身体构造赋予了他磐石般坚硬的甲壳和硕大的拳头，而你要是有了一双大拳头，生活对你的限制就小了许多。</p>",
+            "name": "晨星号工程师",
+            "type": null
+        },
+        {
+            "attributes": {
+                "bloodtype": {
+                    "label": "血型",
+                    "value": "现在也许大部分都是奥能",
+                    "machine_name": "bloodtype",
+                    "_metadata": {
+                        "uid": "csb5ff5b40c1c4f81b"
+                    }
+                },
+                "hobby": {
+                    "label": "爱好",
+                    "value": "肆意妄为",
+                    "machine_name": "hobby",
+                    "_metadata": {
+                        "uid": "cs2a03e5f3a7cc6462"
+                    }
+                },
+                "personal": {
+                    "label": "最喜欢的卡拉OK歌曲",
+                    "value": "《我的天啊》（feat. 阿狸）",
+                    "machine_name": "personal",
+                    "_metadata": {
+                        "uid": "csa26332da4fc22f1a"
+                    }
+                },
+                "randomfact": {
+                    "label": "邪恶的怪物镰刀",
+                    "value": "千真万确",
+                    "machine_name": "randomfact",
+                    "_metadata": {
+                        "uid": "csc641f8346b2dde00"
+                    }
+                },
+                "solaryear": {
+                    "label": "太阳年",
+                    "value": "1",
+                    "machine_name": "solaryear",
+                    "_metadata": {
+                        "uid": "cs7093565aef3237da"
+                    }
+                },
+                "weapon": {
+                    "label": "拉亚斯特",
+                    "value": "<p>拉亚斯特是一个被封印在远古邪恶巨镰中的嗜血怪物。他会假借无所不在的生物能量——奥能的声音。和凯隐不同的是，拉亚斯特并不怎么在乎大场面或是炫耀自己——他只是单纯地热爱杀戮。从这个角度来说，二者并不是什么相处融洽的盟友。凯隐一心想要获取奥能，拉亚斯特则渴望尽可能地掐灭宇宙中的生命，越多越好。可想而知，两人会经常拌嘴。</p><p>拉亚斯特在星系中的好几个死胡同里被囚禁了无法计数的时间，所以他有充分的时间来考虑自己的主人们在无差别的屠杀之外针对宇宙的计划，也不介意给他们设置一些困难——至少拖延<i>一些</i>时间。毕竟，你总是要不时给自己找点乐子的。</p>",
+                    "machine_name": "weapon",
+                    "_metadata": {
+                        "uid": "csf2ef875d98152b7a"
+                    }
+                },
+                "name": {
+                    "label": "乐队成员",
+                    "value": "凯隐"
+                },
+                "bio": {
+                    "label": "英雄传记",
+                    "value": "<p>悉达·凯隐是轨迹舰队的一名军事参谋。他刚愎自负，被拔擢为德玛锡安帝国的顺位者之一，直接听命于皇帝嘉文四世。凯隐执着于掠取尽可能多的奥能，收在自己的身体里，哪怕这是极大的禁忌。但是一股神秘难解的力量却在无声地怂恿他，他相信这样一来自己终将变成一种不可战胜的不朽存在。</p><p>他错了。</p><p>即便如此，凯隐还是了解到自己需要找到娑娜。她是星系中为数不多能够帮他完全释放潜能的人，因为她能带领他穿过那鲜有人知的神秘圣物，奥能之门。</p><p>虽然他曾经对帝国无限忠诚，但是凯隐彻底执迷于他个人对<i>晨星号</i>的猎杀，而且会毫不犹豫地翦除任何从中阻挠的人。凯隐魅力十足、潇洒迷人、冷酷坚毅、口才了得。他很欣赏自己的暴力行径，沉醉于想象自己成为整个宇宙有史以来最恐怖的威胁。</p><p>但他几乎一无所知的是，实际上宇宙中有史以来最恐怖的威胁正安逸地潜伏在他的左手中。</p>"
+                },
+                "eightfacts": {}
+            },
+            "background": null,
+            "avatar": {
+                "title": "odyssey-avatar-kayn",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt59afee232db9b876-odyssey-avatar-kayn.jpg",
+                "encoding": "image/jpeg",
+                "width": null,
+                "height": null,
+                "x": null,
+                "y": null,
+                "featured-champions": []
+            },
+            "splash": {
+                "title": "odyssey-splash-cropped-kayn",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt5906ca229028e691-odyssey-splash-cropped-kayn.png",
+                "encoding": "image/jpeg",
+                "width": null,
+                "height": null,
+                "x": null,
+                "y": null,
+                "featured-champions": []
+            },
+            "header-image": {
+                "title": "odyssey-splash-cropped-kayn",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt5906ca229028e691-odyssey-splash-cropped-kayn.png",
+                "encoding": "image/jpeg",
+                "width": null,
+                "height": null,
+                "x": null,
+                "y": null,
+                "featured-champions": []
+            },
+            "profile-image": {
+                "title": "odyssey-avatar-kayn",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt59afee232db9b876-odyssey-avatar-kayn.jpg",
+                "encoding": "image/jpeg",
+                "width": null,
+                "height": null,
+                "x": null,
+                "y": null,
+                "featured-champions": []
+            },
+            "blurred-image": null,
+            "bio": "<p>悉达·凯隐是轨迹舰队的一名军事参谋。他刚愎自负，被拔擢为德玛锡安帝国的顺位者之一，直接听命于皇帝嘉文四世。凯隐执着于掠取尽可能多的奥能，收在自己的身体里，哪怕这是极大的禁忌。但是一股神秘难解的力量却在无声地怂恿他，他相信这样一来自己终将变成一种不可战胜的不朽存在。</p><p>他错了。</p><p>即便如此，凯隐还是了解到自己需要找到娑娜。她是星系中为数不多能够帮他完全释放潜能的人，因为她能带领他穿过那鲜有人知的神秘圣物，奥能之门。</p><p>虽然他曾经对帝国无限忠诚，但是凯隐彻底执迷于他个人对<i>晨星号</i>的猎杀，而且会毫不犹豫地翦除任何从中阻挠的人。凯隐魅力十足、潇洒迷人、冷酷坚毅、口才了得。他很欣赏自己的暴力行径，沉醉于想象自己成为整个宇宙有史以来最恐怖的威胁。</p><p>但他几乎一无所知的是，实际上宇宙中有史以来最恐怖的威胁正安逸地潜伏在他的左手中。</p>",
+            "name": "德玛锡安帝国高阶顺位者",
+            "type": null
+        },
+        {
+            "attributes": {
+                "bloodtype": {
+                    "label": "血型",
+                    "value": "奥能，但是更狂躁",
+                    "machine_name": "bloodtype",
+                    "_metadata": {
+                        "uid": "cs58af41dcdd73d085"
+                    }
+                },
+                "hobby": {
+                    "label": "爱好",
+                    "value": "自言自语",
+                    "machine_name": "hobby",
+                    "_metadata": {
+                        "uid": "cs8ddb5f18432e859f"
+                    }
+                },
+                "personal": {
+                    "label": "克隆体",
+                    "value": "许多许多克隆体",
+                    "machine_name": "personal",
+                    "_metadata": {
+                        "uid": "cseb56c706534ef59c"
+                    }
+                },
+                "randomfact": {
+                    "label": "蔑视的对象",
+                    "value": "弱者",
+                    "machine_name": "randomfact",
+                    "_metadata": {
+                        "uid": "csa42f1420796c0084"
+                    }
+                },
+                "weapon": {
+                    "label": "奥能装具",
+                    "value": "<p>最纯粹的奥能与劫融为一体。它包裹了劫的皮肤，改变了他四肢的形态，制造出活体的武器——闪着寒光的刀刃、多尖多刃的飞刀，还有其他数不清的锋利锐器。</p><p>只要有足够的意志力，他甚至能从奥能中召唤出自己的克隆体分身，混淆敌人的视线，让他们怀疑自己的感官，或者让他们腹背受敌、顾此失彼。</p><p>但最重要的，这些克隆体能让劫在独自用餐的时候也能有熟悉的面孔作伴。</p><p>你有疑问？劫当然会考虑这种用法了。他看起来那么孤单。</p>",
+                    "machine_name": "weapon",
+                    "_metadata": {
+                        "uid": "cs1d2e4f3dbf64df11"
+                    }
+                },
+                "name": {
+                    "label": "乐队成员",
+                    "value": "劫"
+                },
+                "bio": {
+                    "label": "英雄传记",
+                    "value": "<p>被圣使教团抚养大的戒在年纪很小的时候就将自己全身心地奉献给了教团。他掌握了每一条本源真理，通过了每一项严格的考验，最后终于骄傲地站在大师们面前，正式成为了一名圣使。也是在那个时候，戒被指派了他最后也是最困难的一次考验：寻找并保护一只传说中的深空巨兽——这是一种来自极其远古的生物，许多边缘星球的居民都将其奉为神明。</p><p>与其说是考验，毋宁说是一次他必须经历的失败。</p><p>一支德玛锡安远征军袭击了这位年轻的圣使，他们要为了一己私利收割巨兽的奥能。戒不愿让这种力量落入无信仰之人的手中，于是他当着德玛锡安人的面杀掉了巨兽。可是，这种行为从根本上违逆了圣使教团的信条。随之引发的宇宙级爆炸中，奥能吞噬了他的身体和心灵。</p><p>从那以后，戒变成了劫，他（或者应该说，<i>他们</i>）认为自己是所有生命的最完美的表达形式。奥能的跨维度低语将他引向深空，将他改造成了怪物般的实体，拥有迅猛且致命的毁灭力量。</p><p>对他来说，所有其他生灵都只是在干扰他实现新的和谐愿景——为银河系清除掉一切弱者和不配苟活之人。</p><p>这差事还不赖。前提是能做到的话。</p>"
+                },
+                "eightfacts": {}
+            },
+            "background": null,
+            "avatar": {
+                "title": "odyssey-avatar-zed",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt820b737795c9486e-odyssey-avatar-zed.jpg",
+                "encoding": "image/jpeg",
+                "width": null,
+                "height": null,
+                "x": null,
+                "y": null,
+                "featured-champions": []
+            },
+            "splash": {
+                "title": "odyssey-splash-cropped-zed",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/bltaf72358479c0181f-odyssey-splash-cropped-zed.png",
+                "encoding": "image/jpeg",
+                "width": null,
+                "height": null,
+                "x": null,
+                "y": null,
+                "featured-champions": []
+            },
+            "header-image": {
+                "title": "odyssey-splash-cropped-zed",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/bltaf72358479c0181f-odyssey-splash-cropped-zed.png",
+                "encoding": "image/jpeg",
+                "width": null,
+                "height": null,
+                "x": null,
+                "y": null,
+                "featured-champions": []
+            },
+            "profile-image": {
+                "title": "odyssey-avatar-zed",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt820b737795c9486e-odyssey-avatar-zed.jpg",
+                "encoding": "image/jpeg",
+                "width": null,
+                "height": null,
+                "x": null,
+                "y": null,
+                "featured-champions": []
+            },
+            "blurred-image": null,
+            "bio": "<p>被圣使教团抚养大的戒在年纪很小的时候就将自己全身心地奉献给了教团。他掌握了每一条本源真理，通过了每一项严格的考验，最后终于骄傲地站在大师们面前，正式成为了一名圣使。也是在那个时候，戒被指派了他最后也是最困难的一次考验：寻找并保护一只传说中的深空巨兽——这是一种来自极其远古的生物，许多边缘星球的居民都将其奉为神明。</p><p>与其说是考验，毋宁说是一次他必须经历的失败。</p><p>一支德玛锡安远征军袭击了这位年轻的圣使，他们要为了一己私利收割巨兽的奥能。戒不愿让这种力量落入无信仰之人的手中，于是他当着德玛锡安人的面杀掉了巨兽。可是，这种行为从根本上违逆了圣使教团的信条。随之引发的宇宙级爆炸中，奥能吞噬了他的身体和心灵。</p><p>从那以后，戒变成了劫，他（或者应该说，<i>他们</i>）认为自己是所有生命的最完美的表达形式。奥能的跨维度低语将他引向深空，将他改造成了怪物般的实体，拥有迅猛且致命的毁灭力量。</p><p>对他来说，所有其他生灵都只是在干扰他实现新的和谐愿景——为银河系清除掉一切弱者和不配苟活之人。</p><p>这差事还不赖。前提是能做到的话。</p>",
+            "name": "银河弑星者",
+            "type": null
+        }
+    ]
+}

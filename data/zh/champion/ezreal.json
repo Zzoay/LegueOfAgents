@@ -1,0 +1,588 @@
+{
+    "id": "ezreal",
+    "name": "伊泽瑞尔",
+    "title": "探险家",
+    "locale": "zh_cn",
+    "champion": {
+        "type": "champion",
+        "release-date": "2010-03-16T00:00:00.000Z",
+        "name": "伊泽瑞尔",
+        "title": "探险家",
+        "section-title": "伊泽瑞尔",
+        "slug": "ezreal",
+        "associated-faction": "",
+        "associated-faction-slug": "piltover",
+        "image": {
+            "title": "ezreal-splash",
+            "subtitle": "",
+            "description": "",
+            "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt701ca0d74cad88e2-Ezreal_splash.jpg",
+            "encoding": "image/jpeg",
+            "width": 1215,
+            "height": 717,
+            "x": 815,
+            "y": 141,
+            "featured-champions": []
+        },
+        "background": {
+            "title": "ezreal-splash",
+            "subtitle": "",
+            "description": "",
+            "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt701ca0d74cad88e2-Ezreal_splash.jpg",
+            "encoding": "image/jpeg",
+            "width": 1215,
+            "height": 717,
+            "x": 815,
+            "y": 141,
+            "featured-champions": []
+        },
+        "url": "/zh_cn/champion/ezreal",
+        "video": null,
+        "races": [],
+        "roles": [
+            {
+                "name": "射手",
+                "slug": "marksman"
+            },
+            {
+                "name": "法师",
+                "slug": "mage"
+            }
+        ],
+        "role": [
+            {
+                "name": "射手",
+                "slug": "marksman"
+            },
+            {
+                "name": "法师",
+                "slug": "mage"
+            }
+        ],
+        "game-info-url": "https://lol.qq.com/web201310/info-defail.shtml?id=Ezreal",
+        "biography": {
+            "full": "<p>在皮尔特沃夫富人区出生长大的伊泽瑞尔从小就是一个好奇的孩子。他的父母都是著名的考古学家，所以他早就习惯了双亲长期离家的生活，也幻想着能和他们一起旅行。他喜欢听那些离奇的冒险故事，而且和父母一样看不惯地图上留着的空白。</p><p>父母经常把他托付给舅舅莱米尔教授照顾。可这位教授并不喜欢管教这个不守规矩的孩子，所以给他安排了许多位极其严厉的家庭教师，传授他先进的地图学、海克斯机械、和符文之地古代史等等知识。但是这孩子在<i>吸收</i>知识方面有着与生俱来的天赋，这些繁重的课业对他来说都是在浪费时间。他几乎不需要任何复习就能轻易通过考评。让他的舅舅大为光火的同时，也让他有大把的时间可以在大学校园里游荡。伊泽瑞尔最开心的事就是避开管制人员，飞檐走壁，上房揭瓦。他甚至还练出了撬锁的本事，偷偷潜入老师们的办公室，重新布置他们的物件——单纯是因为他觉得好玩。</p><p>只要伊泽瑞尔的父母回到皮尔特沃夫，父亲就会特意和他讲述自己的见闻，还有他们未来的远征探险计划——其中最宏大、最秘密的计划当属找寻恕瑞玛暴君耐祖克的失落之墓。传说中他能够瞬间转移位置。伊泽瑞尔的父亲开玩笑说，如果搞清楚耐祖克所拥有的魔法，无论他走到哪里，就都可以每天回皮尔特沃夫和儿子一起吃晚饭了。</p><p>随着小男孩一天天长大，他父母离开家的时间也越来越长。直到有一次，他们再也没有回来。莱米尔教授含着泪，无奈地承认他们很可能已经葬身于沙漠之中。</p><p>但伊泽瑞尔没法接受。他的父母每次都会做足万全的准备。他们一定还在什么地方，<i>活着</i>……</p><p>这位未来的探险家抛弃了勉为其难的学业，决定单枪匹马闯出去。他知道，但凡有一丝找到父母的可能性，就必然要从耐祖克的最终安息所开始。他花了数周时间，在大学中暗地收集备品——天体的图解、符文魔印的译文、恕瑞玛丧葬仪式的手册、还有一副护目镜。他给舅舅留了告别的字条，然后就偷偷登上了一艘航向纳施拉美的货船。</p><p>他参照了母亲详尽的实地笔记，跟随一支南下的商队穿越了大塞。随后几个月的时间里，他深入到流沙之下的洞穴废墟中，品味无拘无束的自由，直面守护密室的不可言说的恐怖。每向前迈进一步，伊泽瑞尔都想象着自己在追寻父母的足迹，距离查清他们的失踪之谜又接近了一步。</p><p>最后，他来到了父母显然未能抵达的地方。在一个无名皇帝的新墓底下，他发现了耐祖克之墓。</p><p>这座大石棺里空空如也，只有一只发光的铜护手，正中间嵌着明亮的晶石。伊泽瑞尔刚一触及，整座古墓似乎就盯上了他，数千年前布置的巧妙陷阱和守卫都活了起来。他想都没想，立刻戴上了护手并炸开一条出路，甚至还瞬间传送了最后几百码的距离，回到了秘密入口处，随后整座墓穴便崩塌在沙尘和瓦砾的雾团中。</p><p>惊魂未定的伊泽瑞尔低头看着这只护手，它正在随着他的心跳发出嗡鸣。他能感到它在吸收并放大他自身体内的精魄。他意识到，这是史前年代的非凡武器，也是一位探险家的完美工具。</p><p>回到皮尔特沃夫以后，伊泽瑞尔发现新的冒险接二连三地找上门来。从失落的古城到神秘的庙宇，他对宝藏的嗅觉带着他亲身踏入那些大学教授只在地图上见过的地方，而他的名声也开始流传。当然，在伊泽瑞尔看来，那些关于他的传闻很少能够恰当地说明自己功绩的真正分量和意义……但这种名声倒是让他产生了一个想法。如果他能取得全世界最伟大冒险家的名号，那么他的父母就一定会回来找到他。</p><p>从诺克萨斯与德玛西亚之间的荒蛮边境，到蝇营狗苟的祖安深处，再到弗雷尔卓德的冰冻荒野——伊泽瑞尔追寻着名望与荣耀，不断发现失落已久的遗物，破解历史的谜题。虽然有人会争论关于他的故事细节，或者质疑他使用的手段，但他从不回应关于自己的批评。</p><p>毕竟，他们明显是在嫉妒。<br></p>",
+            "short": "<p>神采奕奕的冒险家伊泽瑞尔拥有自己不知道的魔法天赋，他搜刮失落已久的古墓，触碰古老的诅咒，还举重若轻地挑战常人不可能完成的极限。他的勇气和壮举无边无际，总是喜欢随机应变地解决任何情况，一定程度上依赖他的小聪明，但更主要是依赖他神秘的恕瑞玛护手，在他的操控下释放出破坏性的奥术爆弹。有一件事可以肯定——只要伊泽瑞尔出现，那么麻烦一定接踵而至。或是还没走远。范围大概是随时随地。</p>",
+            "quote": "“如果我不懂规矩，那要我如何打破规矩？”",
+            "quote-author": "伊泽瑞尔"
+        },
+        "headerImage": null
+    },
+    "related-champions": [
+        {
+            "type": "champion",
+            "release-date": "2009-08-07T00:00:00.000Z",
+            "name": "卡萨丁",
+            "title": "虚空行者",
+            "section-title": "卡萨丁",
+            "slug": "kassadin",
+            "associated-faction": "",
+            "associated-faction-slug": "void",
+            "image": {
+                "title": "kassadin-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/bltd1b80f3e64d47c14-Kassadin_0.jpg",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 973,
+                "y": 108,
+                "featured-champions": []
+            },
+            "background": {
+                "title": "kassadin-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/bltd1b80f3e64d47c14-Kassadin_0.jpg",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 973,
+                "y": 108,
+                "featured-champions": []
+            },
+            "url": "/zh_cn/champion/kassadin",
+            "video": null,
+            "races": [],
+            "roles": [
+                {
+                    "name": "刺客",
+                    "slug": "assassin"
+                },
+                {
+                    "name": "法师",
+                    "slug": "mage"
+                }
+            ],
+            "role": [
+                {
+                    "name": "刺客",
+                    "slug": "assassin"
+                },
+                {
+                    "name": "法师",
+                    "slug": "mage"
+                }
+            ],
+            "game-info-url": "https://lol.qq.com/web201310/info-defail.shtml?id=Kassadin",
+            "biography": {
+                "full": "<p>卡萨丁最初只是个低贱的弃婴，在大塞的沙漠上受雇于商队，保护他们贵重的货物，充当诱饵将掠食者引开。他曾多次侥幸活着穿越沙漠，于是不再是单纯的诱饵，而逐渐成为了商队的向导。<br><br>每当有说外语的人要寻求他的协助，都会说“卡斯-塞-阿-迪恩？”意思是“沙漠认得谁？”但是他们的恕瑞玛语总是含混不清，于是他就被亲切地唤为卡萨丁，成为卑尔居恩小巷和市场上的招牌。他花费了数年时间探索自己故土的古代废墟，让他的雇主们赚得盆满钵满，但直到他参与了泽瑞玛附近的一次挖掘工作，才找到了属于他自己的至宝——他爱上了一个来自沙漠部族的女人。<br><br>卡萨丁带着自己的妻子和襁褓之中的女儿，在南方一个岩石山谷中的小村子里安家落户。他经常在外奔波，经常需要将非常贵重的古代遗物押送给远方的资助者。然而，无论他旅行到什么地方，卡萨丁总能带着故事归来，讲述世界另一头的精彩见闻。<br><br>在一次从皮尔特沃夫回家的路上，卡萨丁和商队的同伴正在一处绿洲饮牲口。一批惊魂未定的幸存者踉踉跄跄走出沙漠，说家园受了大灾，就像是地下世界张开大口，吞噬了一切。他们勉强活着逃了出来。<br><br>担心妻小安危的卡萨丁甩下了其他人，日夜兼程，几乎把坐骑累到脱力。当他终于回到村子曾经所在的地点时，找到的只有流沙和碎石。他在废墟上挖到双手流血，不停嘶嚎着妻子和女儿的名字，但没有任何回应。几天后，卡萨丁的同伴们赶上了他，这时的他已彻底崩溃，精神恍惚、眼神空洞地在烈日下流泪。<br><br>他们把他拖回了泽瑞玛，但卡萨丁不愿再走了。随后的几年中，他曾借酒消愁，成为无家可归的流浪汉……直到镇子上开始出现“先知”的传闻。<br><br>莫可名状的恐怖藏在地下深处，以它们的名义献上的祭品，种种传闻让卡萨丁感到刺骨的恐惧。他非常了解古艾卡西亚的传说，也知道那个诅咒之地所遭遇的命运——如果虚空被人别有用心地再次引向恕瑞玛，那么很有可能就是它吞噬了他的村子，以及无数其他村庄。他也知道，世上只有很少人，甚至没有人，能够对抗虚空。<br><br>那一刻，卡萨丁发誓要为自己的妻子和女儿复仇，他要消灭这个为虎作伥的“先知”，同时一举消灭他黑暗力量的来源。他赖以谋生的本事，就是在凶险之地找到安全的道路，所以决心将自己全副武装起来。他找到瓦洛兰已知最玄奥的尖兵利器，融入祖安的独创设计，再配以艾欧尼亚疗魂者的祝福。他动用了一切人情关系，从考古学者到鸡鸣狗盗之徒，在他们的帮助下……得到，他想要的东西。许多人都说他疯了，认为这将是最后一次看到这位老朋友活着的样子——但卡萨丁只是感谢他们的关心，与他们道了珍重。他将独自面对虚空。<br><br>最后，他偷到了霍洛克的冥界之刃，这把剑曾在一个帝国的末期诛杀过上千的诡术欺诈者。他能够感到刀锋上浸着湮灭的寒意，但他早已将自己的生死置之度外，而且这样的生活早就没有什么可以失去的了。<br><br>他身着长袍，打扮成朝圣者，已有十多年未曾涉足这片荒废的土地。卡萨丁进入了艾卡西亚，他将前往人类的禁地。<br><br>他一定会报仇雪恨，即使付出生命也在所不惜。</p>",
+                "short": "在世界上最黑暗的地方，卡萨丁切出了一道燃烧的裂口，他知道自己已经时日无多。他曾是恕瑞玛地区的向导和冒险家，后来选择在恕瑞玛南方平静的部落中安家落户——直到那一天，他的村庄被虚空吞噬。卡萨丁发誓要报仇雪恨，于是整合了许多秘法器物和禁忌之术，以便应对前方的险阻。最后，卡萨丁动身前往艾卡西亚的废土，准备面对任何虚空的造物，寻找那位自封的先知，玛尔扎哈。",
+                "quote": "“鲜少有人能够跋涉于不同的世界之间。”",
+                "quote-author": "卡萨丁"
+            },
+            "headerImage": null
+        },
+        {
+            "type": "champion",
+            "release-date": "2010-10-19T00:00:00.000Z",
+            "name": "拉克丝",
+            "title": "光辉女郎",
+            "section-title": "拉克丝",
+            "slug": "lux",
+            "associated-faction": "",
+            "associated-faction-slug": "demacia",
+            "image": {
+                "title": "lux-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt9f9df38e50f393d4-Lux_0.jpg",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 784,
+                "y": 51,
+                "featured-champions": []
+            },
+            "background": {
+                "title": "lux-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt9f9df38e50f393d4-Lux_0.jpg",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 784,
+                "y": 51,
+                "featured-champions": []
+            },
+            "url": "/zh_cn/champion/lux",
+            "video": null,
+            "races": [],
+            "roles": [
+                {
+                    "name": "法师",
+                    "slug": "mage"
+                },
+                {
+                    "name": "辅助",
+                    "slug": "support"
+                }
+            ],
+            "role": [
+                {
+                    "name": "法师",
+                    "slug": "mage"
+                },
+                {
+                    "name": "辅助",
+                    "slug": "support"
+                }
+            ],
+            "game-info-url": "https://lol.qq.com/web201310/info-defail.shtml?id=Lux",
+            "biography": {
+                "full": "<p>她本名叫拉克珊娜，但她更喜欢别人叫她拉克丝。她和哥哥在德玛西亚的密银城长大，他们生于显贵的冕卫家族，这个家族世代沿袭着保卫德玛西亚国王的职责。他们的祖父在风暴之牙的战役中拯救了国王的性命，而他们的姑妈缇亚娜在拉克丝出生之前就被任命为精锐部队无畏先锋的指挥官。</p><p>盖伦充满热情地肩负起家族的职责，在还是个孩子的时候就加入了军队。他离开家以后，拉克丝就被寄望于经营各处的家产——即使那时她还很小，但已经开始厌恶这项任务。她想要去探索世界，去探究德玛西亚城墙和边境之外的东西。她崇拜盖伦，但面对盖伦劝她放弃志向的固执，拉克丝却满腹怨言。</p><p>拉克丝的家庭教师们从未想到过会遭遇如此挫折，他们本来的目标是让她准备好为冕卫家族尽忠职守、奉献一生，但她却对每一条教诲都提出疑问，对每一个不同视角都仔细检查，她所追寻的知识远超老师们的准备范围。即便如此，没有谁能对拉克丝心生恼怒，因为她所做的一切都是出于对生命的热爱和迷人的乐观精神。</p><p>他们不知道的是，变革的时刻即将到来。魔法曾经把符文之地推到灭绝的边缘，而德玛西亚建立的基石就是要营造一个禁用这种力量的地方。王国里的许多民间传说都讲述着纯洁心灵遭到魔法引诱并黑暗化的故事。千真万确，拉克丝和盖伦的叔叔就是几年前被一位不受控的法师杀害的。</p><p>而且人们还流传着可怕的低语，来自大山另一侧的传闻，说世界上的魔法正在再一次崛起……</p><p>在一个命运般的夜晚，拉克丝和她的马儿遭到了一群饥不择食的剑齿狼袭击。在恐惧与绝望的刹那，这位年轻的姑娘释放了体内深处的魔光洪流，击溃了野兽，但她却在恐惧中瑟瑟发抖。魔法，德玛西亚神话故事中的恐怖存在，和冕卫的血统一样，是她的一部分。</p><p>恐惧和怀疑啃噬着她。她会变坏吗？她会成为憎恶的化身，被囚禁或被放逐吗？最起码，如果她的能力被别人发现，就会让冕卫的姓氏永远蒙羞。</p><p>随着盖伦离开秘银城的时间越来越久，拉克丝发现自己在家族老宅的大厅中孤单寂寞。但逐渐地，她开始对自己的魔法了若指掌，而且那些紧握拳头、希望心中光芒消散的不眠之夜也开始减少。她开始进行秘密的实验，在庭院里与阳光嬉戏，将光线弯曲成坚固的形体，甚至还在掌心创造出闪光的人形。她决心要保守这个秘密，尽可能地隐藏自己的能力。</p><p>她十六岁时，与父亲皮特和母亲奥格莎前往他们在德玛西亚雄都的正式府邸，见证盖伦加入无畏先锋的授职仪式。</p><p>这座城市让拉克丝眼花缭乱。这是德玛西亚崇高理念的丰碑，每个市民都得到保护和关爱。在这里，拉克丝也了解到了光照者，一个救助病患与穷困的慈善宗教团体。在家族礼节活动的空闲中，她与光照者的一位名叫卡欣娜的骑士成为密友，她们在冕卫庄园的花园中进行切磋和训练，她教会拉克丝许多<i>战斗</i>技巧。</p><p>随着在都城待的时间越来越久，拉克丝终于开始了解更广阔的世界——世界的多样性、世界的历史。如今她已懂得，德玛西亚的生活方式并不是唯一的方式，她用清澈的双眼看到自己对祖国的热爱，同时也看到自己对未来的渴望，她渴望让祖国更公正……或许也能对她这样的法师稍微多一点包容。</p>",
+                "short": "拉克珊娜·冕卫出身自德玛西亚，一个将魔法视为禁忌的封闭国度。只要一提起魔法，人们总是带着恐惧和怀疑。所以拥有折光之力的她，在童年的成长过程中始终担心被人发现进而遭到放逐，一直强迫自己隐瞒力量，以此保住家族的贵族地位。虽然如此，拉克丝的乐观和顽强让她学会拥抱自己独特的天赋，如今她的目标是为故土带来更多的宽容和理解。",
+                "quote": "“是内里的光让我不同，而我的闪耀自有分寸。”",
+                "quote-author": "拉克丝"
+            },
+            "headerImage": null
+        },
+        {
+            "type": "champion",
+            "release-date": "2014-12-11T00:00:00.000Z",
+            "name": "雷克塞",
+            "title": "虚空遁地兽",
+            "section-title": "雷克塞",
+            "slug": "reksai",
+            "associated-faction": "",
+            "associated-faction-slug": "void",
+            "image": {
+                "title": "reksai-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blta50d60e9cdac9abf-RekSai_0.jpg",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 728,
+                "y": 193,
+                "featured-champions": []
+            },
+            "background": {
+                "title": "reksai-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blta50d60e9cdac9abf-RekSai_0.jpg",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 728,
+                "y": 193,
+                "featured-champions": []
+            },
+            "url": "/zh_cn/champion/reksai",
+            "video": {
+                "title": "reksai-splashvideo-webm",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blte7bf0205a0081497-reksai-splashvideo.webm",
+                "encoding": "video/webm",
+                "width": 1280,
+                "height": 720,
+                "x": 728,
+                "y": 193,
+                "featured-champions": []
+            },
+            "races": [],
+            "roles": [
+                {
+                    "name": "战士",
+                    "slug": "fighter"
+                }
+            ],
+            "role": [
+                {
+                    "name": "战士",
+                    "slug": "fighter"
+                }
+            ],
+            "game-info-url": "https://lol.qq.com/web201310/info-defail.shtml?id=RekSai",
+            "biography": {
+                "full": "<p>雷克塞是她族群之中体型最大、脾气最暴的。她是一个无情的掠食者，可以在地底挖掘隧道，来伏击并吞噬她的猎物。她那永不满足的饥渴已经使鼎盛一时的恕瑞玛帝国遍布废墟。商人、贸易者和武装商队都会绕行百里，来躲开这些广袤的地区，但是狡诈的盗匪们会引诱粗心的人们进入雷克塞的杀戮之地。一旦雷克塞侦测到你，你的命运就已注定。毫无逃生的希望；她是来自沙砾之下的死亡。</p>",
+                "short": "作为食物链顶端的掠食者，残忍无情的虚空生物，雷克赛能够在地下挖掘隧道，偷袭并吞食毫无防备的猎物。她那永不满足的饥渴让曾经鼎盛一时的恕瑞玛帝国所在的地区满目疮痍。商人、贸易者和武装商队都会绕行百里，来躲开这些广袤的地区。一旦有人在遥远的地平线看到雷克赛，就等于看到自己葬身沙砾之下的命运。",
+                "quote": "“恐惧，不是来自山上的伏击，不是来自天空的飞兽。恕瑞玛的真正恐怖来自沙漠，并且她的出现从无预先警告。”",
+                "quote-author": "希维尔"
+            },
+            "headerImage": null
+        }
+    ],
+    "explore-champions": [
+        {
+            "type": "champion",
+            "release-date": "2009-05-01T00:00:00.000Z",
+            "name": "伊芙琳",
+            "title": "痛苦之拥",
+            "section-title": "伊芙琳",
+            "slug": "evelynn",
+            "associated-faction": "",
+            "associated-faction-slug": "unaffiliated",
+            "image": {
+                "title": "evelynn-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/bltcc9c3d044c357629-evelynn-rework-splash.jpg",
+                "encoding": "image/jpeg",
+                "width": 1920,
+                "height": 1133,
+                "x": 983,
+                "y": 132,
+                "featured-champions": []
+            },
+            "background": {
+                "title": "evelynn-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/bltcc9c3d044c357629-evelynn-rework-splash.jpg",
+                "encoding": "image/jpeg",
+                "width": 1920,
+                "height": 1133,
+                "x": 983,
+                "y": 132,
+                "featured-champions": []
+            },
+            "url": "/zh_cn/champion/evelynn",
+            "video": null,
+            "races": [],
+            "roles": [
+                {
+                    "name": "刺客",
+                    "slug": "assassin"
+                },
+                {
+                    "name": "法师",
+                    "slug": "mage"
+                }
+            ],
+            "role": [
+                {
+                    "name": "刺客",
+                    "slug": "assassin"
+                },
+                {
+                    "name": "法师",
+                    "slug": "mage"
+                }
+            ],
+            "game-info-url": "https://lol.qq.com/web201310/info-defail.shtml?id=Evelynn",
+            "biography": {
+                "full": "<p>在符文之地的黑暗裂缝中，恶魔伊芙琳一直在搜寻着下一个目标。她披着人类女性的撩人外表，勾引猎物。只要有人陷入了她的魅惑，伊芙琳就会显露出真正的形态。她会施加难以言喻的折磨，从而让自己在猎物的疼痛中获得满足。对于这个恶魔来说，这样的欢愉只是无心无邪的滥情。但是对于符文之地上的其他人，听到的则是血肉模糊的传说，提醒着人们肉欲的危险和纵欲的代价。</p><p>伊芙琳并不是天生技术高超的女猎手。她起始于无比古老的时代，是某种原生的生命，没有形态，只有最模糊的自我意识。这生于暗影的精怪只是简单蒙昧地存在着，数百年间始终麻木无觉，对任何外部刺激都毫无反应。它本可能会一直这样下去，但是这世界却因为一场纷争而天翻地覆。这场被后世称为符文战争的浩劫，将世界推入了前所未有的苦难时代。</p><p>当时，整个符文之地上的人们都在经历各种各样的磨难、痛苦和失落，于是，黑影被搅动了。它长久以来认知的虚无被痛苦世界中的躁狂和悸动所填满了。这个生物激动地颤抖了起来。</p><p>随着符文战争不断升级，这世界的磨难变得越来越惨烈，甚至让这团暗影觉得自己几乎要爆裂开来。它畅饮着符文之地的疼痛，体验到了逍遥无边的愉悦。这种感受令它甘之如饴。久而久之，它变成了某种更高级的东西。它成了一个恶魔，一个贪婪的灵体寄生虫，吞噬着最原始的人类情感。</p><p>当战争终于结束，世界的苦难也渐渐消退。这个恶魔发现自己变得越来越绝望。它所能体会的唯一乐趣，便来源于其他生物的悲苦。没有了外界的痛苦，它什么都感受不到，就像它诞生之初的状态。</p><p>如果这世界无法满足这个恶魔对于痛苦和成长的需求，那么它就只能自己制造痛苦。它需要将痛苦施加到其他活物身上，这样才能再次体验到那股狂喜。</p><p>最初，捕捉猎物对于这个恶魔来说并不简单。虽然它可以不动声色地以暗影形态进行移动，但是要想抓住一个人类，它必须显现成为某种可触碰的东西。它曾多次尝试使用自己来自暗影的血肉化成实体的身躯，但每次尝试的结果都比上一次更加狰狞，无一例外地吓跑了自己的猎物。</p><p>这个恶魔意识到自己需要一种令人类无法抗拒的形体，不仅要将他们引诱到自己的魔爪之下，而且还要满足他们自身的欲望，让他们获得极大的快乐。这样一来，他们的痛苦就会更加甜美。</p><p>它潜藏于暗影之中，开始观察自己想要捕食的猎物。它照着他们的喜好裁出一副肉体，学会了在他们听来最动人的话语，走出他们眼中窈窕的步伐。</p><p>几个星期后，这个恶魔就造出了一副完美的身躯，吸引了数十名神魂颠倒的猎物，然后亲手折磨致死。虽然她总是会细细品味每一个猎物身上每一丝精致的痛苦，但她总是觉得自己还想要更多。每个人类的欲望都太狭小，可以用来把玩的时间也太短暂。他们的痛苦总是稍纵即逝，给她带来的欣快也不过是聊胜清汤寡水的滋味，勉强够她坚持到下一餐。</p><p> 她渴望未来有一天，她可以将这世界投入彻底的混沌，这样她就可以找回曾经的存在状态，充满纯粹而又销魂的狂喜。</p>",
+                "short": "在符文之地的黑暗裂缝中，恶魔伊芙琳一直在搜寻着下一个目标。她披着人类女性的撩人外表，勾引她的猎物。只要有人被她魅惑，伊芙琳就会显露出真正的形态。她会施加难以言喻的折磨，从而让自己在猎物的疼痛中获得满足。对于这个恶魔来说，这样的欢愉只是无心无邪的滥情。但是对于符文之地上的其他人，听到的则是血肉模糊的传说，提醒着人们肉欲的危险和纵欲的代价。",
+                "quote": "“今晚有空吗？要不要和我一起，掘开你身体里那口痛苦的源泉？”",
+                "quote-author": "伊芙琳"
+            },
+            "headerImage": null
+        },
+        {
+            "type": "champion",
+            "release-date": "2012-10-26T00:00:00.000Z",
+            "name": "伊莉丝",
+            "title": "蜘蛛女皇",
+            "section-title": "伊莉丝",
+            "slug": "elise",
+            "associated-faction": "",
+            "associated-faction-slug": "shadow-isles",
+            "image": {
+                "title": "elise-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt941efa8bafc6e372-Elise_0.jpg",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 1007,
+                "y": 98,
+                "featured-champions": []
+            },
+            "background": {
+                "title": "elise-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt941efa8bafc6e372-Elise_0.jpg",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 1007,
+                "y": 98,
+                "featured-champions": []
+            },
+            "url": "/zh_cn/champion/elise",
+            "video": null,
+            "races": [],
+            "roles": [
+                {
+                    "name": "法师",
+                    "slug": "mage"
+                },
+                {
+                    "name": "战士",
+                    "slug": "fighter"
+                }
+            ],
+            "role": [
+                {
+                    "name": "法师",
+                    "slug": "mage"
+                },
+                {
+                    "name": "战士",
+                    "slug": "fighter"
+                }
+            ],
+            "game-info-url": "https://lol.qq.com/web201310/info-defail.shtml?id=Elise",
+            "biography": {
+                "full": "<p>伊莉丝夫人生于几百年前的基西拉家族，诺克萨斯最古老的血脉之一，她很快就懂得了美貌的力量，并利用这种力量左右弱者的判断。</p>\n\n<p>当她到了适婚年龄，她受到了扎阿范家族继承人勃尔霍特的追求。许多人都反对他们的结合，因为这将以扎阿范家族为代价，单方面强化基西拉家族的力量——但伊莉丝煞费苦心诱骗住自己的未婚夫，还戏耍了所有对她不利的人，最终促成了婚约。</p>\n\n<p>她有所不知，这场政治联姻已经谋划多年，安排着一切的正是帝国舞台幕后的暗影力量，而勃尔霍特只不过是一场庞大对弈中的一颗棋子。虽然如此，谁也没想到伊莉丝能够如此彻底地掌控他，虽然他依然是家族明面上的家主，但明眼人都能看出来是谁说了算。时间久了，他的怨恨也越来越深。</p>\n\n<p>一天晚上，在一如既往、冰冷沉默的晚餐期间，勃尔霍特摊牌了：他在她的酒里下了毒，要求伊莉丝退出社交事务，并由他掌控实际权力。伊莉丝清楚，他一定会把解药带在身上，于是她扮演成一个悔恨不已的妻子，流着泪恳求丈夫的原谅。就在他看似信服了的时候，她抓起一把小刀刺入了他的心脏。</p>\n\n<p>即便有了解药，伊莉丝也还是连续数周卧床不起……就是在这个时候，苍白女士找上了她。</p>\n\n<p>这位“黑色玫瑰”的神秘女主人对她讲述了一个秘密的结社，在这里，值得信任的成员将获得深藏的知识和秘传的巫术。事实上，苍白女士并不在乎各大贵族的掌权者是谁，只在乎掌权者是否效忠于她。既然伊莉丝已经杀死了身为傀儡的勃尔霍特，那么她就必须证明自己的价值，否则就将找来更合适的人接替她。</p>\n\n<p>面对这样一条权力的阶梯，伊莉丝加入这个阴谋集团的热情几乎超过之前任何人。她经常与重要成员会面，互换资源与手腕，用环环相扣的计谋织成复杂的网，阻挠她的对手。依靠着两个家族的财富，很少有人能与她抗衡，而且她也越来越擅长<i>说服</i>其他人对她言听计从。</p>\n\n<p>最后，她了解到黑色玫瑰内部非常看重一样东西——古代军阀萨恩•乌祖尔的头骨，据说在很久以前被藏到了暗影岛。伊莉丝热切地渴望取得苍白女士的青睐，于是她找到了一个债台高筑、走投无路的船长，为钱犯险，载着她和一群虔诚的追随者，前往被诅咒的城市海力亚。他们在一片灰白色的沙滩登陆，一边徒劳地搜寻失落的宝库，一边遭受凶恶怨灵的折磨。</p>\n\n<p>但伊莉丝有了意外的发现。</p>\n\n<p>一只被遗忘许久的生物在城市地下的无光深渊里安了家。这只圆鼓鼓、长着几丁质外壳的怪物，是蜘蛛之神——卑鄙之喉，它从黑暗中猛扑出来吞食这群闯入者，最后它的毒牙刺入了伊莉丝的肩膀。她倒在地上嚎哭着、抽搐着，毒液给她的身体带来了可怕的改变。她的脊柱不自主地起伏翻动，最后许多条蜘蛛腿从她背后的皮肉中穿出了来。</p>\n\n<p>终于，在痛苦转变之中无法喘息的伊莉丝看到自己的新主人就高高站在自己面前。那一刻，她与蜘蛛之神进行了无需语言的交流，随后她逃回了海滩，在扭曲丛林中的迂回穿梭已不再受到岛上恶灵的侵扰。</p>\n\n<p>几周以后，当她的船只在死寂的夜里回到诺克萨斯都城时，伊莉丝已经重新获得了人类的外形……只不过船上除了她以外已经不剩其他活物。</p>\n\n<p>虽然那个远古军阀的头骨毫无头绪，但苍白女士看到伊莉丝所获得的其实是一种危险的恩赐——一种能够在诺克萨斯和暗影岛之间安全往返的方式。她们一拍即合，黑色玫瑰方面会向伊莉丝提供源源不断的愚蠢祭品，献给蜘蛛之神，而作为回报，她会从那片黑暗的禁忌海岸上带回任何寄宿了力量的物件。</p>\n\n<p>伊莉丝再次回到那座无人打理的扎阿范家族宅邸中居住，小心地营造出一种可望而不可即的神秘名声。几乎无人去猜测她的真正面目，但关于她的离奇传闻倒是有很多——据说她有着不老的美貌，还说在她破旧、尘封的宫殿深处栖息着一只恐怖、凶狠的怪物。</p>\n\n<p>在过去的几百年里，只要伊莉丝感受到她的神明发出召唤，就会回到那片被黑雾笼罩的土地，还会带上一个神魂颠倒的追求者，或者其他被轻易摆布的灵魂。</p>\n\n<p>陪同她前往的人，全都有去无回。</p>",
+                "short": "伊莉丝是一名夺命的掠食者，栖息在诺克萨斯最古老城区深处的一座不见天日的破旧宫殿。她曾是一个显赫贵族的女族长，但后来邪恶卑鄙的蜘蛛之神咬伤了她，把她变为某种似人非人，却又美貌依旧的怪物——像蜘蛛一样，将粗心大意的猎物引入自己的天罗地网。如今的伊莉丝以单纯之人和背弃誓言者为食，几乎无人能抵抗她的诱惑。",
+                "quote": "“杀人不见血的，除了利剑，还有美貌。”",
+                "quote-author": "伊莉丝"
+            },
+            "headerImage": null
+        }
+    ],
+    "modules": [
+        {
+            "slug": "博物馆长的开局",
+            "type": "story-preview",
+            "title": "博物馆长的开局",
+            "subtitle": "作者： Matt Dunn",
+            "description": "首先，我必须说清楚——我可不想惹上什么“恐怖领主”，或者是任何詹努克所说的东西。我只是想要把这个破烂小瓶卖给那个人，而且是他先请我帮他寻找的。本来很简单的事。<br><br>",
+            "story-slug": "the-curators-gambit",
+            "featured-image": {
+                "title": "the-curators-gambit-bg",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/bltab23d373eab69f04-the-curators-gambit-bg.jpg",
+                "encoding": "image/jpeg",
+                "width": 1920,
+                "height": 1080,
+                "x": 257,
+                "y": 226,
+                "featured-champions": []
+            },
+            "background": {
+                "title": "the-curators-gambit-bg",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/bltab23d373eab69f04-the-curators-gambit-bg.jpg",
+                "encoding": "image/jpeg",
+                "width": 1920,
+                "height": 1080,
+                "x": 257,
+                "y": 226,
+                "featured-champions": []
+            },
+            "release-date": "2018-10-05T15:00:00.000Z",
+            "featured-champions": [
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                }
+            ],
+            "minutes-to-read": 5,
+            "url": "/zh_cn/story/the-curators-gambit"
+        },
+        {
+            "slug": "探险家日志",
+            "type": "story-preview",
+            "title": "探险家日志",
+            "subtitle": "作者：Matthew Dunn",
+            "description": "<div style='text-align: center'><i><b>关于发现辉煌圣器秘藏的手写记录</b></i> </div><br><br>",
+            "story-slug": "an-explorers-journey",
+            "featured-image": {
+                "title": "ezreal-handbook-2",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/bltcd8237ade7dadd8e-ezreal-handbook-2.jpg",
+                "encoding": "image/jpeg",
+                "width": 0,
+                "height": 0,
+                "x": 0,
+                "y": 0,
+                "featured-champions": []
+            },
+            "background": {
+                "title": "ezreal-handbook-2",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/bltcd8237ade7dadd8e-ezreal-handbook-2.jpg",
+                "encoding": "image/jpeg",
+                "width": 0,
+                "height": 0,
+                "x": 0,
+                "y": 0,
+                "featured-champions": []
+            },
+            "release-date": "2018-09-24T15:00:00.000Z",
+            "featured-champions": [
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                }
+            ],
+            "minutes-to-read": 5,
+            "url": "/zh_cn/story/an-explorers-journey"
+        },
+        {
+            "slug": "乌罗亚的魔药",
+            "type": "story-preview",
+            "title": "乌罗亚的魔药",
+            "subtitle": "作者： Rayla Heide",
+            "description": "在闷热潮湿的雨林中穿行数小时以后，这座地下墓穴的凉爽空气简直是甜美的赐福。当然，每个转角都可能潜藏着死亡的威胁，但同样也可能潜藏了注定的荣光。<br><br>",
+            "story-slug": "ezreal-color-story",
+            "featured-image": {
+                "title": "ezreal-elixir-bg-image",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt24c4413631669579-ezreal-elixir-bg-image.jpg",
+                "encoding": "image/jpeg",
+                "width": 1920,
+                "height": 1080,
+                "x": 968,
+                "y": 1000,
+                "featured-champions": []
+            },
+            "background": {
+                "title": "ezreal-elixir-bg-image",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt24c4413631669579-ezreal-elixir-bg-image.jpg",
+                "encoding": "image/jpeg",
+                "width": 1920,
+                "height": 1080,
+                "x": 968,
+                "y": 1000,
+                "featured-champions": []
+            },
+            "release-date": "2016-11-16T16:00:00.000Z",
+            "featured-champions": [
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                }
+            ],
+            "minutes-to-read": 5,
+            "url": "/zh_cn/story/ezreal-color-story"
+        },
+        {
+            "slug": "ezreal-image-gallery",
+            "type": "image-gallery",
+            "section-title": "",
+            "isFanArt": false,
+            "fan-art-url": "",
+            "featured-image": "",
+            "title": "",
+            "subtitle": "",
+            "assets": [
+                {
+                    "title": "伊泽瑞尔表达研究",
+                    "subtitle": "",
+                    "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt4918793411f1e46b-ezreal_expression_sheet_roughs.jpg",
+                    "encoding": "image/jpeg",
+                    "width": 1197,
+                    "height": 1080,
+                    "x": 62,
+                    "y": 234,
+                    "featured-champions": []
+                },
+                {
+                    "title": "伊泽瑞尔概念图探索",
+                    "subtitle": "",
+                    "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt1fffc4bb7e019c05-ezreal_gemini_prodigy.jpg",
+                    "encoding": "image/jpeg",
+                    "width": 1594,
+                    "height": 764,
+                    "x": 951,
+                    "y": 160,
+                    "featured-champions": []
+                }
+            ],
+            "featured-champions": [
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,607 @@
+{
+    "id": "riven",
+    "name": "锐雯",
+    "title": "放逐之刃",
+    "locale": "zh_cn",
+    "champion": {
+        "type": "champion",
+        "release-date": "2011-09-14T00:00:00.000Z",
+        "name": "锐雯",
+        "title": "放逐之刃",
+        "section-title": "锐雯",
+        "slug": "riven",
+        "associated-faction": "",
+        "associated-faction-slug": "noxus",
+        "image": {
+            "title": "riven-splash",
+            "subtitle": "",
+            "description": "",
+            "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt2a5d8ceded307ef1-Riven_0.jpg",
+            "encoding": "image/jpeg",
+            "width": 1215,
+            "height": 717,
+            "x": 1047,
+            "y": 2,
+            "featured-champions": []
+        },
+        "background": {
+            "title": "riven-splash",
+            "subtitle": "",
+            "description": "",
+            "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt2a5d8ceded307ef1-Riven_0.jpg",
+            "encoding": "image/jpeg",
+            "width": 1215,
+            "height": 717,
+            "x": 1047,
+            "y": 2,
+            "featured-champions": []
+        },
+        "url": "/zh_cn/champion/riven",
+        "video": null,
+        "races": [],
+        "roles": [
+            {
+                "name": "战士",
+                "slug": "fighter"
+            },
+            {
+                "name": "刺客",
+                "slug": "assassin"
+            }
+        ],
+        "role": [
+            {
+                "name": "战士",
+                "slug": "fighter"
+            },
+            {
+                "name": "刺客",
+                "slug": "assassin"
+            }
+        ],
+        "game-info-url": "https://lol.qq.com/web201310/info-defail.shtml?id=Riven",
+        "biography": {
+            "full": "<p>建立在恒久纷争之上的诺克萨斯从来都不缺战争孤儿。锐雯的父亲死于一场无名的战役，母亲死于难产，小锐雯在特里威尔山石脚下的一座帝国经营的农场中度过了童年。</p>\n\n<p>强壮的身体和凶猛的意志让这里的孩子顽强地活着，同时在这片贫瘠的土地上劳作，但锐雯想要的不仅是餐桌上的面包。她看到地区战团的征兵官年复一年地来到农场，她在他们身上看到了获得梦想生活的机会。当她最终宣誓为帝国效力的时候，她知道诺克萨斯一定会接纳她这个彷徨已久的女儿。</p>\n\n<p>事实证明锐雯是个天生的战士。虽然年纪轻轻，但多年的艰苦劳作让她很快就适应了兵器的重量，甚至可以掌握比她还高的长剑。战争的烈火铸就了她的新家，锐雯感到自己与同袍兄弟姐妹之间的纽带坚不可摧。</p>\n\n<p>她对帝国忠勇有加，以至勃朗•达克威尔亲自授予了她一柄黑石符文之刃，一位皮肤苍白的内阁女魔法师还为此剑附了魔。这把武器甚至比一面鸢盾还要重，剑身也几乎与盾同宽——正合锐雯的胃口。</p>\n\n<p>不久之后，诺克萨斯的战群起航前往艾欧尼亚，参与蓄谋已久的入侵战争。</p>\n\n<p>这场新的战争越拖越久，事态越来越明朗，艾欧尼亚不会屈服。锐雯的队伍被指派护送另一支战团穿过交战区纳沃利省。这支战团的领袖艾弥丝坦雇佣了一个祖安的炼金术士，迫不及待地想要试验某种新型武器。身经百战的锐雯愿为诺克萨斯赴汤蹈火在所不惜，但现在她看到友军战团中的士兵不太对劲，一种不安油然而生。他们护送的车厢里装满了易碎的双耳陶罐，她无法想象这种东西在战场上有什么用。</p>\n\n<p>两支战团遭遇了激烈的抵抗，似乎就连大地本身也在反抗他们。在一场暴风雨中，泥流从山上倾泻而下，锐雯和她的战士们被困在那些陶罐周围——这个时候艾欧尼亚的战士们现身了。战况急转直下，锐雯向伊米斯坦请求支援。</p>\n\n<p>她得到的唯一回答是一支燃烧箭，从山脊飞驰而来，锐雯明白了，这不再是一场诺克萨斯的扩张战争，而变成了一场对敌人的灭绝行动，不计代价。</p>\n\n<p>燃烧箭正中车厢。锐雯本能地抽出巨剑，但为时已晚，她能保护的只有自己。化学烈焰从破裂的容器中喷薄而出，惨叫声充满了夜空 —— 艾欧尼亚人和诺克萨斯人全都在血腥的剧痛中死去。巨剑上的魔法为她挡住了灼热的毒雾，她只能眼睁睁看着恐怖的死亡景象，这场背叛将永远让她魂牵梦绕。</p>\n\n<p>接下来的事情，锐雯只能回忆起零星的碎片和噩梦。她包扎了伤口，为死者默哀。但最重要的是，她开始憎恨这把救了自己性命的剑。剑身上的铭文是对她的嘲弄，时刻提醒她所失去的。她要想办法打碎它，在黎明到来之前，断绝自己与诺克萨斯的最后一丝关联。</p>\n\n<p>但当巨剑终于被打碎的时候，她依然没有找到内心的平静。</p>\n\n<p>失去了赖以为生的信仰和信念，锐雯选择了自我放逐，游荡在艾欧尼亚饱受摧残的大地上。而当她终于回到那个村落，那个打碎她巨剑的地点时，才发现当初她自我毁坏的需求害死了这里最德高望重的长老……然而艾欧尼亚依然以宽恕之心接纳了她。</p>\n\n<p>不过诺克萨斯可没有这么仁慈。虽然帝国很久以前就已撤离初生之土，但帝国并没有遗忘锐雯，更没有遗忘她的符文巨剑。她与前来捉拿自己的人们发生了激烈的打斗，但最后她不愿再有艾欧尼亚人因她而流血，于是接受了逃兵的罪名。</p>\n\n<p>锐雯带着枷锁回到诺克萨斯，旧日的创伤始终难以忘却。达克威尔已经不在了，据说这个帝国已经脱胎换骨，她不知道自己会怎样，不知道是否还有机会变回完整的自己。</p>",
+            "short": "一度担任诺克萨斯军队剑士长的锐雯，曾通过自己信念的力量和野蛮的行事风格在军中不断晋升，因此获得了一把传奇的符文之刃和自己的战团作为奖赏——然而在艾欧尼亚的前线上，锐雯对祖国的信仰遭到了考验，并最终粉碎。她切断了与帝国的一切关联，在分崩离析的世界中找寻自己的归宿，即使纷飞的谣言传说着诺克萨斯已经重铸。如今，锁链加身的她被迫回到诺克萨斯，即将在曾经的祖国接受审判……",
+            "quote": "“刀剑映出了战士的心。而我的心，漆黑且残破。”",
+            "quote-author": "锐雯"
+        },
+        "headerImage": null
+    },
+    "related-champions": [
+        {
+            "type": "champion",
+            "release-date": "2010-11-02T00:00:00.000Z",
+            "name": "乐芙兰",
+            "title": "诡术妖姬",
+            "section-title": "乐芙兰",
+            "slug": "leblanc",
+            "associated-faction": "",
+            "associated-faction-slug": "noxus",
+            "image": {
+                "title": "leblanc-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt4d91710a07d51938-Leblanc_0.jpg",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 934,
+                "y": 3,
+                "featured-champions": []
+            },
+            "background": {
+                "title": "leblanc-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt4d91710a07d51938-Leblanc_0.jpg",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 934,
+                "y": 3,
+                "featured-champions": []
+            },
+            "url": "/zh_cn/champion/leblanc",
+            "video": null,
+            "races": [],
+            "roles": [
+                {
+                    "name": "刺客",
+                    "slug": "assassin"
+                },
+                {
+                    "name": "法师",
+                    "slug": "mage"
+                }
+            ],
+            "role": [
+                {
+                    "name": "刺客",
+                    "slug": "assassin"
+                },
+                {
+                    "name": "法师",
+                    "slug": "mage"
+                }
+            ],
+            "game-info-url": "https://lol.qq.com/web201310/info-defail.shtml?id=Leblanc",
+            "biography": {
+                "full": "<p>身为黑色玫瑰的首领，乐芙兰的身份和关于她的传闻一样不可捉摸，和赋予她形态的幻象一样转瞬即逝。或许连她自己也不知道自己的身份，毕竟她已历经数百年的模仿和欺骗……<br><br>黑色玫瑰的奠基者是一群古代教团的残部，这个教团的历史远比诺克萨斯更久远，而后来的黑色玫瑰则在暗中密谋操控数百年，不断吸纳权贵阶层加入他们的行列。虽然黑色玫瑰的成员很少能够了解到他们首领的来历，但许多人都发掘到了关于一位苍白女巫的传说。据说她曾帮助分崩离析的野蛮人部落对抗恶名昭彰的铁铠冥魂，正是他，使得已然被暗裔蹂躏摧残的土地更加涂炭荒凉。直到今天，人们依然不敢大声说出他的名字：<i>莫德凯撒</i>。<br><br>曾是铁铠冥魂身边的核心成员之一，拥有独一无二的技艺，也埋着背叛他的种子。这位女巫师立下誓约要化解他的力量来源——不朽堡垒，将他与那口死亡之井的连接切断，从而给这个噩梦般的帝国釜底抽薪。然而，虽然后来那群野蛮人在堡垒周围建立了自己的帝国，但他们却没有意识到它蕴含的秘法奥秘其实并没有完全隔绝于世。那位苍白女巫一直都拥有制造幻象的天赋，而她最伟大的花招，就是让整个诺克萨斯都忘记，在它自己的中心涌动着黑暗的力量。再后来，关于她的记载全都在符文战争期间消失在了历史中。<br>\n<br>黑色玫瑰在当下存在的目的，就是为了那些有能力掌控这种魔法的人攫取不可告人的利益，同时还将自己隐藏在普通贵族的日常身份中，这些人都被奇迹的传闻吸引而来，继而被奴役、被无情地利用。即使是最强大的军事指挥官，也只能为这个秘密团体的真正的掌权者们效力，而在他们内部，掌权者之间会互相明争暗斗、在阴谋和征服的游戏中争权夺势，他们的战场既在诺克萨斯都城内部，也延伸至边疆以外的土地。</p><p>数百年来，乐芙兰一直都秘密地为境外的达官贵人出谋划策，同时出现在许多个国家中，利用她的幻象扰乱秩序、制造混乱。有传闻称每一代都会有一位女性晋升为新的首领，但这种答案只会引来更多疑问——究竟哪一个才是“真正”的本尊？当她说话的时候，真的是她自己的声音吗？要想换取她的青睐，需要付出什么样的代价？</p><p>勃朗·达克威尔可以回答第二个问题。虽然黑色玫瑰帮他争得了王位，但他却拒绝将黑色玫瑰亲手挑选的谋士纳入议会，因此乐芙兰采取了必要的极端措施。她操纵了一位年轻的贵族，杰里柯·斯维因，让他发掘了这个秘密社团所参与的事务，随后乐芙兰让自己和其他几位最重要的密谋者被处死……至少表面上她被处死了。没过多久，她就亲自接触了达克威尔，结果发现他正在变得愈发偏执恐慌，害怕自己作为凡人的死亡宿命。<br><br>乐芙兰向他承诺了长生不老的秘密，随后她开始慢慢毒害达克威尔的心智，同时又在赋予他强大的能力。在他的统治下，诺克萨斯对于力量的崇拜达到了一种不祥的程度，随后他们又设计让斯维因的传奇故事即将在艾欧尼亚的战场上以耻辱告终。<br><br>但是斯维因却从不朽堡垒内部的禁忌知识中获得了无比的勇气，他做了一件完全出乎意料的事，成功将达克威尔拉下王座，并将诺克萨斯据为己有。这位新的大将军并不在乎自己在世人眼中的名誉，只在乎帝国的荣耀——这样的人很难被腐化。在无数个世纪后，乐芙兰不禁自问，她的宿敌终于出现了吗？<br><br>她的行为曾经多次将符文之地推向全面战争的边缘。在经历过令人绝望的战役后，弗雷尔卓德的冰原、巨神峰的高山、恕瑞玛的沙漠，各地都开始有最黑暗的魔法再次散播，逐渐包围并逼近诺克萨斯。可能乐芙兰依然是那个背叛了铁铠冥魂的苍白女巫，也可能她只是众多空壳幻影之一。不管怎样，她的影响显然从远古开始就从未消亡。<br><br>黑色玫瑰还没有真正绽放。</p>",
+                "short": "即使是在秘密团体黑色玫瑰的成员内部，乐芙兰也同样保持神秘，而乐芙兰这个名字也只是众多化名之一。这个皮肤惨白的女人自从诺克萨斯建国初期就开始操纵大小人物，推动事态发展。这位女法师能用魔法制造自己的镜像，她可以出现在任何地点、任何人面前、甚至同时现身于许多地方。乐芙兰永远都在暗处密谋策划，而她真正的动机和她变换不定的身份一样令人难以捉摸。",
+                "quote": "“玫瑰无法生长于黑暗。只会死于黑暗的生长。”",
+                "quote-author": "乐芙兰"
+            },
+            "headerImage": null
+        },
+        {
+            "type": "champion",
+            "release-date": "2013-12-13T00:00:00.000Z",
+            "name": "亚索",
+            "title": "疾风剑豪",
+            "section-title": "亚索",
+            "slug": "yasuo",
+            "associated-faction": "",
+            "associated-faction-slug": "ionia",
+            "image": {
+                "title": "yasuo-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt41c476486b063ef8-Yasuo_0.jpg",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 1069,
+                "y": 225,
+                "featured-champions": []
+            },
+            "background": {
+                "title": "yasuo-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt41c476486b063ef8-Yasuo_0.jpg",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 1069,
+                "y": 225,
+                "featured-champions": []
+            },
+            "url": "/zh_cn/champion/yasuo",
+            "video": {
+                "title": "yasuo-splashvideo-webm",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt19165eb731ffe312-yasuo-splashvideo.webm",
+                "encoding": "video/webm",
+                "width": 1280,
+                "height": 720,
+                "x": 1069,
+                "y": 225,
+                "featured-champions": []
+            },
+            "races": [],
+            "roles": [
+                {
+                    "name": "战士",
+                    "slug": "fighter"
+                },
+                {
+                    "name": "刺客",
+                    "slug": "assassin"
+                }
+            ],
+            "role": [
+                {
+                    "name": "战士",
+                    "slug": "fighter"
+                },
+                {
+                    "name": "刺客",
+                    "slug": "assassin"
+                }
+            ],
+            "game-info-url": "http://gameinfo.na.leagueoflegends.com/en/game-info/champions/yasuo",
+            "biography": {
+                "full": "<p>孩童时期的亚索经常把村里人对他的评价信以为真：好听的时候，他的出生是一次判断失误；不好听的时候，他是个永远无法挽回的过错。</p>\n\n<p>和大多数痛苦一样，这些话语也包含着些许真相。他的母亲原本是一位抚养着独生子的寡妇，而那个本应作为亚索父亲的人则如同金秋的微风般吹进了她的生活。随后他不等艾欧尼亚的寒冬降临到这个家庭，就又像那个寂寞的季节一般悄然离开了。</p>\n\n<p>虽然亚索同母异父的哥哥永恩与他截然相反——恭敬、谨慎、自觉——但是他们二人还是亲密无间。当其他孩子戏弄亚索的时候，永恩总是会出来维护他。虽然亚索缺乏耐性，但他的意志却十分坚韧。当永恩开始去村里著名的剑术道场求学的时候，年幼的亚索也跟去了，在外面的风雨中痴痴苦等，直到师父们终于软下了心，打开了大门。</p>\n\n<p>让同辈们咬牙切齿的是，亚索展现出超凡的天赋，成为了数辈生徒中唯一一名得到素马长老关注的人，他是传奇御风剑术的最后一位大师。这位老人看到了亚索的潜力，但这名冲动的弟子却拒绝他的独门传授，就像不受约束的旋风一样。永恩恳求自己的弟弟放下傲慢的态度，并送给他一枚枫树种子，这是道场关于谦卑的至高训诫。第二天早晨，亚索成为了素马的徒弟，同时也担任他的贴身侍卫。</p>\n\n<p>当诺克萨斯入侵的消息传到道场的时候，有些人受到了普雷西典的挺立之战的鼓舞，很快村庄里的壮丁就被抽空了。亚索渴望在战场上贡献自己的剑术，但即便他的同辈和哥哥全都离家参战，他依然要奉命留下保护长老们。</p>\n\n<p>入侵演变成了持久战。终于，在一个湿漉漉的雨夜，诺克萨斯行军的战鼓从毗邻的山谷中传来。亚索抛弃了自己的岗位，愚蠢地认为能够凭一己之力扭转乾坤。</p>\n\n<p>但等待他的不是战斗——而是数百具诺克萨斯人和艾欧尼亚人的尸体。这里刚刚发生了某种可怕怪异的事情，绝非一刀一剑能够阻止。大地似乎也被玷污了。</p>\n\n<p>清醒过来的亚索回到道场已是第二天，但被其余的门生团团围住，个个刀剑出鞘。素马长老死了，亚索发现自己不仅被指控擅离职守，而且还成了杀人凶手。他意识到，如果自己不尽快行动，真凶就会逍遥法外，所以他拔剑而战，挣脱了抓捕，当然他也知道，这个行为无异于承认了自己的罪行。</p>\n\n<p>于是亚索成了战后艾欧尼亚土地上的逃犯，搜寻着任何可能让他找到凶手的线索。而与此同时，昔日的朋友们却成了追杀他的猎人，一次又一次地逼迫他在战斗与死亡之间做出选择。这始终都是他甘愿背负的代价，直到他遇到了最可怕的对手——他的哥哥，永恩。</p>\n\n<p>二人遵照荣誉礼法，相互绕行。当他们的剑刃最终交锋时，永恩未能匹敌，随着一道钢铁的寒光，亚索手刃了自己的兄长。</p>\n\n<p>他恳请哥哥的原谅，但永恩临死前只是告诉他，杀掉素马长老的是御风剑术，而亚索是唯一一个可能掌握此术之人。然后他便永远沉默了，至死也未能说出原谅的话语。</p>\n\n<p>没有了师父和兄长，亚索悲痛欲绝地在山中流浪，如同一柄无鞘之剑，苦饮着战争与失落的痛苦。在冬山的雪原上，他遇到了塔莉垭，一位从诺克萨斯军中逃跑的恕瑞玛土石法师。出乎意料的是，她成了自己的学徒，而更让亚索意外的是自己竟然也能够身为人师。他将元素魔法之道传授给她，风雕石磋，亚索终于领悟了素马长老的教诲。</p>\n\n<p>恕瑞玛天神皇帝崛起的传闻改变了他们的世界。亚索和塔莉垭分道扬镳，但他将那颗珍藏的枫树种子赠给了她，种子所承载的训诫他已彻底领悟。塔莉垭启程返回沙漠故土，亚索也动身前往他的故乡村落，决心改正自己的错误，找到杀害师父的凶手。</p>\n\n<p>在议会大厅的石墙内，素马长老死亡的真相终于得以揭露——诺克萨斯的一个流放者锐雯引发的一场意外。而她自己也为此痛悔不已。即便这样，亚索仍然没法原谅自己当初抛下师父擅自离去，更没法原谅自己亲手杀害了永恩。</p>\n\n<p>亚索最后前往崴里参加绽灵节，这里的疗慰祭典或许能安抚他的心，但他并没抱以多大希望。而在这里，他遭遇了一个试图吞噬他的恶魔生物——一只<i>亚扎卡纳</i>，盯上了他的痛苦和悔恨。</p>\n\n<p>然而一个戴面具的人插了进来，带着刚正的怒火击败了那个魔物，亚索发现自己认识这个人——他是<i>永恩</i>。</p>\n\n<p>亚索以为自己的哥哥一定会报仇，但令他意外的是，永恩丢下了一句苦涩的祝福，放走了他。</p>\n\n<p>如今亚索已不再留恋初生之土，他踏上了一段新的冒险之旅，虽然自己也不知道将去向何方，只有负罪感还在拖累不羁的风。</p>",
+                "short": "<p>亚索是一个百折不屈的艾欧尼亚人，也是一名身手敏捷的御风剑客。这位生性自负的年轻人，被误认作杀害长老的凶手——无法自证清白的亚索因此出于自卫而出手杀死了自己的哥哥。之后，虽然长老死亡的真相已然大白，但亚索并无法原谅自己的所作所为。他将自己放逐于天涯，听任疾风指引着剑刃的方向。</p>",
+                "quote": "“死亡如风，常伴吾身。”",
+                "quote-author": ""
+            },
+            "headerImage": null
+        }
+    ],
+    "explore-champions": [
+        {
+            "type": "champion",
+            "release-date": "2013-01-23T00:00:00.000Z",
+            "name": "锤石",
+            "title": "魂锁典狱长",
+            "section-title": "锤石",
+            "slug": "thresh",
+            "associated-faction": "",
+            "associated-faction-slug": "shadow-isles",
+            "image": {
+                "title": "thresh-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt9fd7de40b070c6d4-Thresh_0.jpg",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 847,
+                "y": 3,
+                "featured-champions": []
+            },
+            "background": {
+                "title": "thresh-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt9fd7de40b070c6d4-Thresh_0.jpg",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 847,
+                "y": 3,
+                "featured-champions": []
+            },
+            "url": "/zh_cn/champion/thresh",
+            "video": {
+                "title": "thresh-splashvideo-webm",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt746b910f7d5fac34-thresh-splashvideo.webm",
+                "encoding": "video/webm",
+                "width": 1280,
+                "height": 720,
+                "x": 847,
+                "y": 3,
+                "featured-champions": []
+            },
+            "races": [],
+            "roles": [
+                {
+                    "name": "辅助",
+                    "slug": "support"
+                },
+                {
+                    "name": "战士",
+                    "slug": "fighter"
+                }
+            ],
+            "role": [
+                {
+                    "name": "辅助",
+                    "slug": "support"
+                },
+                {
+                    "name": "战士",
+                    "slug": "fighter"
+                }
+            ],
+            "game-info-url": "https://lol.qq.com/web201310/info-defail.shtml?id=Thresh",
+            "biography": {
+                "full": "<p>如今的可怕幽魂锤石，曾经也只是一个普通的人，只不过有些纷繁困扰。在那早已被历史遗忘的时代，他曾是一个卑微的看守，他所在的教团致力于收集并保护奥术知识。这个教团创建于福光岛，那里当时还被魔法的白雾笼罩，安宁地藏于世外。</p><p>教团的长老们念在锤石多年劳役的份上，命令他看管海力亚城地下的秘密仓库。这里用枷锁封存着许多危险的魔法器物。当时的锤石意志坚定，得心应手，非常适合这一任务……即便是那个时候，他的残忍倾向就已经被教团的兄弟们察觉。虽然他并没有实施真正的<i>凶杀</i>，或者至少是没有相关的证据，但他依然还是被多数人敬而远之。</p><p>后来他意识到，自己被授予的这份工作就是为了让他远离其他人，让他得不到自认应当的认同。在黑暗中经年累月的独处让他付出了代价，锤石变得愈发愤恨、嫉妒，在他提着灯笼巡逻于漫长的走廊时，只有那些憎恶的想法陪伴着他。</p><p>他的转折契机到来了，一个疯狂的国王设法穿过了雾的帷幕，不请自来地踏上了福光岛的海岸。</p><p>暗地里，接踵而至的屠杀让锤石感到欣喜。这个入侵的国王执迷于复活他的王后——锤石欣然地带他前往传说中的生命之水。</p><p>只有教团中最高等级的成员才被允许进入藏有圣水的古墓。现在，有国王的士兵在背后撑腰，锤石放声大笑，看着圣所的守护者们倒在血泊中。他认为自己终于如愿以偿。</p><p>国王将亡妻的尸体放进生命之水，当时发生的事只有在场的人才知道。然而随后产生的震颤，波及了整个符文之地。</p><p>黑暗能量向外爆发出灾难性的冲击波，吞没了海力亚，迅速席卷福光岛全境，曾经为这里提供庇护的白雾，变得漆黑凶恶。所有收到波及的生命全都瞬间陨落，而他们的灵魂却又无法继续前行，全被困在了介于生于死之间的可怕状态。锤石是最先被夺走生命的，但就在其他人为自己的命运哀嚎时，他却在这灾难中狂欢。</p><p>他从这场灾难，这场<i>破败之咒</i>中崛起，成为了幽魂恶灵，寻求折磨其他人的乐趣，不怕遭到报复，也不再担心凡性的限制。</p><p>在随后的数十上百年中，他的超自然外观逐渐改变，变得更贴近于他心中持续酝酿的邪恶与残忍。让锤石发笑的是，他意识到大多数被困在黑雾中的灵魂都只保留了生前的碎片，即使是那些最强大的入侵者，即使是赫卡里姆和莱卓斯也不例外。而他自己的力量却在持续增长。</p><p>锤石因单纯的恶意而去掠食那些在他眼中次等的灵魂，他最喜欢的猎物总是那些在他伤害下最痛苦的人。无论他们的决心、耐力、信仰如何强大，他都会尽可能缓慢地击垮他们，一点点了解他们的恐惧和弱点，将猎物玩弄到最后。当他们的生命被撕碎，他们的爱人被夺走，他们的目标感彻底丧失，他们的希望彻底熄灭，锤石的钩锁才会收回到他不死的手掌中。</p><p>即便如此，死亡带来的并不是仁慈的解放，因为被他杀死的人都会被他割走灵魂，并被囚禁在他的诅咒提灯中，被迫永世见证他的掠夺。</p><p>只有过一个灵魂成功脱逃。</p><p>赛娜，他最恨的“光明哨兵”的一员，在某个被遗忘的邪恶秘库里与锤石针锋相对并白白送死。后来的数年里，她悲痛欲绝的丈夫卢锡安一直在追击这个残酷的灵魂，并且变得执迷不悟，几乎让悲伤和愤怒彻底将自己吞噬。对于锤石来说，这简直是一道美味佳肴。</p><p>然而，还没等他夺走卢锡安的灵魂，一记仇恨的猛击打破了锤石的灯笼，从中解救了赛娜。</p><p>他们二人之间的凡尘纽带强固弱现，被勾起兴趣的锤石决定送给他们这个微不足道的胜利，因为他清楚地知道，这场光与影的游戏远没有结束……</p>",
+                "short": "暴虐又狡猾的锤石是一个来自暗影岛的亡灵，野心勃勃、不知疲倦。他曾经是无数奥秘的看守，在一种超越生死的力量下骨肉瓦解，而现在他则使用自己独创的钻心痛苦缓慢地折磨并击溃其他人，以此作为自己存在下去的手段。被他迫害的人需要承受远超死亡的痛苦，因为锤石会让他们的灵魂也饱尝剧痛，将他们的灵魂囚禁在自己的灯笼中，经受永世的折磨。",
+                "quote": "“心灵都是我的玩具。”",
+                "quote-author": "锤石"
+            },
+            "headerImage": null
+        },
+        {
+            "type": "champion",
+            "release-date": "2021-07-08T19:43:26.000Z",
+            "name": "阿克尚",
+            "title": "影哨",
+            "section-title": "阿克尚",
+            "slug": "akshan",
+            "associated-faction": "",
+            "associated-faction-slug": "shurima",
+            "image": {
+                "title": "akshan-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt5e69e0645890bf95-akshan-splash.jpg",
+                "encoding": "image/jpeg",
+                "width": 1920,
+                "height": 1080,
+                "x": 1300,
+                "y": 550,
+                "featured-champions": []
+            },
+            "background": {
+                "title": "akshan-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt5e69e0645890bf95-akshan-splash.jpg",
+                "encoding": "image/jpeg",
+                "width": 1920,
+                "height": 1080,
+                "x": 1300,
+                "y": 550,
+                "featured-champions": []
+            },
+            "url": "/zh_cn/champion/akshan",
+            "video": null,
+            "races": [],
+            "roles": [
+                {
+                    "name": "射手",
+                    "slug": "marksman"
+                },
+                {
+                    "name": "刺客",
+                    "slug": "assassin"
+                }
+            ],
+            "role": [
+                {
+                    "name": "射手",
+                    "slug": "marksman"
+                },
+                {
+                    "name": "刺客",
+                    "slug": "assassin"
+                }
+            ],
+            "game-info-url": "",
+            "biography": {
+                "full": "<p>在恕瑞玛东部的阴影之中，有人正四处奔走，追索恶人。他手持一把形制怪异的武器，行事迅猛果决，以雷霆手段“帮助”他的敌人赎罪。</p><p>阿克尚自小在玛尔未城长大，生来就耳濡目染了种种不公。当地的各路军阀任意横行，巧取豪夺，因此许多人为了生存只能低头苟活，自顾不暇。面对这些恶行，年轻气盛的阿克尚没法视而不见，一旦目睹任何暴行，他就会立刻挺身而出。如此一来，阿克尚就给自己树立了许多劲敌，终于有一次招来大祸，他被人殴打成重伤，奄奄一息。</p><p>不过他运气不错。一位名叫莎蒂娅的老妇人恰好在自家门口撞见了这个不省人事的少年。虽然玛尔未人一向奉行事不关己的习惯，她还是把阿克尚带进了家门。也是阿克尚命不该绝，他挺了过来。</p><p>等到阿克尚逐渐恢复之后，他发觉这个老妇不是普通人。莎蒂娅是名为“光明哨兵”的组织的一员。这个成立自远古的组织立志于对抗蚀魂夜，根除黑雾的流毒。在她眼中，阿克尚是个问题少年，顽固非常，目中无人，但心底又很脆弱。虽然阿克尚与莎蒂娅因为哨兵的种种规矩产生了激烈的冲突，而她很快便发觉阿克尚其实有很多可取之处。他有胆量，也有良心——两者兼备的人在玛尔未实在罕见。莎蒂娅在这个年轻人身上看到了巨大的潜力，她与阿克尚约定：阿克尚可以留在她这里，躲避诸多仇家的追杀；作为回报，他需要加入哨兵组织。</p><p>莎蒂娅将一个哨兵孤狼所需要掌握的一切技巧倾囊相授，两人由此结下了深厚的亲情。出身自穷街陋巷的顽童渐渐成长为了令恶人败类闻风丧胆的阿克尚。然而，虽然他的能力日臻强大，他却发觉自己的导师越来越疏远，也越来越愁闷。</p><p>最终，莎蒂娅说出了自己的忧虑：又一次蚀魂夜要来了，而且规模之大与往日完全不同，将从暗影岛带来一支由怨灵与恶鬼结成的大军。唯一能够阻止这场天灾的希望就是那些深埋在恕瑞玛地下古墓之中的古代哨兵武备。如果想要将世界从破败之咒中解救出来，他们必须找到这些装备，而且要快。</p><p>可是莎蒂娅非常沮丧地发现，那些武器已经被当地的军阀抢掠一空。她恳求他们让出这些武器，帮助对抗迫在眉睫的蚀魂夜，可是军阀们拒绝了，反而打算将这些武器中蕴藏的神秘力量据为己用。</p><p>时间紧迫，阿克尚和莎蒂娅情急之下只好利用现有的物资。在清点武备库的时候，阿克尚在地下的密室里找到了一把颇为奇异的枪。可是莎蒂娅十分警觉，当即抢了过来，并且告诫阿克尚绝对不能擅用。这把枪名为“开恩者”，因为灌注了古老的秘术因而获得了难以解释的古怪能力——如果有人死在这把枪下，那么他们生前最后杀害的人将会复生。</p><p>“任何人都不能动用这件武器，”莎蒂娅说。“生与死的问题最好留给命运来决断。”</p><p>然而阿克尚对哨兵的规矩始终颇有微词，而且他对所谓的“命运”抱有更加激烈的观念。有生以来，他一直在目睹无辜的人受到恶人的残害，而后者又从来都那么随心所欲，不顾忌任何后果。如果命运真的存在，那它绝对需要指引——来自开恩者的指引。</p><p>阿克尚对开恩者的兴趣越来越大，在经过一番深入的调查之后，他不无震惊地发现：当年莎蒂娅在街头发现了不省人事的他之后，就是用开恩者把他救活的。莎蒂娅用这把枪杀死了当时几乎害死了阿克尚的人，也因此让阿克尚回复了生机。他不禁疑惑，为什么只有他自己一人有资格被开恩者所解救？一定还有别人也配得上再来一次的机会。</p><p>在阿克尚怀疑光明哨兵的教条的同时，莎蒂娅则在继续向军阀们施压，希望他们交出偷走的武器。两方之间的矛盾逐渐变得一触即发——终于有一天，阿克尚在回家的路上看到了莎蒂娅的尸体，几乎与多年前他自己倒下的位置一模一样。</p><p>阿克尚知道自己要做什么了。他为开恩者进行了一些必要的改装，然后带着这把禁忌的武器，和一颗急切渴望复仇的心，一头扎进了炙热的沙漠。虽然他无法确定究竟是哪个军阀杀害了他的尊师，但有一点可以肯定：他将找到这些败类，挨个儿清算，直到莎蒂娅重新回到符文之地。</p>",
+                "short": "面对天大的危险，阿克尚也只会轻轻挑起一边眉毛。他身手矫健，嫉恶如仇——而且显而易见，他对服饰兴趣不大。阿克尚非常善于潜行，能够避开敌人的耳目，出现在最令人出其不意的时机。他怀着强烈的正义感，带着一把可以逆转生死的传奇武器，在符文之地上主持公道，惩治邪祟。他以自己的生命践行着自己的信条：“不做混蛋。”",
+                "quote": "“不是每件事都有理由。有些事需要我们自己弄清楚。”",
+                "quote-author": "阿克尚"
+            },
+            "headerImage": null
+        }
+    ],
+    "modules": [
+        {
+            "slug": "riven-comic-gallery-zh-cn",
+            "type": "image-gallery",
+            "section-title": "",
+            "isFanArt": false,
+            "fan-art-url": "",
+            "featured-image": "",
+            "title": "",
+            "subtitle": "",
+            "assets": [
+                {
+                    "subtitle": "",
+                    "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt2b619edd633ed873-riven-one-page-comic-zh-cn-1.jpg",
+                    "encoding": "image/jpeg",
+                    "width": 4127,
+                    "height": 6263,
+                    "x": 0,
+                    "y": 0,
+                    "featured-champions": []
+                }
+            ],
+            "featured-champions": []
+        },
+        {
+            "slug": "裂缝与疤痕",
+            "type": "story-preview",
+            "title": "裂缝与疤痕",
+            "subtitle": "作者：Dana Luery Shaw",
+            "description": "“你怎么会在艾欧尼亚呢，朋友？”<br><br>",
+            "story-slug": "riven-color-story",
+            "featured-image": {
+                "title": "riven-color-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/bltee4edd97d9f4ee60-riven-color-splash.jpg",
+                "encoding": "image/jpeg",
+                "width": 1920,
+                "height": 1080,
+                "x": 865,
+                "y": 516,
+                "featured-champions": []
+            },
+            "background": {
+                "title": "riven-color-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/bltee4edd97d9f4ee60-riven-color-splash.jpg",
+                "encoding": "image/jpeg",
+                "width": 1920,
+                "height": 1080,
+                "x": 865,
+                "y": 516,
+                "featured-champions": []
+            },
+            "release-date": "2020-06-23T15:00:00.000Z",
+            "featured-champions": [
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                }
+            ],
+            "minutes-to-read": 5,
+            "url": "/zh_cn/story/riven-color-story"
+        },
+        {
+            "slug": "断剑的自白：第一幕",
+            "type": "story-preview",
+            "title": "断剑的自白：第一幕",
+            "subtitle": "作者：Ariel Lawrence",
+            "description": "诺克萨斯和艾欧尼亚战后余烬未灭，锐雯正面临一条滔天大罪的指控。",
+            "story-slug": "confessions-of-a-broken-blade-act-1-story",
+            "featured-image": {
+                "title": "riven-yasuo-bg-image",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt7dc8d0fb525b8f50-riven-yasuo-bg-image.jpg",
+                "encoding": "image/jpeg",
+                "width": 3840,
+                "height": 2153,
+                "x": 0,
+                "y": 0,
+                "featured-champions": []
+            },
+            "background": {
+                "title": "riven-yasuo-bg-image",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt7dc8d0fb525b8f50-riven-yasuo-bg-image.jpg",
+                "encoding": "image/jpeg",
+                "width": 3840,
+                "height": 2153,
+                "x": 0,
+                "y": 0,
+                "featured-champions": []
+            },
+            "release-date": "2018-04-23T15:00:00.000Z",
+            "featured-champions": [
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                },
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                }
+            ],
+            "minutes-to-read": 5,
+            "url": "/zh_cn/story/confessions-of-a-broken-blade-act-1-story"
+        },
+        {
+            "slug": "断剑的自白：第二幕",
+            "type": "story-preview",
+            "title": "断剑的自白：第二幕",
+            "subtitle": "作者：Ariel Lawrence",
+            "description": "锐雯正为亚索村里长老的死受审。新的证物呈堂，一把断剑。",
+            "story-slug": "confessions-of-a-broken-blade-act-2-story",
+            "featured-image": {
+                "title": "riven-yasuo-image-part-2",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt5cfc60a13720af77-riven-yasuo-image-part-2.jpg",
+                "encoding": "image/jpeg",
+                "width": 4000,
+                "height": 2446,
+                "x": 1938,
+                "y": 1554,
+                "featured-champions": []
+            },
+            "background": {
+                "title": "riven-yasuo-image-part-2",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt5cfc60a13720af77-riven-yasuo-image-part-2.jpg",
+                "encoding": "image/jpeg",
+                "width": 4000,
+                "height": 2446,
+                "x": 1938,
+                "y": 1554,
+                "featured-champions": []
+            },
+            "release-date": "2018-04-24T15:00:00.000Z",
+            "featured-champions": [
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                },
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                }
+            ],
+            "minutes-to-read": 5,
+            "url": "/zh_cn/story/confessions-of-a-broken-blade-act-2-story"
+        },
+        {
+            "slug": "断剑的自白：第三幕",
+            "type": "story-preview",
+            "title": "断剑的自白：第三幕",
+            "subtitle": "作者：Ariel Lawrence",
+            "description": "审判结束，锐雯终将直面不堪回首的往事。",
+            "story-slug": "confessions-of-a-broken-blade-act-3-story",
+            "featured-image": {
+                "title": "riven-yasuo-image-part-3",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt7d0eed27beaf12c0-riven-yasuo-image-part-3.jpg",
+                "encoding": "image/jpeg",
+                "width": 1920,
+                "height": 1315,
+                "x": 416,
+                "y": 353,
+                "featured-champions": []
+            },
+            "background": {
+                "title": "riven-yasuo-image-part-3",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt7d0eed27beaf12c0-riven-yasuo-image-part-3.jpg",
+                "encoding": "image/jpeg",
+                "width": 1920,
+                "height": 1315,
+                "x": 416,
+                "y": 353,
+                "featured-champions": []
+            },
+            "release-date": "2018-04-25T15:00:00.000Z",
+            "featured-champions": [
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                }
+            ],
+            "minutes-to-read": 5,
+            "url": "/zh_cn/story/confessions-of-a-broken-blade-act-3-story"
+        },
+        {
+            "slug": "promo-riven-gallery",
+            "type": "image-gallery",
+            "section-title": "",
+            "isFanArt": false,
+            "fan-art-url": "",
+            "featured-image": "",
+            "title": "",
+            "subtitle": "",
+            "assets": [
+                {
+                    "subtitle": "",
+                    "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt496296b4afd6f41d-promo-riven-image.jpg",
+                    "encoding": "image/jpeg",
+                    "width": 1030,
+                    "height": 1142,
+                    "x": 0,
+                    "y": 0,
+                    "featured-champions": []
+                }
+            ],
+            "featured-champions": []
+        }
+    ]
+}

@@ -1,0 +1,92 @@
+[
+    {
+        "locale": "zh-cn",
+        "id": "heimerdinger-color-story",
+        "type": "story",
+        "dropcaps": false,
+        "release-date": "2016-12-02T16:00:00.000Z",
+        "word-count": 1,
+        "minutes-to-read": 1,
+        "story": {
+            "title": "来自塞西尔·B·黑默丁格教授的日记",
+            "subtitle": "",
+            "custom-story-preview": "10.14<br><br>",
+            "story-sections": [
+                {
+                    "title": null,
+                    "subtitle": null,
+                    "background-image": {
+                        "title": "piltover-entrancetreasury",
+                        "subtitle": "",
+                        "description": "",
+                        "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt70b6d48345de0321-piltover-entrancetreasury.jpg",
+                        "encoding": "image/jpeg",
+                        "width": null,
+                        "height": null,
+                        "x": null,
+                        "y": null,
+                        "featured-champions": []
+                    },
+                    "story-subsections": [
+                        {
+                            "title": null,
+                            "subtitle": null,
+                            "icon-image": null,
+                            "content": "<p>10.14</p><p>09:15</p><p>班德尔城当前的气象条件似乎已达最优程度。大气压力对今天的实验来说非常理想！</p><p>正在为今天下午的第50次试验做准备，对象是我的石英红铅调制器。还需要一些微调；烧焦了我的胡子。需要调整能量吞吐量。</p><p>16:00</p><p>石英红铅调制器仍然没有保持预期的合理能量效率！需要运行更多数据。与此同时，我找到了一些非常迷人的东西。</p><p>在今天测试后的回家途中，我路过了一群年轻的约德尔人，他们在互相投掷一个球形物体。它是一个足够简单的概念：投掷物体给某人，接住物体，把物体投给另一个约德尔人，如此往复。但约德尔人的误算导致了一些错误！他们用不一致的精度和力量投掷物体，然后“球体”频繁地落地……这个流程还有很多方法去改良。经过我的计算，并且在从参与者们那里收集了数据之后，如果投球时在速度和角度上都是一致的话，会对乐趣度有44.57%的提升！我今晚需要沉思一下这件事。</p><p>10.15</p><p>05:20</p><p>尤里卡！我已经设计了一种解决方案。</p><p>我已经发明了一个自动化的投球器。当前名称：H-28G。它会使用一致的速度和弹道，确保接球者总能接住球体。它会将自身重新导向至最近的约德尔人（如果邻近有一个以上的约德尔人时）以确保每人都能来一回合。我今天就会把它带给年轻的约德尔人们并展示我的发明。</p><p>此外：今早，溢出的毒性酸液滴到我的鞋子上。真麻烦。</p><p>10:30</p><p>今天测试了自动化投球器。它没有如计划般运转。年轻人们对我的发明表示了足够的兴奋之情，但，当机器开动时，它的火力强过头了！即使是设置了最低档，它还是完全撞飞了一个约德尔人。很明显，我高估了他们投球的速度……我要尽快回去进行调整。</p><p>但我现在的优先事项，是石英红铅调制器；我必须在午餐前修复它的并发问题。一旦它状态良好，我就需要去别处测试它了。班德尔城被证明不能充分地进行实地研究。</p><p>10.16</p><p>15:55</p><p>显然，城镇里有个巨人。一个高度恼人的反常事物。外面的噪声正在干扰我的研究！</p><p>今天必须检查鱼缸。它们安静得太奇怪了……</p><p>10.17</p><p>10:40</p><p>我听说很多约德尔人都因为与巨人相关的骚乱而受伤。如果这件事不能很快平息，介入就是必要的了！我希望H-28G仍然完好无损。如果它需要重建的话，我会花掉大量时间。</p><p>16:30</p><p>一切又安静了。似乎巨人清醒了过来并逃走了。我明天需要收起H-28G，在我完成了更多紧迫事情后。我几乎使石英红铅调制器完美了！</p><p>10.18</p><p>08:30</p><p>今天已经够多事情的了。我对我门上的敲门声感到惊讶。似乎整个城市的人都站到我的房子前面了。一般来说，当人群聚集起来时，是因为他们对我的工作有一些琐碎的不满情绪。但这一次，他们在欢庆！</p><p>令人惊奇的是，似乎那帮年轻的约德尔人中的一个，在巨人胡闹时用上了我留在那里的H-28G原型机。他被证明了具有革新能力，并且将这件发明改装成了一座临时炮台。它的强大火力足以吓跑一个巨人——想象一下吧！多么有灵气的小家伙！</p><p>我希望我能在不远的将来用上他那与我志趣相投的小脑瓜——我有一个大计划，并且他的协助非常有价值——但他得离开班德尔城。我计划的适用范围需要有一个更加广阔的试验场。</p><p>符文之地应该够资格！</p>"
+                        }
+                    ],
+                    "featured-champions": [
+                        {
+                            "type": "champion",
+                            "release-date": "2009-10-10T00:00:00.000Z",
+                            "name": "黑默丁格",
+                            "title": "大发明家",
+                            "section-title": "黑默丁格",
+                            "slug": "heimerdinger",
+                            "associated-faction": "",
+                            "associated-faction-slug": "piltover",
+                            "image": {
+                                "title": "heimerdinger-splash",
+                                "subtitle": "",
+                                "description": "",
+                                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt5003985a072cb830-Heimerdinger_0.jpg",
+                                "encoding": "image/jpeg",
+                                "width": 1215,
+                                "height": 717,
+                                "x": 973,
+                                "y": 248,
+                                "featured-champions": []
+                            },
+                            "background": {
+                                "title": "heimerdinger-splash",
+                                "subtitle": "",
+                                "description": "",
+                                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt5003985a072cb830-Heimerdinger_0.jpg",
+                                "encoding": "image/jpeg",
+                                "width": 1215,
+                                "height": 717,
+                                "x": 973,
+                                "y": 248,
+                                "featured-champions": []
+                            },
+                            "url": "/zh_cn/champion/heimerdinger",
+                            "video": null,
+                            "races": [],
+                            "roles": [],
+                            "role": [],
+                            "game-info-url": "https://lol.qq.com/web201310/info-defail.shtml?id=Heimerdinger",
+                            "biography": {
+                                "full": "<p>塞西尔·B·黑默丁格教授是一个才华横溢但古怪反常的约德尔科学家。他被称赞为皮尔特沃夫前所未见的最具革新意识和受人尊敬的发明家之一。他不间断地工作，达到了神经痴迷的程度。他着迷于那些困扰了他的同辈们长达几十年的奥秘中，并且喜欢解答宇宙中最费解的难题。尽管他的理论经常会看起来晦涩难懂，但他相信知识应该得到分享，并且致力于教导那些渴望获得知识的人们。</p>",
+                                "short": "塞西尔·B·黑默丁格教授是一个才华横溢但古怪反常的约德尔科学家。他被称赞为皮尔特沃夫前所未见的最具革新意识和受人尊敬的发明家之一。他不间断地工作，孜孜不倦地尝试解答宇宙中最费解的难题，达到了神经痴迷的程度。尽管他的理论经常会看起来晦涩难懂，但他也曾制造出许多发明，堪称皮尔特沃夫最为惊奇，当然也同样危险的机械，他也在不断改进自己的发明，让它们更加高效。",
+                                "quote": "“你是说，不可能？胡说八道。等我让你看看我的计算！”",
+                                "quote-author": "黑默丁格"
+                            },
+                            "headerImage": null
+                        }
+                    ]
+                }
+            ]
+        },
+        "theme": null
+    }
+]

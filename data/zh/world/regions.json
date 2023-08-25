@@ -1,0 +1,255 @@
+{
+    "id": "faction-browse",
+    "name": "Faction Browse",
+    "locale": "zh_cn",
+    "subheadline": "Take a look at the different worlds in Runeterra",
+    "factions": [
+        {
+            "type": "faction",
+            "name": "以绪塔尔",
+            "slug": "ixtal",
+            "image": {
+                "title": "ixtal-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt9a01601bbdff5c4a-ixtal_splash.jpg",
+                "encoding": "image/jpeg",
+                "width": null,
+                "height": null,
+                "x": null,
+                "y": null,
+                "featured-champions": []
+            },
+            "echelon": 0,
+            "associated-champions": null
+        },
+        {
+            "type": "faction",
+            "name": "巨神峰",
+            "slug": "mount-targon",
+            "image": {
+                "title": "mount-targon-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt1ab39bfee4a3057d-mount-targon_splash.jpg",
+                "encoding": "image/jpeg",
+                "width": null,
+                "height": null,
+                "x": null,
+                "y": null,
+                "featured-champions": []
+            },
+            "echelon": 1,
+            "associated-champions": null
+        },
+        {
+            "type": "faction",
+            "name": "弗雷尔卓德",
+            "slug": "freljord",
+            "image": {
+                "title": "freljord-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/bltc15ba510f02e7e45-freljord_splash.jpg",
+                "encoding": "image/jpeg",
+                "width": null,
+                "height": null,
+                "x": null,
+                "y": null,
+                "featured-champions": []
+            },
+            "echelon": 2,
+            "associated-champions": null
+        },
+        {
+            "type": "faction",
+            "name": "德玛西亚",
+            "slug": "demacia",
+            "image": {
+                "title": "demacia-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/bltd170f10ccce6ba7e-demacia_splash.jpeg",
+                "encoding": "image/jpeg",
+                "width": null,
+                "height": null,
+                "x": null,
+                "y": null,
+                "featured-champions": []
+            },
+            "echelon": 3,
+            "associated-champions": null
+        },
+        {
+            "type": "faction",
+            "name": "恕瑞玛",
+            "slug": "shurima",
+            "image": {
+                "title": "shurima-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt5924e500520eabd9-shurima_splash.jpg",
+                "encoding": "image/jpeg",
+                "width": null,
+                "height": null,
+                "x": null,
+                "y": null,
+                "featured-champions": []
+            },
+            "echelon": 4,
+            "associated-champions": null
+        },
+        {
+            "type": "faction",
+            "name": "暗影岛",
+            "slug": "shadow-isles",
+            "image": {
+                "title": "shadow-isles-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/bltd9cec6dc7ca0fc48-shadow-isles_splash.jpg",
+                "encoding": "image/jpeg",
+                "width": null,
+                "height": null,
+                "x": null,
+                "y": null,
+                "featured-champions": []
+            },
+            "echelon": 5,
+            "associated-champions": null
+        },
+        {
+            "type": "faction",
+            "name": "比尔吉沃特",
+            "slug": "bilgewater",
+            "image": {
+                "title": "bilgewater-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt8efd86a20a7fc6ca-bilgewater_splash.jpg",
+                "encoding": "image/jpeg",
+                "width": null,
+                "height": null,
+                "x": null,
+                "y": null,
+                "featured-champions": []
+            },
+            "echelon": 6,
+            "associated-champions": null
+        },
+        {
+            "type": "faction",
+            "name": "班德尔城",
+            "slug": "bandle-city",
+            "image": {
+                "title": "bandle-city-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt57ea8bb74f8733f3-bandle-city_splash.jpg",
+                "encoding": "image/jpeg",
+                "width": null,
+                "height": null,
+                "x": null,
+                "y": null,
+                "featured-champions": []
+            },
+            "echelon": 7,
+            "associated-champions": null
+        },
+        {
+            "type": "faction",
+            "name": "皮尔特沃夫",
+            "slug": "piltover",
+            "image": {
+                "title": "piltover-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt5c307209ccbe2470-piltover_splash.jpg",
+                "encoding": "image/jpeg",
+                "width": null,
+                "height": null,
+                "x": null,
+                "y": null,
+                "featured-champions": []
+            },
+            "echelon": 8,
+            "associated-champions": null
+        },
+        {
+            "type": "faction",
+            "name": "祖安",
+            "slug": "zaun",
+            "image": {
+                "title": "zaun-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt3d038a51072c6d5a-zaun_splash.jpeg",
+                "encoding": "image/jpeg",
+                "width": null,
+                "height": null,
+                "x": null,
+                "y": null,
+                "featured-champions": []
+            },
+            "echelon": 9,
+            "associated-champions": null
+        },
+        {
+            "type": "faction",
+            "name": "艾欧尼亚",
+            "slug": "ionia",
+            "image": {
+                "title": "ionia-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/bltcea170f820e544c5-ionia-01.jpg",
+                "encoding": "image/jpeg",
+                "width": null,
+                "height": null,
+                "x": null,
+                "y": null,
+                "featured-champions": []
+            },
+            "echelon": 10,
+            "associated-champions": null
+        },
+        {
+            "type": "faction",
+            "name": "虚空之地",
+            "slug": "void",
+            "image": {
+                "title": "void-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt4754fc6a91233824-void-an-unknowable-power.jpg",
+                "encoding": "image/jpeg",
+                "width": null,
+                "height": null,
+                "x": null,
+                "y": null,
+                "featured-champions": []
+            },
+            "echelon": 11,
+            "associated-champions": null
+        },
+        {
+            "type": "faction",
+            "name": "诺克萨斯",
+            "slug": "noxus",
+            "image": {
+                "title": "noxus-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt9d0c487b98ba6b42-noxus_splash.jpg",
+                "encoding": "image/jpeg",
+                "width": null,
+                "height": null,
+                "x": null,
+                "y": null,
+                "featured-champions": []
+            },
+            "echelon": 12,
+            "associated-champions": null
+        }
+    ]
+}

@@ -1,0 +1,922 @@
+{
+    "id": "zed",
+    "name": "劫",
+    "title": "影流之主",
+    "locale": "zh_cn",
+    "champion": {
+        "type": "champion",
+        "release-date": "2012-11-13T00:00:00.000Z",
+        "name": "劫",
+        "title": "影流之主",
+        "section-title": "劫",
+        "slug": "zed",
+        "associated-faction": "",
+        "associated-faction-slug": "ionia",
+        "image": {
+            "title": "zed-splash",
+            "subtitle": "",
+            "description": "",
+            "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt78255e660a53aa1d-Zed_0.jpg",
+            "encoding": "image/jpeg",
+            "width": 1215,
+            "height": 717,
+            "x": 925,
+            "y": 22,
+            "featured-champions": []
+        },
+        "background": {
+            "title": "zed-splash",
+            "subtitle": "",
+            "description": "",
+            "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt78255e660a53aa1d-Zed_0.jpg",
+            "encoding": "image/jpeg",
+            "width": 1215,
+            "height": 717,
+            "x": 925,
+            "y": 22,
+            "featured-champions": []
+        },
+        "url": "/zh_cn/champion/zed",
+        "video": {
+            "title": "zed-splashvideo-webm",
+            "subtitle": "",
+            "description": "",
+            "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt57c05535f45ac06e-zed-splashvideo.webm",
+            "encoding": "video/webm",
+            "width": 1280,
+            "height": 720,
+            "x": 925,
+            "y": 22,
+            "featured-champions": []
+        },
+        "races": [],
+        "roles": [
+            {
+                "name": "刺客",
+                "slug": "assassin"
+            },
+            {
+                "name": "战士",
+                "slug": "fighter"
+            }
+        ],
+        "role": [
+            {
+                "name": "刺客",
+                "slug": "assassin"
+            },
+            {
+                "name": "战士",
+                "slug": "fighter"
+            }
+        ],
+        "game-info-url": "https://lol.qq.com/web201310/info-defail.shtml?id=Zed",
+        "biography": {
+            "full": "<p>艾欧尼亚的和谐面纱之下掩盖着那些被丢下的人。对于劫来说，他的故事要从那个坐在家门口冰冷石阶上的小男孩说起，他的家是均衡教派。</p><p>均衡教派的宗师苦说亲自收留了劫，他在古老的庙墙内找到了自己的容身之处。劫尽心竭力地领悟均衡的精神教旨，很快就在战斗和学习两方面超出同辈一大截。即便如此，他还是感到自己在另一个人面前只能甘拜下风——宗师的儿子，慎。虽然劫在每一门技艺上都追求完美，焕发出巨大的热情，但他却缺少慎身上的情绪平衡。虽然存在差异，但两名学徒依然情同手足。</p><p>后来，他们与师父一起出门远行，追查恶名昭彰的“金魔”。他们终于成功抓获这个令人谈之色变的“怪物”时，却发现他只不过是个名叫卡达·烬的普通人。年轻的劫走上前，双手高举刀刃，但苦说大师制止了他，并命令他们把烬押进监狱。</p><p>回到庙堂后，不满情绪开始在劫的心中绽放，他也开始在学习上力不从心。烬制造的惨不忍睹的谋杀现场反复萦绕在他脑海中，与此同时艾欧尼亚和诺克萨斯帝国武装之间愈演愈烈的紧张气氛也加速了他的幻想破灭。那个时候，慎已经开始学会父亲的冷漠无私，而劫却不肯让均衡的崇高理念阻碍他惩奸除恶。</p><p>他深入庙宇隐藏的墓穴中，在那里他发现了一个精致的黑匣。虽然他知道这是在触犯禁忌，只有教派的宗师才能打开这个黑匣，但他还是向黑匣内部窥视。</p><p>黑影包裹住劫的脑海，向他灌输对弱者的蔑视，助长他内心的苦楚，并向他暗示着一种古老的黑暗魔法。</p><p>回到庙堂的光明中后，他与宗师苦说正面相对。劫要求均衡教派动用一切力量打击诺克萨斯侵略者。苦说拒绝了，于是劫离开了那个将他养大的教派。</p><p>不再受到均衡教条的束缚的劫，召集了一批追随他的战士共同抵抗诺克萨斯。任何威胁到他家园的生灵，或者在守卫艾欧尼亚的岗位上玩忽职守的人，全都会陷入残忍的影杀阵——甚至包括那些结盟立场摇摆不定的本土瓦斯塔亚。劫鼓动他的追随者们抛弃顾虑投身战争，但很快他就意识到，自己能力的成长永远都赶不上野心的膨胀，除非得到那个黑匣。</p><p>他集结了所有新信徒，回到了均衡教派的庙堂，苦说出门迎接。这位长者将他的武器放在劫的脚边，恳求他曾经的徒弟能够抛弃暗影，回归均衡之道。</p><p>少顷，劫重新出现在庙前的石阶上。一只手握着黑匣，另一只手上则是刚刚沾满鲜血的剑刃。</p><p>均衡教众惊呆得不知所措，像兽群一样慌不择路，被劫的手下肆意屠戮。随后他霸占了庙堂，并在此成立了自己的影流，开始以黑影之道训练他的信徒。他们将黑暗的刺青刻入肌肤血肉，并学习如何伴着氤氲倒影中的自己共同战斗。</p><p>劫利用了与诺克萨斯之间的战事，以及战争给艾欧尼亚人带来的痛苦。在刚刚发生过大屠杀的衣浦河畔，他遇到了诺克萨斯童兵凯隐，手中只挥舞着一把农用镰刀。劫看到这个男孩是一件待开刃的武器，就把他收为亲授弟子。在这个年轻的信徒身上，他看到了与自己旗鼓相当的纯粹的目标动力。在凯隐身上，劫看到了影流的未来。</p><p>虽然劫并没有与慎和均衡教派残部进行和解，但战争过后，四散在各省份的均衡教众与影流之间达成了脆弱的停战共识。劫知道，自己做过的事早已覆水难收。</p><p>最近几年来，初生之土的平衡显然已经被打乱，可能永远都无法复原。对劫来说，精神的和谐无足轻重——他将不择手段地确保艾欧尼亚的胜利。<br></p>",
+            "short": "<p>彻底抛弃了仁慈与怜悯的劫，是影流教派的领袖。他创立影流的目标是将艾欧尼亚的魔法和传统武术用于实战，驱逐诺克萨斯侵略者。在战争中，绝望指引他开启了神秘的暗影形态。这是一种恶灵魔法，虽然强大，但同时非常危险且有腐化之力。劫已经完全掌握了这种禁忌之术，用它摧毁自己眼中的威胁，维护自己的国家，以及自己的教派。</p>",
+            "quote": "<i>“均衡是愚者的主人。”</i>",
+            "quote-author": "劫"
+        },
+        "headerImage": null
+    },
+    "related-champions": [
+        {
+            "type": "champion",
+            "release-date": "2010-03-24T00:00:00.000Z",
+            "name": "慎",
+            "title": "暮光之眼",
+            "section-title": "慎",
+            "slug": "shen",
+            "associated-faction": "",
+            "associated-faction-slug": "ionia",
+            "image": {
+                "title": "shen-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/bltbf54c151f1d2730d-Shen_0.jpg",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 1034,
+                "y": 0,
+                "featured-champions": []
+            },
+            "background": {
+                "title": "shen-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/bltbf54c151f1d2730d-Shen_0.jpg",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 1034,
+                "y": 0,
+                "featured-champions": []
+            },
+            "url": "/zh_cn/champion/shen",
+            "video": null,
+            "races": [],
+            "roles": [
+                {
+                    "name": "坦克",
+                    "slug": "tank"
+                },
+                {
+                    "name": "近战",
+                    "slug": "melee"
+                }
+            ],
+            "role": [
+                {
+                    "name": "坦克",
+                    "slug": "tank"
+                },
+                {
+                    "name": "近战",
+                    "slug": "melee"
+                }
+            ],
+            "game-info-url": "https://lol.qq.com/web201310/info-defail.shtml?id=Shen",
+            "biography": {
+                "full": "<p>他既是精神领域中的神秘人，也是凡人世界里的异类，但慎不属于二者任何一方。虽然他的出身是纳沃利北部的名门之后，但真正注定他与均衡教派不解之缘的，是他父亲作为暮光之眼的身份。</p><p>作为教派宗师苦说的儿子，他从小受到均衡教派文化的熏陶，均衡的核心教旨对他来说就像艾欧尼亚的日落一样熟悉而优美。他懂得<i>修枝</i>的不可或缺，<i>逐日</i>的坚定不移，还有最重要的，<i>观星</i>的亘古智慧。他整个童年都是在冥想与研习中渡过的，所有老师都对他赞不绝口。</p><p>他最亲密的朋友，也是唯一一个能在切磋中与他不相上下的学徒，是作为同龄人的劫。他们情同手足，经常互相吐露心中私密的希望和梦想。慎凡世都可以从劫那里寻求崭新的视角，两名少年被认为是均衡教派最有前途的学徒。</p><p>随着他们的技艺日益精进，苦说大师开始带上他们出门执行较为危险的任务，其中就包括追猎芝云省的祸害，“金魔”。他们的搜寻持续了数年，虽然慎见证了无数惨不忍睹的谋杀现场，但他始终都心无旁骛。当他们最后终于抓到“金魔”的时候，却发现他只是个巡回剧团中的舞台助手。苦说大师没有将其就地正法，而是将他关进了监狱。</p><p>虽然慎和劫都认为这个凶手应当被处以更严厉的刑罚，但慎接受了父亲的决定。他努力效仿暮光之眼的冷漠，因此也没能够安慰劫的苦楚和憎恨。</p><p>即使当诺克萨斯入侵者威胁到初生之土的和平，慎也压抑住心中的不安，支持了苦说大师的不作为。但当背弃了均衡的劫加入战斗的时候，慎选择留在庙墙之中。</p><p>许多省份都迅速被敌人占领。但慎依然专注于维护艾欧尼亚精神领域的和谐。那一天，远离家乡的慎感到均衡教派内部剧烈震荡失衡，全速赶回的他只看到了一场血腥哗变的幸存者。他们告诉慎，劫已经自立流派，还召集了一众学徒，将均衡教派的庙堂占为己有。</p><p>最糟的是，慎的父亲被曾经那个与他情同手足的人弑杀了。</p><p>他抑制住自己的剧痛，带领均衡的残部前往山中避难。慎拿起了父亲的魂刃，也继承了暮光之眼的称号。他要扮演的角色并不是寻求复仇，而是重建教派。他遵循着核心教旨，开始了纳新和训练，希望能够重振教派的力量。</p><p>一位特殊的学徒展现出了无边的潜力。慎亲自传授给那个女孩——阿卡丽·约曼·特曦潜行术和遁形术。她的母亲梅目曾以暗影之拳之名与苦说并肩作战，如今看来女儿也将遵循母亲的道路成长。然而，阿卡丽无数次想要反击他们的人类敌人，每每遇到这种情况，慎都不得不敦促她保持克制。</p><p>当诺克萨斯最终撤退，许多艾欧尼亚人都庆祝反抗的胜利。而其他人，例如慎，则承担着战争的创伤——他恪尽职守，但同时也暗自纠结于自己对劫的憎恨之情，并怀疑自己担任领袖的能力。连年的战乱让初生之土付出了沉重的代价，慎也不确定，重建均衡教派是否真的能够让这片土地也重归平衡。</p><p>他的担心应验了，就在阿卡丽接任暗影之拳的同时，他感受到她正在渐行渐远，不久后，她就公开否决他的教诲，然后离开了教派。</p><p>慎进行了观星冥想，他理解阿卡丽需要找到自己的路……均衡教派也是一样。</p><p>有的时候，在精神领域进行隐秘斗争的间隙，慎还是会思考自己信念的价值。他从未让自己的情绪妨碍自己保护传统的职责，但问题依然没有答案：一个行走于两个世界的人，究竟还剩下多长时间，就不得不面对一个世界里的行为给另一个世界带来的毁灭？<br></p>",
+                "short": "在隐秘的艾欧尼亚武装力量均衡教派中，慎背负着领袖的职责和暮光之眼的称号。他力求超脱自身的情感、偏执以及自我，行走于灵魂领域和物质世界之间无人通晓的隐秘道路。为了贯彻精神与物质之间的均衡，慎用一把钢刀和一把魂刃对抗任何威胁到均衡的人。",
+                "quote": "“眼中无惧，无恨，无爱——无一切动摇均衡之物。”",
+                "quote-author": "慎"
+            },
+            "headerImage": null
+        },
+        {
+            "type": "champion",
+            "release-date": "2010-05-11T00:00:00.000Z",
+            "name": "阿卡丽",
+            "title": "离群之刺",
+            "section-title": "阿卡丽",
+            "slug": "akali",
+            "associated-faction": "",
+            "associated-faction-slug": "ionia",
+            "image": {
+                "title": "akali-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/bltadda3687d160dca6-Classic_Akali_Splash.jpg",
+                "encoding": "image/jpeg",
+                "width": 1920,
+                "height": 1080,
+                "x": 939,
+                "y": 162,
+                "featured-champions": []
+            },
+            "background": {
+                "title": "akali-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/bltadda3687d160dca6-Classic_Akali_Splash.jpg",
+                "encoding": "image/jpeg",
+                "width": 1920,
+                "height": 1080,
+                "x": 939,
+                "y": 162,
+                "featured-champions": []
+            },
+            "url": "/zh_cn/champion/akali",
+            "video": null,
+            "races": [],
+            "roles": [
+                {
+                    "name": "刺客",
+                    "slug": "assassin"
+                }
+            ],
+            "role": [
+                {
+                    "name": "刺客",
+                    "slug": "assassin"
+                }
+            ],
+            "game-info-url": "https://lol.qq.com/web201310/info-defail.shtml?id=Akali",
+            "biography": {
+                "full": "<p>艾欧尼亚一直以来都是个充满狂野魔法的地方，形形色色的人类和强大的灵体力求和谐共处……但有的时候这宁静的平衡并不能轻易得来。有的时候平衡也需要维护。</p><p>均衡教派就是一个以维护艾欧尼亚神圣平衡为己任的团体。教派的信徒们行走于精神与物质两个世界之中，协调两界之间的冲突，而且有必要的时候，也会使用强制力介入。阿卡丽天生就是其中一员，她的母亲是梅目•约曼•特曦，身居暗影之拳的位置，她和她的伴侣塔诺决定让女儿从小就在均衡教派内成长，接受教派的宗师——暮光之眼苦说大师的精悉引导。</p><p>每当阿卡丽的父母受派外出，教派的其他成员就会担当阿卡丽的代理家长，狂暴之心凯南就曾和这个小姑娘共同度过了许多时光，传授她手里剑的技法，教她利用速度和敏捷而非蛮力。阿卡丽拥有超越同龄人的心智，像吸水的海棉一样吸收学识。所有人都看得出，她将沿着自己父母的道路成长——她将伴着宗师的儿子和既定的继任者慎一起，引领新一代信徒，致力于保护艾欧尼亚的平衡。</p><p>但平衡往往转瞬即逝，教派内部发生了分裂。</p><p>一个名叫劫的信徒修行归来，刚愎自用的他与苦说大师激烈交锋，通过一场血腥的哗变让教派内部的权力动荡。阿卡丽逃到了东边的山林之中，一起逃走的还有梅目、慎、凯南和其他几名信徒。令人惋惜的是，塔诺不在其中。</p><p>劫已经几乎把均衡教派变成了绝情的影流。但作为新一任暮光之眼的慎想要重建那些逝去的东西。他们要回归均衡的三大基本理念：以<i>观星</i>寻找纯粹的公正，用<i>逐日</i>执行正义的审判，并通过<i>修枝</i>根除一切不平衡。虽然他们势单力薄，但他们会训练新的信徒，光复并再次振兴他们的教派。</p><p>当阿卡丽长大到十四岁的时候，她正式开始了均衡教派的训练，决心要继承母亲的位置，成为新的暗影之拳。</p><p>阿卡丽是个练武奇才，精通钩镰和苦无——也就是单手镰和飞刀。虽然她不像其他信徒那样掌握魔法能力，但她依然用实力证明自己配得上这个称号，不久后，她的母亲就得以退居后方，担任年轻一代信徒的导师。</p><p>但阿卡丽的灵魂坐立难安，她始终睁眼看着世界。在诺克萨斯入侵艾欧尼亚的战争余波中，虽然均衡和影流之间达成了脆弱的一致，但她却看到自己的家乡继续遭受着痛苦。她质疑他们的教派是否真正履行着职责。所谓修枝，就应该根除一切威胁到神圣平衡的人……然而慎却总是敦促克制。</p><p>他总是在限制她。所有那些颂文和冥想都能让她的灵魂获得安宁，但这些陈词滥调却不能击败他们的敌人。她的热血冲动和超前成熟变成了不加掩饰的叛逆。她与慎大声争论，她公然反抗他，她用<i>自己的</i>方式解决艾欧尼亚的敌人。</p><p>当着整个教派的面，她公然宣称均衡教派都是无能之辈，所有关于精神平衡和耐心的说教都毫无成效。艾欧尼亚人正在物质领域垂死挣扎，所以这也是阿卡丽要保护的领域。她接受了刺客的训练，所以她要<i>做</i>刺客该做的事。她已经不再需要这个教派了。</p><p>慎没有挽留也没有阻止，他知道这条路必须由阿卡丽自己走下去。或许有朝一日她会沿着那条路走回来，但那一切都将由她自己决定。</p>",
+                "short": "<p>无论是均衡教派还是暗影之拳的称号，都已被阿卡丽抛弃，如今的阿卡丽独来独往，随时可以成为她的人民所需要的夺命武器。虽然她牢牢铭记着她从宗师慎身上学来的一切，但她效忠保护艾欧尼亚并铲除敌人，每次一条命。或许阿卡丽的出击悄然无声，但她传达的信息将响亮无比：不听命于任何人的刺客最为可怕。</p>",
+                "quote": "“如果你看上去凶神恶煞，你最好真的是凶神恶煞。”",
+                "quote-author": "阿卡丽"
+            },
+            "headerImage": null
+        },
+        {
+            "type": "champion",
+            "release-date": "2010-04-08T00:00:00.000Z",
+            "name": "凯南",
+            "title": "狂暴之心",
+            "section-title": "凯南",
+            "slug": "kennen",
+            "associated-faction": "",
+            "associated-faction-slug": "ionia",
+            "image": {
+                "title": "kennen-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt8bc7354458cee91c-Kennen_0.jpg",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 1018,
+                "y": 37,
+                "featured-champions": []
+            },
+            "background": {
+                "title": "kennen-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt8bc7354458cee91c-Kennen_0.jpg",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 1018,
+                "y": 37,
+                "featured-champions": []
+            },
+            "url": "/zh_cn/champion/kennen",
+            "video": null,
+            "races": [],
+            "roles": [
+                {
+                    "name": "法师",
+                    "slug": "mage"
+                },
+                {
+                    "name": "射手",
+                    "slug": "marksman"
+                }
+            ],
+            "role": [
+                {
+                    "name": "法师",
+                    "slug": "mage"
+                },
+                {
+                    "name": "射手",
+                    "slug": "marksman"
+                }
+            ],
+            "game-info-url": "https://lol.qq.com/web201310/info-defail.shtml?id=Kennen",
+            "biography": {
+                "full": "<p>这是光怪陆离的领域，这是变幻莫测的班德尔城，而这种地方并不适合像凯南这样的约德尔人。他为了寻求和谐与平衡，早在数千年前就离开了精神领域，寻找冒险。他带着无尽的好奇心探索物质领域，一下心跳的工夫就能跨越千万里。但他却对艾欧尼亚情有独钟。</p><p>在这片初生之土，他见证了一场场远古的战争，只是如今早已无人记得；他也见证了这片土地后来千难万苦的重建。让凯南最为着迷的是，这里的人们在不断追寻平衡的自我，以及平衡的家园。时间久了，凯南回到班德尔城的时候越来越少，他选择留在艾欧尼亚，在这里，来自精神领域的约德尔人备受尊敬。虽然他不会像物质领域的生物那样随时间衰老，但凯南却愿意接纳凡人，连续观察研究几代人。令他感到钦佩的是，虽然他们的生命单薄脆弱，但却个个都是勤勉的保卫者，守护着神圣的平衡。</p><p>虽然如此，艾欧尼亚的宁静依然在遭遇着威胁。歹毒的灵体走出精神领域，不怀好意地闯入这片土地。凯南曾独自对抗这些侵扰者，享受每一次挑战带来的乐趣，但最后他明白了，他的战斗治标不治<i>本</i>，入侵的根源在于失衡。他发现了一个刚刚诞生的教派，教众积极主动地寻求两个领域之间的平衡——他们会先进行小心的观察，然后决定采取怎样的行动，恢复平衡。</p><p>他们自称为“均衡”</p><p>凯南兴致盎然地注视着这个教派，他们的领袖分别是傲然冷漠的“暮光之眼”和锱铢必较的“暗影之拳”。他意识到，均衡的领袖还需要另一个层面。需要一个求同存异的人，需要防止战意旺盛的“拳”压制冷静自省的“眼”，同样也需要防止“眼”的观察阻挠“拳”的行动。</p><p>作为同时存在于精神与物质两个领域中的生物，凯南主动请缨，他独有的优势非常适合作为仲裁者。教派接受了凯南的智慧，他成为了均衡的首任“狂暴之心”。他与“暮光之眼”、“暗影之拳”共同组成了新的首领三人组，凯南的职责是做出判断，决定如何行动才能最好地维护平衡，他用亲切随和与婉转交涉保持了均衡教派的和谐。</p><p>此外，凯南还发现教派和周围的民众之间开始产生沟壑，因为教派的决定往往是立刻执行、秘密完成，没有复议的机会。这名约德尔人再次意识到，自己可以为均衡填补一个空白。以他的急速与同情心，可以作为理想的沟通者，与那些受到教派行动影响的人们充分交流。他已经看到均衡教派如何脱离了人民，如何戴上了面具，因此十分注意自己的真挚与诚恳，与那些他要保护的人们紧密相连。</p><p>然而凯南还有另一面，作为“狂暴之心”的严肃一面。他的职责是<i>逐日</i>，均衡做出的判断，无论遭遇何种挑战都由他来处理，这些挑战可不总是动嘴就能解决的。</p><p>有的时候，达到平衡的代价是破坏者的鲜血——而凯南的手里剑以及他召唤的风暴足以平息任何不服从的声音。</p><p>几百年来，均衡遭遇过许多威胁，但没有哪次能赶得上诺克萨斯的入侵及其过后产生的余波。当诺克萨斯进犯初生之土时，凯南反对教派加入抵抗力量，但那场战争几乎将均衡教派撕裂。曾经的弟子——劫领导了一场兵变，在随后的至暗时刻，新任暮光之眼——慎一筹莫展，全靠凯南引领教派渡过难关。他还敦促时任暗影之拳——梅目关注自己的女儿——自小接受凯南训练的阿卡丽，并将她视为继任者。</p><p>但即使是他，也无法劝阻阿卡丽最后的离开，因为均衡教派没能对艾欧尼亚的敌人采取行动，让她心灰意冷。</p><p>最近发生的事是对凯南的考验。这个纷扰和暴力的新世代已经让艾欧尼亚陷入混乱。无论即将到来的是什么，他都会保护这个已经出现裂痕的均衡教派，与慎并肩作战，维护初生之土的平衡。千万不要被凯南矮小的外形所迷惑——风暴的中心是最平静的地方，当它对你怒目而视的时候，狂暴的力量就已经不远了。</p>",
+                "short": "历史悠久的均衡教派中，有一位资历最老的成员——约德尔人凯南是第一任也是唯一一任狂暴之心。几百年里，他使用委婉的交涉和直接的武力，维持着他第二故乡——艾欧尼亚的神圣平衡。凯南拥有闪电的速度和岁月沉淀的智慧，他与暮光之眼——慎一起保护着初生之土的脆弱和谐，用霹雳千鸟和万雷天牢扫除一切障碍。",
+                "quote": "“我同时存在于两个领域，在电闪与雷鸣之间，是风暴真正的平衡。”",
+                "quote-author": "——凯南"
+            },
+            "headerImage": null
+        },
+        {
+            "type": "champion",
+            "release-date": "2009-08-19T00:00:00.000Z",
+            "name": "普朗克",
+            "title": "海洋之灾",
+            "section-title": "普朗克",
+            "slug": "gangplank",
+            "associated-faction": "",
+            "associated-faction-slug": "bilgewater",
+            "image": {
+                "title": "gangplank-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt36342e427842cf72-Gangplank_0.jpg",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 838,
+                "y": 6,
+                "featured-champions": []
+            },
+            "background": {
+                "title": "gangplank-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt36342e427842cf72-Gangplank_0.jpg",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 838,
+                "y": 6,
+                "featured-champions": []
+            },
+            "url": "/zh_cn/champion/gangplank",
+            "video": null,
+            "races": [],
+            "roles": [
+                {
+                    "name": "战士",
+                    "slug": "fighter"
+                }
+            ],
+            "role": [
+                {
+                    "name": "战士",
+                    "slug": "fighter"
+                }
+            ],
+            "game-info-url": "https://lol.qq.com/web201310/info-defail.shtml?id=Gangplank",
+            "biography": {
+                "full": "<p>诡计多端、心狠手辣的普朗克自封为强盗之王，他用威慑、暴力和权谋统治着比尔吉沃特。他所到之处，定会留下死亡和废墟，所以，他声名狼藉、臭名远扬，只要他的黑帆刚刚露出海平面，无论多么老练的船队水手都会手忙脚乱。</p><p>普朗克是从十二海域的贸易航路上抢劫商船起家的，因此与他结仇的劲敌为数甚多。在艾欧尼亚，他洗劫了蛇刀庙，由此惹火上身，激怒了杀人不眨眼的影流教派。而且据说，诺克萨斯大将军本人发誓要亲眼看到普朗克被碎尸万段，因为他偷走了“利维坦号”，那可是斯维因的战舰，也是诺克萨斯海军的骄傲。</p><p>虽然普朗克是许多人的心头大患，他们派出刺客、赏金猎人甚至武装舰队，都无法将他绳之以法。他的残忍乐趣就在于看着自己头上的赏金奖励持续走高。每次他满载而归地回到比尔吉沃特，都会将自己最新的通缉令钉在比尔吉沃特的悬赏告示栏上，让所有人都能看到。</p><p>最近，普朗克却被赏金猎人厄运小姐的诡计摆了一道。他的海盗船在比尔吉沃特全城居民众目睽睽之下被摧毁了，手下的船员也被杀害，他战无不胜的无敌神话也被彻底粉碎。现在，比尔吉沃特的各个帮派看到普朗克大势已去，纷纷趁乱崛起，在纷争中抢夺这座港口城市的控制权。</p><p>虽然普朗克在爆炸中受了重伤，但他侥幸活了下来。他的身上遍布着支离破碎的伤疤，一条手臂也被截去。但他装上了铁铸的义肢，并决心重建自己的威望。普朗克立誓要夺回曾经拥有的一切，并毫不留情地惩处所有冒犯过他的人。</p>",
+                "short": "诡计多端、心狠手辣的普朗克是被废黜的强盗之王，他令人恐惧的名号广达远至。他一度是港口城市比尔吉沃特的统治者。虽然现在他的威权已经不再，但人们相信这只会让他变得更加可怖。普朗克若是知道有人要从他手中抢走比尔吉沃特，必然会大肆血洗这座城市。而如今有了火枪、弯刀，还有一桶桶的火药，他决心要夺回自己失去的东西。",
+                "quote": "“老子杀人越货大闹诺克萨斯海军的时候，你还穿开裆裤呢。你可别惹我。”",
+                "quote-author": "普朗克"
+            },
+            "headerImage": null
+        },
+        {
+            "type": "champion",
+            "release-date": "2016-02-01T00:00:00.000Z",
+            "name": "烬",
+            "title": "戏命师",
+            "section-title": "烬",
+            "slug": "jhin",
+            "associated-faction": "",
+            "associated-faction-slug": "ionia",
+            "image": {
+                "title": "jhin-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blta9fe9fafd4648bf7-Jhin_0.jpg",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 780,
+                "y": 2,
+                "featured-champions": []
+            },
+            "background": {
+                "title": "jhin-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blta9fe9fafd4648bf7-Jhin_0.jpg",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 780,
+                "y": 2,
+                "featured-champions": []
+            },
+            "url": "/zh_cn/champion/jhin",
+            "video": {
+                "title": "jhin-splashvideo-webm",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt103333d3e5a47b40-jhin-splashvideo.webm",
+                "encoding": "video/webm",
+                "width": 1280,
+                "height": 720,
+                "x": 780,
+                "y": 2,
+                "featured-champions": []
+            },
+            "races": [],
+            "roles": [
+                {
+                    "name": "射手",
+                    "slug": "marksman"
+                },
+                {
+                    "name": "刺客",
+                    "slug": "assassin"
+                }
+            ],
+            "role": [
+                {
+                    "name": "射手",
+                    "slug": "marksman"
+                },
+                {
+                    "name": "刺客",
+                    "slug": "assassin"
+                }
+            ],
+            "game-info-url": "https://lol.qq.com/web201310/info-defail.shtml?id=Jhin",
+            "biography": {
+                "full": "<p>无论走到艾欧尼亚的哪座村庄，几乎都可以听到“金魔落网”的传说，也有许多戏剧和诗歌描绘了那个残酷的灵魂如何被放逐，时至今日，人们依然在赞颂这一丰功伟绩。</p><p>但一切神话传说都有真实的内核，而关于金魔的真相与人们的幻想相去甚远。</p><p>曾经，艾欧尼亚南部山区连年遭到那个恶名昭彰的怪物荼毒。在芝云省全境，甚至包括尚赞和伽林，这个怪物杀害了成群结队的旅行者，有时甚至会摧毁整片农庄，只留下扭曲支离的尸体。武装民兵搜遍了丛林，各地城镇雇来了恶魔猎人，无极大师们巡逻在每一条大道上——但是怪物的暴行丝毫没有收敛。</p><p>走投无路之下，芝云议会派出使节，恳请均衡教派的苦说大师出手相助。苦说的职责是维护精神与物质两个领域之间的平衡，他十分善于驱除恶魔。为了防止打草惊蛇，苦说秘密出行，带着年少的儿子慎，和徒弟戒，前往芝云省追寻那个狡猾的怪物。他们慰问了无数个被杀戮击垮的家庭，仔细勘察了可怕的凶案现场，寻找一桩桩谋杀之间的关联。很快，苦说意识到他们远非第一批追查这个杀手的人，而且他逐渐坚信这些行径也并非出自恶魔之手。</p><p>随后的四年中，金魔依然逍遥法外，但漫长的调查却让这三个男人都变了许多。苦说大师一头显赫的红发已然转白；一向以机智幽默著称的慎变得不苟言笑；而苦说大殿中的明星弟子戒，也开始挣扎于自己所参悟的学问。感觉就像是这个恶魔知道他们在追查它，所以正欢欣地看着他们在失败中饱受折磨</p><p>当他们终于发现了凶杀之间的规律时，大师说了这样一番话：“善与恶，并不确实。两者起自人心，见影之道不同而已。”苦说想要把调查交给别人，因为他相信他们追查的并不是恶魔，而是一名穷凶极恶的人类或者瓦斯塔亚，所以已经不再是苦说的职责所在。但慎和戒在做出了那么多牺牲以后刚刚窥探到杀手的真面目，他们拒绝就此罢手，说服了苦说追查到底。</p><p>在吉雍道的绽灵节前夜，苦说大师伪装成一位知名的书法家，混入其他艺人嘉宾之中。然后他开始了等待。慎和戒精心布置了一个陷阱，最后终于不负所望，他们与那个可恨的凶手正面对峙。苦说的推测是对的——盛传的“金魔”其实只是一个芝云境内巡回的剧团中的舞台管理员，名叫卡达•烬。</p><p>抓住烬以后，年轻的戒想要杀掉这个瑟缩的男人，但苦说制止了他。他提醒自己的学生，他们的所作所为本来就已经超出职责范围，如果杀掉烬，只会让情况更糟。苦说担心烬对人性的认知将会动摇艾欧尼亚文化中最具决定意义的和谐与信任，甚至可能鼓动其他人犯下同样的罪行。尽管烬作恶多端，但这位德高望重的大师仍然决定要将这个杀手活捉并关进吐冷的修道院监狱。</p><p>慎虽然反对，但他也接受了父亲丝毫不带个人情感的理性判断。戒却无法理解和接受这样慈悲的安排。多年以来，他的眼前无时不萦绕着那些残虐的谋杀场景。据说，这就是他心中恨意萌发的起源。</p><p>被关在吐冷期间，烬守口如瓶，多年来几乎没有吐露出关于自己的事情。负责看守的僧侣们注意到他在很多方面都表现出极高的学习天赋，包括铸铁、诗歌和舞蹈等等。即便如此，守卫和僧侣们仍然无法劝化他心中那份病态般的痴迷。而在修道院的高墙之外，艾欧尼亚的政局因为诺克萨斯帝国的入侵而动荡不安。这个宁静国度所深藏着的嗜血渴望被战争唤醒了。</p><p>在与诺克萨斯的战争过后，烬从吐冷释放，可能成为了某个势力的工具。在纷争的末期，这片初生之土上有太多激进的军事团体觊觎权力。如今他掌握了来自喀舒利兵工厂的新式武器，但究竟他如何得到这些毁灭的工具，究竟与喀舒利有着怎样的关系，依然是不解之谜。</p><p>不知道这个幕后主顾是谁，只知道烬被赐予了近乎无限的资金，而且他有增无减的“表演”规模似乎也不受制约。最近，他袭击了劫的“炎雷”刺客团，一场场带有他标志性“艺术天分”的大规模谋杀和暗杀接二连三，不仅出现在艾欧尼亚各地，甚至还波及到了遥远的皮尔特沃夫和祖安。</p><p>可能在烬的眼里，整个符文之地都是一张画布，供他挥洒残暴的艺术创作，而且只有他才知道下一笔浓墨重彩会抹到哪里。</p>",
+                "short": "作为一名心思缜密的癫狂杀手，烬坚信谋杀是一门艺术。他曾在艾欧尼亚的监狱中服刑，但却因为执政议会里涌动着的暗流而得到释放，成为了权术斗争所利用的刺客。烬将手中的枪当成画笔，尽情地挥洒他所追求的残忍艺术，让受害者肝胆俱裂，令旁观者震悚难平。他在自己制作的阴森剧目里肆意取乐，让“恐怖”二字有了最合适不过的信使。",
+                "quote": "“艺术需要相当程度的……残忍。”",
+                "quote-author": "烬"
+            },
+            "headerImage": null
+        },
+        {
+            "type": "champion",
+            "release-date": "2017-07-10T00:00:00.000Z",
+            "name": "凯隐",
+            "title": "影流之镰",
+            "section-title": "凯隐",
+            "slug": "kayn",
+            "associated-faction": "",
+            "associated-faction-slug": "ionia",
+            "image": {
+                "title": "kayn-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt8c19d1dbd195fa20-kayn-splash-resized.jpg",
+                "encoding": "image/jpeg",
+                "width": 1920,
+                "height": 1134,
+                "x": 975,
+                "y": 579,
+                "featured-champions": []
+            },
+            "background": {
+                "title": "kayn-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt8c19d1dbd195fa20-kayn-splash-resized.jpg",
+                "encoding": "image/jpeg",
+                "width": 1920,
+                "height": 1134,
+                "x": 975,
+                "y": 579,
+                "featured-champions": []
+            },
+            "url": "/zh_cn/champion/kayn",
+            "video": null,
+            "races": [
+                {
+                    "name": "暗裔",
+                    "slug": "darkin"
+                }
+            ],
+            "roles": [
+                {
+                    "name": "刺客",
+                    "slug": "assassin"
+                }
+            ],
+            "role": [
+                {
+                    "name": "刺客",
+                    "slug": "assassin"
+                }
+            ],
+            "game-info-url": "",
+            "biography": {
+                "full": "<p>悉达·凯隐生在诺克萨斯，幼年时便被征召入伍，编成了童兵。带领这支残酷部队的是勃朗·达克威尔治下最阴险的军官。在纳沃利的普雷西典惨败之后，这场侵略演变成了持久的消耗战。艾欧尼亚人的怜悯成了可被利用得弱点——他们的战士会在看似无辜的人面前犹豫不决。所以勉强扛得动刀剑的凯隐参战的第一天就基本相当于他的死期。</p><p>为了突袭巴鲁鄂省，诺克萨斯的部队选择在衣浦河口登陆。凯隐和其他孩子被勉强编作先头部队，面对的是为了抵抗去而复返的侵略者而混乱组织起来的地方武装。他年少的战友要么战死，要么当了逃兵，但凯隐却毫无惧色。他甩下重剑，抄起了一把镰刀，直面着震惊的艾欧尼亚人。这时，诺克萨斯的正规部队从侧翼包抄了过来。</p><p>接下来是一场让人不忍目睹的屠杀。农夫、猎人——甚至还有一些瓦斯塔亚人——全都被干脆利落地斩杀殆尽。</p><p>两天后，战事传遍了南部诸省，影流教派循风而来。影流之主劫知道这个地区毫无战略价值。这场屠杀只是一个声明：诺克萨斯绝不留情。</p><p>一道金属的闪光吸引了他的注意。一个顶多十岁的男孩躺在污泥里，对着刺客大师平举起一把残破的镰刀，血迹斑驳的指关节因用力而发白。男孩眼里蕴含着与他年龄极不相符的痛苦，却又燃烧着一个刚强的战士才有的怒火。这种顽强可不是教得会的。劫看着男孩。这个诺克萨斯的弃儿有资格成为一把武器，反过来对付送他走上死路的敌人。劫伸出手，欢迎凯隐加入了影流。</p><p>影流的信徒们往往要花上多年时间操练自己选中的一件武器，但无论什么兵器凯隐全都能熟练地掌握——对他来说，这些东西都只是工具，而他本身就是武器。他觉得盔甲只是笨重的负担，所以他将自己包裹在黑影里，出其不意，迅雷不及掩耳地刺杀敌人。那些侥幸逃脱的人，四处传说着防不胜防的刺杀，恐惧也随之蔓延。</p><p>凯隐声名鹊起，他的自负也日增月涨。他真心相信总有一天，他的力量甚至会超越劫。</p><p>这份自负让凯隐迎来了自己的最终考验：寻找一把最近于诺克萨斯出土的暗裔武器，保护疲弱的艾欧尼亚守军不被残害。他毫不犹豫地接受了，完全没有想过为什么要选他去执行这个任务。实际上，换作别人就想要毁掉这把名为拉亚斯特的活体巨镰，但凯隐却据为了己有。</p><p>他的手指一碰到镰刀，腐化就开始将二者束缚在一起，命中注定地缠斗下去。拉亚斯特为了一个完美的宿主等待了许久，只为与暗裔的同族重聚，将世上的生灵一举剿灭，但凯隐不会轻易地被占据。他志得意满地回到了艾欧尼亚，相信劫将会保荐他为影流教派的新领袖。</p>",
+                "short": "<p>悉达·凯隐是暗影魔法的天纵之才，他战斗的意义，是为了实现自己真正的命运——为了有朝一日能够率领影流教派，开创艾欧尼亚霸业的新世代。凯隐挥舞着活体暗裔武器拉亚斯特，毫不在意它给自己身体和思想带来的腐化。这样后果只可能有两种：要么凯隐驯服这把武器屈从自己的意志；要么，这恶毒的刀刃将他彻底吞噬，为符文之地的毁灭铺平道路。</p>",
+                "quote": "“孩童已死，杀手永存。”",
+                "quote-author": "凯隐"
+            },
+            "headerImage": null
+        }
+    ],
+    "explore-champions": [
+        {
+            "type": "champion",
+            "release-date": "2015-10-14T00:00:00.000Z",
+            "name": "千珏",
+            "title": "永猎双子",
+            "section-title": "千珏",
+            "slug": "kindred",
+            "associated-faction": "",
+            "associated-faction-slug": "unaffiliated",
+            "image": {
+                "title": "kindred-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt63aee598eae2eab3-Kindred_0.jpg",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 983,
+                "y": 220,
+                "featured-champions": []
+            },
+            "background": {
+                "title": "kindred-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt63aee598eae2eab3-Kindred_0.jpg",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 983,
+                "y": 220,
+                "featured-champions": []
+            },
+            "url": "/zh_cn/champion/kindred",
+            "video": {
+                "title": "kindred-splashvideo-webm",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/bltf45299f76bd51981-kindred-splashvideo.webm",
+                "encoding": "video/webm",
+                "width": 1280,
+                "height": 720,
+                "x": 983,
+                "y": 220,
+                "featured-champions": []
+            },
+            "races": [],
+            "roles": [
+                {
+                    "name": "射手",
+                    "slug": "marksman"
+                }
+            ],
+            "role": [
+                {
+                    "name": "射手",
+                    "slug": "marksman"
+                }
+            ],
+            "game-info-url": "https://lol.qq.com/web201310/info-defail.shtml?id=Kindred",
+            "biography": {
+                "full": "<p>千珏，作为象征死亡的一对精魂，他们互相独立，却从未分离。对于坦然接受命运的人来说，羊灵的长弓可以痛快地送他们离开生者的乐园;而妄图逃脱宿命的人则由狼灵追捕，痛苦地倒在他有力的撕咬下。虽然在符文之地上到处是关于千珏的不同传言，但每个人在临终时都会看到死亡的真正面孔。或者说，其中的一张。</p><p>千珏既是白色空无的最后怀抱，也是黑暗世界的吮血利齿。牧人与屠夫、诗人和野兽……他们融为一体，对面成双。当一个可怜的人命悬一线时，他喉头的呻吟在千珏听来甚于洪钟。若是从容面对羊灵手中银白的长弓，她会让你毫无痛苦地去向极乐。但如果你抗拒挣扎，狼灵便会愉悦地开始他的捕猎。而每一次追捕，都以惨烈的死亡收场。</p><p>从符文之地的人们对死亡有概念以来，千珏就一直在大地上四处漂流。据说，当死亡到来时，一个真正的德玛西亚人会选择接受羊灵的利箭;而在诺克萨斯的暗巷黑街，则随时可见狼灵追猎时飘忽的身影。弗雷尔卓德的冰天雪地中，某些部族会在开拔战场之前举行“吻狼”的仪式，发誓以敌人的鲜血称颂狼灵的追捕。而每年的蚀魂夜之后，比尔吉沃特的镇民们会聚在一起，一边庆祝彼此的幸存，一边纪念被双子终结的灵魂。</p><p>否认千珏的存在即是否认万事运行的自然规律。不过，仍有一些畸怪的灵魂逃脱了命运的安排。但他们落得流离失所，每日担惊受怕的苟活不亚于活在一场永无止境的噩梦中。千珏耐心地守望着那些被关押在暗影岛地下的活死人。因为他们知道，所有不肯安息的活物，都终将葬身于羊弓或狼牙之下。</p><p>永猎双子最早有迹可查的记录是一对来自远古时代的面具，由无名的工匠刻在了被遗忘之人的坟茔上。而如今，羊灵和狼灵形影不离，千珏的名字也已经历经了无数年代，无人不知。</p>",
+                "short": "千珏，作为象征死亡的一对精魂，他们互相独立，却从未分离。对于坦然接受命运的人来说，羊灵的长弓可以痛快地送他们离开生者的乐园，而妄图逃脱宿命的人则由狼灵追捕，痛苦地倒在他有力的撕咬下。虽然在符文之地上到处是关于千珏的不同传言，但每个人在临终时都会看到死亡的真正面孔。至于是哪一面，完全出自个人的抉择。",
+                "quote": "“羊啊，再说一遍，我们可带走什么?”<br>“一切，亲爱的狼。”",
+                "quote-author": "千珏"
+            },
+            "headerImage": null
+        },
+        {
+            "type": "champion",
+            "release-date": "2022-05-20T17:00:00.000Z",
+            "name": "卑尔维斯",
+            "title": "虚空女皇",
+            "section-title": "卑尔维斯",
+            "slug": "belveth",
+            "associated-faction": "",
+            "associated-faction-slug": "void",
+            "image": {
+                "title": "belveth-splash.jpg",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt318127f5a8847c16-belveth-splash.jpg",
+                "encoding": "image/jpeg",
+                "width": 1920,
+                "height": 1080,
+                "x": 900,
+                "y": 300,
+                "featured-champions": []
+            },
+            "background": {
+                "title": "belveth-splash.jpg",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt318127f5a8847c16-belveth-splash.jpg",
+                "encoding": "image/jpeg",
+                "width": 1920,
+                "height": 1080,
+                "x": 900,
+                "y": 300,
+                "featured-champions": []
+            },
+            "url": "/zh_cn/champion/belveth",
+            "video": null,
+            "races": [],
+            "roles": [
+                {
+                    "name": "战士",
+                    "slug": "fighter"
+                }
+            ],
+            "role": [
+                {
+                    "name": "战士",
+                    "slug": "fighter"
+                }
+            ],
+            "biography": {
+                "full": "<p>卑尔维斯犹如黑暗的癌症般于虚空心脏深处游走扩散。她被已然存在的现实打动，进而渴望创造属于自己的世界，代价则是整个符文之地将被吞噬，最终重造成为她畸怪的愿景。她极度渴望饱食新的体验、记忆和认知，吞下了一座座城市和居民，化作概念和知识，引向一片不断蔓延的异界领地——淡紫之海。然而，随着她宛如原生的海洋一般不断扩增，即便是虚空自身也难以在她的贪婪之下求全。她逼迫所见的一切归顺她的渴望，否则就只有湮灭。</p>\n<p>虽然卑尔维斯是符文之地的新来者，但她却在难以追溯的远古年代便已经开始孕育——虚空曾经与初出的现实发生了一次激烈的反应，结果造就了她的开端。当存在成为实体，曾经宁静的虚无便无可挽回地打破了。虚空被迫分化成无数个体，亘古不休地源源涌现，为的是抵挡现实所带来的震惊和苦痛。被它们吞噬的一切都化作无物，“虚空”二字也正因此得名。可是，每次与现世的接触都会让虚空中的造物从曾经完美的形态逐渐变异成沉溺于欲望和暴力的动物。</p>\n<p>虚空也随之嬗变。每次冲突和入侵过后，在虚空物留下的孔道中，最幽深的隐蔽处所包藏的子宫里，某种更加不祥的事物就又成熟了一分……建筑、阳光、初具雏形的人类肢体伸进一片虚无……一幅永远找不齐碎片的拼图……虚空有了一具更为恐怖的新形象。岁月更变，人类撕开了战争的序幕，监视者们也在筹划着入侵弗雷尔卓德。两者的共同作用下，这不为神明所容的毁灭之物彻底投向了旧时虚空的反面：欲念、贪婪和渴望。</p>\n<p>很快，它便开始渴盼一位领袖的出现。可以是一个人，也可以是一个东西，能够为地上和地下的世界同时开启恐怖的全新篇章。这名领袖要能够与“人们”交流，告诉他们未来的图景，在他们历尽苦战徒劳绝望时采收他们的情感和回忆，直到文明的最后一丝火种熄灭，诞下新的时代。</p>\n<p>这名领袖就是卑尔维斯。她是一位可怖的女皇。一座港口城市及其附近海域被完全吞噬后，其中所有人的记忆、情感和体验共同孕育了她。卑尔维斯的脑海中容有百万年来被精心保存的一切知识，给予了她近乎全知的意识。她意欲摧毁整个符文之地，以及自己的先祖，监视者们所容身的领域。</p>\n<p>若是对她的战略有价值，那就是最为幸运的人。而她对这些尚可利用的人也从不矫饰、不曾发问，更不会对真相模棱两可——她只会平白地陈述事实，因为虚空的本质就已经决定胜利已经近在咫尺，除此之外的一切都无需赘言。而若是不幸触怒了她的人，就会发觉她的人类形体只有为满足功能而存在的部分——神经末梢、肌肉和眼柄——她会展开其庞然的双翼，显现出恐怖的真身。</p>\n<p>讽刺的是，古代恕瑞玛语中有一个词可以描述她的身份。这个词可大致理解为“湮灭之神”，来自某个部落的神话，所描述的是一位冷酷的神祇，不带一丝恨意地抹除一切，并以自身取而代之。卑尔维斯这个城市的名字正是由来于此，虽然背后的真意早在数百年前就已经无人记得。</p>\n<p>但也不完全，至少还有一个“人”记得——这座城市化成的她。</p>\n",
+                "short": "<p>一座被吞噬的城市，哺育了一位噩梦般的女皇。卑尔维斯就是符文之地的终结……也是她亲手规划的可怖现实的开端。地上世界无数世代的历史、知识和记忆驱使着她不知餍足地吞食所过之处的一切体验和情感。然而，区区一个世界完全不能满足她的胃口。卑尔维斯将眼光投向了虚空曾经的主人……</p>",
+                "quote": "“这个世界不会彻底湮灭。我将取而代之，如同一个孩子将父母吞噬。”",
+                "quote-author": ""
+            },
+            "bioImage": null,
+            "headerImage": null
+        }
+    ],
+    "modules": [
+        {
+            "slug": "zed-death-mark",
+            "type": "featured-video",
+            "section-title": "",
+            "featured-image": {
+                "title": "zed-league-beyond-marquee",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/bltc09e73fb16927390-zed-animationworkshop-marquee.jpg",
+                "encoding": "image/jpeg",
+                "width": 1920,
+                "height": 1080,
+                "x": 1139,
+                "y": 0,
+                "featured-champions": []
+            },
+            "title": "劫：禁奥义！瞬狱影杀阵",
+            "subtitle": "",
+            "description": "他并不是潜藏于阴影的刺客——他就是阴影。所以他们毫无胜算。",
+            "uri": "https://v.qq.com/x/page/q0363uwvn9q.html",
+            "video": {
+                "type": "video",
+                "title": "",
+                "subtitle": "",
+                "description": [],
+                "uri": "https://v.qq.com/x/page/q0363uwvn9q.html",
+                "width": "",
+                "height": "",
+                "x": "",
+                "y": "",
+                "featured-champions": []
+            },
+            "blackout": null,
+            "release-date": "2017-03-17T15:00:00.000Z",
+            "video-type": "animation",
+            "featured-champions": [
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                }
+            ],
+            "related-champions": [
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                }
+            ]
+        },
+        {
+            "slug": "铁杖客",
+            "type": "story-preview",
+            "title": "铁杖客",
+            "subtitle": "作者： Odin Austin Shafer",
+            "description": "<div style='text-align: center'><b>一。</b></div><br><br>",
+            "story-slug": "jhin-color-story",
+            "featured-image": {
+                "title": "jhin-color-bg",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blteaa6a265189a4bde-jhin-color-bg.jpg",
+                "encoding": "image/jpeg",
+                "width": 1280,
+                "height": 720,
+                "x": 978,
+                "y": 238,
+                "featured-champions": []
+            },
+            "background": {
+                "title": "jhin-color-bg",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blteaa6a265189a4bde-jhin-color-bg.jpg",
+                "encoding": "image/jpeg",
+                "width": 1280,
+                "height": 720,
+                "x": 978,
+                "y": 238,
+                "featured-champions": []
+            },
+            "release-date": "2017-07-30T15:00:00.000Z",
+            "featured-champions": [
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                },
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                }
+            ],
+            "minutes-to-read": 5,
+            "url": "/zh_cn/story/jhin-color-story"
+        },
+        {
+            "slug": "千年之刃",
+            "type": "story-preview",
+            "title": "千年之刃",
+            "subtitle": "作者：Michael McCarthy",
+            "description": "凯隐傲立在诺克斯托拉的影子中，周围横七竖八地躺着士兵的尸体。看着这充满讽刺意味的景象，他脸上露出了微笑。这些凯旋拱门由黝黑的石块搭建，最初的目的是为了炫耀诺克萨斯的力量，向途径门下的人灌输着恐惧，以获得人们的忠诚。然而现在，这座拱门却成了墓碑，标示出虚假的力量和盲目的自大，还象征着这群死去的战士被自己的恐惧所吞噬葬送。<br><br>",
+            "story-slug": "kayn-color-story",
+            "featured-image": {
+                "title": "kayn-sketch",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blte5bc2c0913e7553d-Kayn-sketch.jpg",
+                "encoding": "image/jpeg",
+                "width": 884,
+                "height": 1104,
+                "x": 465,
+                "y": 100,
+                "featured-champions": []
+            },
+            "background": {
+                "title": "kayn-sketch",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blte5bc2c0913e7553d-Kayn-sketch.jpg",
+                "encoding": "image/jpeg",
+                "width": 884,
+                "height": 1104,
+                "x": 465,
+                "y": 100,
+                "featured-champions": []
+            },
+            "release-date": "2017-07-12T15:00:00.000Z",
+            "featured-champions": [
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                }
+            ],
+            "minutes-to-read": 5,
+            "url": "/zh_cn/story/kayn-color-story"
+        },
+        {
+            "slug": "zed-image-gallery",
+            "type": "image-gallery",
+            "section-title": "",
+            "isFanArt": false,
+            "fan-art-url": "",
+            "featured-image": "",
+            "title": "",
+            "subtitle": "",
+            "assets": [
+                {
+                    "title": "劫概念图",
+                    "subtitle": "",
+                    "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/bltbe0f43099553f026-zed_wip.jpg",
+                    "encoding": "image/jpeg",
+                    "width": 1011,
+                    "height": 1080,
+                    "x": 1007,
+                    "y": 0,
+                    "featured-champions": []
+                }
+            ],
+            "featured-champions": [
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                }
+            ]
+        },
+        {
+            "slug": "duo-cinematic",
+            "type": "featured-video",
+            "section-title": "",
+            "featured-image": {
+                "title": "duo-cinematic-cover",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt3865b071477dc79b-duo-cinematic-cover.jpg",
+                "encoding": "image/jpeg",
+                "width": 1275,
+                "height": 544,
+                "x": 716,
+                "y": 432,
+                "featured-champions": []
+            },
+            "title": "霞与洛：万法复苏",
+            "subtitle": "",
+            "description": "复苏艾欧尼亚的狂野魔法并非易事，因为在暗影中潜伏着一个杀气腾腾的敌人。",
+            "uri": "https://v.qq.com/x/cover/3bv0uljb8wd2wru/f0393f75jyc.html",
+            "video": {
+                "type": "video",
+                "title": "",
+                "subtitle": "",
+                "description": [],
+                "uri": "https://v.qq.com/x/cover/3bv0uljb8wd2wru/f0393f75jyc.html",
+                "width": "",
+                "height": "",
+                "x": "",
+                "y": "",
+                "featured-champions": []
+            },
+            "blackout": null,
+            "release-date": "2017-04-13T15:00:00.000Z",
+            "video-type": "cinematic",
+            "featured-champions": [
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                },
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                }
+            ],
+            "related-champions": [
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                },
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                }
+            ]
+        },
+        {
+            "slug": "zed-login",
+            "type": "featured-video",
+            "section-title": "",
+            "featured-image": {
+                "title": "zed-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt78255e660a53aa1d-Zed_0.jpg",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 925,
+                "y": 22,
+                "featured-champions": []
+            },
+            "title": "影流之主劫登录界面",
+            "subtitle": "",
+            "description": "",
+            "uri": "https://v.qq.com/x/page/q0363uwvn9q.html",
+            "video": {
+                "type": "video",
+                "title": "",
+                "subtitle": "",
+                "description": [],
+                "uri": "https://v.qq.com/x/page/q0363uwvn9q.html",
+                "width": "",
+                "height": "",
+                "x": "",
+                "y": "",
+                "featured-champions": []
+            },
+            "blackout": null,
+            "release-date": "2012-11-13T16:00:00.000Z",
+            "video-type": "champ-login-music",
+            "featured-champions": [
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                }
+            ],
+            "related-champions": [
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                }
+            ]
+        }
+    ]
+}

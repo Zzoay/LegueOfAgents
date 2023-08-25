@@ -1,0 +1,1091 @@
+{
+    "id": "jax",
+    "name": "贾克斯",
+    "title": "武器大师",
+    "locale": "zh_cn",
+    "champion": {
+        "type": "champion",
+        "release-date": "2009-02-21T00:00:00.000Z",
+        "name": "贾克斯",
+        "title": "武器大师",
+        "section-title": "贾克斯",
+        "slug": "jax",
+        "associated-faction": "",
+        "associated-faction-slug": "unaffiliated",
+        "image": {
+            "title": "jax-splash",
+            "subtitle": "",
+            "description": "",
+            "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/bltd4fed7a873727d60-Jax_0.jpg",
+            "encoding": "image/jpeg",
+            "width": 1215,
+            "height": 717,
+            "x": 949,
+            "y": 35,
+            "featured-champions": []
+        },
+        "background": {
+            "title": "jax-splash",
+            "subtitle": "",
+            "description": "",
+            "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/bltd4fed7a873727d60-Jax_0.jpg",
+            "encoding": "image/jpeg",
+            "width": 1215,
+            "height": 717,
+            "x": 949,
+            "y": 35,
+            "featured-champions": []
+        },
+        "url": "/zh_cn/champion/jax",
+        "video": null,
+        "races": [],
+        "roles": [
+            {
+                "name": "战士",
+                "slug": "fighter"
+            },
+            {
+                "name": "刺客",
+                "slug": "assassin"
+            }
+        ],
+        "role": [
+            {
+                "name": "战士",
+                "slug": "fighter"
+            },
+            {
+                "name": "刺客",
+                "slug": "assassin"
+            }
+        ],
+        "game-info-url": "https://lol.qq.com/web201310/info-defail.shtml?id=Jax",
+        "biography": {
+            "full": "<p>塞贾克斯·卡尤-雷恩斯·艾卡松生长在艾卡西亚，一块隶属于恕瑞玛帝国的辖地。从他童年开始，他的父亲就开始对他讲述曾经的年代，那时他们的故乡是一个骄傲、独立的国家，后来却被恕瑞玛人碾过，遭受他们的欺压。他对他讲述考阿利的故事，他们是保护艾卡西亚和法师王的英雄。法师王曾奋力抵抗恕瑞玛的征服，但最后他战死沙场，负责护驾的考阿利也都追随他们的王，自裁谢罪。恕瑞玛皇帝将一具具考阿利的腐尸曝露街头，还把法师王本尊钉在城门上，直到骸骨朽烂。</p><p>塞贾克斯的父亲曾见证过这一切暴行，他耳濡目染地将这份炽烈的憎恨传给了儿子，每一个艾卡西亚人心中都燃烧着同样的愤怒。即便如此，塞贾克斯依然专心演习武艺，无论是恕瑞玛的武器大师还是他们自己的氏族长老，他都虚心学习。</p><p>在恕瑞玛统治数百年后，沿海省份萨阿伯拉发生了一场大规模地震。地震的破坏露出了地下深藏着的东西，某种黑暗而强大的东西——或许强大到足以克制恕瑞玛的飞升者天神战士。塞贾克斯被赋予了一项使命，护送那批取得发现的艾卡西亚法师……他们使用火炬法杖，靠着魔法生成的元素火焰才勉强将其收容。塞贾克斯深感不安，他护送法师们来到执政议会，让他们亲口讲述他们所知。</p><p>他们将这种力量称为“虚空”。</p><p>议会立刻就认识到了它的潜能，但塞贾克斯却看到虚空预示着的毁灭。作为一位武器大师，他深知使用武器的危险，尤其是一种他们既不能完全理解、又无法安全驾驭的武器。他回想当初从萨阿伯拉出发的时候，后悔自己没有当场杀掉那些法师。这份后悔将在后面的日子里将愈发深重。</p><p>议会信心满满地认为虚空能够击败他们头上的恕瑞玛领主，他们加冕了一位新法师王。考阿利也重建了，塞贾克斯是第一批加入这一行列的人。他们在早期的交战中取得了胜利，塞贾克斯甚至在战斗中击杀了一个自夸的飞升者，骄傲地看着人们抬着它的尸体在解放的城市——贝伊泽克的街道上游行示众。</p><p>当飞升之团接近艾卡西亚，塞贾克斯和他的同袍兄弟们在前线集结。当两只大军把他们脚下的土地搅成猩红的黏土，艾卡西亚的法师和牧师们判定，释放虚空的时机到了。</p><p>破坏席卷了这片土地，艾卡西亚人、恕瑞玛人、甚至就连那些飞升者，全都瓦解崩坏，不复存在。城墙坍塌，虚空吞噬了千千万万，送往寒冷、寂静的湮灭中。</p><p>顷刻间，艾卡西亚沦陷了。</p><p>塞贾克斯来到虚空被召唤之处留下的巨坑，决定像旧时候的考阿利那样挥剑自裁。但还没等到他结束自己的生命，他在一片狼藉之中看到了一根火炬法杖，他认得这是他在萨阿伯拉见到过的——上面还燃烧着的永恒烈焰能对虚空构成伤害。这把火点亮了塞贾克斯的心。他拿起了法杖，将故乡的废墟抛在身后，悉心照料这“艾卡西亚最后的光”，也守护着它所代表的的希望。</p><p>在悲痛与羞愧之中，塞贾克斯·卡尤-雷恩斯·考阿利·艾卡松遗弃了自己的旧名，从那天起，他只是贾克斯。</p><p>他成为了流浪者，行迹遍及已知世界，还前往地图记录之外的地方。因为持有永恒烈焰，贾克斯的寿命被延长了，甚至超过他们这个长寿族群的预期。然而他离开艾卡西亚越远，火焰就越微弱，最后看上去随时可能永远熄灭。贾克斯冷酷的坚毅让他明白，他不能逃离自己的过去。他需要回归自己的职责，并为之战斗。虽然最后几个存活下来的飞升者阻止了虚空的进犯，但它独一无二的威胁却一直存在。</p><p>随后的数百年间，贾克斯一直在漫游，他是无家可归的战士，寻找着足够强大的人重建考阿利。虽然他曾进行过无数次对战，对手无不具备强大的技巧、勇气和力量，但目前为止却无人能向贾克斯证明自己有能力面对即将到来的黑暗，迎难而上。艾卡西亚的陨落让贾克斯充满疑虑，但有一件事确信无疑：当最终之战到来的时候，贾克斯将迎战虚空。</p><p>即使只有他孤身一人。</p>",
+            "short": "贾克斯是符文之地最伟大的武器大师，也是考阿利的唯一幸存者——他们是一群誓死保卫艾卡西亚的守护者。但当虚空被释放出来对抗恕瑞玛帝国的飞升之团，艾卡西亚遭到了摧毁，让贾克斯失去了故乡和前进的目标。他回收了“艾卡西亚最后的光”，作为他有朝一日击败虚空的希望象征，如今他遍及全世界，寻找足够强大的战士，与他共同对抗即将到来的黑暗。",
+            "quote": "“力量与意志能造就武器。”",
+            "quote-author": "贾克斯"
+        },
+        "headerImage": null
+    },
+    "related-champions": [
+        {
+            "type": "champion",
+            "release-date": "2013-06-13T19:43:26.000Z",
+            "name": "亚托克斯",
+            "title": "暗裔剑魔",
+            "section-title": "亚托克斯",
+            "slug": "aatrox",
+            "associated-faction": "",
+            "associated-faction-slug": "unaffiliated",
+            "image": {
+                "title": "aatrox-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blta877c35110144de9-aatrox-splash.jpg",
+                "encoding": "image/jpeg",
+                "width": 1920,
+                "height": 1080,
+                "x": 1351,
+                "y": 346,
+                "featured-champions": []
+            },
+            "background": {
+                "title": "aatrox-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blta877c35110144de9-aatrox-splash.jpg",
+                "encoding": "image/jpeg",
+                "width": 1920,
+                "height": 1080,
+                "x": 1351,
+                "y": 346,
+                "featured-champions": []
+            },
+            "url": "/zh_cn/champion/aatrox",
+            "video": {
+                "title": "aatrox-splashvideo-webm",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt70c132451a5e61fc-aatrox-splashvideo.webm",
+                "encoding": "video/webm",
+                "width": 1920,
+                "height": 1071,
+                "x": 1351,
+                "y": 346,
+                "featured-champions": []
+            },
+            "races": [
+                {
+                    "name": "暗裔",
+                    "slug": "darkin"
+                }
+            ],
+            "roles": [
+                {
+                    "name": "战士",
+                    "slug": "fighter"
+                },
+                {
+                    "name": "坦克",
+                    "slug": "tank"
+                }
+            ],
+            "role": [
+                {
+                    "name": "战士",
+                    "slug": "fighter"
+                },
+                {
+                    "name": "坦克",
+                    "slug": "tank"
+                }
+            ],
+            "game-info-url": "https://lol.qq.com/web201310/info-defail.shtml?id=Aatrox",
+            "biography": {
+                "full": "<p>许多传说都曾提到过暗裔魔剑，有的描述他是天神，也有的说他是恶魔。但很少有人知道他的真名，以及他是如何败落的。</p><p>上古时代，远在黄沙吞噬帝国之前，一位伟大的恕瑞玛英雄被带到了太阳圆盘面前，成为一个如今无人记得的星间信念的化身。当他被重塑为飞升者之后，他的双翼彷如黎明时分的金光，盔甲闪亮，如同深空巨帷背后引人遥望的星座。</p><p>亚托克斯就是他的真名。他在每一场高贵的战斗中都冲锋在前。他真诚待人、领兵有方，其他天神战士总是聚在他的麾下，身后则跟随着一万名恕瑞玛的凡人士兵。当飞升武后瑟塔卡因为艾卡西亚的叛乱而寻求他的帮助时，亚托克斯毫不犹豫地应允了。</p><p>但是，没人能预料到当地的叛军后来竟然释放出了如此恐怖的力量。虚空转瞬间反客为主，吞噬了艾卡西亚，之后便开始毁灭一切所遭遇的生灵。</p><p>经过多年苦战，亚托克斯和他的同胞终于遏制住了虚空狂乱的扩张，并将最大的裂口烧熔封铸了起来。但是，活下来的飞升者——他们自称为太阳血脉，却被他们的敌人永远地改变了。虽然恕瑞玛得胜了，但他们全都失去了一些东西……高贵的亚托克斯也不例外。</p><p>时光流逝，恕瑞玛也陨落了。正如所有帝国的命运。</p><p>没有了誓死守卫的王权，虚空的威胁也不再迫切，亚托克斯和太阳血脉开始互相争斗，最终演变成了一场战争，毁灭了他们的世界。侥幸逃脱的凡人给了他们一个新的名字，也是一个蔑称：暗裔。</p><p>正如虚空的侵袭一样，因为担忧堕落的飞升者们也会危及符文之地的生存，巨神族便出手干涉了。据说，暮光星灵传授给了凡人禁锢暗裔的手段，而新近重生的战争星灵联合起了大军对抗他们。亚托克斯和他的军队何曾畏惧，早已蓄势待发。但是，等到他发觉自己中计的时候已经太晚了。一股比上千颗死去的恒星更强大的引力将他拖入了他手中随他出征无数次的巨剑，把他不朽的精魂永远地锁闭在内。</p><p>这把武器是一座监狱，将他的意识封禁在密不透风的永恒黑暗里，甚至剥夺了他自我了断的能力。他与这地狱般的桎梏拉扯了数百年，直到某个愚蠢透顶的无名氏再次抓起这把巨剑。亚托克斯把握住机会，强行将意志注入到宿主体内，并模仿自己原本的形象重塑了宿主的躯体，同时也夺去了宿主的生命。此后数年间，亚托克斯侵占了许多宿主——无论男女，只要是生机勃勃，或是刚毅非凡。虽然他所掌握的魔法不算精深，但他却能在转瞬间便夺取凡人的身体。而且在战斗中，他发觉死去的人也能为他所用，把自己变得更加健硕强壮。</p><p>亚托克斯在大地上巡游，不停地竭力寻找能够让他重回飞升之身的办法，但这把剑身上的谜团最终也无法解开，并且他也意识到自己永远也不能获得自由。强夺而来并残忍重塑的血肉愈发地像是一种嘲弄，嘲弄着他曾经的荣光——而那也不过是另一个比巨剑稍微大一些的牢笼罢了。绝望与羞愧在他心中滋长。他曾经所代表的神力，和他所有的记忆统统都被抹去了。</p><p>不公的命运令他出离地愤怒了。而他最终想到的办法，完全是一个囚犯刻骨的绝望。如果他不能摧毁这把剑，也不能解脱自己，那他就拥抱湮灭好了。</p><p>现在，亚托克斯怀抱着这无情的决心，沿途散布战争和死亡。他心中只剩下一个盲目的期望：如果他可以把一切造物都拖进一场最终的末日之战——一切都会因此毁灭——那么也许他和这把剑也会永远地不复存在。</p>",
+                "short": "<p>亚托克斯曾是恕瑞玛抗击虚空时的伟大战士。但是，他和他的同胞却有可能变成符文之地更大的威胁。最终，他们败给了凡人的狡诈巫术，自身的精魂被锁在了武器之内。数百年的监禁之后，亚托克斯头一个挣脱出来，腐蚀并转化那些胆敢染指的蠢人。现在，他将夺来的血肉模仿着自己曾经的形象粗暴地重塑，渴望着迟来许久的末世复仇。</p>",
+                "quote": "“我必须连同希望一起毁坏……”",
+                "quote-author": "亚托克斯"
+            },
+            "headerImage": null
+        },
+        {
+            "type": "champion",
+            "release-date": "2012-02-29T00:00:00.000Z",
+            "name": "菲奥娜",
+            "title": "无双剑姬",
+            "section-title": "菲奥娜",
+            "slug": "fiora",
+            "associated-faction": "",
+            "associated-faction-slug": "demacia",
+            "image": {
+                "title": "fiora-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt3431e69df04282e5-Fiora_0.jpg",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 864,
+                "y": 0,
+                "featured-champions": []
+            },
+            "background": {
+                "title": "fiora-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt3431e69df04282e5-Fiora_0.jpg",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 864,
+                "y": 0,
+                "featured-champions": []
+            },
+            "url": "/zh_cn/champion/fiora",
+            "video": null,
+            "races": [],
+            "roles": [
+                {
+                    "name": "战士",
+                    "slug": "fighter"
+                },
+                {
+                    "name": "刺客",
+                    "slug": "assassin"
+                }
+            ],
+            "role": [
+                {
+                    "name": "战士",
+                    "slug": "fighter"
+                },
+                {
+                    "name": "刺客",
+                    "slug": "assassin"
+                }
+            ],
+            "game-info-url": "https://lol.qq.com/web201310/info-defail.shtml?id=Fiora",
+            "biography": {
+                "full": "<p>作为德玛西亚贵族劳伦特家的小女儿，菲奥娜命中注定会成为一枚政治棋子，在合纵连横的游戏中成为政治联姻的工具。她并不接受，于是从很小的时候，她就开始逆反强加于自己身上的每一种期望。她的母亲找来德玛西亚最优秀的精工巧匠，为她制造了栩栩如生的洋娃娃。菲奥娜却把洋娃娃送给了自己的侍女，转身拿起了长兄的佩剑，还胁迫他偷偷地传授她剑术。菲奥娜的父亲则聘请了许多心灵手巧的裁缝，为她量身定做了霓裳华服。菲奥娜把它们当作练习突刺和格挡的对象。</p><p>虽然她在无声的抗争中长大，但在她过完十八岁生日以后，最终还是被安排了一桩对家族有利的婚事，对方是冕卫家族的旁系血亲。婚期定在了夏季。典礼在雄都内举办，国王嘉文三世将大驾莅临。</p><p>婚礼当天，就在宾客们陆续入场的同时，菲奥娜站出来当众宣布，她宁愿受死也不愿让别人决定自己的生命历程。这突如其来的变卦让她的未婚夫当众蒙羞，他的家族提出要用古典的方式息事宁人——进行一场死亡决斗。</p><p>菲奥娜爽快地同意了，但她的父亲塞巴斯蒂安却请求国王出面干涉。嘉文曾在豪门贵族之间调解过许多类似的纷争，但这一次，他也束手无策。因为菲奥娜已经接受了。</p><p>只剩下一个选择。塞巴斯蒂安行使了他的权力，代表女儿出战。</p><p>大元帅缇亚娜•冕卫也相应地指名了一位决斗代表，代替她的家人出战，她选择的是一名无畏先锋团里的资深战士。塞巴斯蒂安几乎必败无疑。劳伦特家族将就此没落，菲奥娜也将受到耻辱的放逐。面对如此艰难的境况，菲奥娜的父亲做出了一个将让家族蒙羞数年的决定……</p><p>决斗的前一夜，他企图向对手下毒，钝化感觉、减慢反应——但他被当场抓获，立刻被缉拿逮捕。</p><p>法律面前，黑白分明。塞巴斯蒂安•劳伦特违背了最基本的荣誉守则。他将在绞刑架上遭到众人羞辱唾骂，然后与普通罪犯一样被绞死。在他受刑前夜，菲奥娜进入他的牢房探望，但他们之间究竟说了些什么，只有菲奥娜自己知道。</p><p>翌日，菲奥娜当众来到国王的演讲台前。她跪在国王面前，呈上她的佩剑——在国王的祝福和允许下，她将从父亲手中接过劳伦特家族之名，并执行正义的裁决。那场决斗犹如闪电般迅猛，剑刃交错好似舞姿翩然，在场的每个人都不会忘记当时的情景。菲奥娜的父亲绝非浪得虚名，而菲奥娜也不愧为将门之后。二人之间每一次交锋都是在和对方默道永别，最后，菲奥娜含着泪水将佩剑深深埋入父亲的心脏。</p><p>嘉文国王悲痛地宣判，塞巴斯蒂安已经为自己的罪行付出了应有的代价。菲奥娜将成为他的继承人。两个家族之间的不和也已解决，一切都到此为止。</p><p>虽然如此，这么大的丑闻可不会被人们轻易遗忘。菲奥娜在宫廷中用她惯常的坦荡与直白恪尽职守，但却发现谣言与传闻不绝于耳。她篡夺了兄长们的继承权，成为家主。如果她不愿成婚，这个狂妄的孩子肯定还会在德玛西亚雄都里掀起更多流血斗争。</p><p>菲奥娜并没有用她的剑刃执行更多正义裁决，而是向整个家族敞开大门——远房亲戚中的同辈兄弟姐妹，他们之中有许多颇有名望的剑术大师。此外她还为家门之下的所有人都授予贵族身份，批评她的声音也随之消失。他们团结一心，致力于追求王国内最精湛的剑术。击剑决斗是一项古老的艺术，但并不<i>一定</i>要以死定胜负。</p><p>如果任何人不同意这个见解，菲奥娜将非常乐意在实战中试探他们赴死的决心。</p>",
+                "short": "菲奥娜是全瓦洛兰最可怕的决斗家。她以雷厉风行、巧腕明政闻名于世，同样著名的还有她舞弄自己佩剑的极速。菲奥娜出生在德玛西亚的劳伦特家族，在一场险些令家族灭亡的丑闻风波过后，她从父亲的手中接管了家业。如今她致力于重振家族荣耀，让劳伦特这个名字重回德玛西亚名望贵族之列。",
+                "quote": "“我取你性命皆因荣誉之故。虽你并无荣誉可言，依然理当受死。”",
+                "quote-author": "菲奥娜"
+            },
+            "headerImage": null
+        },
+        {
+            "type": "champion",
+            "release-date": "2009-08-07T00:00:00.000Z",
+            "name": "卡萨丁",
+            "title": "虚空行者",
+            "section-title": "卡萨丁",
+            "slug": "kassadin",
+            "associated-faction": "",
+            "associated-faction-slug": "void",
+            "image": {
+                "title": "kassadin-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/bltd1b80f3e64d47c14-Kassadin_0.jpg",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 973,
+                "y": 108,
+                "featured-champions": []
+            },
+            "background": {
+                "title": "kassadin-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/bltd1b80f3e64d47c14-Kassadin_0.jpg",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 973,
+                "y": 108,
+                "featured-champions": []
+            },
+            "url": "/zh_cn/champion/kassadin",
+            "video": null,
+            "races": [],
+            "roles": [
+                {
+                    "name": "刺客",
+                    "slug": "assassin"
+                },
+                {
+                    "name": "法师",
+                    "slug": "mage"
+                }
+            ],
+            "role": [
+                {
+                    "name": "刺客",
+                    "slug": "assassin"
+                },
+                {
+                    "name": "法师",
+                    "slug": "mage"
+                }
+            ],
+            "game-info-url": "https://lol.qq.com/web201310/info-defail.shtml?id=Kassadin",
+            "biography": {
+                "full": "<p>卡萨丁最初只是个低贱的弃婴，在大塞的沙漠上受雇于商队，保护他们贵重的货物，充当诱饵将掠食者引开。他曾多次侥幸活着穿越沙漠，于是不再是单纯的诱饵，而逐渐成为了商队的向导。<br><br>每当有说外语的人要寻求他的协助，都会说“卡斯-塞-阿-迪恩？”意思是“沙漠认得谁？”但是他们的恕瑞玛语总是含混不清，于是他就被亲切地唤为卡萨丁，成为卑尔居恩小巷和市场上的招牌。他花费了数年时间探索自己故土的古代废墟，让他的雇主们赚得盆满钵满，但直到他参与了泽瑞玛附近的一次挖掘工作，才找到了属于他自己的至宝——他爱上了一个来自沙漠部族的女人。<br><br>卡萨丁带着自己的妻子和襁褓之中的女儿，在南方一个岩石山谷中的小村子里安家落户。他经常在外奔波，经常需要将非常贵重的古代遗物押送给远方的资助者。然而，无论他旅行到什么地方，卡萨丁总能带着故事归来，讲述世界另一头的精彩见闻。<br><br>在一次从皮尔特沃夫回家的路上，卡萨丁和商队的同伴正在一处绿洲饮牲口。一批惊魂未定的幸存者踉踉跄跄走出沙漠，说家园受了大灾，就像是地下世界张开大口，吞噬了一切。他们勉强活着逃了出来。<br><br>担心妻小安危的卡萨丁甩下了其他人，日夜兼程，几乎把坐骑累到脱力。当他终于回到村子曾经所在的地点时，找到的只有流沙和碎石。他在废墟上挖到双手流血，不停嘶嚎着妻子和女儿的名字，但没有任何回应。几天后，卡萨丁的同伴们赶上了他，这时的他已彻底崩溃，精神恍惚、眼神空洞地在烈日下流泪。<br><br>他们把他拖回了泽瑞玛，但卡萨丁不愿再走了。随后的几年中，他曾借酒消愁，成为无家可归的流浪汉……直到镇子上开始出现“先知”的传闻。<br><br>莫可名状的恐怖藏在地下深处，以它们的名义献上的祭品，种种传闻让卡萨丁感到刺骨的恐惧。他非常了解古艾卡西亚的传说，也知道那个诅咒之地所遭遇的命运——如果虚空被人别有用心地再次引向恕瑞玛，那么很有可能就是它吞噬了他的村子，以及无数其他村庄。他也知道，世上只有很少人，甚至没有人，能够对抗虚空。<br><br>那一刻，卡萨丁发誓要为自己的妻子和女儿复仇，他要消灭这个为虎作伥的“先知”，同时一举消灭他黑暗力量的来源。他赖以谋生的本事，就是在凶险之地找到安全的道路，所以决心将自己全副武装起来。他找到瓦洛兰已知最玄奥的尖兵利器，融入祖安的独创设计，再配以艾欧尼亚疗魂者的祝福。他动用了一切人情关系，从考古学者到鸡鸣狗盗之徒，在他们的帮助下……得到，他想要的东西。许多人都说他疯了，认为这将是最后一次看到这位老朋友活着的样子——但卡萨丁只是感谢他们的关心，与他们道了珍重。他将独自面对虚空。<br><br>最后，他偷到了霍洛克的冥界之刃，这把剑曾在一个帝国的末期诛杀过上千的诡术欺诈者。他能够感到刀锋上浸着湮灭的寒意，但他早已将自己的生死置之度外，而且这样的生活早就没有什么可以失去的了。<br><br>他身着长袍，打扮成朝圣者，已有十多年未曾涉足这片荒废的土地。卡萨丁进入了艾卡西亚，他将前往人类的禁地。<br><br>他一定会报仇雪恨，即使付出生命也在所不惜。</p>",
+                "short": "在世界上最黑暗的地方，卡萨丁切出了一道燃烧的裂口，他知道自己已经时日无多。他曾是恕瑞玛地区的向导和冒险家，后来选择在恕瑞玛南方平静的部落中安家落户——直到那一天，他的村庄被虚空吞噬。卡萨丁发誓要报仇雪恨，于是整合了许多秘法器物和禁忌之术，以便应对前方的险阻。最后，卡萨丁动身前往艾卡西亚的废土，准备面对任何虚空的造物，寻找那位自封的先知，玛尔扎哈。",
+                "quote": "“鲜少有人能够跋涉于不同的世界之间。”",
+                "quote-author": "卡萨丁"
+            },
+            "headerImage": null
+        },
+        {
+            "type": "champion",
+            "release-date": "2009-04-18T00:00:00.000Z",
+            "name": "基兰",
+            "title": "时光守护者",
+            "section-title": "基兰",
+            "slug": "zilean",
+            "associated-faction": "",
+            "associated-faction-slug": "unaffiliated",
+            "image": {
+                "title": "zilean-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt5b40ae5b314cde59-Zilean_0.jpg",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 746,
+                "y": 7,
+                "featured-champions": []
+            },
+            "background": {
+                "title": "zilean-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt5b40ae5b314cde59-Zilean_0.jpg",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 746,
+                "y": 7,
+                "featured-champions": []
+            },
+            "url": "/zh_cn/champion/zilean",
+            "video": null,
+            "races": [],
+            "roles": [
+                {
+                    "name": "辅助",
+                    "slug": "support"
+                },
+                {
+                    "name": "法师",
+                    "slug": "mage"
+                }
+            ],
+            "role": [
+                {
+                    "name": "辅助",
+                    "slug": "support"
+                },
+                {
+                    "name": "法师",
+                    "slug": "mage"
+                }
+            ],
+            "game-info-url": "https://lol.qq.com/web201310/info-defail.shtml?id=Zilean",
+            "biography": {
+                "full": "<p>艾卡西亚，一片最荒芜、最邪祟的土地，曾经并非这个样子。这里曾有一个丰富多样的文明，由最后一任古法师王——仁君明主阿克扎姆统治。随着恕瑞玛帝国的疆土在这片大陆上不断扩张，他们对阿克扎姆和平共存的呼声置若罔闻，于是艾卡西亚的军队被飞升者大军的天神战士击溃。</p><p>虽然这场溃败让艾卡西亚人心服口服，但也有许多人看到了共同发展的机遇。他们接受了提案，将艾卡西亚变为恕瑞玛下属的自治辖区，并设立了一个统辖议会，由杰出的法师、哲人、立法者共同监管这次权力更迭。</p><p>经过近乎九百年的帝国统治，一个名叫基兰的年轻人加入了议会的行列。他是一名元素法师，对物理事实有着超乎常人的深刻理解，也在当时最伟大的思想指导下进行过研习——从以绪塔尔的伟大育恩，到法拉杰的御星法师，还有数不清的宗师巨匠。</p><p>在物质领域中，有一个要素几乎无人能够真正理解，而基兰则决定要去掌控它。</p><p><i>时间。</i></p><p>时间是万物皆无可逃避的一个恒定常量。即使是雄伟的天神战士也无法免除时间流逝带来的损耗……即便他们在恕瑞玛的文化中地位至尊无上。</p><p>成为执政阶层的一员以后，基兰才更加清楚艾卡西亚市民被压抑的愤怒和不满。虽然这片土地为帝国孕育出了许多英勇的领袖和革命性的思想家，但其中没有任何一人被认可拥有飞升的资格。议会一次又一次地向远在都城的皇帝上书请愿，然而对太阳圆盘的期许却一再被否决，没有任何理由。艾卡西亚付出了那么多，但却似乎永远都不会得到同等对待。</p><p>基兰自己的抵触情绪也在增长，但更让他担心的是，他的同僚之中有许多公开讨论重新独立的声音。他是彻头彻尾的爱国义士，但面对飞升者大军，任何反叛都只会导致人民的苦难。为了寻求外交的出路，他作为使节前往临近的卡里克、卡尔杜加和以绪塔尔。他一生中结交了许多盟友，他恳请他们与艾卡西亚站在一起。</p><p>但每次得到的答复都一样。他们不会公然对抗恕瑞玛。如果基兰的人民一意孤行，就只能孤军作战。</p><p>回到家的基兰惊讶地发现，议会已经决定为新一任法师王加冕。他们欣喜若狂地告诉基兰他们发现的远古禁忌之力——一份足以确保艾卡西亚胜利的强大力量。</p><p>他们向基兰说起了虚空的力量。</p><p>他看着那些理智、博学的艾卡西亚人，但在他们的眼中只看得到疯狂。基兰悲痛欲绝，他宁愿祖国的革命遭到镇压，也不愿把这邪恶的化身释放到世界上。</p><p>基兰最大的担心成了真。虚空刚被释放到战场上，立刻就吞没了试图控制它的法师们，然后艾卡西亚毁灭了。</p><p>他想要逃离都城，但一时间大地震颤，墙倒楼塌。这般恐怖之物根本不该出现在这个或那个世界上，它从地下深处迸发而出，驱赶着前方惊恐的人群。</p><p>他们被困住了。数十万无辜的人都将死去。在绝望中，基兰尽可能让更多的人躲进他的塔楼避难，然后他做到了不可能之事。</p><p>他将整座建筑从时间中移除了。</p><p>双腿瘫软、力量透支，基兰瘫坐在冰冷的地板上，看着周围一动不动的身影。虚空被停住了，但仅限于这道墙以内——在外面，艾卡西亚曾屹立的土地，已空无一物。</p><p>基兰花费了数十年，试图去理解时间和因果律的奥秘，看起来只有他一人能自由地在这个异常区内自由进行前后移动，而他也不知如何创造了这个异常区。这些人的确是被救下来了。但他就是无法弄清如何进行逆向处理，无法让他们真正活起来。他通过深度冥想和自创的复杂工具，开始卜算过去与现在连接到此刻的丝缕，逐步学会如何跟随这些丝缕一同前进或后退，不断寻找一个他已获得成功的未来……</p><p>他就是这样发现了真正的威胁：<i>一切</i>的终结。等待符文之地的大灭绝结局。</p><p>从效果上看，基兰现在已经存在于任何地点，而且无时无刻不在。即便如此，他实在是太清楚改变这个世界并催生其他预期之外的命运会带来怎样的后果——通常是自相矛盾，而且总是会更危险的命运。或许如果他能找到一种方式拯救自己的人民，那么这场巨大的灾难也就能迎刃而解了。</p><p>唯一的问题是，他在此过程中愿意做出什么牺牲？</p>",
+                "short": "作为艾卡西亚统辖议会的成员之一，基兰是一位天赋异禀的元素法师，追寻时间本质的奥秘。他曾发动力量挽救他的人民于虚空侵袭，如今的他在过去、现在、和未来之间漂泊，弯折、扭曲自己周围的时间。基兰曾踏遍时间长河，从符文之地的神秘诞生，一直到它看似不可避免的结局，寻找着任何丝缕的命运，让他有可能挽回家园的毁灭。",
+                "quote": "“人生最苦之事莫过于明知要失去，但是却还没发生。”",
+                "quote-author": "基兰"
+            },
+            "headerImage": null
+        }
+    ],
+    "explore-champions": [
+        {
+            "type": "champion",
+            "release-date": "2019-10-20T00:00:00.000Z",
+            "name": "赛娜",
+            "title": "涤魂圣枪",
+            "section-title": "赛娜",
+            "slug": "senna",
+            "associated-faction": "",
+            "associated-faction-slug": "unaffiliated",
+            "image": {
+                "title": "senna-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt911548d6d3a5750a-senna-splash.jpg",
+                "encoding": "image/jpeg",
+                "width": 1900,
+                "height": 1121,
+                "x": 1106,
+                "y": 127,
+                "featured-champions": []
+            },
+            "background": {
+                "title": "senna-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt911548d6d3a5750a-senna-splash.jpg",
+                "encoding": "image/jpeg",
+                "width": 1900,
+                "height": 1121,
+                "x": 1106,
+                "y": 127,
+                "featured-champions": []
+            },
+            "url": "/zh_cn/champion/senna",
+            "video": null,
+            "races": [],
+            "roles": [
+                {
+                    "name": "辅助",
+                    "slug": "support"
+                },
+                {
+                    "name": "射手",
+                    "slug": "marksman"
+                }
+            ],
+            "role": [
+                {
+                    "name": "辅助",
+                    "slug": "support"
+                },
+                {
+                    "name": "射手",
+                    "slug": "marksman"
+                }
+            ],
+            "game-info-url": "",
+            "biography": {
+                "full": "<p>赛娜的光明哨兵之路是从黑暗开始的。一切要从黑雾说起……</p><p>赛娜在很小的时候就首次遭遇了黑雾。当远处的蚀魂夜造成的船只残骸飘到她故乡的海滩，残骸中的黑雾便在生命的接触下觉醒。她和她的村庄在随后的灵魂风暴中幸存了下来，全靠当时身在附近的一位哨兵……然而在袭击过后，黑雾就不知为何始终追随着赛娜。</p><p>她受到了诅咒，黑雾留下的印记让那恐怖之物无休无止地追赶她，黑暗就像将死的飞蛾扑向生命之火一样向她靠近。她永远都不知道下一次袭击是什么时候——最可怕的是等待袭击的时候，她无时无刻不在担心每个角落的阴影。</p><p>那个拯救了赛娜的哨兵名叫乌利亚斯，是一个坏脾气的老兵，他也不理解为什么黑雾会被一个女孩所吸引。但他知道，如果她想活下去，就必须学会反抗。于是，赛娜加入了乌利亚斯所在的光明哨兵组织。这个神圣的教团的源头可以追溯到曾经的福光岛，也就是黑雾发源的地方。她掌握了乌利亚斯给她的圣石手枪，学会了如何将自己的灵魂通入圣光，用实际结果证明了自己是黑暗的劲敌。</p><p>虽然与乌利亚斯同行让赛娜感到安心。有赖于他的粗暴指导，让她学会与人保持一把枪的射程距离。如果她让别人靠得太近，他们就会在黑雾来临的时候受到伤害。赛娜永远都不能在一个地方停留太久，她和乌利亚斯发现，凡是收留过他们的人总是无法避免地遭到围攻。最后甚至连乌利亚斯也惨遭杀害，导致赛娜觉得自己可能再也无法让任何人靠近自己。</p><p>带着沉重的负担，赛娜出发寻找乌利亚斯在德玛西亚的家人，传达他的讣讯。在那里，她见到了他的儿子，卢锡安。他不依不饶地央求赛娜带他一起进行乌利亚斯的守灵仪式。从见面的第一刻起，她就发现自己很是局促，她不知道自己的心墙能否挡住这样一个顽固，却又满含幽默和爱心的人。随着时间流逝，情况也愈发明朗，卢锡安注定是哨兵的一员，也注定成为赛娜的搭档。</p><p>他们共同效力的时间越长，二人之间的纽带也就越深，赛娜意识到心墙的价值并不在于将谁阻隔在外，而是在于让谁迎进怀中。随着卢锡安对赛娜的爱与日俱增，他要解除她诅咒的愿望也越来越强烈。不久，这个愿望就成了他唯一的目标，眼中的光芒与手枪交相辉映。赛娜开始担心，卢锡安眼中曾经的爱，可能只剩下了忧伤。</p><p>在搜寻解法的时候，赛娜和卢锡安遭遇了施虐成性的怨灵锤石。可他们距离揭开破败之咒的秘密只有一步之遥，同时也能解答赛娜诅咒的根源，卢锡安拒绝回头……</p><p>锤石抛出锁链，而赛娜挡在了那个怨灵和自己丈夫之间。比镰刃更痛的，是看到卢锡安脸上的痛苦。她用最后一口气，尖叫着恳求卢锡安逃跑。</p><p>但就在赛娜感受到死亡一击、知道自己已经溃败的时候，她也意识到尚有一抹希望的闪光。她一生都受到黑雾的侵扰，而此刻她将不再害怕——她可以乘着黑雾进入锤石的灯笼，看看里面究竟有什么。</p><p>她的诅咒成为她寻求救赎的唯一机会。</p><p>随后的多年间，卢锡安一直在设法让自己的爱人获得安息，而赛娜则探索着自己的幽魂监牢。她了解到，自己身上诅咒的源泉是生命。她体内的生命火花比任何人都更明亮——正是那次蚀魂夜后漂来的船骸，让她染上了这种力量。在那个时候，一个强大的不散灵魂触碰了她，交出了它非自然的生命……</p><p>是<i>生命</i>让黑雾挥之不去。</p><p>她可以利用这种力量，把黑雾抽进自己体内，切断它对灯笼中其他灵魂的掌控。在她解放的那些灵魂里，有曾经的哨兵，掌握着早已失传的知识，包括破败之咒的起源，她诅咒的来源……是爱，创造了这诅咒。</p><p>当卢锡安将破损的手枪穿入灯笼，想要结束其中灵魂的折磨时，赛娜一直等待的时机到来了。她逃了出去，身边裹挟着她从其他灵魂中抽取的黑雾。她死了，但同时也<i>活着</i>，因为她的诅咒而活。她手中的圣石火炮，是从殒命的哨兵留下的武器铸造而成，可以介导黑暗和光明的双重力量。</p><p>如今赛娜已不再逃避黑雾，她能够理解黑雾中的灵魂正在遭受痛苦。她忍着痛苦，将它们的黑雾抽进她自己体内，让它们获得自由，同时用黑暗击溃黑暗。她可以拥抱死亡，化身成为怨灵，成为敌人的同类，还能使用体内沾染的生命之力，重获新生。</p><p>虽然赛娜和卢锡安的爱超越了死亡，但如今他们需要面对她死而复生所带来的的后果。赛娜知道他们接下来必须要做的事，那是她在灯笼里得知的秘密。</p><p>找到破败之王，不惜代价阻止他……</p>",
+                "short": "<p>在孩童时期就受到诅咒的赛娜，注定被超自然的黑雾不断侵扰，于是她加入了一个名叫“光明哨兵”的神圣教团，进行勇猛的反击。但最后她却在战斗中殒命，灵魂被囚禁在残酷怨灵锤石的灯笼中。拒绝失去希望的赛娜，在灯笼中学会了如何使用黑雾，并重获新生，接受了永久的改变。如今的赛娜同时使用黑暗和光明的力量，要用黑雾自己的力量终结黑雾——每一次圣物武器的炮火，都救赎着雾中的迷魂。</p>",
+                "quote": "“暗影与光明相拥，而我将一并纳入怀中……”",
+                "quote-author": "赛娜"
+            },
+            "headerImage": null
+        },
+        {
+            "type": "champion",
+            "release-date": "2009-02-21T00:00:00.000Z",
+            "name": "赛恩",
+            "title": "亡灵战神",
+            "section-title": "赛恩",
+            "slug": "sion",
+            "associated-faction": "",
+            "associated-faction-slug": "noxus",
+            "image": {
+                "title": "sion-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/bltfadf063f94aef735-Sion_0.jpg",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 944,
+                "y": 4,
+                "featured-champions": []
+            },
+            "background": {
+                "title": "sion-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/bltfadf063f94aef735-Sion_0.jpg",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 944,
+                "y": 4,
+                "featured-champions": []
+            },
+            "url": "/zh_cn/champion/sion",
+            "video": {
+                "title": "sion-splashvideo-webm",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt5bde83a844c81965-sion-splashvideo.webm",
+                "encoding": "video/webm",
+                "width": 1280,
+                "height": 720,
+                "x": 944,
+                "y": 4,
+                "featured-champions": []
+            },
+            "races": [],
+            "roles": [
+                {
+                    "name": "坦克",
+                    "slug": "tank"
+                },
+                {
+                    "name": "战士",
+                    "slug": "fighter"
+                }
+            ],
+            "role": [
+                {
+                    "name": "坦克",
+                    "slug": "tank"
+                },
+                {
+                    "name": "战士",
+                    "slug": "fighter"
+                }
+            ],
+            "game-info-url": "https://lol.qq.com/web201310/info-defail.shtml?id=Sion",
+            "biography": {
+                "full": "<p>一百多年前，残酷的军阀赛恩叱咤风云，屠杀了所有胆敢挡在他前面的人。无论是朋友还是敌人都对他同样畏惧，他是高傲的尚武文化的最后一位代表人物，而这种文化自从诺克萨斯创立之初就一直传承。赛恩曾对先祖发誓，绝不在战场上后退半步，而且当死期来临时将光荣战死。</p><p>赛恩虽然没有过什么精巧的计策，但他的战斗方式却粗暴且高效，为诺克萨斯赢得了许多狠毒的胜利。帝国的武力达到了几百年来从未见过的顶峰，但诺克萨斯最高指挥部的将军们却收到一份意外的战报，西边的一个国家做出了反抗，随后甚至还将他们稳步的扩张反推回来。这些<i>德玛西亚人</i>把一个个诺克萨斯战团向东方逼退，退到了瓦尔迪斯城墙的后面。当时正在烁银山脉征战的赛恩，目光转向南方，怒火中烧。</p><p>他到达那座城市以后发现德玛西亚人已经远在地平线尽头。他们并没打算围攻瓦尔迪斯——因为他们已经将诺克萨斯人从自己的土地周围驱逐，所以正在准备回家。赛恩给自己的部队整备，决心狠狠教训一下这些突然出现的狂妄之徒。不过，瓦尔迪斯驻地的诺克萨斯指挥官已经吃了好几场败仗，他倒是很乐意躲在城墙后面，放他们毫发无伤地回去。</p><p>曾经由赛恩和他手下的战士们赢来的这片土地，如今却丢失在鲜血中。他勃然大怒，把那名指挥官从城墙上扔了下去，然后下令进攻。</p><p>赛恩长驱直入，冲破德玛西亚人的阵线，寻找他们的领袖——国王嘉文一世。虽然他自己的战团和他并驾齐驱，不惧死亡，但是那些原本躲在瓦尔迪斯城中的士兵全都软弱无能。他们丧失斗志，退回了城中，让赛恩和他少数亲信深陷敌阵。他们一个接一个倒下了，但赛恩依然杀出一条血路。</p><p>他孤军奋战，身中十多剑，还插着二十多根弩箭，最后终于杀到嘉文面前。那场战斗血腥至极，最后是那位德玛西亚国王完成了致命一击。战斧从赛恩手中掉落，他鼓起濒死的最后一股力量，一只手扯下了国王头上的王冠，另一只手掐住了他的喉咙。嘉文的卫兵们用手中的兵器胡乱地捅，但他的手丝毫没有放松。</p><p>直到敌军的国王断了气，赛恩才让死亡把自己带走。</p><p>他的尸体被找了回来——一只手上依然攥着德玛西亚国王的王冠——并被送回了不朽堡垒进行国葬。诺克萨斯为赛恩哀悼，他的尸体被葬在一尊高耸的纪念碑下，作为他永远的象征。</p><p>五十年过去了，赛恩的坟墓被再次打开。</p><p>赛恩死后的这些年里，诺克萨斯的统治力日渐衰弱，当权的帝国大统领，勃郎•达克威尔愿意不惜代价光复帝国失去的荣耀。达克威尔的幕僚，一个被称为“黑色玫瑰”的神秘结社使用禁术魔法，复活了这位逝去已久的英雄，把他献给了大统领。</p><p>他无法拒绝这份礼物，于是赛恩又活了过来，非自然的嗜血驱使着他，让他对疼痛浑然不觉。</p><p>他像一台有生命的破城槌，冲破面前一切诺克萨斯的敌人。赛恩带来的胜利代价不菲，甚至比他生前更为其甚。他无法被控制，无论敌军还是友军都毫不留情地击杀，于是那些被迫站在他身边战斗的士兵开始不战而逃。最后，达克威尔下令将赛恩重新下葬。</p><p>上百名战士为了将他束缚而付出生命，最后他终于被铁链捆住，拖回了不朽堡垒。没有了屠戮，支撑他的血魔法很快淹没了他的心智，只留下吞噬一切的狂怒。随着他被自己的巨大雕像再次封存，他的咆哮也终于静了下来。</p><p>他在那里经受了多年的折磨，一直处于半死不活的状态。当他的坟墓被再次开启时，帝国已经变了模样。达克威尔没了，取而代之的是杰里柯•斯维因将军——但赛恩并不在意，他咆哮着，疯狂地想要从束缚中挣脱，寻求战斗的慰藉。</p><p>他被锁在铁笼里，被送回到瓦尔迪斯。这座城市在达克威尔执政期间脱离了诺克萨斯的统治，而赛恩正是新任大统领给他们的叛乱降下的惩罚。</p><p>他屠杀了瓦尔迪斯的守军，将这座城市夷为平地，在狂笑中将高耸的塔楼徒手拔除。其他脱离诺克萨斯的地区很快就俯首称臣，全都惧怕自己成为这位亡灵战神的下一个目标。</p><p>当炽烈的日光涌入他的墓穴，如今的赛恩会欣然接受……因为这意味着他有机会脱下铁链，满足自己对鲜血的渴望，让那响彻脑海的疯狂尖叫声暂时静下来。</p><p>赛恩只记得自己生命的一些碎片，死后的记忆更是寥寥无几，但有一个的事实，如同他死去的那天一样依然赫然在目——此刻和彼时，这世界都在他面前颤抖。</p>",
+                "short": "赛恩是一个来自先前时代的诺克萨斯军阀，曾经徒手掐死过一代德玛西亚国王。但他拒绝了死亡的安宁，被复活以后继续为帝国效命。只要挡住他的去路，都会被他无差别地屠杀，敌我不分，足可证明他几乎尽失了从前的人性。即便如此，他腐朽的身体还是被钉上了粗糙的装甲，继续以丧心病狂的鲁莽冲上战场，在每一下巨斧的挥砍中艰难地回忆真正的自我。",
+                "quote": "“战争是永恒的……我亦如此。”",
+                "quote-author": "赛恩"
+            },
+            "headerImage": null
+        }
+    ],
+    "modules": [
+        {
+            "slug": "new-dawn",
+            "type": "featured-video",
+            "section-title": "影片",
+            "featured-image": {
+                "title": "featuredvideocover-new-dawn",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blteebf080253c3eca1-new-dawn.jpg",
+                "encoding": "image/jpeg",
+                "width": 1920,
+                "height": 1080,
+                "x": 1229,
+                "y": 350,
+                "featured-champions": []
+            },
+            "title": "新的曙光",
+            "subtitle": "",
+            "description": "黎明跨过炽热的鲜血和冰冷的钢铁组成的土地。第一缕曙光照耀之际已是开战之时。",
+            "uri": "https://v.qq.com/x/page/h0150c77woq.html",
+            "video": {
+                "type": "video",
+                "title": "",
+                "subtitle": "",
+                "description": [],
+                "uri": "https://v.qq.com/x/page/h0150c77woq.html",
+                "width": "",
+                "height": "",
+                "x": "",
+                "y": "",
+                "featured-champions": []
+            },
+            "blackout": null,
+            "release-date": "2014-07-22T15:00:00.000Z",
+            "video-type": "cinematic",
+            "featured-champions": [
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                },
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                },
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                },
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                },
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                },
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                },
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                },
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                },
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                },
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                }
+            ],
+            "related-champions": [
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                },
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                },
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                },
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                },
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                },
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                },
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                },
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                },
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                },
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                }
+            ]
+        },
+        {
+            "slug": "一夫当关",
+            "type": "story-preview",
+            "title": "一夫当关",
+            "subtitle": "",
+            "description": "贾克斯盘着腿坐在桥中央，长柄武器搁在膝盖上。自打他上次途经这条路，德玛西亚变化不大，但这也没什么好大惊小怪的。人民狂热地保护着自己的疆土，也因此变成了非常像样的勇士。<em>好吧，至少有一些像样的</em>，他心想，同时擦去了闪着柔光的灯柱顶端的几滴鲜血。血滴被掸过栏杆、落入了下方的河流。他把手伸入斗篷中，取出了今天的第三颗水煮蛋。他把蛋在鹅卵石上轻磕了几下，然后不紧不慢地剥起了蛋壳，正好听见桥头的勇士们正在决定要派谁来当他的下一个对手。",
+            "story-slug": "jax-color-story",
+            "featured-image": {
+                "title": "jax-splash",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/bltd4fed7a873727d60-Jax_0.jpg",
+                "encoding": "image/jpeg",
+                "width": 1215,
+                "height": 717,
+                "x": 949,
+                "y": 35,
+                "featured-champions": []
+            },
+            "background": {
+                "title": "storybg-jax",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt277d635acebb142e-jax_background_image.png",
+                "encoding": "image/jpeg",
+                "width": 1901,
+                "height": 808,
+                "x": 1773,
+                "y": 10,
+                "featured-champions": []
+            },
+            "release-date": "2016-11-16T16:00:00.000Z",
+            "featured-champions": [
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                }
+            ],
+            "minutes-to-read": 5,
+            "url": "/zh_cn/story/jax-color-story"
+        },
+        {
+            "slug": "艾卡西亚曾屹立的土地",
+            "type": "story-preview",
+            "title": "艾卡西亚曾屹立的土地",
+            "subtitle": "作者：Graham McNeill",
+            "description": "我的名字是阿克扎姆·瓦柯伊·考阿利·艾卡瑟。<br><br>",
+            "story-slug": "where-icathia-once-stood",
+            "featured-image": {
+                "title": "void-the-fall-of-icathia",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt4cc2fe41c725c097-void-the-fall-of-icathia.jpg",
+                "encoding": "image/jpeg",
+                "width": 1920,
+                "height": 866,
+                "x": 1331,
+                "y": 414,
+                "featured-champions": []
+            },
+            "background": {
+                "title": "void-the-fall-of-icathia",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt4cc2fe41c725c097-void-the-fall-of-icathia.jpg",
+                "encoding": "image/jpeg",
+                "width": 1920,
+                "height": 866,
+                "x": 1331,
+                "y": 414,
+                "featured-champions": []
+            },
+            "release-date": "2018-03-02T16:00:00.000Z",
+            "featured-champions": [
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                },
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                }
+            ],
+            "minutes-to-read": 5,
+            "url": "/zh_cn/story/where-icathia-once-stood"
+        },
+        {
+            "slug": "jax-image-gallery",
+            "type": "image-gallery",
+            "section-title": "",
+            "isFanArt": false,
+            "fan-art-url": "",
+            "featured-image": "",
+            "title": "",
+            "subtitle": "",
+            "assets": [
+                {
+                    "title": "贾克斯模型",
+                    "subtitle": "",
+                    "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt0df2ee95e03a182b-jax_tweak.jpg",
+                    "encoding": "image/jpeg",
+                    "width": 790,
+                    "height": 981,
+                    "x": 375,
+                    "y": 0,
+                    "featured-champions": []
+                },
+                {
+                    "title": "贾克斯概念艺术",
+                    "subtitle": "",
+                    "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/bltb477b2818d2b59b8-jax_early_color.jpg",
+                    "encoding": "image/jpeg",
+                    "width": 936,
+                    "height": 1035,
+                    "x": 339,
+                    "y": 17,
+                    "featured-champions": []
+                },
+                {
+                    "title": "贾克斯概念艺术",
+                    "subtitle": "",
+                    "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/bltc9b17800108ebbdc-jax_early_concept.jpg",
+                    "encoding": "image/jpeg",
+                    "width": 1346,
+                    "height": 1080,
+                    "x": 585,
+                    "y": 10,
+                    "featured-champions": []
+                }
+            ],
+            "featured-champions": [
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                }
+            ]
+        },
+        {
+            "slug": "bts-new-dawn",
+            "type": "featured-video",
+            "section-title": "电影幕后",
+            "featured-image": {
+                "title": "featuredvideocover-bts-new-dawn",
+                "subtitle": "",
+                "description": "",
+                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt0d32c3b5c40d011e-bts-new-dawn.png",
+                "encoding": "image/jpeg",
+                "width": 1911,
+                "height": 1079,
+                "x": 1495,
+                "y": 67,
+                "featured-champions": []
+            },
+            "title": "《新的曙光》：幕后花絮",
+            "subtitle": "",
+            "description": "了解我们如何进行角色、音乐、动画和音效的设计，让大家最喜欢的英雄登上银幕，为了荣誉，浴血奋战。",
+            "uri": "https://v.qq.com/x/page/g0140mih7dv.html",
+            "video": {
+                "type": "video",
+                "title": "",
+                "subtitle": "",
+                "description": [],
+                "uri": "https://v.qq.com/x/page/g0140mih7dv.html",
+                "width": "",
+                "height": "",
+                "x": "",
+                "y": "",
+                "featured-champions": []
+            },
+            "blackout": null,
+            "release-date": "2014-07-22T15:00:00.000Z",
+            "video-type": "behind-the-scenes",
+            "featured-champions": [
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                },
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                },
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                },
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                },
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                },
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                },
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                },
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                },
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                },
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                }
+            ],
+            "related-champions": [
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                },
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                },
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                },
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                },
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                },
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                },
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                },
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                },
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                },
+                {
+                    "type": "champion",
+                    "release-date": null,
+                    "associated-faction": "",
+                    "associated-faction-slug": "unaffiliated",
+                    "video": null,
+                    "biography": {},
+                    "headerImage": null
+                }
+            ]
+        }
+    ]
+}

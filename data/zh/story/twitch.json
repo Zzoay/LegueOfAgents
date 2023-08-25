@@ -1,0 +1,92 @@
+[
+    {
+        "locale": "zh-cn",
+        "id": "twitch-color-story",
+        "type": "story",
+        "dropcaps": false,
+        "release-date": "2016-12-02T16:00:00.000Z",
+        "word-count": 40,
+        "minutes-to-read": 1,
+        "story": {
+            "title": "切莫招惹",
+            "subtitle": "",
+            "custom-story-preview": "H.I.V.E.事故报告<br><br>",
+            "story-sections": [
+                {
+                    "title": null,
+                    "subtitle": null,
+                    "background-image": {
+                        "title": "zaun-breatherstation",
+                        "subtitle": "",
+                        "description": "",
+                        "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt66e7ef18b830fffd-zaun-breatherstation.jpg",
+                        "encoding": "image/jpeg",
+                        "width": null,
+                        "height": null,
+                        "x": null,
+                        "y": null,
+                        "featured-champions": []
+                    },
+                    "story-subsections": [
+                        {
+                            "title": null,
+                            "subtitle": null,
+                            "icon-image": null,
+                            "content": "<p>H.I.V.E.事故报告<br>案号代码：连环杀人<br>案件状态：未解决<br>调查专务：罗尔，P.<br><br>小组回应了关于可疑人物，犯罪活动的报告；前往油槽工厂，90TZ部门。90TZ部门明显缺席。在其处发现：地洞，烟雾，有毒悬浮颗粒。对私人保安的访谈表明极其需要更好的私人保安。<br><br>小组进入了地洞。毒性径流已经融掉了建筑残骸。定位到了两名幸存者，一名身体已部分液化并不断滴在小道上。在残骸中找到六具尸体，其中三具残缺不全；两具的死亡时间看上去早于事故的发生。死因包括急性降速，腐蚀性液化，和/或致命的弩箭伤口。尚不清楚实验室的摧毁是行凶者的动机还是掩盖行踪的企图。<br><br>幸存者#1（拉·琴塔瓦，设施研究员）被带去问口供，但无法提供口供，原因：1）创伤后应激障碍；2）舌头和下颌液化。正在等待毒素检查和义肢适配。<br><br>搜救发现了由垃圾搭建的显眼棚屋。寻回了以下物品：<br><br> 57个浸水的爱情小说，字迹模糊，标有蜡笔写的注解<br> 108个瓶子，未加标签（可能是毒性径流，或是废弃的洗发液残留物）<br> 200磅香口胶（可能是装置艺术项目）<br> 1罐趾甲，标有脚趾/手指，日期，和心情<br><br>幸存者#2（华洛丽·奥兰特，污水分析师）在恢复中；使用以下方式恢复清醒：长时间治疗电流。口供摘录如下：<br><br> 华洛丽：快做点什么 - <br> 护士：她流血过多--<br> 负责人：她同事留的血更多 --<br>华洛丽：它还在外面！<br> 负责人：女士，我需要你集中注意力。告诉我他看着像什么。<br>华洛丽：像只老鼠！（暂停）<br> 护士：像什么？<br> P.R.:你是说，小个子？眯眯眼？尖嘴猴腮 --？<br> 华洛丽：我是说，它看着就像一只大得要命的老鼠！（暂停）拿着十字弩！（暂停）<br> 负责人：（对护士说）我们能减轻她的止痛药剂量吗？<br> 华洛丽：你们根本没听我说！它是一只杀气腾腾、精神错乱的大怪鼠！<br> 穿着马甲！<br> 负责人：护士？<br> 护士：（在奥兰特的手臂上注射镇静剂）操作中。<br>[编辑]<br> 华洛丽：我们只不过是科学工作者，研究如何把人类的废料提纯为廉价的婴幼儿食品配方……[编辑] 我看到了 – 我不知道该怎么解释 – 这只癫狂、庞大的老鼠 – 向我们尖叫！不断踢翻桶子！在我们的食物上吐口水！[编辑] 实验室是封闭的。工业废料流得到处都是。无处可逃。[编辑] 我在黑暗中醒来。好吧，酸液融掉了我的眼球。我可以闻到，那个抽个不停的混蛋近在咫尺。它说，“没人敢偷图奇的果汁！”暴躁地喋喋不休，然后蹦走了……我仍然可以在脑海中闻到它。我的天，我仍然还会闻到它 -<br><br>文字记录结束。在这时，受害者开始尖叫；尚未停止。<br><br>[更新：琴塔瓦，书面证词] <br>嫌犯概要，如报告所述：<br> 名字/已知的别名：“图奇。”<br> 性别：男（未经证实）<br> 年龄：未知。<br> 身高：4英尺9英寸（驼背）<br> 体重：小于99磅。（湿漉漉的）。<br> 显著特征：是一只巨鼠。<br> 状态：未被捕；持械，极度危险；切莫招惹。<br><br>H.I.V.E – 正在强行推进！</p>"
+                        }
+                    ],
+                    "featured-champions": [
+                        {
+                            "type": "champion",
+                            "release-date": "2009-05-01T00:00:00.000Z",
+                            "name": "图奇",
+                            "title": "瘟疫之源",
+                            "section-title": "图奇",
+                            "slug": "twitch",
+                            "associated-faction": "",
+                            "associated-faction-slug": "zaun",
+                            "image": {
+                                "title": "twitch-splash",
+                                "subtitle": "",
+                                "description": "",
+                                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt6d95f66073acbe03-Twitch_0.jpg",
+                                "encoding": "image/jpeg",
+                                "width": 1215,
+                                "height": 717,
+                                "x": 760,
+                                "y": 197,
+                                "featured-champions": []
+                            },
+                            "background": {
+                                "title": "twitch-splash",
+                                "subtitle": "",
+                                "description": "",
+                                "uri": "https://game.gtimg.cn/images/lol/universe/v1/assets/blt6d95f66073acbe03-Twitch_0.jpg",
+                                "encoding": "image/jpeg",
+                                "width": 1215,
+                                "height": 717,
+                                "x": 760,
+                                "y": 197,
+                                "featured-champions": []
+                            },
+                            "url": "/zh_cn/champion/twitch",
+                            "video": null,
+                            "races": [],
+                            "roles": [],
+                            "role": [],
+                            "game-info-url": "https://lol.qq.com/web201310/info-defail.shtml?id=Twitch",
+                            "biography": {
+                                "full": "<p>生为瘟疫鼠、身为污秽鉴赏家的图奇是一只偏执且已经变异的老鼠。他直立行走并且探查着祖安的残渣，以获取那些只有他才知道真正价值的宝藏。用一把以化学为动力的十字弓作为武器的图奇丝毫不怕弄脏他的爪子，并在他的污秽王国建起一座废料王座，同时也在无止境地密谋着人类的衰败。</p>",
+                                "short": "虽然出身只是一只瘟疫老鼠，但图奇却靠热情成为了一位污秽的鉴赏家，他可不介意弄脏自己的爪子。他使用一把炼金动力十字弩瞄准皮城人的镀金心脏，发誓要让这些生活在上层都市的人们知道他们真实的自我究竟有多么肮脏。他总是鬼鬼祟祟蹑手蹑脚，不是在地沟区翻来翻去，就是在别的地方深挖人类的垃圾堆，寻找被丢弃的宝藏……或者是一块发霉的三明治。",
+                                "quote": "“他们把这个扔掉了？但它这么闪闪发亮！”",
+                                "quote-author": "图奇"
+                            },
+                            "headerImage": null
+                        }
+                    ]
+                }
+            ]
+        },
+        "theme": null
+    }
+]
